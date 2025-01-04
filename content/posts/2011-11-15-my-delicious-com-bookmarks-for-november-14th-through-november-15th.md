@@ -13,7 +13,10 @@ tags:
     - data
     - drm
     - freeview
-    - 'history computer processor cpu'
+    - history
+    - computer
+    - processor
+    - cpu
     - legal
     - Links
     - patents

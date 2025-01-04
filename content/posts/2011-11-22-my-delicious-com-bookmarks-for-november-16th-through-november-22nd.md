@@ -16,7 +16,10 @@ tags:
     - innovation
     - Links
     - processor
-    - 'software development design creativity art'
+    - software
+    - development
+    - design
+    - art
     - stevejobs
 ---
 

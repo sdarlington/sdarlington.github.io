@@ -9,7 +9,13 @@ permalink: /links/my-delicious-com-bookmarks-for-october-23rd-through-october-27
 categories:
     - Links
 tags:
-    - 'android iphone ios technology mobile cell software'
+    - android
+    - iphone
+    - ios
+    - technology
+    - mobile
+    - cell
+    - software
     - apple
     - computer
     - computerscience

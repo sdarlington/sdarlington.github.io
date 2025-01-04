@@ -13,8 +13,12 @@ tags:
     - Links
     - movies
     - online
-    - 'space science mercury photography'
-    - 'space science photography news'
+    - space
+    - science
+    - mercury
+    - photography
+    - photography
+    - news
     - test
     - todo
 ---

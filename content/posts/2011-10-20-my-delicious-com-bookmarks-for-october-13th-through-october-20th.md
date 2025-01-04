@@ -10,8 +10,18 @@ categories:
     - Links
 tags:
     - camera
-    - 'history obituary c programming software'
-    - 'iOS iphone development software ipad mac apple plugin'
+    - history
+    - obituary
+    - c
+    - programming
+    - software
+    - iOS
+    - iphone
+    - development
+    - ipad
+    - mac
+    - apple
+    - plugin
     - Links
     - Photography
     - science
