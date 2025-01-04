@@ -23,18 +23,9 @@ math = false # true: enable mathjax globally (default is false)
 toc = true
 
 social = [
-#    { id = "docs", url = "https://gohugo.io/documentation/" },
     { id = "github", url = "https://github.com/sdarlington" },
-    { id = "linkedin", url = "https://www.linkedin.com/in/stephen.darlington" },
-    { id = "mastodon", url = "https://mas.to/sdarlington" },
-#    { id = "email", url = "example@example.com" },
-#    { id = "facebook", url = "#" },
-#    { id = "instagram", url = "#" },
-#    { id = "netease-music", url = "#" },
-#    { id = "telegram", url = "#" },
-#    { id = "x", url = "#" },
-#    { id = "youtube", url = "#" },
-#    { id = "bluesky", url = "#" }
+    { id = "linkedin", url = "https://www.linkedin.com/in/stephendarlington/" },
+    { id = "mastodon", url = "https://mas.to/@sdarlington" },
 ]
 
 [[menu.main]]
@@ -49,7 +40,7 @@ name = "About"
 url = "/about/"
 weight = 2
 
-[[menu.software]]
+[[menu.main]]
 identifier = "software"
 name = "Software"
 url = "/software/"
