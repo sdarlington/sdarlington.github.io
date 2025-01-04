@@ -11,8 +11,8 @@ categories:
     - Travel
 tags:
     - california
-    - humanrights
-    - 'north america'
+    - human rights
+    - north america
     - Photography
     - Travel
     - usa

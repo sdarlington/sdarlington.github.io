@@ -13,10 +13,9 @@ tags:
     - eulogy
     - history
     - Links
-    - stevejobs
+    - steve jobs
     - technology
     - tv
-    - 'tv history uk'
     - uk
 ---
 

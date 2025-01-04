@@ -9,7 +9,7 @@ permalink: /blog/the-romantic.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - fiction
     - reading
     - reading2024

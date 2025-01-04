@@ -9,7 +9,7 @@ permalink: /links/my-delicious-com-bookmarks-for-december-9th-through-december-2
 categories:
     - Links
 tags:
-    - climatechange
+    - Climate Change
     - design
     - finance
     - fonts

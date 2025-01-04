@@ -10,7 +10,7 @@ permalink: /computing/opinion/professionalism.html
 categories:
     - Opinion
 tags:
-    - computerscience
+    - computer science
     - management
     - Programming
     - work

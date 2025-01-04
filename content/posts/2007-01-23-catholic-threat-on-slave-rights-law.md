@@ -10,7 +10,7 @@ categories:
     - Blog
 tags:
     - funny
-    - humanrights
+    - human rights
     - Opinion
     - politics
     - uk

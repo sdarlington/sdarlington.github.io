@@ -14,7 +14,7 @@ tags:
     - dna
     - freedom
     - government
-    - humanrights
+    - human rights
     - idcards
     - iphone
     - Links

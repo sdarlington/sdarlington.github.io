@@ -10,7 +10,7 @@ permalink: /blog/programming-pearls-2.html
 categories:
     - Blog
 tags:
-    - computerscience
+    - computer science
     - nonfiction
     - reading
     - TwentyBooksInTwentyDays

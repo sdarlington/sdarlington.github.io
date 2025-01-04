@@ -14,7 +14,7 @@ categories:
 tags:
     - books
     - computer
-    - computerscience
+    - computer science
     - reading2021
     - review
 ---

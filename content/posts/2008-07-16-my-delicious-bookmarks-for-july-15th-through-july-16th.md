@@ -11,9 +11,9 @@ categories:
 tags:
     - business
     - coding
-    - computerscience
+    - computer science
     - development
-    - georgewbush
+    - george w bush
     - jobs
     - law
     - Links

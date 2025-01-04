@@ -11,7 +11,7 @@ categories:
     - Links
 tags:
     - freedom
-    - freespeech
+    - free speech
     - iphone
     - Links
     - media

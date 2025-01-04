@@ -25,7 +25,7 @@ tags:
     - movies
     - News
     - politics
-    - stevejobs
+    - steve jobs
     - toys
     - usa
 ---

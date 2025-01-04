@@ -15,7 +15,7 @@ tags:
     - design
     - freedom
     - history
-    - humanrights
+    - human rights
     - internet
     - Links
     - money

@@ -10,7 +10,7 @@ categories:
     - Links
 tags:
     - elections
-    - humanrights
+    - human rights
     - Links
     - mobile
     - phone
@@ -21,7 +21,7 @@ tags:
     - usa
     - voting
     - windows
-    - windowsmobile
+    - windows mobile
 ---
 
 - [When is a pencil and paper better than a computer?](http://www.zx81.org.uk/computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html) – And here’s another piece about technology and voting in the States. This time (blatant self-promotion alert) it’s one that I wrote last year…

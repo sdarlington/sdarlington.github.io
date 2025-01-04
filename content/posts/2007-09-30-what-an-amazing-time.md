@@ -12,7 +12,7 @@ categories:
 tags:
     - fun
     - gig
-    - gwenstefani
+    - gwen stefani
     - life
     - music
     - people

@@ -9,7 +9,7 @@ permalink: /blog/unix-a-history-and-a-memoir.html
 categories:
     - Blog
 tags:
-    - computerscience
+    - computer science
     - Programming
     - reading
     - Reading2020

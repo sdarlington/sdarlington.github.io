@@ -20,7 +20,7 @@ tags:
     - development
     - design
     - art
-    - stevejobs
+    - steve jobs
 ---
 
 - [Coders are creatives too: Where’s our love?](http://www.theregister.co.uk/2011/11/22/frank_fisher_creative_class/) – "How did a person whose greatest educational achievement is crayoning without going over the lines get termed 'a creative', when the people who built our world are dismissed as geeks and bottom feeders?"

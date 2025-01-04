@@ -11,9 +11,11 @@ categories:
     - Blog
 tags:
     - Photography
-    - sanfrancisco
+    - san francisco
+    - north america
     - Travel
     - usa
+draft: true
 ---
 
 \[photopress:IMG\_3467.jpg,full,centered\]

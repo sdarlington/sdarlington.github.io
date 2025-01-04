@@ -12,7 +12,7 @@ tags:
     - design
     - electronics
     - gadgets
-    - humanrights
+    - human rights
     - internet
     - News
     - opensource

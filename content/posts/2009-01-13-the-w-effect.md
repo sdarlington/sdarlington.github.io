@@ -10,7 +10,7 @@ permalink: /computing/opinion/the-w-effect.html
 categories:
     - Opinion
 tags:
-    - computerscience
+    - computer science
     - Computing
     - development
     - Opinion

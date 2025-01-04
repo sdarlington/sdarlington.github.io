@@ -12,7 +12,7 @@ adman_disable:
 categories:
     - Opinion
 tags:
-    - computerscience
+    - computer ßscience
     - Computing
     - engineering
     - Opinion

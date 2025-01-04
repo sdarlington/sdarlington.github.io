@@ -10,7 +10,7 @@ permalink: /blog/wilt-on-high.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - humour
     - reading
     - Reading2023

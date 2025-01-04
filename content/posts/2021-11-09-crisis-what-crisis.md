@@ -12,7 +12,7 @@ spay_email:
 categories:
     - Blog
 tags:
-    - book
+    - books
     - history
     - reading2021
     - 'united kingdom'

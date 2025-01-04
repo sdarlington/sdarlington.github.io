@@ -13,9 +13,10 @@ tags:
     - banks
     - china
     - fun
-    - sanfrancisco
+    - san francisco
     - Travel
     - usa
+draft: true
 ---
 
 \[photopress:IMG\_3367.jpg,full,center\]

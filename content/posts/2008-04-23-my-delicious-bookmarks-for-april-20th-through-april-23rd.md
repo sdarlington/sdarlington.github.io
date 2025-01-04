@@ -11,7 +11,7 @@ categories:
 tags:
     - drm
     - freedom
-    - humanrights
+    - human rights
     - internet
     - Links
     - microsoft

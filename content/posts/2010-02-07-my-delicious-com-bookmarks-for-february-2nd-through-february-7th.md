@@ -17,7 +17,7 @@ tags:
     - ipad
     - iphone
     - Links
-    - middleeast
+    - middle east
     - society
 ---
 

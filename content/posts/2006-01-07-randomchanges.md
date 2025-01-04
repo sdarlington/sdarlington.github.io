@@ -10,7 +10,7 @@ permalink: /computing/opinion/randomchanges.html
 categories:
     - Opinion
 tags:
-    - computerscience
+    - computer science
     - Computing
     - Opinion
     - Programming

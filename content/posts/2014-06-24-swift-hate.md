@@ -13,7 +13,7 @@ tags:
     - apple
     - development
     - ios
-    - Languages
+    - Language
     - mac
     - Programming
     - swift

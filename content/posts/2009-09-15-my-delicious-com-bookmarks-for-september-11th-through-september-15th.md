@@ -10,10 +10,10 @@ categories:
     - Links
 tags:
     - charity
-    - computerscience
+    - computer science
     - exercise
     - history
-    - humanrights
+    - human rights
     - law
     - Links
     - marriage

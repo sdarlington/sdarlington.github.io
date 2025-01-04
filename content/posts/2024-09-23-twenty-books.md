@@ -10,7 +10,7 @@ permalink: /blog/twenty-books.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - reading
     - TwentyBooksInTwentyDays
 ---

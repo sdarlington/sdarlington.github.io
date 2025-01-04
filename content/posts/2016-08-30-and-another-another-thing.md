@@ -9,6 +9,11 @@ guid: 'http://www.zx81.org.uk/?p=4424'
 permalink: /blog/and-another-another-thing.html
 categories:
     - Blog
+tags:
+    - books
+    - douglas adams
+    - h2g2
+    - reading
 ---
 
 I can’t make up my mind about “[And Another Thing…](http://www.amazon.co.uk/gp/product/B005PR44L4/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005PR44L4&linkCode=as2&tag=zx81orguk),” Eoin Colfer’s book, which is the sixth Hitchhikers novel, the first not written by Douglas Adams.

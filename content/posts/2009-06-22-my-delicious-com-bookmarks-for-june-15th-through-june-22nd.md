@@ -17,7 +17,7 @@ tags:
     - history
     - iphone
     - Links
-    - middleeast
+    - middle east
     - News
     - politics
 ---

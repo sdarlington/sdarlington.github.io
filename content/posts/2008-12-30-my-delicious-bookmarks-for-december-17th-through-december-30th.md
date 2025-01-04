@@ -12,7 +12,7 @@ tags:
     - business
     - censorship
     - culture
-    - humanrights
+    - human rights
     - humour
     - internet
     - iphone

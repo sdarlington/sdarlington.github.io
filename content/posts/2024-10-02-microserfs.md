@@ -10,7 +10,7 @@ permalink: /blog/microserfs.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - fiction
     - reading
     - TwentyBooksInTwentyDays

@@ -11,7 +11,7 @@ categories:
 tags:
     - art
     - books
-    - douglasadams
+    - douglas adams
     - humour
     - iceland
     - Links

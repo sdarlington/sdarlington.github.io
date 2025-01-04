@@ -11,7 +11,7 @@ categories:
 tags:
     - business
     - censorship
-    - humanrights
+    - human rights
     - idcards
     - journalism
     - law

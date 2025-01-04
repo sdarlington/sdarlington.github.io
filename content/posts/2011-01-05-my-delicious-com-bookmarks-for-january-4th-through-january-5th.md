@@ -16,7 +16,7 @@ categories:
     - Links
 tags:
     - economics
-    - humanrights
+    - human rights
     - Links
     - politics
     - republicans

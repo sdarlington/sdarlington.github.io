@@ -10,7 +10,7 @@ permalink: /blog/the-design-of-everyday-things.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - design
     - nonfiction
     - TwentyBooksInTwentyDays

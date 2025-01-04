@@ -10,7 +10,7 @@ categories:
     - Links
 tags:
     - apple
-    - commonsense
+    - common sense
     - computer
     - development
     - history

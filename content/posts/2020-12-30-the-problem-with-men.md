@@ -12,7 +12,7 @@ spay_email:
 categories:
     - Blog
 tags:
-    - humanrights
+    - human rights
     - humour
     - politics
     - Reading2020

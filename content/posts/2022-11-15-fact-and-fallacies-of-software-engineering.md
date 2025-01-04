@@ -11,7 +11,7 @@ categories:
     - Blog
 tags:
     - books
-    - computerscience
+    - computer science
     - engineering
     - reading
     - reading2022

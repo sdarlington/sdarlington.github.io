@@ -10,11 +10,11 @@ categories:
     - Links
 tags:
     - amazon
-    - deathpenalty
+    - death penalty
     - evolution
     - google
     - health
-    - humanrights
+    - human rights
     - internet
     - language
     - Links

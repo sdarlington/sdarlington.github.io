@@ -10,7 +10,7 @@ permalink: /blog/come-again.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - Reading2020
     - review
 ---

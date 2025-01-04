@@ -10,7 +10,7 @@ permalink: /blog/code-complete.html
 categories:
     - Blog
 tags:
-    - computerscience
+    - computer science
     - nonfiction
     - TwentyBooksInTwentyDays
 ---

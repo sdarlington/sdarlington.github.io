@@ -9,7 +9,7 @@ permalink: /links/my-delicious-bookmarks-for-june-4th-through-june-12th.html
 categories:
     - Links
 tags:
-    - humanrights
+    - human rights
     - humour
     - idcards
     - Links

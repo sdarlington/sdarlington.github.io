@@ -10,11 +10,11 @@ permalink: /blog/make-something-wonderful.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - nonfiction
     - reading
     - reading2024
-    - stevejobs
+    - steve jobs
     - technology
 ---
 

@@ -10,8 +10,8 @@ permalink: /computing/opinion/programming-pearls.html
 categories:
     - Opinion
 tags:
-    - book
-    - computerscience
+    - books
+    - computer science
     - Programming
     - review
 ---

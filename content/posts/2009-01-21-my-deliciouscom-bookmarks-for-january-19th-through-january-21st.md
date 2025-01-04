@@ -10,7 +10,7 @@ permalink: /links/my-deliciouscom-bookmarks-for-january-19th-through-january-21s
 categories:
     - Links
 tags:
-    - georgewbush
+    - george w bush
     - history
     - humour
     - Links

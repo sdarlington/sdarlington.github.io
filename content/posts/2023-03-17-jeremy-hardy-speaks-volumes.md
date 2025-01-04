@@ -10,7 +10,7 @@ permalink: /blog/jeremy-hardy-speaks-volumes.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - humour
     - Reading2023
     - review

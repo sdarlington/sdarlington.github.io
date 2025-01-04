@@ -11,9 +11,9 @@ categories:
     - Travel
 tags:
     - california
-    - 'north america'
+    - north america
     - Photography
-    - sanfrancisco
+    - san francisco
     - Travel
     - usa
 draft: true

@@ -12,7 +12,7 @@ categories:
 tags:
     - books
     - business
-    - computerscience
+    - computer science
     - Computing
     - Opinion
     - Programming

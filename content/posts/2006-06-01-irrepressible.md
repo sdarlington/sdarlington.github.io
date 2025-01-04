@@ -9,7 +9,7 @@ permalink: /links/irrepressible.html
 categories:
     - Links
 tags:
-    - humanrights
+    - human rights
     - life
     - Opinion
 ---

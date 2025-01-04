@@ -18,7 +18,7 @@ tags:
     - software
     - apple
     - computer
-    - computerscience
+    - computer science
     - history
     - ipod
     - Links

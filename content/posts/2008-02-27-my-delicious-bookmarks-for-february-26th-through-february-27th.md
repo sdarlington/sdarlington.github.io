@@ -9,7 +9,7 @@ permalink: /links/my-delicious-bookmarks-for-february-26th-through-february-27th
 categories:
     - Links
 tags:
-    - computerscience
+    - computer science
     - electronics
     - Links
     - london

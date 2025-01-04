@@ -11,7 +11,7 @@ categories:
 tags:
     - atheism
     - christianity
-    - freespeech
+    - free speech
     - gadgets
     - god
     - humour

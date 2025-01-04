@@ -11,7 +11,7 @@ categories:
     - Links
 tags:
     - funny
-    - humanrights
+    - human rights
     - people
     - uk
 ---

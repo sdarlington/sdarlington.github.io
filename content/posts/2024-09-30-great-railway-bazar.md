@@ -10,7 +10,7 @@ permalink: /blog/great-railway-bazar.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - nonfiction
     - TwentyBooksInTwentyDays
 ---

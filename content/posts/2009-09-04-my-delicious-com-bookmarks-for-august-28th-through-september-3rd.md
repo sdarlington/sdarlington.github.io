@@ -12,10 +12,10 @@ tags:
     - apple
     - cars
     - crime
-    - deathpenalty
+    - death penalty
     - development
     - driving
-    - humanrights
+    - human rights
     - international
     - law
     - Links

@@ -15,7 +15,7 @@ tags:
     - censorship
     - democracy
     - freedom
-    - freespeech
+    - free speech
     - idcards
     - iphone
     - law

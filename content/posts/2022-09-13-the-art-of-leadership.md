@@ -10,8 +10,8 @@ permalink: /blog/the-art-of-leadership.html
 categories:
     - Blog
 tags:
-    - book
-    - computerscience
+    - books
+    - computer science
     - Computing
     - engineering
     - leadership

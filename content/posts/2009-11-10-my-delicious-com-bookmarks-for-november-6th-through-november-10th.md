@@ -11,7 +11,7 @@ categories:
 tags:
     - coding
     - communism
-    - computerscience
+    - computer science
     - development
     - europe
     - germany

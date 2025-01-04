@@ -10,9 +10,11 @@ permalink: /blog/hitchhikers-guide-to-the-galaxy.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - fiction
     - TwentyBooksInTwentyDays
+    - douglas adams
+    - h2g2
 ---
 
 *Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*

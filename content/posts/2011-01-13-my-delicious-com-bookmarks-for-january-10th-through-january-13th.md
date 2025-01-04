@@ -17,7 +17,7 @@ adman_disable:
 categories:
     - Links
 tags:
-    - gunrights
+    - gun rights
     - Links
     - politics
     - usa

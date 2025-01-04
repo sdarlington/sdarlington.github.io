@@ -10,13 +10,13 @@ permalink: /travel/san-francisco.html
 categories:
     - Travel
 tags:
-    - america
+    - north america
     - News
     - Photography
-    - sanfrancisco
+    - san francisco
     - Travel
-    - uk
     - usa
+draft: true
 ---
 
 \[photopress:IMG\_3378.jpg,full,center\]

@@ -12,7 +12,7 @@ categories:
 tags:
     - Computing
     - development
-    - Languages
+    - Language
     - Opinion
     - Programming
 ---

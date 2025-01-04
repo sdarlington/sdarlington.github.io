@@ -12,7 +12,7 @@ tags:
     - comedy
     - funny
     - humour
-    - interview
+    - interviews
     - Links
     - News
     - tv

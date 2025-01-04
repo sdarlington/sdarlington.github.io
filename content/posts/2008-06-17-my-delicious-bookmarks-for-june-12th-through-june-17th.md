@@ -13,7 +13,7 @@ tags:
     - evolution
     - faith
     - history
-    - humanrights
+    - human rights
     - Lego
     - Links
     - News

@@ -12,7 +12,7 @@ categories:
 tags:
     - advertising
     - funny
-    - humanrights
+    - human rights
     - humour
     - Links
     - marketing

@@ -15,10 +15,10 @@ adman_disable:
 categories:
     - Links
 tags:
-    - earthquake
+    - earth quake
     - Links
     - News
-    - newzealand
+    - new zealand
     - Photography
     - risk
     - science

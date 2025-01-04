@@ -11,7 +11,7 @@ categories:
     - Languages
 tags:
     - Computing
-    - Languages
+    - Language
     - Opinion
     - Programming
     - unix

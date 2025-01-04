@@ -10,7 +10,7 @@ permalink: /blog/depraved-new-world.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - humour
     - politics
     - reading

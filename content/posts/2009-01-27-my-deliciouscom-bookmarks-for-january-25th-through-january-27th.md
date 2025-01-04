@@ -16,8 +16,8 @@ tags:
     - comedy
     - creativity
     - freedom
-    - freespeech
-    - humanrights
+    - frees peech
+    - human rights
     - humour
     - Links
     - News

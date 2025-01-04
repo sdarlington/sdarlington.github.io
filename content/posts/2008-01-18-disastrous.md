@@ -12,11 +12,12 @@ categories:
 tags:
     - banks
     - california
-    - 'north america'
+    - north america
     - PhotoFriday
     - Photography
-    - sanfrancisco
+    - san francisco
     - Travel
+draft: true
 ---
 
 \[photopress:IMG\_3367.jpg,full,centered\]

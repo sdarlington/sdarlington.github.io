@@ -12,9 +12,11 @@ categories:
 tags:
     - books
     - Photography
-    - sanfrancisco
+    - san francisco
     - Travel
     - usa
+    - north america
+draft: true
 ---
 
 \[photopress:IMG\_3499.jpg,full,center\]

@@ -14,7 +14,7 @@ tags:
     - dilbert
     - Reading2018
     - review
-    - scottadams
+    - scott adams
 ---
 
 Anyone else read Scott Adams’ blog? The guy who does Dilbert? He seems to have gone off the rails a bit recently with all his Trump stuff *but* the idea behind some of it — the art of persuasion — is potentially interesting. I wanted to learn more.

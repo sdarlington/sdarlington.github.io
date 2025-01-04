@@ -13,8 +13,8 @@ tags:
     - ios
     - ipad
     - iphone
-    - 'share everywhere'
-    - wandlesoftware
+    - share everywhere
+    - wandle software
 ---
 
 <figure aria-describedby="caption-attachment-4131" class="wp-caption alignleft" id="attachment_4131" style="width: 200px">![ShareEverwhere main screen](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2014/10/iphone-3-home-200x300.png?resize=200%2C300)<figcaption class="wp-caption-text" id="caption-attachment-4131">ShareEverwhere main screen</figcaption></figure>

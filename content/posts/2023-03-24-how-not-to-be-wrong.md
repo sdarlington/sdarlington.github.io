@@ -10,7 +10,7 @@ permalink: /blog/how-not-to-be-wrong.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - Reading2023
     - review
 ---

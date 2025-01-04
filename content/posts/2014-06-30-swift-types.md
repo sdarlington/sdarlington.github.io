@@ -12,7 +12,7 @@ categories:
 tags:
     - apple
     - ios
-    - Languages
+    - Language
     - mac
     - Programming
     - swift

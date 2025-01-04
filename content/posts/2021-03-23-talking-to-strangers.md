@@ -12,7 +12,7 @@ spay_email:
 categories:
     - Blog
 tags:
-    - book
+    - books
     - nonfiction
     - reading2021
     - review

@@ -11,7 +11,7 @@ categories:
     - Blog
 tags:
     - computer
-    - computerscience
+    - computer science
     - nonfiction
     - reading
     - TwentyBooksInTwentyDays

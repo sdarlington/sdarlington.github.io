@@ -12,7 +12,7 @@ tags:
     - film
     - language
     - Links
-    - middleeast
+    - middle east
     - movies
     - News
     - review

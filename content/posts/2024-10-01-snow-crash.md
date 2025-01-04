@@ -10,7 +10,7 @@ permalink: /blog/snow-crash.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - fiction
     - TwentyBooksInTwentyDays
 ---

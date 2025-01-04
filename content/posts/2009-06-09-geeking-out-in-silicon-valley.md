@@ -14,7 +14,8 @@ tags:
     - california
     - Computing
     - google
-    - siliconvalley
+    - silicon valley
+    - north america
     - Travel
 ---
 

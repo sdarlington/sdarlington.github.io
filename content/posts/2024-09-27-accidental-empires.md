@@ -10,7 +10,7 @@ permalink: /blog/accidental-empires.html
 categories:
     - Blog
 tags:
-    - book
+    - books
     - computer
     - nonfiction
     - reading

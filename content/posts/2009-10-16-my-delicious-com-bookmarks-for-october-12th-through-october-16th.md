@@ -13,7 +13,7 @@ tags:
     - author
     - books
     - cell
-    - douglasadams
+    - douglas adams
     - h2g2
     - iphone
     - Links

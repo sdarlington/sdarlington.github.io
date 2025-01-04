@@ -11,7 +11,7 @@ categories:
     - Links
 tags:
     - atheism
-    - computerscience
+    - computer science
     - evolution
     - funny
     - humour

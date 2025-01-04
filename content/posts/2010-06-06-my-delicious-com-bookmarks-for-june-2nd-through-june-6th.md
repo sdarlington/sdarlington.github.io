@@ -24,7 +24,7 @@ tags:
     - Links
     - mac
     - marketing
-    - scottadams
+    - scott adams
     - Software
     - tv
     - video

@@ -13,9 +13,11 @@ tags:
     - california
     - PhotoFriday
     - Photography
-    - sanfrancisco
+    - san francisco
     - Travel
     - usa
+    - north america
+draft: true
 ---
 
 \[photopress:IMG\_3448.jpg,full,centered\]

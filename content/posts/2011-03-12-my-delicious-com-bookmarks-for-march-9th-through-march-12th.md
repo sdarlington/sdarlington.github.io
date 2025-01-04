@@ -9,9 +9,9 @@ permalink: /links/my-delicious-com-bookmarks-for-march-9th-through-march-12th.ht
 categories:
     - Links
 tags:
-    - deathpenalty
+    - death penalty
     - development
-    - humanrights
+    - human rights
     - hypocrisy
     - Links
     - meda
