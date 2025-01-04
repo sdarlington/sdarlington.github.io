@@ -16,6 +16,7 @@ tags:
     - sanfrancisco
     - Travel
     - usa
+draft: true
 ---
 
 My previous exploits in San Francisco have been well documented ([1](http://www.zx81.org.uk/travel/san-francisco.html) [2](http://www.zx81.org.uk/travel/alcatraz.html) [3](http://www.zx81.org.uk/travel/berkeley-point-lobos-and-carmel.html) [4](http://www.zx81.org.uk/travel/california-2006.html) [5](http://www.zx81.org.uk/travel/muir-woods.html)) so I shall just get straight into the images.

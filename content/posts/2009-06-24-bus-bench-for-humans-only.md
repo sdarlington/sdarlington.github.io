@@ -14,6 +14,7 @@ tags:
     - 'north america'
     - Photography
     - Travel
+draft: true
 ---
 
 I’m sure really sure what they point of these adverts were or what they were trying to sell, but they were all over [Los Angeles](http://www.zx81.org.uk/travel/los-angeles.html). Amused me, anyway!

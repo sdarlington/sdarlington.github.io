@@ -14,6 +14,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 The main purpose of this trip was to get away from the hustle and bustle of London, get “back to nature” and go trekking in the Parque Natural Sierras De Tejeda, which is near to, but less hilly than, the more famous Sierra Nevada.

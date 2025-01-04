@@ -14,6 +14,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 I thought that I was doing well. Before I made the trip to Spain I had already been on the Internet and booked tickets for the Alhambra, Granada’s most famous site.

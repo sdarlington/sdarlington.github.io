@@ -14,6 +14,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 I can’t say that it was a promising start. Malaga airport has maybe a dozen baggage carousels but only one of them seemed to be in use for the three flights that arrived around the same time as mine. This would have mattered more had my luggage been in any hurry to arrive from the hold.

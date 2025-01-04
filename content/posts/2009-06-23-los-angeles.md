@@ -14,6 +14,7 @@ tags:
     - 'north america'
     - Photography
     - Travel
+draft: true
 ---
 
 The bizarre thing about Los Angeles. No, scrub that. *One* of the bizarre things about Los Angeles is that it doesn’t really have a distinct centre or downtown area, just a bunch of nearby districts, some more noteworthy than others.
