@@ -15,7 +15,7 @@ tags:
     - uk
 ---
 
-\[photopress:DSCN0161.jpg,thumb,alignleft\]On Saturday we hosted the first Thanksgiving dinner at Chez Darlington. Due to the size of our kitchen this became a bit of a logistical nightmare but we persevered.
+On Saturday we hosted the first Thanksgiving dinner at Chez Darlington. Due to the size of our kitchen this became a bit of a logistical nightmare but we persevered.
 
 Well, I say “we” but pretty much all the cooking was down to B with me in more of a motivational role, insisting that the spinach and cheese casserole smelled really good and that the turkey looked great. I got the easy job as it was true!
 

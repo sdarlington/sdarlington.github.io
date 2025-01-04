@@ -16,19 +16,14 @@ tags:
     - Travel
 ---
 
-\[photopress:IMG\_0036.jpg,thumb,alignleft\]Head to continental Europe too early in the year and you’re [likely to get rain](/travel/italy2.html). Or [go too late](/travel/italy.html) and all the locals are on holiday and everywhere is overrun with other tourists. May seemed like a good compromise so we hired a big villa and all flew over to Tuscany.
+Head to continental Europe too early in the year and you’re [likely to get rain](/travel/italy2.html). Or [go too late](/travel/italy.html) and all the locals are on holiday and everywhere is overrun with other tourists. May seemed like a good compromise so we hired a big villa and all flew over to Tuscany.
 
 In the end we got a bit of everything. Some rain, some sun; some areas with more English and German spoken than Italian, some parts where no-one spoke any foreign language; some good food and some really great food; and some fine wines and some fantastic.
 
-\[photopress:IMG\_4677.jpg,full,centered\]
 
 As a taster for the sights and tastes we experienced, consider that the place that we stayed made their own wine and olive oil. One of the first things we did on arrival was the tour.
 
-\[photopress:IMG\_4662.jpg,full,centered\]
-
 It was fascinating to learn of the different types of wine and the variations in the quality of olive oil.
-
-\[photopress:IMG\_4656.jpg,full,centered\]
 
 As always we packed a lot in, so much that I have split our activities over the following pages:
 

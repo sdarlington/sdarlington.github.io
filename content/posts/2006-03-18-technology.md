@@ -15,6 +15,7 @@ tags:
     - Photography
     - technology
     - Travel
+draft: true
 ---
 
 \[photopress:IMG\_0067.jpg,full,centered\]

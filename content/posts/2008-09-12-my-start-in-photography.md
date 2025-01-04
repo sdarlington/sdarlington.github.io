@@ -14,6 +14,7 @@ tags:
     - georgia
     - Photography
     - Travel
+draft: true
 ---
 
 \[photopress:geof125-3.jpg,full,centered\]

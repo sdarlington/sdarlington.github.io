@@ -16,6 +16,7 @@ tags:
     - Photography
     - Travel
     - walking
+draft: true
 ---
 
 \[photopress:geof219-3.jpg,full,centered\]

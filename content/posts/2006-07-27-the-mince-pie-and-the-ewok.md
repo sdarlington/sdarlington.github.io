@@ -32,7 +32,7 @@ But back to the fruit cake saga. For our party, my sister-in-law wanted to make 
 
 My father-in-law wasn’t going to allow the short time-frame to thwart his attempt. The cunning use of long forgotten boxes in dark cupboards was to (nearly) save the day.
 
-\[photopress:thumb\_IMG\_1506.jpg,thumb,alignleft\]A couple of years ago B brought a Harrods Mince Pie back home for Christmas. It had been placed in a cupboard, then in storage while the kitchen was remodelled and then back in a dusty corner. Now was its time. He unboxed it and, using tinned frosting (icing), transformed it into… well — let’s be honest here — an iced mince pie. Most people refused even to try it, but the few brave souls who did said that it wasn’t as bad as it looked. A valient effort.
+A couple of years ago B brought a Harrods Mince Pie back home for Christmas. It had been placed in a cupboard, then in storage while the kitchen was remodelled and then back in a dusty corner. Now was its time. He unboxed it and, using tinned frosting (icing), transformed it into… well — let’s be honest here — an iced mince pie. Most people refused even to try it, but the few brave souls who did said that it wasn’t as bad as it looked. A valient effort.
 
 Fast-forward a couple more months. It’s now two weeks before our UK wedding reception, [a cruise down the Thames](http://www.zx81.org.uk/blog//thames-cruise.html), and we’ve just started thinking about cakes. I wonder if my mum would make one for us. I don’t like to ask. It’s quite hard work to make one and then she’d have to carry it two hundred miles south on the day.
 

@@ -16,7 +16,7 @@ tags:
     - people
 ---
 
-\[photopress:CRW\_2501.jpg,thumb,alignleft\]It turns out that 2006 is a big year for weddings. I got married in April, a friend of my wife got married in May and my friends P and I had a [Civil Partnership](http://en.wikipedia.org/wiki/Civil_partnership "Marriage to all intents and purposes") Ceremony yesterday.
+It turns out that 2006 is a big year for weddings. I got married in April, a friend of my wife got married in May and my friends P and I had a [Civil Partnership](http://en.wikipedia.org/wiki/Civil_partnership "Marriage to all intents and purposes") Ceremony yesterday.
 
 Despite the poor weather, it was a great day for everyone. They tied the knot in Wandsworth Registry Office with nearly twenty people present. It was a short but touching ceremony. They said their vows and exchanged rings.
 

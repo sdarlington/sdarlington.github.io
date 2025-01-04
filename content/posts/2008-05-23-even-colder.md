@@ -16,6 +16,7 @@ tags:
     - Photography
     - scandinavia
     - Travel
+draft: true
 ---
 
 \[photopress:hunf050.jpg,full,centered\]

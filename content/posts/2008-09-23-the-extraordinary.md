@@ -16,6 +16,7 @@ tags:
     - Photography
     - Travel
     - wildlife
+draft: true
 ---
 
 \[photopress:IMG\_3092.jpg,full,centered\]

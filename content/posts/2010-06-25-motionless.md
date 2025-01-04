@@ -16,6 +16,7 @@ tags:
     - Photography
     - Travel
     - turkey
+draft: true
 ---
 
 \[photopress:turf105.jpg,full,centered\]

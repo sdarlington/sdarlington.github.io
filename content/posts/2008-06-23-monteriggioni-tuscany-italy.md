@@ -18,11 +18,7 @@ tags:
 
 A short distance from [Colle di val d’Elsa](http://www.zx81.org.uk/travel/colle-di-val-delsa-tuscany-italy.html) is Monteriggioni. As with a few of the other places that I visited on this trip, I had not even heard of it when I woke up in the morning and, therefore, was pleasantly surprised with what I saw when I got there.
 
-\[photopress:IMG\_4957.jpg,full,centered\]
-
 Monteriggioni is another one of Tuscany’s many pretty walled cities, this one smaller than most. You arrive on a steep, narrow path and enter underneath a tower. Inside you immediately find a large, mostly empty square. Around the periphery there are a number of parasols shading cafe tables and postcards and souvenirs spilling out of shop fronts.
-
-\[photopress:IMG\_4965.jpg,full,centered\]
 
 Away from the main square it quickly got very residential. I liked to see the contrast between the traditional Italian surroundings and the American basket-ball hoop outside one of the houses.
 

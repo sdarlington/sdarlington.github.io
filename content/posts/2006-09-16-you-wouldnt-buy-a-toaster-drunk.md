@@ -16,7 +16,7 @@ tags:
     - uk
 ---
 
-\[photopress:Picture\_18\_.jpg,thumb,alignleft\]Last night we went to see [Dylan Moran](http://www.bbc.co.uk/comedy/profiles/dylan_moran.shtml "Dylan Moran profile") do stand-up comedy at the Hammersmith Apollo here in London.
+Last night we went to see [Dylan Moran](http://www.bbc.co.uk/comedy/profiles/dylan_moran.shtml "Dylan Moran profile") do stand-up comedy at the Hammersmith Apollo here in London.
 
 Here in the UK he is probably most famous for his role in the sit-com [Black Books](http://uk.imdb.com/title/tt0262150/ "Black Books") where he plays, well, pretty much himself it turns out. It’s a version of Moran who works in a book store with Manny (Bill Bailey).
 

@@ -14,6 +14,7 @@ tags:
     - life
     - uk
     - usa
+draft: true
 ---
 
 \[photopress:thumb\_DSCN0018.jpg,thumb,alignleft\]The truth is that I don’t normally blog about very personal things. However, occasionally something happens that’s so big or different that you have to break convention, and this is one of them.

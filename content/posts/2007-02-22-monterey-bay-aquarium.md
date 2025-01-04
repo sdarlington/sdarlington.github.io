@@ -16,6 +16,7 @@ tags:
     - Photography
     - Travel
     - usa
+draft: true
 ---
 
 I don’t normally split a single trip into several pages since it annoys me on other sites where you have to keep clicking “Next” just to get the complete story, however I was impressed enough with the [Monterey Bay Aquarium](http://www.mbayaq.org/ "Monterey Bay Aquarium") that I thought it deserved separating out. There is another page for the [commentary and pictures from Berkeley, Point Lobos and Carmel](/travel/berkeley-point-lobos-and-carmel.html "Berkeley, Point Lobos and Carmel pictures").

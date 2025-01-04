@@ -16,6 +16,7 @@ tags:
     - Travel
     - unix
     - usa
+draft: true
 ---
 
 Not since my trip to [three countries in one weekend](/travel/hungary.html "Hungary, Romania and Croatia") have so many people questioned my sanity. This time only one country was involved, but so was a ten hour flight and an eight hour time difference.

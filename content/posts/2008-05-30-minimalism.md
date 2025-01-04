@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 \[photopress:IMG\_5111.jpg,full,centered\]

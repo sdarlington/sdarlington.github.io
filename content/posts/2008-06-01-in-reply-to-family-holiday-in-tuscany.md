@@ -15,6 +15,7 @@ tags:
     - italy
     - Photography
     - Travel
+draft: true
 ---
 
 So B “tagged” me on [her recent blog](http://www.brandarling.com/2008/05/family-holiday-in-tuscany.html) of our recent holiday in Tuscany. I have not quite got my act together for the full photographic and textual story of the trip just yet, but I couldn’t let a couple of her comments pass…

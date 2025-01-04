@@ -18,14 +18,8 @@ tags:
 
 Initially I thought that I was going to be staying in [Fiesole](http://www.fiesole.com/) for [the entire trip](/travel/tuscany-italy.html). The description of the villa and some of the directions mentioned it explicitly so before flying out I made some effort to read up on the place. It turns out that it’s actually *older* than the now much larger city of Florence (Firenze). As such it has its own respectable church and some fairly extensive Etruscan ruins.
 
-\[photopress:IMG\_4771.jpg,full,centered\]
-
 In the end the villa was actually nearer Santa Brigida but the reading was not wasted and I ended up visiting Fiesole on a couple of occasions.
 
-\[photopress:IMG\_4781.jpg,full,centered\]
-
 It’s an attractive town. The main square would likely have been very pretty had it not been under construction, there’s a nice view of Florence (no picture as the only time I was there I didn’t get a picture) and the Etruscan ruins are extensive.
-
-\[photopress:IMG\_4790.jpg,full,centered\]
 
 In the afternoon I was going to head down the hill into [Florence](/travel/florence-tuscany-italy.html) itself.

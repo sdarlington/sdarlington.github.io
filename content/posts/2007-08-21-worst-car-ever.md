@@ -18,7 +18,6 @@ tags:
     - usa
 ---
 
-?\[photopress:DSC00011.JPG,full,centered\]
 
 As is necessary when you travel to the US, I hired a car. It’s always tricky to hire a small car in America — only in the US could an SUV fit in a “small car” parking space — but I dismissed all their attempts to get me to upgrade. Maybe it was some form of revenge, but I ended up with a Chrysler P.T. Cruiser. Not terribly small. But actually terrible.
 

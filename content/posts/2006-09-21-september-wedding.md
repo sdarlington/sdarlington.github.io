@@ -16,7 +16,7 @@ tags:
     - people
 ---
 
-\[photopress:CRW\_2614.jpg,thumb,alignleft\]It seems like only last week that I was at a friends wedding ([in fact it was just over two weeks](/blog/a-very-civil-partnership.html "P&H Get Hitched")), but on Tuesday two more friends tied the knot.
+It seems like only last week that I was at a friends wedding ([in fact it was just over two weeks](/blog/a-very-civil-partnership.html "P&H Get Hitched")), but on Tuesday two more friends tied the knot.
 
 I’ve known R since [my time in Norway](/travel/norway.html "Norway pictures"). We met up a few times in Oslo and continued when we both returned to London. She had dreams of travelling, going back to Norway or Paris, or, generally, elsewhere. But she drifted back to her home-town, Bristol. Later, T, a Polish tree surgeon, moved into the flat-share she was living in. She jokes that while I tried internet- and speed-dating, she just stayed at home but had greater success.
 

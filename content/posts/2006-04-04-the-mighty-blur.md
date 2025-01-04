@@ -12,6 +12,7 @@ tags:
     - funny
     - gig
     - uk
+draft: true
 ---
 
 \[photopress:boosh3.jpg,thumb,alignleft\]Okay, really I’m talking about [The Mighty Boosh](http://www.themightyboosh.inuk.com/), but my camera phone doesn’t quite have the resolution to give you much more than a blur…

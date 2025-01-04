@@ -13,6 +13,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 \[photopress:IMG\_3476.jpg,full,centered\]

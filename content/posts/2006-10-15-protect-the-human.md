@@ -16,7 +16,7 @@ tags:
     - uk
 ---
 
-\[photopress:Picture\_2\_.jpg,thumb,alignleft\]Last night we went to the Royal Albert Hall to see the [Secret Policeman’s Ball](http://www.amnesty.org.uk/secretpolice/ "Amnesty International?s Secret Policeman?s Ball"), a charity gala in aid of Amnesty International. Despite the great cast — everyone from The Mighty Boosh to Eddie Izzard — beforehand I was worried that the “charity” aspect would take too prominent a position compared with the comedy. Obviously there’s a need to make people remember what the show is all about but often these events become preachy and, ultimately, a little dull.
+Last night we went to the Royal Albert Hall to see the [Secret Policeman’s Ball](http://www.amnesty.org.uk/secretpolice/ "Amnesty International?s Secret Policeman?s Ball"), a charity gala in aid of Amnesty International. Despite the great cast — everyone from The Mighty Boosh to Eddie Izzard — beforehand I was worried that the “charity” aspect would take too prominent a position compared with the comedy. Obviously there’s a need to make people remember what the show is all about but often these events become preachy and, ultimately, a little dull.
 
 I need not have worried. There were a few “cut sequences” as they re-arranged the stage, but even they provided laughs. (I particularly liked the [QVC-style advert for the AK-47](http://www.protectthehuman.com/teleshop/guns/ "Amnesty video").)
 

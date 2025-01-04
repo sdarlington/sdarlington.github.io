@@ -13,6 +13,7 @@ tags:
     - Friends
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 \[photopress:CRW\_2648.jpg,full,centered\]
