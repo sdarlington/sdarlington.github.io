@@ -20,7 +20,13 @@ The background story: I’m preparing to deliver a training course. Each module 
 In hindsight, I’m not sure that writing VBA code to automate it was significantly less mind-numbing, but I’m sharing it here so you don’t have to.
 
 ```
-Sub printAllPresentations()<br></br>  For Each pres In Presentations<br></br>    pos = InStrRev(pres.Name, ".")<br></br>    filename = pres.Path & "/" & Left(pres.Name, pos - 1) & ".pdf"<br></br>    pres.SaveCopyAs filename, ppSaveAsPDF<br></br>  Next pres<br></br>End Sub
+Sub printAllPresentations()
+  For Each pres In Presentations
+      pos = InStrRev(pres.Name, ".")
+      filename = pres.Path & "/" & Left(pres.Name, pos - 1) & ".pdf"
+      pres.SaveCopyAs filename, ppSaveAsPDF
+  Next pres
+End Sub
 ```
 
 The reason why this was so fraught, I think, is twofold: almost everything you search for on the web is for Windows PCs using Excel and I’m using PowerPoint on a Mac.
