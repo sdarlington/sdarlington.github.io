@@ -1,0 +1,74 @@
+baseURL = "https://sdarlington.github.io/"
+languageCode = "en-gb"
+theme = "anubis2"
+title = "Welcome to ZX81.org.uk"
+
+[params.author]
+name = "Stephen Darlington"
+
+[params]
+description = "Photography, opinions and other random ramblings by Stephen Darlington."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+
+colorTheme = "auto"
+colorThemeSwitcher = true
+
+readMore = true
+readNextPosts = 3
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-gb"
+math = false # true: enable mathjax globally (default is false)
+toc = true
+
+social = [
+#    { id = "docs", url = "https://gohugo.io/documentation/" },
+    { id = "github", url = "https://github.com/sdarlington" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/stephen.darlington" },
+    { id = "mastodon", url = "https://mas.to/sdarlington" },
+#    { id = "email", url = "example@example.com" },
+#    { id = "facebook", url = "#" },
+#    { id = "instagram", url = "#" },
+#    { id = "netease-music", url = "#" },
+#    { id = "telegram", url = "#" },
+#    { id = "x", url = "#" },
+#    { id = "youtube", url = "#" },
+#    { id = "bluesky", url = "#" }
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.software]]
+identifier = "software"
+name = "Software"
+url = "/software/"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 5
+
+[markup.goldmark.renderer]
+unsafe = true # true | false; Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Chroma style, find more at here: https://swapoff.org/chroma/playground/
