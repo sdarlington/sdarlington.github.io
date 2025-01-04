@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'One Day Blog Silence in honour of all the victims of our world.'
 layout: post
 guid: 'http://www.zx81.org.uk/links/one-day-blog-silence.html'
-permalink: /links/one-day-blog-silence.html
+aliases: ['/links/one-day-blog-silence.html']
 categories:
     - Links
 tags:

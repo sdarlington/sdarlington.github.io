@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Weathered." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=837'
-permalink: /photography/photofriday/weathered.html
+aliases: ['/photography/photofriday/weathered.html']
 categories:
     - PhotoFriday
 tags:

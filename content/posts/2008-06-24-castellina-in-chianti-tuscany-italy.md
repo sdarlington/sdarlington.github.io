@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'One of the many things I love about Tuscany is that they make Chianti there. I have every intention of finding out more about the wine-making process.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=505'
-permalink: /travel/castellina-in-chianti-tuscany-italy.html
+aliases: ['/travel/castellina-in-chianti-tuscany-italy.html']
 categories:
     - Travel
 tags:

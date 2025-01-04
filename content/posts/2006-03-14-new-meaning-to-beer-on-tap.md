@@ -5,7 +5,7 @@ date: '2006-03-14T18:13:00+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2006/03/14/new-meaning-to-beer-on-tap/'
-permalink: /links/new-meaning-to-beer-on-tap.html
+aliases: ['/links/new-meaning-to-beer-on-tap.html']
 categories:
     - Links
 tags:

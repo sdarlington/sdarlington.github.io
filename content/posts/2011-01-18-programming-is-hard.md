@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Much of what a programmer does is a mystery to most people. Here I try to explain, with a simple example, some of the things that go on.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1932'
-permalink: /computing/opinion/programming-is-hard.html
+aliases: ['/computing/opinion/programming-is-hard.html']
 image:
     - ''
 embed:

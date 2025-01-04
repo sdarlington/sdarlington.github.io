@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '<p>These are my links for April 28th from 13:28 to 16:11'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1389'
-permalink: /links/my-deliciouscom-bookmarks-for-april-28th-through-may-3rd.html
+aliases: ['/links/my-deliciouscom-bookmarks-for-april-28th-through-may-3rd.html']
 categories:
     - Links
 tags:

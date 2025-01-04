@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A year ago I started writing about my experience with the then-new Belkin Wi-Fi Phone for Skype. I''ve been quiet on the subject for a while, but here is the latest update on my experience.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/update-belkin-wi-fi-phone.html'
-permalink: /computing/opinion/update-belkin-wi-fi-phone.html
+aliases: ['/computing/opinion/update-belkin-wi-fi-phone.html']
 categories:
     - Opinion
 tags:

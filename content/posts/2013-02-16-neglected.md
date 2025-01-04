@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Neglected." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3605'
-permalink: /photography/photofriday/neglected.html
+aliases: ['/photography/photofriday/neglected.html']
 categories:
     - PhotoFriday
 tags:

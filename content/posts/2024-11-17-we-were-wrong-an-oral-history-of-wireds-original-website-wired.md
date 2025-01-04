@@ -5,7 +5,7 @@ date: '2024-11-17T12:20:08+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/links/we-were-wrong-an-oral-history-of-wireds-original-website-wired.html'
-permalink: /links/we-were-wrong-an-oral-history-of-wireds-original-website-wired.html
+aliases: ['/links/we-were-wrong-an-oral-history-of-wireds-original-website-wired.html']
 categories:
     - Links
 tags:

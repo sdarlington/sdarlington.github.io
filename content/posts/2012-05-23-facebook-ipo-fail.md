@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Was the Facebook IPO really a failure because the share price didn''t rocket up on the first day?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3405'
-permalink: /computing/opinion/facebook-ipo-fail.html
+aliases: ['/computing/opinion/facebook-ipo-fail.html']
 categories:
     - Opinion
 tags:

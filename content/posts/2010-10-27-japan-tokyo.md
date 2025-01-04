@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'From glitz and lights to commerce to tranquil temples to statues that look vaguely familiar, Tokyo has it all.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2367'
-permalink: /travel/japan-tokyo.html
+aliases: ['/travel/japan-tokyo.html']
 adman_disable:
     - 'on'
 categories:

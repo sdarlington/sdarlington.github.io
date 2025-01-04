@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Responding to support emails can be hard. Doing it wrong can make things worse.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4398'
-permalink: /computing/opinion/support-and-snark.html
+aliases: ['/computing/opinion/support-and-snark.html']
 categories:
     - Opinion
 ---

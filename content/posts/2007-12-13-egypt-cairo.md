@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My tour of the middle east finishes in the Egyptian capital city with a visit to some of the major sites.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/egypt-cairo.html'
-permalink: /travel/egypt-cairo.html
+aliases: ['/travel/egypt-cairo.html']
 categories:
     - Travel
 tags:

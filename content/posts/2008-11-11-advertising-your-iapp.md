@@ -5,7 +5,7 @@ date: '2008-11-11T20:29:29+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=723'
-permalink: /computing/opinion/advertising-your-iapp.html
+aliases: ['/computing/opinion/advertising-your-iapp.html']
 categories:
     - Opinion
 tags:

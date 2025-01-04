@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It''s not too late to campaign against Brexit.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4466'
-permalink: /blog/write-to-your-mp-about-brexit.html
+aliases: ['/blog/write-to-your-mp-about-brexit.html']
 categories:
     - Blog
 tags:

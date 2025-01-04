@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Inner City." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3314'
-permalink: /photography/photofriday/inner-city.html
+aliases: ['/photography/photofriday/inner-city.html']
 image:
     - ''
 embed:

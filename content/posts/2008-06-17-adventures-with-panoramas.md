@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The prospect of combining travel, photography and playing around with software was just too compelling not to try.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=510'
-permalink: /photography/adventures-with-panoramas.html
+aliases: ['/photography/adventures-with-panoramas.html']
 categories:
     - Photography
 tags:

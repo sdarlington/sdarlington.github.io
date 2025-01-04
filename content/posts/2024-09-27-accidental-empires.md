@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day five of the twenty books in twenty days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99378'
-permalink: /blog/accidental-empires.html
+aliases: ['/blog/accidental-empires.html']
 categories:
     - Blog
 tags:

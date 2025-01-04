@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day seven of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99382'
-permalink: /blog/snow-crash.html
+aliases: ['/blog/snow-crash.html']
 categories:
     - Blog
 tags:

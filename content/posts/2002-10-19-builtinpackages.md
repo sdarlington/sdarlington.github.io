@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A perfect accompaniment to ''Oracle PL/SQL Programming'' or should it have been included in the original? Stephen Darlington finds out. '
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/builtinpackages.html'
-permalink: /computing/opinion/builtinpackages.html
+aliases: ['/computing/opinion/builtinpackages.html']
 categories:
     - Opinion
 tags:

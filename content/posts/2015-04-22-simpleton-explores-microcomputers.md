@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'You think picking a new computer is hard today. Just imagine what it was like in the eighties. Well, now you don''t need to imagine. I have evidence.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4233'
-permalink: /computing/opinion/simpleton-explores-microcomputers.html
+aliases: ['/computing/opinion/simpleton-explores-microcomputers.html']
 categories:
     - Opinion
 ---

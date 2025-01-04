@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What happens if your employer has an “innovation” department?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64243'
-permalink: /computing/opinion/innovation-department.html
+aliases: ['/computing/opinion/innovation-department.html']
 categories:
     - Opinion
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The east coast of Rhodes has all the big name destinations, Faliraki and Lindos, but I figured that the west coast was worth a visit too.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2852'
-permalink: /travel/kamiros-and-rhodes-west-coast-greece.html
+aliases: ['/travel/kamiros-and-rhodes-west-coast-greece.html']
 image:
     - ''
 embed:

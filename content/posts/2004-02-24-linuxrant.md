@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Frustrations with wireless networking and Linux. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/bored-of-constant-tweaking.html'
-permalink: /computing/opinion/linuxrant.html
+aliases: ['/computing/opinion/linuxrant.html']
 categories:
     - Opinion
 tags:

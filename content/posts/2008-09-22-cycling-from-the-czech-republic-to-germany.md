@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Despite being thoroughly out of shape, I decide to cycle from Prague, in the Czech Republic, to Meissen in Germany. How did I get on?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=645'
-permalink: /travel/cycling-from-the-czech-republic-to-germany.html
+aliases: ['/travel/cycling-from-the-czech-republic-to-germany.html']
 image:
     - ''
 embed:

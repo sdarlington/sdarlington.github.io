@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Good Life." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/the-good-life.html'
-permalink: /photography/photofriday/the-good-life.html
+aliases: ['/photography/photofriday/the-good-life.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What does a two year old mince pie and an ewok have in common? The answer, it turns out, is "wedding cake."'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=83'
-permalink: /blog/the-mince-pie-and-the-ewok.html
+aliases: ['/blog/the-mince-pie-and-the-ewok.html']
 categories:
     - Blog
 tags:

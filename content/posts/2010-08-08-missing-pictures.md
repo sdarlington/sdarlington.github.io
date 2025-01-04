@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Disaster strikes ZX81''s photo hosting.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2201'
-permalink: /news/missing-pictures.html
+aliases: ['/news/missing-pictures.html']
 adman_disable:
     - 'on'
 categories:

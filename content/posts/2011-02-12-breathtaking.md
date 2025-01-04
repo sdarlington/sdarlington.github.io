@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Breathtaking." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2681'
-permalink: /photography/photofriday/breathtaking.html
+aliases: ['/photography/photofriday/breathtaking.html']
 image:
     - ''
 embed:

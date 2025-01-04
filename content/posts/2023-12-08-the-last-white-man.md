@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I wouldn''t ordinarily have found this book, but was I glad that I read it?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=85920'
-permalink: /blog/the-last-white-man.html
+aliases: ['/blog/the-last-white-man.html']
 categories:
     - Blog
 tags:

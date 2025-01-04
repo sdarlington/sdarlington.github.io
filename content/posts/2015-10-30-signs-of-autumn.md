@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Signs of Autumn." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4339'
-permalink: /photography/photofriday/signs-of-autumn.html
+aliases: ['/photography/photofriday/signs-of-autumn.html']
 categories:
     - PhotoFriday
 tags:

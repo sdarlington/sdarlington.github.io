@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Unfortunately I have a tendency to over-analyse things. In this case someone''s off-the-cuff had me thinking about faith and computers.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=799'
-permalink: /blog/there-are-no-buddhist-computer-systems.html
+aliases: ['/blog/there-are-no-buddhist-computer-systems.html']
 categories:
     - Blog
 tags:

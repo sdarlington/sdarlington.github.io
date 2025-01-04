@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Some people have asked what equipment I used to get the images you see on this website. Here is the answer.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/camera-gear.html'
-permalink: /photography/camera-gear.html
+aliases: ['/photography/camera-gear.html']
 categories:
     - Photography
 tags:

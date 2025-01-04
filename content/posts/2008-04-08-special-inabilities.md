@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I hesitate to say that it happens often, but people do sometimes talk about special abilities or super-powers, even if it?s phrased as a ?party trick.? Today I realised that I have what might best be described as a special inability.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=456'
-permalink: /blog/special-inabilities.html
+aliases: ['/blog/special-inabilities.html']
 categories:
     - Blog
 tags:

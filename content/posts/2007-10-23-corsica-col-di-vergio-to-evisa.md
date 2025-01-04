@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I return to the Mare a Mare Nord path as I walk through pine-forest and over streams towards the coast.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-col-di-vergio-to-evisa.html'
-permalink: /travel/corsica-col-di-vergio-to-evisa.html
+aliases: ['/travel/corsica-col-di-vergio-to-evisa.html']
 categories:
     - Travel
 tags:

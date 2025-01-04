@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Spontaneous." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=671'
-permalink: /photography/photofriday/spontaneous.html
+aliases: ['/photography/photofriday/spontaneous.html']
 categories:
     - PhotoFriday
 tags:

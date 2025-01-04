@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Destruction." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/destruction.html'
-permalink: /photography/photofriday/destruction.html
+aliases: ['/photography/photofriday/destruction.html']
 categories:
     - PhotoFriday
 tags:

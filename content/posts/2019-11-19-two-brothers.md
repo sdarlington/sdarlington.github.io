@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'He started as a stand-up comedian. How’s his novel writing coming along?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64290'
-permalink: /blog/two-brothers.html
+aliases: ['/blog/two-brothers.html']
 categories:
     - Blog
 tags:

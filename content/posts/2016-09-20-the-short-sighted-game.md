@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Playing the long game means you''ve got to be aware of your blind side.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4437'
-permalink: /computing/opinion/the-short-sighted-game.html
+aliases: ['/computing/opinion/the-short-sighted-game.html']
 categories:
     - Opinion
 ---

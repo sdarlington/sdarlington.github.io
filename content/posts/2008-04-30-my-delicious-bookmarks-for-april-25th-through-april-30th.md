@@ -5,7 +5,7 @@ date: '2008-04-30T12:02:15+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=474'
-permalink: /links/my-delicious-bookmarks-for-april-25th-through-april-30th.html
+aliases: ['/links/my-delicious-bookmarks-for-april-25th-through-april-30th.html']
 categories:
     - Links
 tags:

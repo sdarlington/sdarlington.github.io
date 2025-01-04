@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Primary Colour." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2877'
-permalink: /photography/photofriday/primary-colour.html
+aliases: ['/photography/photofriday/primary-colour.html']
 image:
     - ''
 embed:

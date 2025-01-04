@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Anything good in the new Apple OS updates?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=74375'
-permalink: /computing/opinion/ios-16-and-watchos-9.html
+aliases: ['/computing/opinion/ios-16-and-watchos-9.html']
 categories:
     - Opinion
 tags:

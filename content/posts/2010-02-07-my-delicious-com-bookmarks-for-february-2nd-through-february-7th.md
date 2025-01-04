@@ -5,7 +5,7 @@ date: '2010-02-07T20:00:21+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1944'
-permalink: /links/my-delicious-com-bookmarks-for-february-2nd-through-february-7th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-february-2nd-through-february-7th.html']
 adman_disable:
     - 'on'
 categories:

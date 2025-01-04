@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I don''t normally travel with a laptop computer but the iPad is a bit different. Here''s how I got on with it when I recently spent two weeks in Japan.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2362'
-permalink: /computing/opinion/travels-with-my-ipad.html
+aliases: ['/computing/opinion/travels-with-my-ipad.html']
 adman_disable:
     - 'on'
 categories:

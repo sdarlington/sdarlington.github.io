@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Manufactured." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2903'
-permalink: /photography/photofriday/manufactured.html
+aliases: ['/photography/photofriday/manufactured.html']
 image:
     - ''
 embed:

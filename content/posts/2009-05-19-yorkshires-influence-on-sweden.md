@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It''s a little known fact that Yorkshire has had a significant impact on Swedish culture. Let me explain.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1384'
-permalink: /travel/yorkshires-influence-on-sweden.html
+aliases: ['/travel/yorkshires-influence-on-sweden.html']
 categories:
     - Travel
 tags:

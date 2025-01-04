@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Showing my support for the Virginia Tech victims and hoping for the safe return of Alan Johnston.'
 layout: post
 guid: 'http://www.zx81.org.uk/links/doing-some-good.html'
-permalink: /links/doing-some-good.html
+aliases: ['/links/doing-some-good.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'There’s lots to like about this Charlie Stross book. But…'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=83279'
-permalink: /blog/atrocity-archive.html
+aliases: ['/blog/atrocity-archive.html']
 categories:
     - Blog
 tags:

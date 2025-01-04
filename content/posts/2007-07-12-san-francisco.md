@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I go for a quick wander around downtown San Francisco in California.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/san-francisco.html'
-permalink: /travel/san-francisco.html
+aliases: ['/travel/san-francisco.html']
 categories:
     - Travel
 tags:

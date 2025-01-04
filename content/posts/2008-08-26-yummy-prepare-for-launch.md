@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'We are now at the penultimate step in the launch of my new iPhone application, Yummy.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=608'
-permalink: /computing/software/yummy-prepare-for-launch.html
+aliases: ['/computing/software/yummy-prepare-for-launch.html']
 categories:
     - Software
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Government blocking of Internet content is not the answer.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3390'
-permalink: /computing/opinion/blocks-both-technical-and-mental.html
+aliases: ['/computing/opinion/blocks-both-technical-and-mental.html']
 categories:
     - Opinion
 tags:

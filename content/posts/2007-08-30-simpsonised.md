@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How I''d look if I were to appear in the Simpsons.'
 layout: post
 guid: 'http://www.zx81.org.uk/links/simpsonised.html'
-permalink: /links/simpsonised.html
+aliases: ['/links/simpsonised.html']
 categories:
     - Links
 tags:

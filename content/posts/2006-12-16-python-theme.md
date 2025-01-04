@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'More Monty Python than you can shake a stick at for my birthday.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/python-theme.html'
-permalink: /blog/python-theme.html
+aliases: ['/blog/python-theme.html']
 categories:
     - Blog
 tags:

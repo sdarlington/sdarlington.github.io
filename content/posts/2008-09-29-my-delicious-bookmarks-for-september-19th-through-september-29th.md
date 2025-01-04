@@ -5,7 +5,7 @@ date: '2008-09-29T10:01:11+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=661'
-permalink: /links/my-delicious-bookmarks-for-september-19th-through-september-29th.html
+aliases: ['/links/my-delicious-bookmarks-for-september-19th-through-september-29th.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When corporate security and the real world collide.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=76376'
-permalink: /computing/opinion/security-by-scapegoat.html
+aliases: ['/computing/opinion/security-by-scapegoat.html']
 categories:
     - Opinion
 tags:

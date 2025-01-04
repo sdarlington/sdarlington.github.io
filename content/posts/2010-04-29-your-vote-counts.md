@@ -5,7 +5,7 @@ date: '2010-04-29T20:07:51+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1822'
-permalink: /blog/your-vote-counts.html
+aliases: ['/blog/your-vote-counts.html']
 adman_disable:
     - 'on'
 categories:

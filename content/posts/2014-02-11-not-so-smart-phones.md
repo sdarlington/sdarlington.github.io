@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is evolving bigger forearms the only solution to running Android on your wrist-watch?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3867'
-permalink: /computing/opinion/not-so-smart-phones.html
+aliases: ['/computing/opinion/not-so-smart-phones.html']
 categories:
     - Opinion
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The PC industry has moved on in leaps and bounds since the mid-seventies. Bob Cringely documents that process, and Stephen Darlington reviews the outcome. '
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/accidentalempires.html'
-permalink: /computing/opinion/accidentalempires.html
+aliases: ['/computing/opinion/accidentalempires.html']
 categories:
     - Opinion
 tags:

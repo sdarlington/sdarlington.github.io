@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A nice mid-week break in the Wiltshire town of Salisbury and the nearby Stone Henge monument.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2059'
-permalink: /travel/salisbury.html
+aliases: ['/travel/salisbury.html']
 adman_disable:
     - 'on'
 categories:

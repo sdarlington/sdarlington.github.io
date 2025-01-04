@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why Apple''s .Mac online service is not worth ?68.98 a year.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/mac-defection.html'
-permalink: /computing/opinion/mac-defection.html
+aliases: ['/computing/opinion/mac-defection.html']
 categories:
     - Opinion
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A good iPhone application should launch in the same state it was in when it was last closed. Here''s how I do it in my apps.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1960'
-permalink: /computing/software/iphone-dev-saving-state.html
+aliases: ['/computing/software/iphone-dev-saving-state.html']
 adman_disable:
     - 'on'
 categories:

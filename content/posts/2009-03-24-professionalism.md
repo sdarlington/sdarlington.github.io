@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When people talk about "professionalism" is that really what they mean?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1039'
-permalink: /computing/opinion/professionalism.html
+aliases: ['/computing/opinion/professionalism.html']
 categories:
     - Opinion
 tags:

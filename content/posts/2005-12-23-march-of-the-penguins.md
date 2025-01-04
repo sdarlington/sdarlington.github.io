@@ -5,7 +5,7 @@ date: '2005-12-23T11:05:40+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=22'
-permalink: /blog/march-of-the-penguins.html
+aliases: ['/blog/march-of-the-penguins.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It was great to see two friends tie the knot in Camden Town Hall this week.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/september-wedding.html'
-permalink: /blog/september-wedding.html
+aliases: ['/blog/september-wedding.html']
 categories:
     - Blog
 tags:

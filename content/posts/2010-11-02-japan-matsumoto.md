@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'While visiting Matsumoto in Nagano Prefecture, I see an old wooden castle, temples and large crowds at a flea market.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2371'
-permalink: /travel/japan-matsumoto.html
+aliases: ['/travel/japan-matsumoto.html']
 adman_disable:
     - 'on'
 categories:

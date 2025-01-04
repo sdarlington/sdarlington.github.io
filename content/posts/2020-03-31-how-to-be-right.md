@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'James O’Brien makes the jump from radio talk-show host to author. Should you encourage him?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=65516'
-permalink: /blog/how-to-be-right.html
+aliases: ['/blog/how-to-be-right.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Unless Swift is a big practical joke by Apple it''s not going away any time soon. Get used to it.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3969'
-permalink: /computing/opinion/swift-hate.html
+aliases: ['/computing/opinion/swift-hate.html']
 categories:
     - Opinion
 tags:

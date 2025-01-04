@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Cleanliness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2001'
-permalink: /photography/photofriday/cleanliness.html
+aliases: ['/photography/photofriday/cleanliness.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How do you interview people for technical roles? Should you ask questions about algorithms?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4611'
-permalink: /computing/opinion/what-do-you-know.html
+aliases: ['/computing/opinion/what-do-you-know.html']
 categories:
     - Opinion
 tags:

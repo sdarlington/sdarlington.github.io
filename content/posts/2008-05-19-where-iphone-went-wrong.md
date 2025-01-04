@@ -5,7 +5,7 @@ date: '2008-05-19T07:46:07+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=485'
-permalink: /computing/opinion/where-iphone-went-wrong.html
+aliases: ['/computing/opinion/where-iphone-went-wrong.html']
 categories:
     - Opinion
 tags:

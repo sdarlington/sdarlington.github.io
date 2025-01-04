@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Just about every software project on the go today could be defined as a deathmarch. Stephen Darlington reviews Edward Yourdons book on how to make the most of a bad situation. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/death-march.html'
-permalink: /computing/opinion/deathmarch.html
+aliases: ['/computing/opinion/deathmarch.html']
 categories:
     - Opinion
 tags:

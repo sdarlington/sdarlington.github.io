@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day thirteen in the Twenty Books in Twenty Days series'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99512'
-permalink: /blog/the-design-of-everyday-things.html
+aliases: ['/blog/the-design-of-everyday-things.html']
 categories:
     - Blog
 tags:

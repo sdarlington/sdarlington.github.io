@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When GitHub is down, there''s no need to stop working...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4225'
-permalink: /computing/opinion/the-d-in-dvcs.html
+aliases: ['/computing/opinion/the-d-in-dvcs.html']
 categories:
     - Opinion
 ---

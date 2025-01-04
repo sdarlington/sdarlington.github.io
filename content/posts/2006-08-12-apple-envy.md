@@ -5,7 +5,7 @@ date: '2006-08-12T12:27:22+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/links/apple-envy.html'
-permalink: /links/apple-envy.html
+aliases: ['/links/apple-envy.html']
 categories:
     - Links
 tags:

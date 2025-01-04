@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The Printing-1 photobook is now in my hands. What is it like? How does it compare with the other books that I have seen?'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photo-book-results-printing-1.html'
-permalink: /photography/photo-book-results-printing-1.html
+aliases: ['/photography/photo-book-results-printing-1.html']
 categories:
     - Photography
 tags:

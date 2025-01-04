@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'California isn''t all sun, fog, movies and software companies. There are also mountains and lakes, as I found when I visited Lake Tahoe.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3106'
-permalink: /travel/lake-tahoe.html
+aliases: ['/travel/lake-tahoe.html']
 image:
     - ''
 embed:

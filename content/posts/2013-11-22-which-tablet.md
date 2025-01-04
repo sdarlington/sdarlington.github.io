@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'So you want a "tablet" for Christmas? Which should you get?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3774'
-permalink: /computing/opinion/which-tablet.html
+aliases: ['/computing/opinion/which-tablet.html']
 categories:
     - Opinion
 tags:

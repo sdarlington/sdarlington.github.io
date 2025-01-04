@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Wishing everyone a fabulous Christmas and a stellar 2008.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/merry-christmas-2007.html'
-permalink: /blog/merry-christmas-2007.html
+aliases: ['/blog/merry-christmas-2007.html']
 categories:
     - Blog
 tags:

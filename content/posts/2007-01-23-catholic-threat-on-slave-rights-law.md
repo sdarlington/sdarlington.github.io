@@ -5,7 +5,7 @@ date: '2007-01-23T20:29:42+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/catholic-threat-on-slave-rights-law.html'
-permalink: /blog/catholic-threat-on-slave-rights-law.html
+aliases: ['/blog/catholic-threat-on-slave-rights-law.html']
 categories:
     - Blog
 tags:

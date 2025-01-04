@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day eighteen of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99858'
-permalink: /blog/neuromancer.html
+aliases: ['/blog/neuromancer.html']
 categories:
     - Blog
 tags:

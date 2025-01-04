@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Unix is powerful. The Macintosh is userfriendly. And never the twain shall meet. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/dreadful-thoughts.html'
-permalink: /computing/opinion/dreadfulthought.html
+aliases: ['/computing/opinion/dreadfulthought.html']
 categories:
     - Opinion
 tags:

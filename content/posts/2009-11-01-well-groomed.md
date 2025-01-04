@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Well Groomed." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1832'
-permalink: /photography/photofriday/well-groomed.html
+aliases: ['/photography/photofriday/well-groomed.html']
 categories:
     - PhotoFriday
 tags:

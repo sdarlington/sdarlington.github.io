@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Autumn Colour." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4125'
-permalink: /photography/photofriday/autumn-colour.html
+aliases: ['/photography/photofriday/autumn-colour.html']
 categories:
     - PhotoFriday
 format: image

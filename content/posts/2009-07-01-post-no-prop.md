@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Voters may have got the wrong answer but some graffiti in LA says that not everyone agrees.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1550'
-permalink: /travel/post-no-prop.html
+aliases: ['/travel/post-no-prop.html']
 categories:
     - Travel
 tags:

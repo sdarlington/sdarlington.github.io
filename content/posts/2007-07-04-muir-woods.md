@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I try to get away from all the people and cars in the Bay Area and visit Muir Woods.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/muir-woods.html'
-permalink: /travel/muir-woods.html
+aliases: ['/travel/muir-woods.html']
 categories:
     - Travel
 tags:

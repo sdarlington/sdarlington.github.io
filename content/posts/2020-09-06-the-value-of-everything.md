@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What is "value" and "productivity"? I read this book to try to figure it out.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=66984'
-permalink: /blog/the-value-of-everything.html
+aliases: ['/blog/the-value-of-everything.html']
 spay_email:
     - ''
 categories:

@@ -5,7 +5,7 @@ date: '2006-03-08T14:19:42+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=46'
-permalink: /blog/irreversible.html
+aliases: ['/blog/irreversible.html']
 categories:
     - Blog
 tags:

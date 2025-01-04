@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Dawkin''s "The Selfish Gene" and driving in Cairo seem, at face value, to have little in common. A little thought and only slightly twisted logic shows otherwise.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/egypt-driving-in-cairo.html'
-permalink: /travel/egypt-driving-in-cairo.html
+aliases: ['/travel/egypt-driving-in-cairo.html']
 categories:
     - Travel
 tags:

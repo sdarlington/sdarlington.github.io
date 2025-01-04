@@ -5,7 +5,7 @@ date: '2006-05-12T14:33:24+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=64'
-permalink: /blog/quantum-tea-theory.html
+aliases: ['/blog/quantum-tea-theory.html']
 categories:
     - Blog
 tags:

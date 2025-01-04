@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Cameraphone Shot." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1595'
-permalink: /photography/photofriday/cameraphone-shot.html
+aliases: ['/photography/photofriday/cameraphone-shot.html']
 categories:
     - PhotoFriday
 tags:

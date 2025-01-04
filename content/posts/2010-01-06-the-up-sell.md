@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Making your free version painful isn''t the solution to getting people to upgrade. It''ll drive them away!'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1847'
-permalink: /computing/opinion/the-up-sell.html
+aliases: ['/computing/opinion/the-up-sell.html']
 adman_disable:
     - 'on'
 categories:

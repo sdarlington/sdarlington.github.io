@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Monochrome." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1477'
-permalink: /photography/photofriday/monochrome.html
+aliases: ['/photography/photofriday/monochrome.html']
 adman_disable:
     - 'on'
 categories:

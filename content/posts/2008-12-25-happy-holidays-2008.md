@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Happy Holidays to everyone!'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=849'
-permalink: /blog/happy-holidays-2008.html
+aliases: ['/blog/happy-holidays-2008.html']
 image:
     - ''
 seo_follow:

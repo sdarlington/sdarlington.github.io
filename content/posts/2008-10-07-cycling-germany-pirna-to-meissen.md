@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In my last day of cycling I leave Pirna and head towards Mei&szlig;en, stopping off for lunch in Dresden.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=654'
-permalink: /travel/cycling-germany-pirna-to-meissen.html
+aliases: ['/travel/cycling-germany-pirna-to-meissen.html']
 image:
     - ''
 embed:

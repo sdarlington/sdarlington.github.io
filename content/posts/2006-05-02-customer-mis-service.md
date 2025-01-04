@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes bad customer service is not about what you''re told about a product but what they choose not to tell you.'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=63'
-permalink: /blog/customer-mis-service.html
+aliases: ['/blog/customer-mis-service.html']
 categories:
     - Blog
 tags:

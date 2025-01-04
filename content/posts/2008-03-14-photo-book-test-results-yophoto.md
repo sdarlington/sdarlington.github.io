@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In this, the second of a two-part article, I take a look at UK-based photo book vendor yophoto''s finished product. Did it live up to the expectations set by their ordering process?'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photo-book-test-results-yophoto.html'
-permalink: /photography/photo-book-test-results-yophoto.html
+aliases: ['/photography/photo-book-test-results-yophoto.html']
 categories:
     - Photography
 tags:

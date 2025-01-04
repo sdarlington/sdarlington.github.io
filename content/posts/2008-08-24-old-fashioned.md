@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Old Fashioned." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=606'
-permalink: /photography/photofriday/old-fashioned.html
+aliases: ['/photography/photofriday/old-fashioned.html']
 categories:
     - PhotoFriday
 tags:

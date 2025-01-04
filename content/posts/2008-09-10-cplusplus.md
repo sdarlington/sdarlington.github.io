@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I continue my (very irregular) series of articles discussing various programming languages. This time it''s the turn of C++.'
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/programming/languages/c-2.html'
-permalink: /computing/programming/languages/cplusplus.html
+aliases: ['/computing/programming/languages/cplusplus.html']
 categories:
     - Languages
 tags:

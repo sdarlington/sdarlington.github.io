@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What''s is a name? Here I discuss whether Hacker or Software Engineer is the better title for a software developer. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/engineer-or-hacker.html'
-permalink: /computing/opinion/hackoreng.html
+aliases: ['/computing/opinion/hackoreng.html']
 categories:
     - Opinion
 tags:

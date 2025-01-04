@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day one of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99370'
-permalink: /blog/hitchhikers-guide-to-the-galaxy.html
+aliases: ['/blog/hitchhikers-guide-to-the-galaxy.html']
 categories:
     - Blog
 tags:

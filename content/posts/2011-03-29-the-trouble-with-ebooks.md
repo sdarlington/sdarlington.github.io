@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'While I really like the idea of ebooks, I very rarely buy them. Why?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2780'
-permalink: /computing/opinion/the-trouble-with-ebooks.html
+aliases: ['/computing/opinion/the-trouble-with-ebooks.html']
 image:
     - ''
 embed:

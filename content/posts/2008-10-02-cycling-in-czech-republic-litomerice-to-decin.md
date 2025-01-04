@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My second longest cycling day is a success. My chain only falls off a couple of times and I arrive at my destination intact, though with few pictures.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=650'
-permalink: /travel/cycling-in-czech-republic-litomerice-to-decin.html
+aliases: ['/travel/cycling-in-czech-republic-litomerice-to-decin.html']
 image:
     - ''
 embed:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '"He?s Irish. He has dark hair. He?s very, very funny." He''s Dylan Moran. And we went to see him do stand-up comedy last night.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/you-wouldnt-buy-a-toaster-drunk.html'
-permalink: /blog/you-wouldnt-buy-a-toaster-drunk.html
+aliases: ['/blog/you-wouldnt-buy-a-toaster-drunk.html']
 categories:
     - Blog
 tags:

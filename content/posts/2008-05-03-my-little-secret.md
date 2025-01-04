@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "My Little Secret." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=481'
-permalink: /photography/photofriday/my-little-secret.html
+aliases: ['/photography/photofriday/my-little-secret.html']
 image:
     - ''
 seo_follow:

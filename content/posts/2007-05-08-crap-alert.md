@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The local multiplex is a dangerous place for children and adults alike. How can you know that a film is worth seeing? The Christian Community has the CAP Alert. I now introduce the CRAP Alert for everyone else.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/crap-alert.html'
-permalink: /blog/crap-alert.html
+aliases: ['/blog/crap-alert.html']
 categories:
     - Blog
 tags:

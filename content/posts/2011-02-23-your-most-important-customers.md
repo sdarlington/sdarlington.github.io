@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'People who say that the customer is always right have clearly never worked with an overly demanding one. This is an anecdote about a particularly demanding client.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2685'
-permalink: /computing/opinion/your-most-important-customers.html
+aliases: ['/computing/opinion/your-most-important-customers.html']
 image:
     - ''
 embed:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Just as you can''t judge a book by its cover, you can''t always judge an application only by its user interface.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=522'
-permalink: /computing/opinion/byline-bypass.html
+aliases: ['/computing/opinion/byline-bypass.html']
 categories:
     - Opinion
 tags:

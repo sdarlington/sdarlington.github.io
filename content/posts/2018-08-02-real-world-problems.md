@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Losing track of what your employer does can allow you to make questionable decisions. Here''s my answer.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=5145'
-permalink: /blog/real-world-problems.html
+aliases: ['/blog/real-world-problems.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Stephen Darlington finds that there is a window manager that looks good, is easy to use and is fully featured. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/linux/tps/windowmaker-0200.html'
-permalink: /computing/linux/tps/windowmaker.html
+aliases: ['/computing/linux/tps/windowmaker.html']
 categories:
     - 'The Penguin Says'
 tags:

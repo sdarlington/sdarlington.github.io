@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Alexandria is famous for its lighthouse and library, neither of which are there any more. What does the modern city have to offer?'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/egypt-alexandria.html'
-permalink: /travel/egypt-alexandria.html
+aliases: ['/travel/egypt-alexandria.html']
 categories:
     - Travel
 tags:

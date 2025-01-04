@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Internet Service Providers are playing both sides of the same argument to different people in order to increase their margins. How is this happening and is it fair to the consumers who find themselves stuck in the middle?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/net-neutrality-privacy-and-hypocracy.html'
-permalink: /computing/opinion/net-neutrality-privacy-and-hypocrisy.html
+aliases: ['/computing/opinion/net-neutrality-privacy-and-hypocrisy.html']
 categories:
     - Opinion
 tags:

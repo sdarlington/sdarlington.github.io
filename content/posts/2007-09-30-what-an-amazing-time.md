@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'We went to see Gwen Stefani''s "The Sweet Escape" tour at Wembley Arena on Friday evening. Any good?'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/what-an-amazing-time.html'
-permalink: /blog/what-an-amazing-time.html
+aliases: ['/blog/what-an-amazing-time.html']
 categories:
     - Blog
 tags:

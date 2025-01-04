@@ -5,7 +5,7 @@ date: '2006-07-26T17:17:11+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=82'
-permalink: /blog/thames-cruise.html
+aliases: ['/blog/thames-cruise.html']
 categories:
     - Blog
 tags:

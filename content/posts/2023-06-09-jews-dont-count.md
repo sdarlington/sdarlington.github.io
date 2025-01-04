@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In which I read a book and find out that I don''t really understand antisemitism.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=83036'
-permalink: /blog/jews-dont-count.html
+aliases: ['/blog/jews-dont-count.html']
 categories:
     - Blog
 tags:

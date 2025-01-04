@@ -5,7 +5,7 @@ date: '2005-11-09T16:31:04+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2005/11/09/brand-marketing/'
-permalink: /blog/brand-marketing.html
+aliases: ['/blog/brand-marketing.html']
 categories:
     - Blog
     - Links

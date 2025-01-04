@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Eighteen months on, how is iTunes Match holding up?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3283'
-permalink: /computing/opinion/itunes-match-addendum.html
+aliases: ['/computing/opinion/itunes-match-addendum.html']
 categories:
     - Opinion
 tags:

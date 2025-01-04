@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you like www.cut and would like to see it translated into your native language, here''s how you can help.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2696'
-permalink: /computing/software/translations.html
+aliases: ['/computing/software/translations.html']
 image:
     - ''
 embed:

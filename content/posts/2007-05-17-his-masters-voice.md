@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Does seeing the recording of a radio show add much?'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/his-masters-voice.html'
-permalink: /blog/his-masters-voice.html
+aliases: ['/blog/his-masters-voice.html']
 categories:
     - Blog
 tags:

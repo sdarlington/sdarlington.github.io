@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Since StarDivision have just released a new Linux version of StarOffice, version 5, Stephen Darlington decides to take a new look at the leading office suite. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/linux/tps/staroffice-50.html'
-permalink: /computing/linux/tps/staroffice5.html
+aliases: ['/computing/linux/tps/staroffice5.html']
 categories:
     - 'The Penguin Says'
 tags:

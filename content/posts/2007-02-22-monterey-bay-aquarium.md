@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Pictures of penguins, sea otters and even jelly fish from the Monterey Bay Aquarium.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/monterey-bay-aquarium.html'
-permalink: /travel/monterey-bay-aquarium.html
+aliases: ['/travel/monterey-bay-aquarium.html']
 categories:
     - Travel
 tags:

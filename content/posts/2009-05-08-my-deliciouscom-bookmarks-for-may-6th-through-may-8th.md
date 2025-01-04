@@ -5,7 +5,7 @@ date: '2009-05-08T09:00:14+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1398'
-permalink: /links/my-deliciouscom-bookmarks-for-may-6th-through-may-8th.html
+aliases: ['/links/my-deliciouscom-bookmarks-for-may-6th-through-may-8th.html']
 categories:
     - Links
 tags:

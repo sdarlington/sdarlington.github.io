@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A few images of Blackrooms recent gig at the Water Rats in London.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1875'
-permalink: /photography/blackroom.html
+aliases: ['/photography/blackroom.html']
 categories:
     - Photography
 tags:

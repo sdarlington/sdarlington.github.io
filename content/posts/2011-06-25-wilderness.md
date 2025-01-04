@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Wilderness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3015'
-permalink: /photography/photofriday/wilderness.html
+aliases: ['/photography/photofriday/wilderness.html']
 image:
     - ''
 seo_follow:

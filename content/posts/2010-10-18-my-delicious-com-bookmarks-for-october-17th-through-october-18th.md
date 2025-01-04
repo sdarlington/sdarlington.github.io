@@ -5,7 +5,7 @@ date: '2010-10-18T23:00:24+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2349'
-permalink: /links/my-delicious-com-bookmarks-for-october-17th-through-october-18th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-october-17th-through-october-18th.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Linux is famous for being a solid server platform. Stephen Darlington takes a look at a web application that you might consider using. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/linux/tps/wwwthreads-27.html'
-permalink: /computing/linux/tps/wwwthreads.html
+aliases: ['/computing/linux/tps/wwwthreads.html']
 categories:
     - 'The Penguin Says'
 tags:

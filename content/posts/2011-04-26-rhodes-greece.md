@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In a poll of two, my parents, one hundred percent of participants recommended Rhodes as a great Greek destination, with a nice mixture of beaches, history and places to eat and drink. Seemed worth a visit.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2840'
-permalink: /travel/rhodes-greece.html
+aliases: ['/travel/rhodes-greece.html']
 image:
     - ''
 seo_follow:

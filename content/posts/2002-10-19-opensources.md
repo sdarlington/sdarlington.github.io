@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: " Stephen Darlington listens to the 'Voices from the Open Source Revolution' and it very impressed.\r\n\r\n"
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/open-sources.html'
-permalink: /computing/opinion/opensources.html
+aliases: ['/computing/opinion/opensources.html']
 categories:
     - Opinion
 tags:

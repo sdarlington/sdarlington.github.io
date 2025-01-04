@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Rationalising Pet Shop Boys success and their recent London gig.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/pet-shop-boys.html'
-permalink: /blog/pet-shop-boys.html
+aliases: ['/blog/pet-shop-boys.html']
 categories:
     - Blog
 tags:

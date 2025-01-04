@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Every year I try to complete Advent of Code. Every year I think about Programming Pearls.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=78424'
-permalink: /computing/opinion/programming-pearls.html
+aliases: ['/computing/opinion/programming-pearls.html']
 categories:
     - Opinion
 tags:

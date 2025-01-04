@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'About Atheist Pride and two of the four horsemen at a recent talk in London. '
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1236'
-permalink: /blog/atheist-pride-day.html
+aliases: ['/blog/atheist-pride-day.html']
 categories:
     - Blog
 tags:

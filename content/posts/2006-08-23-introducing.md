@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Welcome to our new pets'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/introducing.html'
-permalink: /blog/introducing.html
+aliases: ['/blog/introducing.html']
 categories:
     - Blog
 tags:

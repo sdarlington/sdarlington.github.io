@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Are “the fuzzies” sentient? That’s the premise of “Fuzzy Nation.” Is it worth a read?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=62491'
-permalink: /blog/fuzzy-nation.html
+aliases: ['/blog/fuzzy-nation.html']
 categories:
     - Blog
 tags:

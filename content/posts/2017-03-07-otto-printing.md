@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'First step in building Otto, the dancing robot, was to 3D print the body and legs. '
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4615'
-permalink: /blog/otto-printing.html
+aliases: ['/blog/otto-printing.html']
 categories:
     - Blog
 ---

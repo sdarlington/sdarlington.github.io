@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Having recently moved jobs, it was interesting to read this article discussing the trends from 178 other leavers. I''m sure there are as many reasons for leaving as people, but the numbers reflect my reasons fairly closely.'
 layout: post
 guid: 'http://www.zx81.org.uk/links/why-top-employees-quit-by-dumb-little-man.html'
-permalink: /links/why-top-employees-quit-by-dumb-little-man.html
+aliases: ['/links/why-top-employees-quit-by-dumb-little-man.html']
 categories:
     - Links
 tags:

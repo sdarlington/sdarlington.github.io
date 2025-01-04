@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I publish the stories that Wanderlust magazine edit out...'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/wanderlust.html'
-permalink: /travel/wanderlust.html
+aliases: ['/travel/wanderlust.html']
 categories:
     - Blog
     - Travel

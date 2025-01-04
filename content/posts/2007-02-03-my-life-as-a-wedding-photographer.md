@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Despite pledging never to photograph a wedding, I ended up doing it twice in less than a month. Here is my experience.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/my-life-as-a-wedding-photographer.html'
-permalink: /photography/my-life-as-a-wedding-photographer.html
+aliases: ['/photography/my-life-as-a-wedding-photographer.html']
 categories:
     - Photography
 tags:

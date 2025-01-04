@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Replacing one mind numbing task with another. Winning?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93914'
-permalink: /computing/opinion/saving-powerpoints-as-pdf-on-a-mac.html
+aliases: ['/computing/opinion/saving-powerpoints-as-pdf-on-a-mac.html']
 categories:
     - Opinion
 tags:

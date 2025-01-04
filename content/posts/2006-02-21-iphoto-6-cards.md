@@ -5,7 +5,7 @@ date: '2006-02-21T13:43:35+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=44'
-permalink: /blog/iphoto-6-cards.html
+aliases: ['/blog/iphoto-6-cards.html']
 categories:
     - Blog
     - Photography

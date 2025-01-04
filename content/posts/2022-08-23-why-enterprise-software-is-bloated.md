@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Enterprise software tends to be big and bloated and complex. Why is that? And what can we do to fix it?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=73339'
-permalink: /computing/opinion/why-enterprise-software-is-bloated.html
+aliases: ['/computing/opinion/why-enterprise-software-is-bloated.html']
 categories:
     - Opinion
 tags:

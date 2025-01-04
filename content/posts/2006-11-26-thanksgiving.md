@@ -5,7 +5,7 @@ date: '2006-11-26T14:38:51+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/thanksgiving.html'
-permalink: /blog/thanksgiving.html
+aliases: ['/blog/thanksgiving.html']
 categories:
     - Blog
 tags:

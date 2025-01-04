@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'To get the best view of Japans iconic Mount Fuji I went to the "five lakes" area which lies to the North of the mountain.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2368'
-permalink: /travel/japan-mount-fuji.html
+aliases: ['/travel/japan-mount-fuji.html']
 adman_disable:
     - 'on'
 categories:

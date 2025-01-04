@@ -5,7 +5,7 @@ date: '2006-03-22T11:49:19+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=54'
-permalink: /links/world-water-day.html
+aliases: ['/links/world-water-day.html']
 categories:
     - Links
 tags:

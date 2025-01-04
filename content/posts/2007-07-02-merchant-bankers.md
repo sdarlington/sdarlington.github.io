@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Citi do speak a foreign language.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/merchant-bankers.html'
-permalink: /blog/merchant-bankers.html
+aliases: ['/blog/merchant-bankers.html']
 categories:
     - Blog
 tags:

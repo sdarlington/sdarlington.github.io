@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Travels without my camera.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2024'
-permalink: /travel/travelling-with-work.html
+aliases: ['/travel/travelling-with-work.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Extraordinary." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=664'
-permalink: /photography/photofriday/the-extraordinary.html
+aliases: ['/photography/photofriday/the-extraordinary.html']
 categories:
     - PhotoFriday
 tags:

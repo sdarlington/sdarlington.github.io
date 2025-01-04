@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Want to stand up in front of people and talk? This book might help you do that. '
 layout: post
 guid: 'https://www.zx81.org.uk/?p=28235'
-permalink: /blog/ted-talks-the-official-guide-public-speaking.html
+aliases: ['/blog/ted-talks-the-official-guide-public-speaking.html']
 categories:
     - Blog
 tags:

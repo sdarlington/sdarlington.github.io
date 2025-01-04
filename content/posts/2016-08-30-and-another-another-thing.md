@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I read "And another thing..." so you don''t have to...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4424'
-permalink: /blog/and-another-another-thing.html
+aliases: ['/blog/and-another-another-thing.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Dead of Night." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/dead-of-night.html'
-permalink: /photography/photofriday/dead-of-night.html
+aliases: ['/photography/photofriday/dead-of-night.html']
 adman_disable:
     - 'on'
 categories:

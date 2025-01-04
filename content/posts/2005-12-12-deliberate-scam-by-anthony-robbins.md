@@ -5,7 +5,7 @@ date: '2005-12-12T22:38:18+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=18'
-permalink: /links/deliberate-scam-by-anthony-robbins.html
+aliases: ['/links/deliberate-scam-by-anthony-robbins.html']
 categories:
     - Links
 tags:

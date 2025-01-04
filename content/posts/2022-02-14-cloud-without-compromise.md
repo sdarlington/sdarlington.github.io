@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I learn how I should have done a conference talk about cloud computing.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=70456'
-permalink: /blog/cloud-without-compromise.html
+aliases: ['/blog/cloud-without-compromise.html']
 spay_email:
     - ''
 categories:

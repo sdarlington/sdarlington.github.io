@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Lightness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1970'
-permalink: /photography/photofriday/lightness.html
+aliases: ['/photography/photofriday/lightness.html']
 image:
     - ''
 seo_follow:

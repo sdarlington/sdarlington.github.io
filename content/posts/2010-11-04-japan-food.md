@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you know me, you''ll appreciate that Japanese food was one of things that I was not looking forward to before I went. Luckily I was wrong.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2366'
-permalink: /travel/japan-food.html
+aliases: ['/travel/japan-food.html']
 adman_disable:
     - 'on'
 categories:

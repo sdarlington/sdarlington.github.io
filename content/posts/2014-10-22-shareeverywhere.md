@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Did you hear about my new app, ShareEverywhere?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4130'
-permalink: /computing/software/shareeverywhere.html
+aliases: ['/computing/software/shareeverywhere.html']
 categories:
     - Software
 tags:

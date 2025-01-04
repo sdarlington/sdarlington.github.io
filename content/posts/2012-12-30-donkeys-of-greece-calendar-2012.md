@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes you see something so absurd you just have to have it…'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3539'
-permalink: /travel/donkeys-of-greece-calendar-2012.html
+aliases: ['/travel/donkeys-of-greece-calendar-2012.html']
 categories:
     - Travel
 tags:

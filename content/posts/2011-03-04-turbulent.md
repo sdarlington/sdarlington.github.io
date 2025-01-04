@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Turbulent." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2733'
-permalink: /photography/photofriday/turbulent.html
+aliases: ['/photography/photofriday/turbulent.html']
 image:
     - ''
 embed:

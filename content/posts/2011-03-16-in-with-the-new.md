@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'New toys are great but they don''t always work first time.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2760'
-permalink: /blog/in-with-the-new.html
+aliases: ['/blog/in-with-the-new.html']
 image:
     - ''
 embed:

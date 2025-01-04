@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Up to a certain point you''ll put up with poor service in return for low prices. My old web host crossed the line.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1706'
-permalink: /news/web-host-whinge.html
+aliases: ['/news/web-host-whinge.html']
 categories:
     - News
 tags:

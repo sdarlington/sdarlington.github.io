@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What''s the problem with the Problem With Men?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67540'
-permalink: /blog/the-problem-with-men.html
+aliases: ['/blog/the-problem-with-men.html']
 spay_email:
     - ''
 categories:

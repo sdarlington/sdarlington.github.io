@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Can I convince you to read this book?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=65108'
-permalink: /blog/never-split-the-difference.html
+aliases: ['/blog/never-split-the-difference.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I read another novel based on a recommendation that “people who like Douglas Adams also like Tom Sharpe.” Was it true?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=84685'
-permalink: /blog/wilt-on-high.html
+aliases: ['/blog/wilt-on-high.html']
 categories:
     - Blog
 tags:

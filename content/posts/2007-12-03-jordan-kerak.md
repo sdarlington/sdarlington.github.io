@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My tour of Jordan continues south with a visit to Kerak and its crusader castle.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/jordan-kerak.html'
-permalink: /travel/jordan-kerak.html
+aliases: ['/travel/jordan-kerak.html']
 categories:
     - Travel
 tags:

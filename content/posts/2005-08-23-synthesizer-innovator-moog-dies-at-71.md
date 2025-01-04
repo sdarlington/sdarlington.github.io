@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Dr Robert Moog, the inventor of the electronic synthesiser, has died of brain cancer aged 71.'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=6'
-permalink: /links/synthesizer-innovator-moog-dies-at-71.html
+aliases: ['/links/synthesizer-innovator-moog-dies-at-71.html']
 categories:
     - Links
 tags:

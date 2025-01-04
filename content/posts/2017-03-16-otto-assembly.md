@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'With the body printed, and the electronics tested, it was finally time to put everything together. Would Otto the robot dance and avoid obstacles?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4627'
-permalink: /blog/otto-assembly.html
+aliases: ['/blog/otto-assembly.html']
 categories:
     - Blog
 ---

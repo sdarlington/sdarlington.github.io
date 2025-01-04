@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Someone reviewed your software and thought that it was overpriced. Does it matter?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/so-you-got-a-bad-review.html'
-permalink: /computing/opinion/so-you-got-a-bad-review.html
+aliases: ['/computing/opinion/so-you-got-a-bad-review.html']
 categories:
     - Opinion
 tags:

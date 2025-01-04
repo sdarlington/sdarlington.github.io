@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day ten of the twenty books in twenty days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99389'
-permalink: /blog/how-to-be-a-liberal-2.html
+aliases: ['/blog/how-to-be-a-liberal-2.html']
 categories:
     - Blog
 tags:

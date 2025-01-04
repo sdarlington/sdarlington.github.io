@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Initial thoughts on Apple''s new wireless headphones.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4457'
-permalink: /blog/apple-airpods-first-thoughts.html
+aliases: ['/blog/apple-airpods-first-thoughts.html']
 categories:
     - Blog
 ---

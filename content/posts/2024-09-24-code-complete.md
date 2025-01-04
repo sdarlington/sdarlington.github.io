@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day two of the twenty books in twenty days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99372'
-permalink: /blog/code-complete.html
+aliases: ['/blog/code-complete.html']
 categories:
     - Blog
 tags:

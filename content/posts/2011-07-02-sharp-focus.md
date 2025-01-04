@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Sharp Focus." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3026'
-permalink: /photography/photofriday/sharp-focus.html
+aliases: ['/photography/photofriday/sharp-focus.html']
 image:
     - ''
 embed:

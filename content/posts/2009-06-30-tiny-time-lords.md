@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Any excuse for a Doctor Who reference.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1546'
-permalink: /travel/tiny-time-lords.html
+aliases: ['/travel/tiny-time-lords.html']
 categories:
     - Travel
 tags:

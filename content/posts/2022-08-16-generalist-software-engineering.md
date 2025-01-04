@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The software industry rewards specialism. What can you so if you prefer to generalise?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=73248'
-permalink: /computing/opinion/generalist-software-engineering.html
+aliases: ['/computing/opinion/generalist-software-engineering.html']
 categories:
     - Opinion
 tags:

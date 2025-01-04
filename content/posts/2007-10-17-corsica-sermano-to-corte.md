@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The first day of walking in Corsica gets off to a soggy start but all is forgiven after some spectacular views.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-sermano-to-corte.html'
-permalink: /travel/corsica-sermano-to-corte.html
+aliases: ['/travel/corsica-sermano-to-corte.html']
 categories:
     - Travel
 tags:

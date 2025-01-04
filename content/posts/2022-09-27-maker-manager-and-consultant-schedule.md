@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Can you both be productive and have lots of meetings?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=74371'
-permalink: /blog/maker-manager-and-consultant-schedule.html
+aliases: ['/blog/maker-manager-and-consultant-schedule.html']
 categories:
     - Blog
 tags:

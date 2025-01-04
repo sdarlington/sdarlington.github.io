@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Last week I was staying in Canillas de Albiada, Southern Spain, walking around the Natural Parks.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1723'
-permalink: /travel/andalucia-spain.html
+aliases: ['/travel/andalucia-spain.html']
 adman_disable:
     - 'on'
 categories:

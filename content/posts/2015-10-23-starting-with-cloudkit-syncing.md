@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Got that syncing feeling when trying to use CloudKit?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4333'
-permalink: /computing/programming/starting-with-cloudkit-syncing.html
+aliases: ['/computing/programming/starting-with-cloudkit-syncing.html']
 categories:
     - Programming
 ---

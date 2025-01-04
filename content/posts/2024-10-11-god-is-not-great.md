@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day fifteen in the Twenty Books in Twenty Days series'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99850'
-permalink: /blog/god-is-not-great.html
+aliases: ['/blog/god-is-not-great.html']
 categories:
     - Blog
 tags:

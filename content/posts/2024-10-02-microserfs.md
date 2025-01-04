@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day eight of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99385'
-permalink: /blog/microserfs.html
+aliases: ['/blog/microserfs.html']
 categories:
     - Blog
 tags:

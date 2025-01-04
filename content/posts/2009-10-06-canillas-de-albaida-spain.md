@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I stayed in a small town on the edge of the Sierras De Tejeda Natural Park.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1765'
-permalink: /travel/canillas-de-albaida-spain.html
+aliases: ['/travel/canillas-de-albaida-spain.html']
 categories:
     - Travel
 tags:

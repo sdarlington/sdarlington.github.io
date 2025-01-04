@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Unforgettable." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2322'
-permalink: /photography/photofriday/unforgettable.html
+aliases: ['/photography/photofriday/unforgettable.html']
 adman_disable:
     - 'on'
 categories:

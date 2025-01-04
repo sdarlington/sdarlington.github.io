@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The meerkats on TV have an uphill struggle when even the Mac''s spell checker doesn''t understand their plight.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3612'
-permalink: /blog/meerkat-confusion.html
+aliases: ['/blog/meerkat-confusion.html']
 categories:
     - Blog
 tags:

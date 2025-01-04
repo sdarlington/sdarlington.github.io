@@ -5,7 +5,7 @@ date: '2007-01-12T17:27:27+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/what-george-w-bush-could-learn-from-steve-jobs.html'
-permalink: /links/what-george-w-bush-could-learn-from-steve-jobs.html
+aliases: ['/links/what-george-w-bush-could-learn-from-steve-jobs.html']
 categories:
     - Links
 tags:

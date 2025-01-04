@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Maybe I can save you some time reading blogs about Swift...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4128'
-permalink: /computing/opinion/how-do-i-do-x-in-swift.html
+aliases: ['/computing/opinion/how-do-i-do-x-in-swift.html']
 categories:
     - Opinion
 ---

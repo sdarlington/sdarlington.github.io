@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It seems that the weather is not without a sense of irony. In the year that is the hottest on record, in the UK we''re having a very early cold snap, complete with snow.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2540'
-permalink: /photography/early-snow.html
+aliases: ['/photography/early-snow.html']
 adman_disable:
     - 'on'
 categories:

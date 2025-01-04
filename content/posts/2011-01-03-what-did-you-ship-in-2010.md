@@ -5,7 +5,7 @@ date: '2011-01-03T18:24:17+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2597'
-permalink: /blog/what-did-you-ship-in-2010.html
+aliases: ['/blog/what-did-you-ship-in-2010.html']
 image:
     - ''
 embed:

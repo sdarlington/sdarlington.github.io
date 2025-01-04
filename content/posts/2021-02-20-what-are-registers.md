@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When a statement about CPU hardware on Twitter is too nuanced to discuss in 280 character.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67755'
-permalink: /computing/opinion/what-are-registers.html
+aliases: ['/computing/opinion/what-are-registers.html']
 categories:
     - Opinion
 tags:

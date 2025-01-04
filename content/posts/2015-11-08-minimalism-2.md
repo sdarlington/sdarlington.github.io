@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Minimalism." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4348'
-permalink: /photography/photofriday/minimalism-2.html
+aliases: ['/photography/photofriday/minimalism-2.html']
 categories:
     - PhotoFriday
 tags:

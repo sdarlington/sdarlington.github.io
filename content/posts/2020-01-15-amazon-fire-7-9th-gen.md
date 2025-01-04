@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Does Amazon''s cheapest tablet have anything to commend it other than the price?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64598'
-permalink: /computing/opinion/amazon-fire-7-9th-gen.html
+aliases: ['/computing/opinion/amazon-fire-7-9th-gen.html']
 categories:
     - Opinion
 tags:

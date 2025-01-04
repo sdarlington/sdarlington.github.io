@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Shooting on Brighton beach as the sun sets.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1643'
-permalink: /photography/brighton-sunset.html
+aliases: ['/photography/brighton-sunset.html']
 categories:
     - Photography
 tags:

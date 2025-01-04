@@ -5,7 +5,7 @@ date: '2018-05-05T16:56:39+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4967'
-permalink: /blog/creativity-inc.html
+aliases: ['/blog/creativity-inc.html']
 categories:
     - Blog
 tags:

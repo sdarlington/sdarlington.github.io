@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'As many Linux user are also programmers, Stephen Darlington reads Practical C Programming and tries to decide how useful it is. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/practical-c-programming.html'
-permalink: /computing/opinion/practicalc.html
+aliases: ['/computing/opinion/practicalc.html']
 categories:
     - Opinion
 tags:

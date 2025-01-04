@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Nightlife." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2014'
-permalink: /photography/photofriday/nightlife.html
+aliases: ['/photography/photofriday/nightlife.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Ever wondered why Apple''s stock drops in value after announcing fantastic results or a block-buster new product?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4297'
-permalink: /computing/opinion/taking-stock.html
+aliases: ['/computing/opinion/taking-stock.html']
 categories:
     - Opinion
 tags:

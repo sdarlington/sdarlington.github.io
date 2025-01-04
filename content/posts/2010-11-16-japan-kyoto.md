@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Having seen the current Japanese capital city it was now time to see the historic and cultural capital, Kyoto.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2369'
-permalink: /travel/japan-kyoto.html
+aliases: ['/travel/japan-kyoto.html']
 adman_disable:
     - 'on'
 categories:

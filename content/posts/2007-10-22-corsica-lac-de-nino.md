@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The prospect of seeing a Tibetan-style landscape and walking on some of the (semi) famous GR20 path leads me off the Mare a Mare Nord path and towards the Lac de Nino.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-lac-de-nino.html'
-permalink: /travel/corsica-lac-de-nino.html
+aliases: ['/travel/corsica-lac-de-nino.html']
 categories:
     - Travel
 tags:

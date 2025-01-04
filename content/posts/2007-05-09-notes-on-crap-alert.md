@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'While my previous post on the CRAP Alert was most definitely a satire, there are some serious points that I unambiguously want to get across.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/notes-on-crap-alert.html'
-permalink: /blog/notes-on-crap-alert.html
+aliases: ['/blog/notes-on-crap-alert.html']
 categories:
     - Blog
 tags:

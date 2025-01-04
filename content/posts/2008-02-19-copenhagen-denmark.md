@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I head to K?benhavn, the Danish capital city, for a weekend to take in the sights.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/copenhagen-denmark.html'
-permalink: /travel/copenhagen-denmark.html
+aliases: ['/travel/copenhagen-denmark.html']
 categories:
     - Travel
 tags:

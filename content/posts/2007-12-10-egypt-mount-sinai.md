@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'While Moses got ten commandments when he climbed Mount Sinai, all I got was a request for a mug of hot chocolate and a blanket. Still, it was worth the effort.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/egypt-mount-sinai.html'
-permalink: /travel/egypt-mount-sinai.html
+aliases: ['/travel/egypt-mount-sinai.html']
 categories:
     - Travel
 tags:

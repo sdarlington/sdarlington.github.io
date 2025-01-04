@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How could Apple’s App Store be fairer for all participants?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=63164'
-permalink: /computing/opinion/app-store-pricing.html
+aliases: ['/computing/opinion/app-store-pricing.html']
 categories:
     - Opinion
 tags:

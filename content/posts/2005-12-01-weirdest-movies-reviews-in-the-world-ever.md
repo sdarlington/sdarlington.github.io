@@ -5,7 +5,7 @@ date: '2005-12-01T08:08:47+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=9'
-permalink: /blog/weirdest-movies-reviews-in-the-world-ever.html
+aliases: ['/blog/weirdest-movies-reviews-in-the-world-ever.html']
 categories:
     - Blog
     - Links

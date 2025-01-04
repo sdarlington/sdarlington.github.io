@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Even on the London Underground it''s difficult to escape sometimes.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/where-is-the-love.html'
-permalink: /blog/where-is-the-love.html
+aliases: ['/blog/where-is-the-love.html']
 categories:
     - Blog
 tags:

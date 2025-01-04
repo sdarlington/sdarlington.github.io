@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Body of water." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3660'
-permalink: /photography/photofriday/body-of-water.html
+aliases: ['/photography/photofriday/body-of-water.html']
 categories:
     - PhotoFriday
 tags:

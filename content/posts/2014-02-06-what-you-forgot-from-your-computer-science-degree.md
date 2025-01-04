@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I did a presentation at last nights London iOS Developer Group meeting.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3871'
-permalink: /computing/programming/what-you-forgot-from-your-computer-science-degree.html
+aliases: ['/computing/programming/what-you-forgot-from-your-computer-science-degree.html']
 categories:
     - Programming
 tags:

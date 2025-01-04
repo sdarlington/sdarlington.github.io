@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day seventeen of the Twenty Books in Twenty Days series'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99856'
-permalink: /blog/the-selfish-gene.html
+aliases: ['/blog/the-selfish-gene.html']
 categories:
     - Blog
 tags:

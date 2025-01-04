@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Just because you can''t get a new car for Christmas doesn''t mean that you can''t have fun.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2609'
-permalink: /photography/lego-ferrari.html
+aliases: ['/photography/lego-ferrari.html']
 image:
     - ''
 embed:

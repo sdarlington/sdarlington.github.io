@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The concept persuaded me to buy the book. Would I be able to persuade anyone else’s afterwards?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4988'
-permalink: /blog/how-to-argue-with-a-cat.html
+aliases: ['/blog/how-to-argue-with-a-cat.html']
 categories:
     - Blog
 tags:

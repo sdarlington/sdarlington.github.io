@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'We decided to leave the hectic streets of London for our Easter break and headed up to Yorkshire, taking in both my home town and the pretty, river-side town of Knaresborough.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/knaresborough-and-ossett-yorkshire.html'
-permalink: /travel/knaresborough-and-ossett-yorkshire.html
+aliases: ['/travel/knaresborough-and-ossett-yorkshire.html']
 categories:
     - Travel
 tags:

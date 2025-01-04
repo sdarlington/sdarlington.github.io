@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Christmas is usually a time for family and friends. But this tree only lights up when it sees someone it recognises.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67543'
-permalink: /computing/unsociable-christmas-tree.html
+aliases: ['/computing/unsociable-christmas-tree.html']
 spay_email:
     - ''
 categories:

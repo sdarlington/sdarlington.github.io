@@ -5,7 +5,7 @@ date: '2005-12-18T20:52:46+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=24'
-permalink: /blog/dantes-inferno-test.html
+aliases: ['/blog/dantes-inferno-test.html']
 categories:
     - Blog
 tags:

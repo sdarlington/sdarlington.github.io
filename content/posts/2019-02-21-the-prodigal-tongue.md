@@ -5,7 +5,7 @@ date: '2019-02-21T17:49:41+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=47298'
-permalink: /blog/the-prodigal-tongue.html
+aliases: ['/blog/the-prodigal-tongue.html']
 categories:
     - Blog
 tags:

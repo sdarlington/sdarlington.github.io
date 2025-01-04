@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This summer, "Tomorrow, Tomorrow and Tomorrow" was everywhere. If you''re the only person not to have read it, should you?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=98644'
-permalink: /blog/tomorrow-tomorrow-and-tomorrow.html
+aliases: ['/blog/tomorrow-tomorrow-and-tomorrow.html']
 categories:
     - Blog
 tags:

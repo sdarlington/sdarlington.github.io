@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'So far the Dual Scan has been the subject of derision by both photographers and IT people. Can they all be right? '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/minolta-dual-scan-ii.html'
-permalink: /computing/opinion/dualscanii.html
+aliases: ['/computing/opinion/dualscanii.html']
 categories:
     - Opinion
 tags:

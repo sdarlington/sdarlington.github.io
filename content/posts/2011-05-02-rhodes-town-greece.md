@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Since that''s where I was staying, I took a good look around Rhodes town, all three parts of it, before I explored the rest of the island. Here are the results.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2844'
-permalink: /travel/rhodes-town-greece.html
+aliases: ['/travel/rhodes-town-greece.html']
 image:
     - ''
 seo_follow:

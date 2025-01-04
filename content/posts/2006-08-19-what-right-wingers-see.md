@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What do right-wingers see when they read the paper?'
 layout: post
 guid: 'http://www.zx81.org.uk/links/what-right-wingers-see.html'
-permalink: /links/what-right-wingers-see.html
+aliases: ['/links/what-right-wingers-see.html']
 categories:
     - Links
 tags:

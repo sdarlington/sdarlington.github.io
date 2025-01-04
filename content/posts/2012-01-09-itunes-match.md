@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I thought that I''d try out Apple''s new iTunes Match service. Here are my initial thoughts on it.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3265'
-permalink: /computing/opinion/itunes-match.html
+aliases: ['/computing/opinion/itunes-match.html']
 image:
     - ''
 embed:

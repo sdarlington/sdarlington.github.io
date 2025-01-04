@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I get away from the start of the British winter with two weeks in the Middle East.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/jordan-and-egypt.html'
-permalink: /travel/jordan-and-egypt.html
+aliases: ['/travel/jordan-and-egypt.html']
 categories:
     - Travel
 tags:

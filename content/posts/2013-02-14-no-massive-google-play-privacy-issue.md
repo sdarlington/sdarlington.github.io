@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is passing customer details to developers really a privacy concern?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3600'
-permalink: /computing/opinion/no-massive-google-play-privacy-issue.html
+aliases: ['/computing/opinion/no-massive-google-play-privacy-issue.html']
 categories:
     - Opinion
 tags:

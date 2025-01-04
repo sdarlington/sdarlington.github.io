@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A subjective list of pros and cons for two "read later and offline" apps.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3377'
-permalink: /computing/opinion/instapaper-versus-pocket.html
+aliases: ['/computing/opinion/instapaper-versus-pocket.html']
 categories:
     - Opinion
 tags:

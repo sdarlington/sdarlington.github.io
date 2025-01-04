@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Temperature." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3637'
-permalink: /photography/photofriday/temperature.html
+aliases: ['/photography/photofriday/temperature.html']
 categories:
     - PhotoFriday
 tags:

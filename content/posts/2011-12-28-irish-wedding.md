@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The first wedding for a while where I''ve not been The Photographer in some capacity and it was a good one.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3250'
-permalink: /photography/irish-wedding.html
+aliases: ['/photography/irish-wedding.html']
 image:
     - ''
 embed:

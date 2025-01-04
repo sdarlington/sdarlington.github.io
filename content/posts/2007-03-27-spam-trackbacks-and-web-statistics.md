@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Reading spam messages and webserver statistics may not be be everyones idea of fun, but I still found things to amuse me.'
 layout: post
 guid: 'http://www.zx81.org.uk/news/spam-trackbacks-and-web-statistics.html'
-permalink: /news/spam-trackbacks-and-web-statistics.html
+aliases: ['/news/spam-trackbacks-and-web-statistics.html']
 categories:
     - News
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Can Robert Webb write as well as act and dance?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=5335'
-permalink: /blog/how-not-to-be-a-boy.html
+aliases: ['/blog/how-not-to-be-a-boy.html']
 categories:
     - Blog
 tags:

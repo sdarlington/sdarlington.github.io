@@ -5,7 +5,7 @@ date: '2006-10-15T16:40:06+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/protect-the-human.html'
-permalink: /blog/protect-the-human.html
+aliases: ['/blog/protect-the-human.html']
 categories:
     - Blog
     - Links

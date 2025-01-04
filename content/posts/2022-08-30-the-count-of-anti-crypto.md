@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Crypto is a scam.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=73571'
-permalink: /computing/opinion/the-count-of-anti-crypto.html
+aliases: ['/computing/opinion/the-count-of-anti-crypto.html']
 categories:
     - Opinion
 tags:

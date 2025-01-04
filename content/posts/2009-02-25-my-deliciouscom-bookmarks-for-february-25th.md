@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '<p>These are my links for February 25th from 10:15 to 19:35'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=967'
-permalink: /links/my-deliciouscom-bookmarks-for-february-25th.html
+aliases: ['/links/my-deliciouscom-bookmarks-for-february-25th.html']
 categories:
     - Links
 tags:

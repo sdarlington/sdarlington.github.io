@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Yummy, my delicious.com interface for the iPhone, is now available.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=622'
-permalink: /computing/software/yummy-ready-for-sale.html
+aliases: ['/computing/software/yummy-ready-for-sale.html']
 categories:
     - Software
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Symi is just a short boat trip from Rhodes and was once the richer of the two islands. I pay it a visit.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2851'
-permalink: /travel/symi-greece.html
+aliases: ['/travel/symi-greece.html']
 image:
     - ''
 embed:

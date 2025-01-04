@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In the eleventh in my series of November trips, I decide to head to Portugal''s capital city, Lisbon.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=777'
-permalink: /travel/lisbon-portugal.html
+aliases: ['/travel/lisbon-portugal.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Translucent." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4145'
-permalink: /photography/photofriday/translucent.html
+aliases: ['/photography/photofriday/translucent.html']
 categories:
     - PhotoFriday
 tags:

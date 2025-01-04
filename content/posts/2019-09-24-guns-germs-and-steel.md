@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It’s taken me over a decade to get around to reading this book. Was it worth the wait?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64092'
-permalink: /blog/guns-germs-and-steel.html
+aliases: ['/blog/guns-germs-and-steel.html']
 categories:
     - Blog
 tags:

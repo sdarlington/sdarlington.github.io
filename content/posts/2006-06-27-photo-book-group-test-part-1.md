@@ -5,7 +5,7 @@ date: '2006-06-27T13:12:49+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=70'
-permalink: /photography/photo-book-group-test-part-1.html
+aliases: ['/photography/photo-book-group-test-part-1.html']
 categories:
     - Photography
 tags:

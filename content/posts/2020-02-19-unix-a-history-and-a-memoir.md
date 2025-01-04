@@ -5,7 +5,7 @@ date: '2020-02-19T17:02:55+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=65151'
-permalink: /blog/unix-a-history-and-a-memoir.html
+aliases: ['/blog/unix-a-history-and-a-memoir.html']
 categories:
     - Blog
 tags:

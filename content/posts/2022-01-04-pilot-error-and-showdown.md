@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Does finishing two short stories count as two books in my annual reading challenge?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=70286'
-permalink: /blog/pilot-error-and-showdown.html
+aliases: ['/blog/pilot-error-and-showdown.html']
 spay_email:
     - ''
 categories:

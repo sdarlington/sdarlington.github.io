@@ -5,7 +5,7 @@ date: '2006-01-26T14:04:40+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=36'
-permalink: /links/how-to-do-what-you-love.html
+aliases: ['/links/how-to-do-what-you-love.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I start my reading in 2021 with some fiction. Any good?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67749'
-permalink: /blog/sweet-caress.html
+aliases: ['/blog/sweet-caress.html']
 spay_email:
     - ''
 categories:

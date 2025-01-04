@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How did the pictures get from my camera to your screen?'
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/zx81/about-pictures.html'
-permalink: /travel/about-pictures.html
+aliases: ['/travel/about-pictures.html']
 categories:
     - Travel
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is Microsoft buying Yahoo really such a good idea? I look back to HP''s acquisition of Compaq.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/is-microsoft-yahoo-the-next-hpaq.html'
-permalink: /computing/opinion/is-microsoft-yahoo-the-next-hpaq.html
+aliases: ['/computing/opinion/is-microsoft-yahoo-the-next-hpaq.html']
 categories:
     - Opinion
 tags:

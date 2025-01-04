@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Early impressions of Apple''s new operating system.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1688'
-permalink: /computing/opinion/snow-leopard.html
+aliases: ['/computing/opinion/snow-leopard.html']
 categories:
     - Opinion
 tags:

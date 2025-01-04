@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Too many people say that it''s not possible to migrate a paid iOS app to a free one supported with in-app purchases. Here I explain how to do it.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4209'
-permalink: /computing/programming/moving-an-app-from-paid-to-free.html
+aliases: ['/computing/programming/moving-an-app-from-paid-to-free.html']
 enclosure:
     - "http://devstreaming.apple.com/videos/wwdc/2013/308xex4x6ybggtlw4ztv0sg5btp/308/308-HD.mov?dl=1\r\n2677472578\r\nvideo/quicktime\r\n"
 categories:

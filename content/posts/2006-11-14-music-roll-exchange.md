@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: "I don't have an entry for this weeks PhotoFriday so I thought I would take the opportunity to show-case some of my other photography...\r\n"
 layout: post
 guid: 'http://www.zx81.org.uk/photography/music-roll-exchange.html'
-permalink: /photography/music-roll-exchange.html
+aliases: ['/photography/music-roll-exchange.html']
 categories:
     - Photography
 tags:

@@ -5,7 +5,7 @@ date: '2006-02-09T13:35:42+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=41'
-permalink: /links/how-to-avoid-open-source-licensing-pitfalls.html
+aliases: ['/links/how-to-avoid-open-source-licensing-pitfalls.html']
 categories:
     - Links
 tags:

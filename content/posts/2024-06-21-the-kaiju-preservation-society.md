@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I pick up another John Scalzi book. Any good?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=94347'
-permalink: /blog/the-kaiju-preservation-society.html
+aliases: ['/blog/the-kaiju-preservation-society.html']
 categories:
     - Blog
 tags:

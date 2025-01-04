@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you write iOS software and are waiting for crash reports to be delivered to iTunes Connect, you''re doing it wrong.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2758'
-permalink: /computing/opinion/why-you-need-a-crash-reporter.html
+aliases: ['/computing/opinion/why-you-need-a-crash-reporter.html']
 image:
     - ''
 embed:

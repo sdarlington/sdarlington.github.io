@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is writing software tools the thing that make some developers significantly more productive than others?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/blessed-is-the-tool-maker.html'
-permalink: /computing/opinion/blessed-is-the-tool-maker.html
+aliases: ['/computing/opinion/blessed-is-the-tool-maker.html']
 adman_disable:
     - 'on'
 categories:

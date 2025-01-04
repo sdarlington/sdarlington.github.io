@@ -5,7 +5,7 @@ date: '2006-11-02T11:51:46+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/news/we-apologise-for-the-inconvenience.html'
-permalink: /news/we-apologise-for-the-inconvenience.html
+aliases: ['/news/we-apologise-for-the-inconvenience.html']
 categories:
     - News
 tags:

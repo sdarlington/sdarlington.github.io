@@ -5,7 +5,7 @@ date: '2024-03-01T10:23:00+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=88606'
-permalink: /blog/the-romantic.html
+aliases: ['/blog/the-romantic.html']
 categories:
     - Blog
 tags:

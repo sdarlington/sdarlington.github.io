@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Does the new CEO of Yahoo! -- whoever that turns out to be -- really need to buy even more outside companies to succeed?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3005'
-permalink: /computing/opinion/a-new-ceo-for-yahoo.html
+aliases: ['/computing/opinion/a-new-ceo-for-yahoo.html']
 image:
     - ''
 embed:

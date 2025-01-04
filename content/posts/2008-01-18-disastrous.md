@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Disastrous." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/disastrous.html'
-permalink: /photography/photofriday/disastrous.html
+aliases: ['/photography/photofriday/disastrous.html']
 categories:
     - PhotoFriday
 tags:

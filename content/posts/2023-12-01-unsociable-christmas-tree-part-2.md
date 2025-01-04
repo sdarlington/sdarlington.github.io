@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why write a quick and easy Python script when there’s an impractical alternative?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=86012'
-permalink: /computing/unsociable-christmas-tree-part-2.html
+aliases: ['/computing/unsociable-christmas-tree-part-2.html']
 categories:
     - Computing
 tags:

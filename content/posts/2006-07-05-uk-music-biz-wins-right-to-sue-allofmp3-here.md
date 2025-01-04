@@ -5,7 +5,7 @@ date: '2006-07-05T21:22:27+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=81'
-permalink: /links/uk-music-biz-wins-right-to-sue-allofmp3-here.html
+aliases: ['/links/uk-music-biz-wins-right-to-sue-allofmp3-here.html']
 categories:
     - Links
 tags:

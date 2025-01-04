@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This book is probably worth buying for the unusual cover alone. Stephen Darlington reads it to see if there are other attributes in its favour. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/joel-on-software.html'
-permalink: /computing/opinion/joelonsoftware.html
+aliases: ['/computing/opinion/joelonsoftware.html']
 categories:
     - Opinion
 tags:

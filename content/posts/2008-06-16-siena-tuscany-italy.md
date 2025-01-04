@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Rain often makes it tricky to fully appreciate a sight-seeing trip. Still, Siena has enough charm to shine through the gloom.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=507'
-permalink: /travel/siena-tuscany-italy.html
+aliases: ['/travel/siena-tuscany-italy.html']
 categories:
     - Travel
 tags:

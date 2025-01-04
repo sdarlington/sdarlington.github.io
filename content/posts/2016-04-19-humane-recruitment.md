@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why are candidates treated so poorly during the recruitment process?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4405'
-permalink: /computing/opinion/humane-recruitment.html
+aliases: ['/computing/opinion/humane-recruitment.html']
 categories:
     - Opinion
 tags:

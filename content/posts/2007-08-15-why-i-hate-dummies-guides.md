@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Every time I go into a bookshop and even so much as glance over at the computer section my blood-pressure rises and I start to see red.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/why-i-hate-dummies-guides.html'
-permalink: /computing/opinion/why-i-hate-dummies-guides.html
+aliases: ['/computing/opinion/why-i-hate-dummies-guides.html']
 categories:
     - Opinion
 tags:

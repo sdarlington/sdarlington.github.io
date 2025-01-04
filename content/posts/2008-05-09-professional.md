@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Professional." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=482'
-permalink: /photography/photofriday/professional.html
+aliases: ['/photography/photofriday/professional.html']
 categories:
     - PhotoFriday
 tags:

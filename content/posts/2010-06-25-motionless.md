@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Motionless." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2126'
-permalink: /photography/photofriday/motionless.html
+aliases: ['/photography/photofriday/motionless.html']
 adman_disable:
     - 'on'
 categories:

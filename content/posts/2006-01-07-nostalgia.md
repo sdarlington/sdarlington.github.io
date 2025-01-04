@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometime you just notice that what you''re doing wasn''t possible even a few years ago. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/nostalgia.html'
-permalink: /computing/opinion/nostalgia.html
+aliases: ['/computing/opinion/nostalgia.html']
 categories:
     - Opinion
 tags:

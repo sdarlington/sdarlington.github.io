@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My first attempt at writing a program in Swift proves problematic.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3948'
-permalink: /computing/programming/learning-swift.html
+aliases: ['/computing/programming/learning-swift.html']
 categories:
     - Programming
 tags:

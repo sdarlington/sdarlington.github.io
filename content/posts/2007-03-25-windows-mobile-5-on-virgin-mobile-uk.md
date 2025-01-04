@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I had to go through hell (or Virgin Mobile UKs technical support department) to get MMS working on my Windows Mobile smart phone. Here''s what I did to save you the effort.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/windows-mobile-5-on-virgin-mobile-uk.html'
-permalink: /computing/windows-mobile-5-on-virgin-mobile-uk.html
+aliases: ['/computing/windows-mobile-5-on-virgin-mobile-uk.html']
 categories:
     - Computing
 tags:

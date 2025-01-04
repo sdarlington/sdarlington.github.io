@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Insignificant." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/insignificant.html'
-permalink: /photography/photofriday/insignificant.html
+aliases: ['/photography/photofriday/insignificant.html']
 categories:
     - PhotoFriday
 tags:

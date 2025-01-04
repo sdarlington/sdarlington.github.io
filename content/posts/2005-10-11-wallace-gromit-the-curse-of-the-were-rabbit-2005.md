@@ -5,7 +5,7 @@ date: '2005-10-11T19:57:16+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=10'
-permalink: /blog/wallace-gromit-the-curse-of-the-were-rabbit-2005.html
+aliases: ['/blog/wallace-gromit-the-curse-of-the-were-rabbit-2005.html']
 categories:
     - Blog
 tags:

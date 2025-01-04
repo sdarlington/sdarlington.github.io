@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Meditation." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=889'
-permalink: /photography/photofriday/meditation.html
+aliases: ['/photography/photofriday/meditation.html']
 categories:
     - PhotoFriday
 tags:

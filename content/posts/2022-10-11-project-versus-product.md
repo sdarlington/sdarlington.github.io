@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How can we set the expectation that companies should contribute to open source software projects?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=76575'
-permalink: /computing/opinion/project-versus-product.html
+aliases: ['/computing/opinion/project-versus-product.html']
 categories:
     - Opinion
 tags:

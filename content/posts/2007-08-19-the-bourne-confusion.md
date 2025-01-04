@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If it wasn''t already clear, this confirms without any doubt my geeky tendencies.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/the-bourne-confusion.html'
-permalink: /computing/opinion/the-bourne-confusion.html
+aliases: ['/computing/opinion/the-bourne-confusion.html']
 categories:
     - Opinion
 tags:

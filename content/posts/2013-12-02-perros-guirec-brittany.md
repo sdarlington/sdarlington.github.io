@@ -5,7 +5,7 @@ date: '2013-12-02T18:35:46+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3796'
-permalink: /travel/perros-guirec-brittany.html
+aliases: ['/travel/perros-guirec-brittany.html']
 categories:
     - Travel
 ---

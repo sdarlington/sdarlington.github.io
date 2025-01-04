@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Working in the open doesn’t necessarily mean publishing everything on the Internet.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=79314'
-permalink: /blog/in-the-open.html
+aliases: ['/blog/in-the-open.html']
 categories:
     - Blog
 tags:

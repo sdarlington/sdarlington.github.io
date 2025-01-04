@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Project! I decide to put my 3D printer to good* use and build a dancing robot.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4607'
-permalink: /blog/new-project-otto.html
+aliases: ['/blog/new-project-otto.html']
 categories:
     - Blog
 ---

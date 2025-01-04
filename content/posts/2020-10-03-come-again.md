@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is time-travelling back to the nineties cool nostalgia or a way to avoid doing research?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67099'
-permalink: /blog/come-again.html
+aliases: ['/blog/come-again.html']
 categories:
     - Blog
 tags:

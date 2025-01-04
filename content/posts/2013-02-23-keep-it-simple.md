@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A new week. A new photo challenge.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3609'
-permalink: /photography/keep-it-simple.html
+aliases: ['/photography/keep-it-simple.html']
 categories:
     - Photography
 tags:

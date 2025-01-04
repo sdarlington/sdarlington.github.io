@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "What is that?" Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/what-is-that.html'
-permalink: /photography/photofriday/what-is-that.html
+aliases: ['/photography/photofriday/what-is-that.html']
 categories:
     - PhotoFriday
 tags:

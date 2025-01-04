@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Junior has now spent as long out of the womb as in it.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3466'
-permalink: /blog/better-out-than-in.html
+aliases: ['/blog/better-out-than-in.html']
 categories:
     - Blog
 tags:

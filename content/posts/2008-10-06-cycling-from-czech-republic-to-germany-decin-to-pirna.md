@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Today I cycle across the border from the Czech Republic into Germany.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=652'
-permalink: /travel/cycling-from-czech-republic-to-germany-decin-to-pirna.html
+aliases: ['/travel/cycling-from-czech-republic-to-germany-decin-to-pirna.html']
 image:
     - ''
 embed:

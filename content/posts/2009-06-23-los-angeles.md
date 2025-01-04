@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What do you see with a day to spend in Los Angeles? I find plenty to keep me entertained.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1472'
-permalink: /travel/los-angeles.html
+aliases: ['/travel/los-angeles.html']
 categories:
     - Travel
 tags:

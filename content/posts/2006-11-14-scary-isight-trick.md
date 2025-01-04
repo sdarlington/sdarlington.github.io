@@ -5,7 +5,7 @@ date: '2006-11-14T08:08:14+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/scary-isight-trick.html'
-permalink: /links/scary-isight-trick.html
+aliases: ['/links/scary-isight-trick.html']
 categories:
     - Links
 tags:

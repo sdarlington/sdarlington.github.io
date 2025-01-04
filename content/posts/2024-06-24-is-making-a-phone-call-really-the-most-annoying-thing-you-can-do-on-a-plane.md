@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In 2016, US regulators were considering making phone calls on a plane against the law. Was that wise?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93910'
-permalink: /computing/opinion/is-making-a-phone-call-really-the-most-annoying-thing-you-can-do-on-a-plane.html
+aliases: ['/computing/opinion/is-making-a-phone-call-really-the-most-annoying-thing-you-can-do-on-a-plane.html']
 categories:
     - Opinion
 tags:

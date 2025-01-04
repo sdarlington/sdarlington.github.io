@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'EMI and Apple''s announcement of downloadable music without DRM might have far-reaching consequences for Microsoft and their current partners.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/the-end-of-wma.html'
-permalink: /computing/opinion/the-end-of-wma.html
+aliases: ['/computing/opinion/the-end-of-wma.html']
 categories:
     - Opinion
 tags:

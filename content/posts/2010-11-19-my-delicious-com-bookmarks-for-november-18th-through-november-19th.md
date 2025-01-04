@@ -5,7 +5,7 @@ date: '2010-11-19T21:00:26+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2495'
-permalink: /links/my-delicious-com-bookmarks-for-november-18th-through-november-19th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-november-18th-through-november-19th.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Los Angeles is well known for the bizarre. Who knew that this extended to bus stops?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1509'
-permalink: /travel/bus-bench-for-humans-only.html
+aliases: ['/travel/bus-bench-for-humans-only.html']
 categories:
     - Travel
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Can you really get a usable tablet for £50?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4372'
-permalink: /computing/reviews/amazon-fire-7.html
+aliases: ['/computing/reviews/amazon-fire-7.html']
 categories:
     - Reviews
 ---

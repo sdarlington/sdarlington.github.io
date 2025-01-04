@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Returning the changes I made to some open source projects back upstream.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2327'
-permalink: /computing/software/giving-back.html
+aliases: ['/computing/software/giving-back.html']
 adman_disable:
     - 'on'
 categories:

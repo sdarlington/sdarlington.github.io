@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How does switching email hosts disable your Bluetooth headphones?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=70603'
-permalink: /computing/opinion/adventures-in-icloud-mail-hosting.html
+aliases: ['/computing/opinion/adventures-in-icloud-mail-hosting.html']
 spay_email:
     - ''
 categories:

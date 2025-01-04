@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes you just need to walk in someone else’s shoes. But then you need to give them back.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64732'
-permalink: /computing/opinion/mismatched.html
+aliases: ['/computing/opinion/mismatched.html']
 categories:
     - Opinion
 tags:

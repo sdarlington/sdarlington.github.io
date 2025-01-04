@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Despite what you may have heard, it is possible to move an iOS Developer Account from an individual to a company. Though it''s not necessarily all plain sailing. Here is my experience.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3112'
-permalink: /computing/opinion/ios-developer-program-from-individual-to-company.html
+aliases: ['/computing/opinion/ios-developer-program-from-individual-to-company.html']
 image:
     - ''
 embed:

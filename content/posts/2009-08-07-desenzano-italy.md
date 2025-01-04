@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'There''s no PhotoFriday this week but that''s no reason for not posting an image.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1610'
-permalink: /photography/desenzano-italy.html
+aliases: ['/photography/desenzano-italy.html']
 image:
     - ''
 embed:

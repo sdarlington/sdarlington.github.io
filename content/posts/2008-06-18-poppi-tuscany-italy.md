@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Often a little knowledge can be a dangerous thing. This time, knowing virtually nothing about Poppi before setting off seemed to work out okay.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=495'
-permalink: /travel/poppi-tuscany-italy.html
+aliases: ['/travel/poppi-tuscany-italy.html']
 categories:
     - Travel
 tags:

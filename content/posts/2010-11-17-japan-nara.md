@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'On paper Nara seems to be just a mini-Kyoto but it certainly has a charm of its own.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2370'
-permalink: /travel/japan-nara.html
+aliases: ['/travel/japan-nara.html']
 adman_disable:
     - 'on'
 categories:

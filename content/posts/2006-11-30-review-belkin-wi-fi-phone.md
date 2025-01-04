@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Wanting to use VoIP without having my computer switched on 24/7, I decided to buy a Belkin Wi-Fi Phone. Here are my first impressions.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/review-belkin-wi-fi-phone.html'
-permalink: /computing/opinion/review-belkin-wi-fi-phone.html
+aliases: ['/computing/opinion/review-belkin-wi-fi-phone.html']
 categories:
     - Opinion
 tags:

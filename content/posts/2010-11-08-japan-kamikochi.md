@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It looked very much as though I wouldn''t make it to this treasure of the Japanese Alps, but at the last minute the weather turned for the better...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2372'
-permalink: /travel/japan-kamikochi.html
+aliases: ['/travel/japan-kamikochi.html']
 adman_disable:
     - 'on'
 categories:

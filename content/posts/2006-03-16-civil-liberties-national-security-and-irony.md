@@ -5,7 +5,7 @@ date: '2006-03-16T12:52:06+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=50'
-permalink: /links/civil-liberties-national-security-and-irony.html
+aliases: ['/links/civil-liberties-national-security-and-irony.html']
 categories:
     - Links
 tags:

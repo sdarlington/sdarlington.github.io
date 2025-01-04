@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Relaxation." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/relaxation.html'
-permalink: /photography/photofriday/relaxation.html
+aliases: ['/photography/photofriday/relaxation.html']
 categories:
     - PhotoFriday
 tags:

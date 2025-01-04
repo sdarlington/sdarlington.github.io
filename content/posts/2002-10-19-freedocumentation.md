@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The minster and the market? '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/what-about-free-documentation.html'
-permalink: /computing/opinion/freedocumentation.html
+aliases: ['/computing/opinion/freedocumentation.html']
 categories:
     - Opinion
 tags:

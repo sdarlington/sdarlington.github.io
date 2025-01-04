@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "From My Past." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1850'
-permalink: /photography/photofriday/from-my-past.html
+aliases: ['/photography/photofriday/from-my-past.html']
 categories:
     - PhotoFriday
 tags:

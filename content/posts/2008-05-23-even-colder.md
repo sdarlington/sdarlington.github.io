@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'No PhotoFriday entry this week, but I do have a picture for you...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=487'
-permalink: /photography/even-colder.html
+aliases: ['/photography/even-colder.html']
 categories:
     - Photography
 tags:

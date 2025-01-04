@@ -5,7 +5,7 @@ date: '2008-04-15T06:00:19+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=460'
-permalink: /computing/opinion/why-unlimited-broadband-must-die.html
+aliases: ['/computing/opinion/why-unlimited-broadband-must-die.html']
 categories:
     - Opinion
 tags:

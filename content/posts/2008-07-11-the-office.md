@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Office." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=520'
-permalink: /photography/photofriday/the-office.html
+aliases: ['/photography/photofriday/the-office.html']
 categories:
     - PhotoFriday
 tags:

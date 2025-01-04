@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The Microsoft guide to making money. Step 1: make a loss. Step 2: er...'
 layout: post
 guid: 'http://www.zx81.org.uk/links/microsoft-says-zune-to-sell-for-249.html'
-permalink: /links/microsoft-says-zune-to-sell-for-249.html
+aliases: ['/links/microsoft-says-zune-to-sell-for-249.html']
 categories:
     - Links
 tags:

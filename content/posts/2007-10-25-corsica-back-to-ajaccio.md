@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My trip draws to a close as I leave Porto for the capital city and the airport.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-back-to-ajaccio.html'
-permalink: /travel/corsica-back-to-ajaccio.html
+aliases: ['/travel/corsica-back-to-ajaccio.html']
 categories:
     - Travel
 tags:

@@ -6,7 +6,7 @@ author: simeon
 excerpt: 'Simeon Farrington takes a look at the latest from StarDivision, and discovers that quality doesn''t necessarily cost the earth. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/linux/tps/staroffice-40sp3.html'
-permalink: /computing/linux/tps/staroffice4.html
+aliases: ['/computing/linux/tps/staroffice4.html']
 categories:
     - 'The Penguin Says'
 tags:

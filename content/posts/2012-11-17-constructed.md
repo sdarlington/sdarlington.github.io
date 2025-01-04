@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Constructed." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3514'
-permalink: /photography/photofriday/constructed.html
+aliases: ['/photography/photofriday/constructed.html']
 categories:
     - PhotoFriday
 tags:

@@ -5,7 +5,7 @@ date: '2006-01-12T13:38:54+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=32'
-permalink: /links/it-grads-damn-university-courses.html
+aliases: ['/links/it-grads-damn-university-courses.html']
 categories:
     - Links
 tags:

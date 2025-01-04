@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I talk a walking holiday in southern France, heading from the mountains to the coast.'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=31'
-permalink: /travel/alps-to-riviera-france-2005.html
+aliases: ['/travel/alps-to-riviera-france-2005.html']
 categories:
     - Travel
 tags:

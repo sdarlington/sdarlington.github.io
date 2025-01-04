@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I’m not a big fan of Facebook. And the odd thing is that it feels like Steven Levy isn’t either.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=66326'
-permalink: /blog/facebook-the-inside-story.html
+aliases: ['/blog/facebook-the-inside-story.html']
 categories:
     - Blog
 tags:

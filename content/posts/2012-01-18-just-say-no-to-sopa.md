@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Where bad American laws affect everyone...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3278'
-permalink: /blog/just-say-no-to-sopa.html
+aliases: ['/blog/just-say-no-to-sopa.html']
 image:
     - ''
 embed:

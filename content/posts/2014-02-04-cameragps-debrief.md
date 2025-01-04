@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'No software ends up exactly as you envisage at the beginning. My new app, CameraGPS, is no exception.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3863'
-permalink: /computing/opinion/cameragps-debrief.html
+aliases: ['/computing/opinion/cameragps-debrief.html']
 categories:
     - Opinion
 tags:

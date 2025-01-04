@@ -5,7 +5,7 @@ date: '2005-10-05T19:20:57+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2005/10/05/the-dream-story/'
-permalink: /links/the-dream-story.html
+aliases: ['/links/the-dream-story.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why do movie rentals come and go when you look on iTunes or NetFlix? The studios think they''re being really smart. Are they?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3292'
-permalink: /blog/going-rental.html
+aliases: ['/blog/going-rental.html']
 image:
     - ''
 embed:

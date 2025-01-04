@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How does the Mac make "lightning fast" file copies?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93912'
-permalink: /computing/opinion/macos-high-sierra-and-fast-file-copying.html
+aliases: ['/computing/opinion/macos-high-sierra-and-fast-file-copying.html']
 categories:
     - Opinion
 tags:

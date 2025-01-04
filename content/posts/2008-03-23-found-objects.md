@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Found Objects." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/found-objects.html'
-permalink: /photography/photofriday/found-objects.html
+aliases: ['/photography/photofriday/found-objects.html']
 categories:
     - PhotoFriday
 tags:

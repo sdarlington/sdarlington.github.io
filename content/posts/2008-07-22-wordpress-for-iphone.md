@@ -5,7 +5,7 @@ date: '2008-07-22T20:12:08+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/wordpress-for-iphone.html'
-permalink: /computing/opinion/wordpress-for-iphone.html
+aliases: ['/computing/opinion/wordpress-for-iphone.html']
 categories:
     - Opinion
 tags:

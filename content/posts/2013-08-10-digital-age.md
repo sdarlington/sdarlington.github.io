@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Banks making life difficult for their customers. Who''d have thought?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3698'
-permalink: /blog/digital-age.html
+aliases: ['/blog/digital-age.html']
 categories:
     - Blog
 tags:

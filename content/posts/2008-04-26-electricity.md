@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Electricity." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=473'
-permalink: /photography/photofriday/electricity.html
+aliases: ['/photography/photofriday/electricity.html']
 categories:
     - PhotoFriday
 tags:

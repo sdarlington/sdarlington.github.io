@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Minimalist." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2837'
-permalink: /photography/photofriday/minimalist.html
+aliases: ['/photography/photofriday/minimalist.html']
 image:
     - ''
 seo_follow:

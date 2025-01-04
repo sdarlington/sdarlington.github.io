@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Some of my favourite iPhone applications.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=969'
-permalink: /computing/opinion/favourite-iphone-apps.html
+aliases: ['/computing/opinion/favourite-iphone-apps.html']
 categories:
     - Opinion
 tags:

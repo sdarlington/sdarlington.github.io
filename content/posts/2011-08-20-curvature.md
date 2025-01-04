@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Curvature." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3100'
-permalink: /photography/photofriday/curvature.html
+aliases: ['/photography/photofriday/curvature.html']
 image:
     - ''
 embed:

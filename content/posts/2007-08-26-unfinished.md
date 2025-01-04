@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Unfinished." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/unfinished.html'
-permalink: /photography/photofriday/unfinished.html
+aliases: ['/photography/photofriday/unfinished.html']
 categories:
     - PhotoFriday
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you say that an application lacks "polish" what do you mean?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1895'
-permalink: /computing/opinion/what-is-polish.html
+aliases: ['/computing/opinion/what-is-polish.html']
 adman_disable:
     - 'on'
 categories:

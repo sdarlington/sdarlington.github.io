@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Two anniversaries to celebrate while we''re still in 2009.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1444'
-permalink: /computing/opinion/shrinking.html
+aliases: ['/computing/opinion/shrinking.html']
 adman_disable:
     - 'on'
 categories:

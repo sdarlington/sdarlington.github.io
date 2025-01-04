@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Primitive." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/primitive.html'
-permalink: /photography/photofriday/primitive.html
+aliases: ['/photography/photofriday/primitive.html']
 categories:
     - PhotoFriday
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "How I See Myself." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/how-i-see-myself.html'
-permalink: /photography/photofriday/how-i-see-myself.html
+aliases: ['/photography/photofriday/how-i-see-myself.html']
 categories:
     - PhotoFriday
 tags:

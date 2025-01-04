@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you believe the documentation, deleting a Google Apps domain is as simple as following a link and waiting a few days. It wasn''t quite that simple for me.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3409'
-permalink: /computing/opinion/deleting-a-google-apps-domain.html
+aliases: ['/computing/opinion/deleting-a-google-apps-domain.html']
 categories:
     - Opinion
 tags:

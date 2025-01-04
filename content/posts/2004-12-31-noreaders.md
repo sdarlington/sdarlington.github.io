@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Software developers rarely find the time to read computer science texts. Why? '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/why-dont-developers-read.html'
-permalink: /computing/opinion/noreaders.html
+aliases: ['/computing/opinion/noreaders.html']
 categories:
     - Opinion
 tags:

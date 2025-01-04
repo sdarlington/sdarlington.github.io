@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I check out the Vine and Wine Museum in Rufina and wonder about fiasco''s.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=496'
-permalink: /travel/rufina-tuscany-italy.html
+aliases: ['/travel/rufina-tuscany-italy.html']
 categories:
     - Travel
 tags:

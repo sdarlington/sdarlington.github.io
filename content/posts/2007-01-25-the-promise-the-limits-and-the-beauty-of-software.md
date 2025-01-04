@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The Mighty Booch. Live in London. (Not a typo and not comedy.)'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/the-promise-the-limits-and-the-beauty-of-software.html'
-permalink: /computing/the-promise-the-limits-and-the-beauty-of-software.html
+aliases: ['/computing/the-promise-the-limits-and-the-beauty-of-software.html']
 categories:
     - Computing
 tags:

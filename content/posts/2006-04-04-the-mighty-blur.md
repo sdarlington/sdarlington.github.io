@@ -5,7 +5,7 @@ date: '2006-04-04T12:08:46+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=57'
-permalink: /blog/the-mighty-blur.html
+aliases: ['/blog/the-mighty-blur.html']
 categories:
     - Blog
 tags:

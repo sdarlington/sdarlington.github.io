@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Extreme Programming promises to reduce risk and increase the fun of programming. Can that be true? '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/extreme-programming-explained.html'
-permalink: /computing/opinion/extremeprogramming.html
+aliases: ['/computing/opinion/extremeprogramming.html']
 categories:
     - Opinion
 tags:

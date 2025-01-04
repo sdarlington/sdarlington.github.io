@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I look for a quick, entertaining read. I fail but find something worthwhile anyway.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67042'
-permalink: /blog/sex-power-money.html
+aliases: ['/blog/sex-power-money.html']
 spay_email:
     - ''
 categories:

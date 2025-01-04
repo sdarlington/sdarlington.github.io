@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Installing a new operating system can be traumatic. The spectre of corruption, the application incompatibility, the suggestion that not everything will be improved. What about the new Mac OS?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3446'
-permalink: /computing/opinion/mountain-lion-the-good-the-bad-and-the-ugly.html
+aliases: ['/computing/opinion/mountain-lion-the-good-the-bad-and-the-ugly.html']
 categories:
     - Opinion
 tags:

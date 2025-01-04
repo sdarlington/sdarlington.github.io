@@ -5,7 +5,7 @@ date: '2005-11-10T21:00:55+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=12'
-permalink: /blog/unappreciated-technology.html
+aliases: ['/blog/unappreciated-technology.html']
 categories:
     - Blog
 tags:

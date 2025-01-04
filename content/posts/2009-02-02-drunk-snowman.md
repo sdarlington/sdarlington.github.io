@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If a snowman falls in a park, had he been drinking?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=926'
-permalink: /photography/drunk-snowman.html
+aliases: ['/photography/drunk-snowman.html']
 categories:
     - Photography
 tags:

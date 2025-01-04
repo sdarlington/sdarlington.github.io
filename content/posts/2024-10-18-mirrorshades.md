@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day twenty of the Twenty Books in Twenty Days series'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99862'
-permalink: /blog/mirrorshades.html
+aliases: ['/blog/mirrorshades.html']
 categories:
     - Blog
 tags:

@@ -5,7 +5,7 @@ date: '2018-01-29T18:04:06+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4731'
-permalink: /travel/elephants.html
+aliases: ['/travel/elephants.html']
 categories:
     - Travel
 ---

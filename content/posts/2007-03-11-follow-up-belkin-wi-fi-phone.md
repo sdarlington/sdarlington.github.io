@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It''s been three months since my last update on the Belkin Wi-Fi Phone for Skype. This is what has happened since I last reported a few critical problems with it.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/follow-up-belkin-wi-fi-phone.html'
-permalink: /computing/opinion/follow-up-belkin-wi-fi-phone.html
+aliases: ['/computing/opinion/follow-up-belkin-wi-fi-phone.html']
 categories:
     - Opinion
 tags:

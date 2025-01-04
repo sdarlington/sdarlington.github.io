@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'B becomes British, some minor Photoshop work and a mini-rant about politicians.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=624'
-permalink: /blog/bbb-b-becomes-british.html
+aliases: ['/blog/bbb-b-becomes-british.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Freeze Frame." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=717'
-permalink: /photography/photofriday/freeze-frame.html
+aliases: ['/photography/photofriday/freeze-frame.html']
 categories:
     - PhotoFriday
 tags:

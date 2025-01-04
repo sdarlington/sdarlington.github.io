@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is technology always to blame when a software project fails?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4230'
-permalink: /computing/opinion/here-comes-the-crunch.html
+aliases: ['/computing/opinion/here-comes-the-crunch.html']
 categories:
     - Opinion
 ---

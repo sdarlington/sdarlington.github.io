@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I recently tried to install Oracle 10g Express Edition on CentOS 4. Things have dramatically improved since the early days of Oracle on Linux, but here are the details.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/oracle/oracle-howto/installing-oracle-10g-express-edition-on-centos-4.html'
-permalink: /computing/oracle/oracle-howto/installing-oracle-10g-express-edition-on-centos-4.html
+aliases: ['/computing/oracle/oracle-howto/installing-oracle-10g-express-edition-on-centos-4.html']
 categories:
     - 'Oracle Howto'
 tags:

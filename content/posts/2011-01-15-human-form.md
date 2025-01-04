@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Human Form." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2643'
-permalink: /photography/photofriday/human-form.html
+aliases: ['/photography/photofriday/human-form.html']
 image:
     - ''
 embed:

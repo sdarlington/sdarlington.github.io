@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Florence, or Firenze to the locals, is a fascinating place of culture, beauty and gelato.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=501'
-permalink: /travel/florence-tuscany-italy.html
+aliases: ['/travel/florence-tuscany-italy.html']
 categories:
     - Travel
 tags:

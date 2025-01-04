@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The picture that got me interested in photography.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=637'
-permalink: /photography/my-start-in-photography.html
+aliases: ['/photography/my-start-in-photography.html']
 categories:
     - Photography
 tags:

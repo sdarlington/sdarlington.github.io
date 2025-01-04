@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I got a lot done and with the ninety minutes I saved by not commuting I went to the gym, but there are problems with working from home...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1917'
-permalink: /blog/the-perils-of-working-from-home.html
+aliases: ['/blog/the-perils-of-working-from-home.html']
 adman_disable:
     - 'on'
 categories:

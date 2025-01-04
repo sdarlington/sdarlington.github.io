@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Two different sources but the same message: science and the humanities are both necessary and work best together.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4359'
-permalink: /computing/opinion/technology-and-humanities.html
+aliases: ['/computing/opinion/technology-and-humanities.html']
 categories:
     - Opinion
 ---

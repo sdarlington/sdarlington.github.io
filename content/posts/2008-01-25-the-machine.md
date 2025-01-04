@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Machine." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/the-machine.html'
-permalink: /photography/photofriday/the-machine.html
+aliases: ['/photography/photofriday/the-machine.html']
 categories:
     - PhotoFriday
 tags:

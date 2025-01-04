@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'C is one of the most popular and well used programming languages on microcomputers. Here we wrestle with some of its features. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/programming/languages/c.html'
-permalink: /computing/programming/languages/c.html
+aliases: ['/computing/programming/languages/c.html']
 categories:
     - Languages
 tags:

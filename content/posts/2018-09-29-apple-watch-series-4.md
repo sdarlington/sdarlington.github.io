@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'An overpriced toy or a timesaver that helps me exercise?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=5410'
-permalink: /blog/apple-watch-series-4.html
+aliases: ['/blog/apple-watch-series-4.html']
 categories:
     - Blog
 tags:

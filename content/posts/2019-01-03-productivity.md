@@ -5,7 +5,7 @@ date: '2019-01-03T16:43:43+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=25033'
-permalink: /blog/productivity.html
+aliases: ['/blog/productivity.html']
 categories:
     - Blog
 tags:

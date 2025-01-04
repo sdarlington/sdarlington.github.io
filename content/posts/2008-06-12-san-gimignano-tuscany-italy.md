@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I spend half a day in San Gimignano, a Tuscan town famous for its towers and narrow, cobbled streets.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=493'
-permalink: /travel/san-gimignano-tuscany-italy.html
+aliases: ['/travel/san-gimignano-tuscany-italy.html']
 categories:
     - Travel
 tags:

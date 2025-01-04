@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Yet another shoddy piece in the Daily Mail...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2955'
-permalink: /blog/the-weird-world-of-the-daily-mail.html
+aliases: ['/blog/the-weird-world-of-the-daily-mail.html']
 image:
     - ''
 embed:

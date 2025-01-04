@@ -5,7 +5,7 @@ date: '2006-03-01T12:56:41+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2006/03/01/tributes-to-linda-smith/'
-permalink: /links/tributes-to-linda-smith.html
+aliases: ['/links/tributes-to-linda-smith.html']
 categories:
     - Links
 tags:

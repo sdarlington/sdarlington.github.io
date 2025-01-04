@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I know it''s very silly and not very scientific, but I thought it might be fun to do this quiz. The results might have different if I''d known who some of the people they were asking about were!'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/what-kind-of-atheist-are-you.html'
-permalink: /blog/what-kind-of-atheist-are-you.html
+aliases: ['/blog/what-kind-of-atheist-are-you.html']
 categories:
     - Blog
 tags:

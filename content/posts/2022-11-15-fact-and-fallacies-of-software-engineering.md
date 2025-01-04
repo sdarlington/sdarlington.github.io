@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It took me a while to read this book. Find out why.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=77498'
-permalink: /blog/fact-and-fallacies-of-software-engineering.html
+aliases: ['/blog/fact-and-fallacies-of-software-engineering.html']
 categories:
     - Blog
 tags:

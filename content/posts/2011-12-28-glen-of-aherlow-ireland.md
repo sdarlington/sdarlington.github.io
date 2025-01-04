@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It''s not like me to retread old ground, but a friends wedding provided the ideal opportunity to go back to the south west of Ireland.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3242'
-permalink: /travel/glen-of-aherlow-ireland.html
+aliases: ['/travel/glen-of-aherlow-ireland.html']
 image:
     - ''
 embed:

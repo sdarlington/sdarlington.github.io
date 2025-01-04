@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Can you get a fitness tracker that''s both a third of the price of a FitBit and not complete junk?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4753'
-permalink: /blog/mpow-fitness-tracker.html
+aliases: ['/blog/mpow-fitness-tracker.html']
 categories:
     - Blog
 ---

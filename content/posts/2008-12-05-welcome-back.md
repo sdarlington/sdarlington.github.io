@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Did you miss me?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=802'
-permalink: /news/welcome-back.html
+aliases: ['/news/welcome-back.html']
 categories:
     - News
 tags:

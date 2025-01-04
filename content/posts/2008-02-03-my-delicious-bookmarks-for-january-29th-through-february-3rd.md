@@ -5,7 +5,7 @@ date: '2008-02-03T23:00:16+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/my-delicious-bookmarks-for-january-29th-through-february-3rd.html'
-permalink: /links/my-delicious-bookmarks-for-january-29th-through-february-3rd.html
+aliases: ['/links/my-delicious-bookmarks-for-january-29th-through-february-3rd.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I battle a long drive and torrential rain to get to see the Cinque Terre. Was it worth the effort?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=498'
-permalink: /travel/cinque-terre-tuscany-italy.html
+aliases: ['/travel/cinque-terre-tuscany-italy.html']
 categories:
     - Travel
 tags:

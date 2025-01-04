@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'After my earlier rant about (maybe) buying a Macintosh, I now talk about by early experience with an iBook. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/dreadful-conclusions.html'
-permalink: /computing/opinion/dreadfulconc.html
+aliases: ['/computing/opinion/dreadfulconc.html']
 categories:
     - Opinion
 tags:

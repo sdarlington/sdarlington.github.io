@@ -5,7 +5,7 @@ date: '2006-08-24T19:28:09+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/refuse-to-be-terrorized.html'
-permalink: /links/refuse-to-be-terrorized.html
+aliases: ['/links/refuse-to-be-terrorized.html']
 categories:
     - Links
 tags:

@@ -5,7 +5,7 @@ date: '2006-12-16T15:51:58+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/birthday-playlist.html'
-permalink: /blog/birthday-playlist.html
+aliases: ['/blog/birthday-playlist.html']
 categories:
     - Blog
 tags:

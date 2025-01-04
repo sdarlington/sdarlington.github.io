@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Even still photographs don''t have to be static. '
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1446'
-permalink: /photography/yosemite-animation.html
+aliases: ['/photography/yosemite-animation.html']
 categories:
     - Photography
 tags:

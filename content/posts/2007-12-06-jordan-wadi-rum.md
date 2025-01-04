@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Until now, the word "desert" has always made me think of tiramisu. After visiting Wadi Rum it''s not just my spelling that will need revising.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/jordan-wadi-rum.html'
-permalink: /travel/jordan-wadi-rum.html
+aliases: ['/travel/jordan-wadi-rum.html']
 categories:
     - Travel
 tags:

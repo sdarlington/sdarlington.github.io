@@ -5,7 +5,7 @@ date: '2009-06-11T20:00:14+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1435'
-permalink: /links/my-delicious-com-bookmarks-for-june-3rd-through-june-11th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-june-3rd-through-june-11th.html']
 categories:
     - Links
 tags:

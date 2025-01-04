@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The new Mac OS is coming out tomorrow. What good stuff can we expect to see?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4318'
-permalink: /computing/opinion/mac-os-x-10-11-el-capitan.html
+aliases: ['/computing/opinion/mac-os-x-10-11-el-capitan.html']
 categories:
     - Opinion
 ---

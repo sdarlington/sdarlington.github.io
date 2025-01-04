@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sign-spotting in Berkeley, California.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/longer-days-means.html'
-permalink: /blog/longer-days-means.html
+aliases: ['/blog/longer-days-means.html']
 categories:
     - Blog
 tags:

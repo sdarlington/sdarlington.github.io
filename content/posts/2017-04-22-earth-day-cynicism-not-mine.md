@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Big corporates spend more time trying to look good than actually being good. '
 layout: post
 guid: 'https://www.zx81.org.uk/blog/earth-day-cynicism-not-mine.html'
-permalink: /blog/earth-day-cynicism-not-mine.html
+aliases: ['/blog/earth-day-cynicism-not-mine.html']
 categories:
     - Blog
 ---

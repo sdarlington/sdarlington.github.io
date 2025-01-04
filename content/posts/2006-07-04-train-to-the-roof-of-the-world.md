@@ -5,7 +5,7 @@ date: '2006-07-04T13:57:45+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=80'
-permalink: /links/train-to-the-roof-of-the-world.html
+aliases: ['/links/train-to-the-roof-of-the-world.html']
 categories:
     - Links
 tags:

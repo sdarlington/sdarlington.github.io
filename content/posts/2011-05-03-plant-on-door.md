@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes when travelling you see the oddest things...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2885'
-permalink: /travel/plant-on-door.html
+aliases: ['/travel/plant-on-door.html']
 image:
     - ''
 seo_follow:

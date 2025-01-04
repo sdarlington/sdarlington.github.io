@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Portraiture." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3383'
-permalink: /photography/photofriday/portraiture.html
+aliases: ['/photography/photofriday/portraiture.html']
 categories:
     - PhotoFriday
 tags:

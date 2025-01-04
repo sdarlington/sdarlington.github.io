@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'More thoughts on the newest Apple TV.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4376'
-permalink: /computing/reviews/apple-tv-4th-gen-2.html
+aliases: ['/computing/reviews/apple-tv-4th-gen-2.html']
 categories:
     - Reviews
 ---

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday challenge is "Macro Shot." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2336'
-permalink: /photography/photofriday/macro-shot.html
+aliases: ['/photography/photofriday/macro-shot.html']
 adman_disable:
     - 'on'
 categories:

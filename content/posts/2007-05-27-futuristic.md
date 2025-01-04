@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: "This weeks PhotoFriday theme is \"Futuristic.\" Here is my entry.\r\n"
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/futuristic.html'
-permalink: /photography/photofriday/futuristic.html
+aliases: ['/photography/photofriday/futuristic.html']
 adman_disable:
     - 'on'
 categories:

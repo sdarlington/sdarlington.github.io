@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Steven Levy has written about the Macintosh, interviewed Bill Gates and Steve Jobs and told us all about free software so it''s only fitting that he has also penned a book about the iPod. Here''s what I thought of it.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/the-perfect-thing.html'
-permalink: /computing/opinion/the-perfect-thing.html
+aliases: ['/computing/opinion/the-perfect-thing.html']
 categories:
     - Opinion
 tags:

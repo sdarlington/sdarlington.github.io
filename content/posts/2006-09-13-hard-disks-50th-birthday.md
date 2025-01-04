@@ -5,7 +5,7 @@ date: '2006-09-13T07:56:23+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/hard-disks-50th-birthday.html'
-permalink: /links/hard-disks-50th-birthday.html
+aliases: ['/links/hard-disks-50th-birthday.html']
 categories:
     - Links
 tags:

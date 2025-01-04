@@ -5,7 +5,7 @@ date: '2012-01-30T20:01:03+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3275'
-permalink: /links/my-delicious-com-bookmarks-for-january-10th-through-january-30th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-january-10th-through-january-30th.html']
 categories:
     - Links
 tags:

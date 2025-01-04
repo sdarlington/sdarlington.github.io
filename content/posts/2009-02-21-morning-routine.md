@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Morning Routine." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=962'
-permalink: /photography/photofriday/morning-routine.html
+aliases: ['/photography/photofriday/morning-routine.html']
 categories:
     - PhotoFriday
 tags:

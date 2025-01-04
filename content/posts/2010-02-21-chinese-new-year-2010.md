@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A quick look at the Chinese New Year celebrations in London.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1981'
-permalink: /photography/chinese-new-year-2010.html
+aliases: ['/photography/chinese-new-year-2010.html']
 adman_disable:
     - 'on'
 categories:

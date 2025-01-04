@@ -5,7 +5,7 @@ date: '2011-03-14T15:01:25+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2754'
-permalink: /links/my-delicious-com-bookmarks-for-march-13th-through-march-14th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-march-13th-through-march-14th.html']
 categories:
     - Links
 tags:

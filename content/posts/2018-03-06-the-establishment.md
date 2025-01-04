@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Do “The Establishment” really run the country? And what can do do about it? The next book in my 2018 reading challenge hopes to answer that question. '
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4767'
-permalink: /blog/the-establishment.html
+aliases: ['/blog/the-establishment.html']
 categories:
     - Blog
 tags:

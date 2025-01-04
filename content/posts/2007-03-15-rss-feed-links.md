@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'There''s a way of getting more from ZX81.org.uk. Here''s how...'
 layout: post
 guid: 'http://www.zx81.org.uk/news/rss-feed-links.html'
-permalink: /news/rss-feed-links.html
+aliases: ['/news/rss-feed-links.html']
 categories:
     - News
 tags:

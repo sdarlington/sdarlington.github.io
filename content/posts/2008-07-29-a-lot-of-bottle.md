@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Taking photographs of a wine bottle is actually harder than you might think.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=530'
-permalink: /photography/a-lot-of-bottle.html
+aliases: ['/photography/a-lot-of-bottle.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Extreme Closeup." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1292'
-permalink: /photography/photofriday/extreme-closeup.html
+aliases: ['/photography/photofriday/extreme-closeup.html']
 categories:
     - PhotoFriday
 tags:

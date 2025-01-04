@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Reading the tea leaves for the 2016 WWDC keynote.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93916'
-permalink: /computing/opinion/wwdc-2016-announcement-analysis.html
+aliases: ['/computing/opinion/wwdc-2016-announcement-analysis.html']
 categories:
     - Opinion
 tags:

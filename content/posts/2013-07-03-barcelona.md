@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Our first weekend away with a toddler works out pretty well.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3668'
-permalink: /travel/barcelona.html
+aliases: ['/travel/barcelona.html']
 categories:
     - Travel
 tags:

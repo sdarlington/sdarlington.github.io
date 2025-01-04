@@ -5,7 +5,7 @@ date: '2006-07-04T13:22:45+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=79'
-permalink: /links/to-hate-america-is-to-hate-mankind.html
+aliases: ['/links/to-hate-america-is-to-hate-mankind.html']
 categories:
     - Links
 tags:

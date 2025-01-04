@@ -5,7 +5,7 @@ date: '2006-10-04T09:53:05+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/news/parents-try-to-ban-a-book-about-banning-books.html'
-permalink: /links/parents-try-to-ban-a-book-about-banning-books.html
+aliases: ['/links/parents-try-to-ban-a-book-about-banning-books.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A comparison of Microsoft''s Zune and Apple''s iPod for readers located outside the United States.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/ipod-vs-zune-for-the-uk.html'
-permalink: /computing/ipod-vs-zune-for-the-uk.html
+aliases: ['/computing/ipod-vs-zune-for-the-uk.html']
 categories:
     - Computing
 tags:

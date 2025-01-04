@@ -5,7 +5,7 @@ date: '2006-01-18T14:06:57+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=26'
-permalink: /links/the-perils-of-javaschools.html
+aliases: ['/links/the-perils-of-javaschools.html']
 categories:
     - Links
 tags:

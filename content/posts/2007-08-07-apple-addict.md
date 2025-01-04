@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'As Nelson in the Simpsons says: ha ha! Apple''s new announcements seem to have taken down the UK store.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/apple-addict.html'
-permalink: /computing/opinion/apple-addict.html
+aliases: ['/computing/opinion/apple-addict.html']
 categories:
     - Opinion
 tags:

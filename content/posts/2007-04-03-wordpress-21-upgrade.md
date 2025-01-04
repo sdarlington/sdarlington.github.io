@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If you came to look at ZX81.org.uk a couple of hours ago you may have noticed that it wasn''t here. I''m pleased to announce that we''re back, and better than ever.'
 layout: post
 guid: 'http://www.zx81.org.uk/news/wordpress-21-upgrade.html'
-permalink: /news/wordpress-21-upgrade.html
+aliases: ['/news/wordpress-21-upgrade.html']
 categories:
     - News
 tags:

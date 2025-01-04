@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why would I read a look called "The Art of Leadership" when my day-to-day job is as an ''individual contributor''?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=74143'
-permalink: /blog/the-art-of-leadership.html
+aliases: ['/blog/the-art-of-leadership.html']
 categories:
     - Blog
 tags:

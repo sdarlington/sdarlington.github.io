@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I find that there''s more to Granada than just the Alhambra.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1749'
-permalink: /travel/granada-spain.html
+aliases: ['/travel/granada-spain.html']
 categories:
     - Travel
 tags:

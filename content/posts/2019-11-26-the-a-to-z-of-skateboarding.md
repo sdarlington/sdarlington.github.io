@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is Tony Hawk(s) latest book any good?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64320'
-permalink: /blog/the-a-to-z-of-skateboarding.html
+aliases: ['/blog/the-a-to-z-of-skateboarding.html']
 categories:
     - Blog
 tags:

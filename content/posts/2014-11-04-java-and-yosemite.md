@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'An annoying error message takes far longer to solve than I''ve have liked...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4151'
-permalink: /computing/opinion/java-and-yosemite.html
+aliases: ['/computing/opinion/java-and-yosemite.html']
 categories:
     - Opinion
 tags:

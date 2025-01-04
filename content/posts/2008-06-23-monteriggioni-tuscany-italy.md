@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'You can never have too many small, walled Tuscan cities as I find in the unexpected treasure of Monteriggioni.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=504'
-permalink: /travel/monteriggioni-tuscany-italy.html
+aliases: ['/travel/monteriggioni-tuscany-italy.html']
 categories:
     - Travel
 tags:

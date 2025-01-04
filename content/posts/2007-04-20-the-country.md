@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Country." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/the-country.html'
-permalink: /photography/photofriday/the-country.html
+aliases: ['/photography/photofriday/the-country.html']
 categories:
     - PhotoFriday
 tags:

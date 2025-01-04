@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes when doing legal stuff, all you can do to stop yourself screaming is to rant.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2738'
-permalink: /blog/dear-companies-house.html
+aliases: ['/blog/dear-companies-house.html']
 image:
     - ''
 embed:

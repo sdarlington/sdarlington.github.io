@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Try as I might, I can''t get into Google''s new social networking site, Google+. Here I try to analyse why.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3095'
-permalink: /computing/opinion/whats-wrong-with-google.html
+aliases: ['/computing/opinion/whats-wrong-with-google.html']
 image:
     - ''
 embed:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The last day of walking is pleasant enough but there''s a surprise in store when I reach the hotel at the end.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-evisa-to-porto.html'
-permalink: /travel/corsica-evisa-to-porto.html
+aliases: ['/travel/corsica-evisa-to-porto.html']
 categories:
     - Travel
 tags:

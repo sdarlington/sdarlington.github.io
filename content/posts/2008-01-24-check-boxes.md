@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why do most PCs still come with two serial and one parallel port?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/check-boxes.html'
-permalink: /computing/opinion/check-boxes.html
+aliases: ['/computing/opinion/check-boxes.html']
 categories:
     - Opinion
 tags:

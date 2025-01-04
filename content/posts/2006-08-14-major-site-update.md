@@ -5,7 +5,7 @@ date: '2006-08-14T14:53:15+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/news/major-site-update.html'
-permalink: /news/major-site-update.html
+aliases: ['/news/major-site-update.html']
 categories:
     - News
 tags:

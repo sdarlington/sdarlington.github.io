@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'After going out for a runner, what better book to read than... one about running. Any good?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=57029'
-permalink: /blog/the-incomplete-book-of-running.html
+aliases: ['/blog/the-incomplete-book-of-running.html']
 categories:
     - Blog
 tags:

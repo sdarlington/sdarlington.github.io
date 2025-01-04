@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is the Little Book of Humanism someting you’ll like?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=69944'
-permalink: /blog/little-book-of-humanism.html
+aliases: ['/blog/little-book-of-humanism.html']
 spay_email:
     - ''
 categories:

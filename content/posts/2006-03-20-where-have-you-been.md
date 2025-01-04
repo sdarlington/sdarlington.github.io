@@ -5,7 +5,7 @@ date: '2006-03-20T14:09:44+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=52'
-permalink: /travel/where-have-you-been.html
+aliases: ['/travel/where-have-you-been.html']
 categories:
     - Blog
     - Travel

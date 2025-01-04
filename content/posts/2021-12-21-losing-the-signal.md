@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I have a confession to make. I had a BlackBerry for a few months and I hated it. But still, the story behind the company is fascinating.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=70242'
-permalink: /blog/losing-the-signal.html
+aliases: ['/blog/losing-the-signal.html']
 spay_email:
     - ''
 categories:

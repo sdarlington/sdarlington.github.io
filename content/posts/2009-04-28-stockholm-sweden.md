@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The third instalment of my Nordic tour takes me to the Swedish capital city, Stockholm. '
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1363'
-permalink: /travel/stockholm-sweden.html
+aliases: ['/travel/stockholm-sweden.html']
 categories:
     - Travel
 tags:

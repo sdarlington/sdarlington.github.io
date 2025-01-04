@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is the new Apple TV an'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4341'
-permalink: /computing/opinion/apple-tv-4th-gen.html
+aliases: ['/computing/opinion/apple-tv-4th-gen.html']
 categories:
     - Opinion
 ---

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'For some reason I wasn''t really expecting to see wind farms on the way from Los Angeles to Palm Springs.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1536'
-permalink: /travel/wind-farms.html
+aliases: ['/travel/wind-farms.html']
 categories:
     - Travel
 tags:

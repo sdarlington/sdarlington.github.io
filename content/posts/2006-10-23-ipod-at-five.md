@@ -5,7 +5,7 @@ date: '2006-10-23T12:19:58+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/links/ipod-at-five.html'
-permalink: /links/ipod-at-five.html
+aliases: ['/links/ipod-at-five.html']
 categories:
     - Links
 tags:

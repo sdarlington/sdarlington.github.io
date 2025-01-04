@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Sometimes you just have to keep a tradition going, even if it makes absolutely no sense whatsoever.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=770'
-permalink: /blog/the-november-plan.html
+aliases: ['/blog/the-november-plan.html']
 adman_disable:
     - 'on'
 categories:

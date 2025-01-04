@@ -5,7 +5,7 @@ date: '2006-01-06T16:15:17+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=21'
-permalink: /links/quality-in-typefaces-fonts.html
+aliases: ['/links/quality-in-typefaces-fonts.html']
 categories:
     - Links
 tags:

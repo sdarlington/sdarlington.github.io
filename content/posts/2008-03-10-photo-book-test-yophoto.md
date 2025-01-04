@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In this first of a two-part article, I take a look at UK-based photo book vendor yophoto''s editing and ordering process. '
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photo-book-test-yophoto.html'
-permalink: /photography/photo-book-test-yophoto.html
+aliases: ['/photography/photo-book-test-yophoto.html']
 categories:
     - Photography
 tags:

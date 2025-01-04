@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why FaceBook and MySpace won''t be the future of online communication.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/is-myspace-really-the-future-of-email.html'
-permalink: /computing/opinion/is-myspace-really-the-future-of-email.html
+aliases: ['/computing/opinion/is-myspace-really-the-future-of-email.html']
 categories:
     - Opinion
 tags:

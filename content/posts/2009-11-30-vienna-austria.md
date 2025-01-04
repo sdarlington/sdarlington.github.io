@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Vienna. Ah, Vienna. It may be cold but it''s pretty and there''s alcohol, hotdogs and bright lights.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1853'
-permalink: /travel/vienna-austria.html
+aliases: ['/travel/vienna-austria.html']
 categories:
     - Travel
 tags:

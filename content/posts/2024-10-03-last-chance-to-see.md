@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day nine of the Twenty Books in Twenty Day series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99387'
-permalink: /blog/last-chance-to-see.html
+aliases: ['/blog/last-chance-to-see.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Some good can come in even the worst of situations.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3923'
-permalink: /computing/opinion/failure-is-an-option.html
+aliases: ['/computing/opinion/failure-is-an-option.html']
 categories:
     - Opinion
 ---

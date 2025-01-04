@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day nineteen of the Twenty Books in Twenty Days series'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99860'
-permalink: /blog/peopleware.html
+aliases: ['/blog/peopleware.html']
 categories:
     - Blog
 tags:

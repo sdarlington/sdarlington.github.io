@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Have you forgotten quite how terrible the government has been since 2010? This book might be the perfect reminder.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=82544'
-permalink: /blog/a-decade-in-tory.html
+aliases: ['/blog/a-decade-in-tory.html']
 categories:
     - Blog
 tags:

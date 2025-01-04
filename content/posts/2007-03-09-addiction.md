@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Addiction." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/addiction.html'
-permalink: /photography/photofriday/addiction.html
+aliases: ['/photography/photofriday/addiction.html']
 categories:
     - PhotoFriday
 tags:

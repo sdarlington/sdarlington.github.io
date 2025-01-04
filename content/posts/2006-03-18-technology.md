@@ -5,7 +5,7 @@ date: '2006-03-18T17:47:41+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=51'
-permalink: /photography/photofriday/technology.html
+aliases: ['/photography/photofriday/technology.html']
 categories:
     - PhotoFriday
 tags:

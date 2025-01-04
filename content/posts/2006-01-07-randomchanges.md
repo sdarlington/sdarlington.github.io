@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When annoyance leads to certain revelations about software engineering truisms. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/random-changes.html'
-permalink: /computing/opinion/randomchanges.html
+aliases: ['/computing/opinion/randomchanges.html']
 categories:
     - Opinion
 tags:

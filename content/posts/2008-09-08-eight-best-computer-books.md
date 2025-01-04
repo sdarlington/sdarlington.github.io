@@ -5,7 +5,7 @@ date: '2008-09-08T06:46:00+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=376'
-permalink: /computing/opinion/eight-best-computer-books.html
+aliases: ['/computing/opinion/eight-best-computer-books.html']
 image:
     - ''
 seo_follow:

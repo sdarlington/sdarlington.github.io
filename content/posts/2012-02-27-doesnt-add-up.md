@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Should the highest 1% of earners be contributing 30% of all income tax? I''m not going to get into that but I will say why the number may not be as crazy as it might sound.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3337'
-permalink: /blog/doesnt-add-up.html
+aliases: ['/blog/doesnt-add-up.html']
 image:
     - ''
 embed:

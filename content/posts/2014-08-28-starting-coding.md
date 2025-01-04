@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Would I be programming if I was twelve?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4079'
-permalink: /computing/opinion/starting-coding.html
+aliases: ['/computing/opinion/starting-coding.html']
 categories:
     - Opinion
 tags:

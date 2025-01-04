@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Walking through the white-washed towns and the mountains of Southern Spain.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1769'
-permalink: /travel/walking-in-andaluca-spain.html
+aliases: ['/travel/walking-in-andaluca-spain.html']
 categories:
     - Travel
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It seems that there are more photobook printers vying for your images and money every day. This is the first of a two part article about Printing-1''s products.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photo-book-test-printing-1.html'
-permalink: /photography/photo-book-test-printing-1.html
+aliases: ['/photography/photo-book-test-printing-1.html']
 categories:
     - Photography
 tags:

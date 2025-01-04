@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'If the goal is to make something useful then modern desktop and web programming is just too hard. Is there anything out there to rekindle my enthusiasm?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=550'
-permalink: /computing/opinion/just-for-fun.html
+aliases: ['/computing/opinion/just-for-fun.html']
 categories:
     - Opinion
 tags:

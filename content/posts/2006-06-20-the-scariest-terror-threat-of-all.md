@@ -5,7 +5,7 @@ date: '2006-06-20T10:54:24+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=73'
-permalink: /links/the-scariest-terror-threat-of-all.html
+aliases: ['/links/the-scariest-terror-threat-of-all.html']
 categories:
     - Links
 tags:

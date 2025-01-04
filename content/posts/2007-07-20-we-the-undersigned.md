@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'For something that''s supposed to be useful and serious, the Prime Ministers e-petitions website is proving to be very entertaining.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/we-the-undersigned.html'
-permalink: /blog/we-the-undersigned.html
+aliases: ['/blog/we-the-undersigned.html']
 categories:
     - Blog
 tags:

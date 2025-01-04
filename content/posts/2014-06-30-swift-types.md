@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is it good to start a new programming language with a lot of cruft pre-installed?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3977'
-permalink: /computing/programming/swift-types.html
+aliases: ['/computing/programming/swift-types.html']
 categories:
     - Programming
 tags:

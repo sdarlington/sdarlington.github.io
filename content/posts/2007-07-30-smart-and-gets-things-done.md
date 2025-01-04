@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Joel Spolsky, of "Joel on Software" fame, thinks that he has the answer to hiring the best technical talent and keeping them. Is it worth reading?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/smart-and-gets-things-done.html'
-permalink: /computing/opinion/smart-and-gets-things-done.html
+aliases: ['/computing/opinion/smart-and-gets-things-done.html']
 categories:
     - Opinion
 tags:

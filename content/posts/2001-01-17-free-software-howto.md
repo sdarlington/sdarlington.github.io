@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'With the current Linux trend towards multi-million dollar IPO''s and "Open Source" software, much of the emphasis of "free" software has been lost leaving people new to the fold confused and not completely understanding all the implications. This HOWTO will, hopefully, reduce some of that confusion.'
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/linux/free-software-howto/free-software-howto.html'
-permalink: /computing/linux/free-software-howto/free-software-howto.html
+aliases: ['/computing/linux/free-software-howto/free-software-howto.html']
 categories:
     - 'Free Software Howto'
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Spring comes late to Scandinavia, but looks very pretty.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1352'
-permalink: /photography/swedish-spring.html
+aliases: ['/photography/swedish-spring.html']
 categories:
     - Photography
 tags:

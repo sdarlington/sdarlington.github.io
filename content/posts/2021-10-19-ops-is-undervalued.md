@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Despite being the people that keep your software up and running, ops teams often don’t get the credit they deserve. Why?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=69947'
-permalink: /computing/opinion/ops-is-undervalued.html
+aliases: ['/computing/opinion/ops-is-undervalued.html']
 spay_email:
     - ''
 categories:

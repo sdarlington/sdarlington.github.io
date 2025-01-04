@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My first experiences with a fun new games console'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4655'
-permalink: /computing/opinion/nintendo-switch.html
+aliases: ['/computing/opinion/nintendo-switch.html']
 categories:
     - Opinion
 tags:

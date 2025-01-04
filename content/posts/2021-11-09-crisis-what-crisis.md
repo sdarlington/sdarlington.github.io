@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Trying to avoid the mistakes of the past, I read a book about the Seventies.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=70076'
-permalink: /blog/crisis-what-crisis.html
+aliases: ['/blog/crisis-what-crisis.html']
 spay_email:
     - ''
 categories:

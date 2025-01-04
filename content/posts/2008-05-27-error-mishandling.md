@@ -5,7 +5,7 @@ date: '2008-05-27T08:37:33+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=476'
-permalink: /computing/opinion/error-mishandling.html
+aliases: ['/computing/opinion/error-mishandling.html']
 categories:
     - Opinion
 tags:

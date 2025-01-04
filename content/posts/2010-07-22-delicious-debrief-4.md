@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Developing iPhone software isn''t all sex, drugs and rock and roll. Sometime you have to make difficult changes because of things outside your control. Here is part four of my story from late last year.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2154'
-permalink: /computing/opinion/delicious-debrief-4.html
+aliases: ['/computing/opinion/delicious-debrief-4.html']
 adman_disable:
     - 'on'
 categories:

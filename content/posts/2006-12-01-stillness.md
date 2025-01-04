@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Stillness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/stillness.html'
-permalink: /photography/photofriday/stillness.html
+aliases: ['/photography/photofriday/stillness.html']
 adman_disable:
     - 'on'
 categories:

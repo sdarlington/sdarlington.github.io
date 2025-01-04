@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Things that are supposed to "Just Work" often don''t. '
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3813'
-permalink: /computing/programming/nsfetchedresultscontroller-and-icloud.html
+aliases: ['/computing/programming/nsfetchedresultscontroller-and-icloud.html']
 categories:
     - Programming
 tags:

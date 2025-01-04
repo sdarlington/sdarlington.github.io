@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Have you ever heard the phrase "how hard can it be?" and cringed?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=732'
-permalink: /computing/opinion/the-w-effect.html
+aliases: ['/computing/opinion/the-w-effect.html']
 categories:
     - Opinion
 tags:

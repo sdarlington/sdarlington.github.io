@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Being a wedding photographer only gets slightly easier the more you do it.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2587'
-permalink: /photography/white-wedding.html
+aliases: ['/photography/white-wedding.html']
 image:
     - ''
 embed:

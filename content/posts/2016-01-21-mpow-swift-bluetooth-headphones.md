@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is there a cheap way of avoiding tangled headphone cables?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4374'
-permalink: /computing/reviews/mpow-swift-bluetooth-headphones.html
+aliases: ['/computing/reviews/mpow-swift-bluetooth-headphones.html']
 categories:
     - Reviews
 ---

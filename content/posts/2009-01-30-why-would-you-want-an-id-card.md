@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is it worth spending ?1435m to avoid a little inconvenience? The British government thinks so.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=914'
-permalink: /blog/why-would-you-want-an-id-card.html
+aliases: ['/blog/why-would-you-want-an-id-card.html']
 categories:
     - Blog
 ---

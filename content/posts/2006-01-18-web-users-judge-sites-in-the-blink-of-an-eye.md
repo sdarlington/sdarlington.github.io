@@ -5,7 +5,7 @@ date: '2006-01-18T12:58:16+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=33'
-permalink: /links/web-users-judge-sites-in-the-blink-of-an-eye.html
+aliases: ['/links/web-users-judge-sites-in-the-blink-of-an-eye.html']
 categories:
     - Links
 tags:

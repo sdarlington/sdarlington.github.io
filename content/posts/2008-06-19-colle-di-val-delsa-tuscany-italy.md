@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Going back to see places that you have already been always has the possibility of throwing up surprises. Today was no exception.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=497'
-permalink: /travel/colle-di-val-delsa-tuscany-italy.html
+aliases: ['/travel/colle-di-val-delsa-tuscany-italy.html']
 categories:
     - Travel
 tags:

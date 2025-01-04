@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Earlier this week I presented at the London iOS Developer Group meeting. Here''s what I talked about.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3617'
-permalink: /computing/opinion/familiarity-breeds-contempt.html
+aliases: ['/computing/opinion/familiarity-breeds-contempt.html']
 categories:
     - Opinion
 tags:

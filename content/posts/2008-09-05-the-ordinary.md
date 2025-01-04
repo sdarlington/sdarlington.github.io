@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "The Ordinary." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=633'
-permalink: /photography/photofriday/the-ordinary.html
+aliases: ['/photography/photofriday/the-ordinary.html']
 categories:
     - PhotoFriday
 tags:

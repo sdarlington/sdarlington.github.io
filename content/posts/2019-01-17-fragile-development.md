@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What happens when buzzwords meet reality?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=25069'
-permalink: /computing/opinion/fragile-development.html
+aliases: ['/computing/opinion/fragile-development.html']
 categories:
     - Opinion
 tags:

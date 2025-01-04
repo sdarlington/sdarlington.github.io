@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My first experience doing portrait photography starting in an unusual way.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/margaret-coetzer.html'
-permalink: /photography/margaret-coetzer.html
+aliases: ['/photography/margaret-coetzer.html']
 categories:
     - Photography
 tags:

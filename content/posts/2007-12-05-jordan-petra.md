@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'One of the main reasons I went to the Middle East this time was to see the ancient rock carvings at Petra. Can anything so hyped live up to those expectations?'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/jordan-petra.html'
-permalink: /travel/jordan-petra.html
+aliases: ['/travel/jordan-petra.html']
 categories:
     - Travel
 tags:

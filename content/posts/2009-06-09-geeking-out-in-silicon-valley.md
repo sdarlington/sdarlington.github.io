@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Where better to geek out than in the spiritual home of the computer, Silicon Valley?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1440'
-permalink: /travel/geeking-out-in-silicon-valley.html
+aliases: ['/travel/geeking-out-in-silicon-valley.html']
 categories:
     - Travel
 tags:

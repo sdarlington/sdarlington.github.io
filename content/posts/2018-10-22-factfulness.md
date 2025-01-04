@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Are we all as badly informed about the world as the author of this book claims?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=5465'
-permalink: /blog/factfulness.html
+aliases: ['/blog/factfulness.html']
 categories:
     - Blog
 tags:

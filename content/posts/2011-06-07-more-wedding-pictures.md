@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The bride and groom get a beautiful day for their wedding and I get some decent images of the occasion.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2946'
-permalink: /photography/more-wedding-pictures.html
+aliases: ['/photography/more-wedding-pictures.html']
 image:
     - ''
 embed:

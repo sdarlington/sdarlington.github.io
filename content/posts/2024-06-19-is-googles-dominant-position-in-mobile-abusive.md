@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Google say that their position in mobile isn''t abusive. We analyse their words.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93908'
-permalink: /computing/opinion/is-googles-dominant-position-in-mobile-abusive.html
+aliases: ['/computing/opinion/is-googles-dominant-position-in-mobile-abusive.html']
 categories:
     - Opinion
 tags:

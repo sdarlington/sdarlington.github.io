@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What happens if you cross Alexa, Siri and Google Now?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4459'
-permalink: /computing/opinion/virtual-assistants.html
+aliases: ['/computing/opinion/virtual-assistants.html']
 categories:
     - Opinion
 ---

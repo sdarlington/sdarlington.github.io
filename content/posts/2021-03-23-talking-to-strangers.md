@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This is possibly the first time I’ve read any Malcom Gladwell. Any good?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67873'
-permalink: /blog/talking-to-strangers.html
+aliases: ['/blog/talking-to-strangers.html']
 spay_email:
     - ''
 categories:

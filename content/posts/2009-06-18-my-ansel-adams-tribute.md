@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In the weakest possible sense of the word, this post can be considered to be my tribute to Ansel Adams'' work in the Sierra Nevada.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1516'
-permalink: /photography/my-ansel-adams-tribute.html
+aliases: ['/photography/my-ansel-adams-tribute.html']
 adman_disable:
     - 'on'
 categories:

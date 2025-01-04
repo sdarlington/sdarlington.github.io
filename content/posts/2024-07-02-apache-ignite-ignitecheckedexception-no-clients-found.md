@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Debugging a common exception seen when using Apache Ignite.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93929'
-permalink: /computing/opinion/apache-ignite-ignitecheckedexception-no-clients-found.html
+aliases: ['/computing/opinion/apache-ignite-ignitecheckedexception-no-clients-found.html']
 categories:
     - Opinion
 tags:

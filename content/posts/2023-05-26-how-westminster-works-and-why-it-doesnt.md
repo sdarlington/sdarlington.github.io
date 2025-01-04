@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is Labour’s pledge to reform the Lords the right thing to do to make Westminster work better?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=82940'
-permalink: /blog/how-westminster-works-and-why-it-doesnt.html
+aliases: ['/blog/how-westminster-works-and-why-it-doesnt.html']
 categories:
     - Blog
 tags:

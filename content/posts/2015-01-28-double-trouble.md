@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Fixing a broken Wordpress plugin turns out to be harder than I was expecting.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4204'
-permalink: /blog/double-trouble.html
+aliases: ['/blog/double-trouble.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How much do you charge for an iPhone application?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=570'
-permalink: /computing/opinion/what-price.html
+aliases: ['/computing/opinion/what-price.html']
 categories:
     - Opinion
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "My Obsession." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3921'
-permalink: /photography/photofriday/my-obsession.html
+aliases: ['/photography/photofriday/my-obsession.html']
 categories:
     - PhotoFriday
 tags:

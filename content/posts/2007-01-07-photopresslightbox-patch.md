@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Like the "zoom" effect that you see when you click a picture here? Use Wordpress for your blog? You can download the plugin here!'
 layout: post
 guid: 'http://www.zx81.org.uk/news/photopresslightbox-patch.html'
-permalink: /computing/software/photopresslightbox-patch.html
+aliases: ['/computing/software/photopresslightbox-patch.html']
 categories:
     - Software
 tags:

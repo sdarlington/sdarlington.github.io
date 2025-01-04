@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I start my trip in Tuscany with a little Chianti and Olive Oil tasting.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=491'
-permalink: /travel/tuscany-italy.html
+aliases: ['/travel/tuscany-italy.html']
 categories:
     - Travel
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In a weekend trip to Northern California we saw everything from the Golden Gate Bridge to sea-otters in Monterey Bay. Here are the pictures.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/berkeley-point-lobos-and-carmel.html'
-permalink: /travel/berkeley-point-lobos-and-carmel.html
+aliases: ['/travel/berkeley-point-lobos-and-carmel.html']
 categories:
     - Travel
 tags:

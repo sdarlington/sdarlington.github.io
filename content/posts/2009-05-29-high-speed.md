@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "High Speed." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1426'
-permalink: /photography/photofriday/high-speed.html
+aliases: ['/photography/photofriday/high-speed.html']
 categories:
     - PhotoFriday
 tags:

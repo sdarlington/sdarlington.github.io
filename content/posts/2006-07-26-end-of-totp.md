@@ -5,7 +5,7 @@ date: '2006-07-26T22:45:55+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2006/07/26/end-of-totp/'
-permalink: /links/end-of-totp.html
+aliases: ['/links/end-of-totp.html']
 categories:
     - Links
 tags:

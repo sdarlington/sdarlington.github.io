@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I''ve seen this question -- and asked it myself -- a few times now. The short answer is no. For the longer answer you''ll have to click through.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3064'
-permalink: /computing/opinion/do-apple-take-40-in-the-eu.html
+aliases: ['/computing/opinion/do-apple-take-40-in-the-eu.html']
 image:
     - ''
 embed:

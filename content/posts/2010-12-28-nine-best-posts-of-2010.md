@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It feels like it''s been a fairly quiet year here but the numbers tell a different story.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2583'
-permalink: /blog/nine-best-posts-of-2010.html
+aliases: ['/blog/nine-best-posts-of-2010.html']
 adman_disable:
     - 'on'
 categories:

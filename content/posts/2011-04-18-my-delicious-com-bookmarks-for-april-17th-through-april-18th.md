@@ -5,7 +5,7 @@ date: '2011-04-18T23:00:35+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2824'
-permalink: /links/my-delicious-com-bookmarks-for-april-17th-through-april-18th.html
+aliases: ['/links/my-delicious-com-bookmarks-for-april-17th-through-april-18th.html']
 image:
     - ''
 seo_follow:

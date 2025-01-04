@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: " Originally written for another on-line magazine, Stephen Darlington reviews a book from the author of Code Complete, Steve McConnell.\r\n\r\n"
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/software-project-survival-guide.html'
-permalink: /computing/opinion/projsurvival.html
+aliases: ['/computing/opinion/projsurvival.html']
 categories:
     - Opinion
 tags:

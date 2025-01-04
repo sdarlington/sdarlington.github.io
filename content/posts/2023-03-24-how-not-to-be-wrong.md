@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Maybe I''m wrong, but "How not to be wrong" is an okay but not essential read.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=81388'
-permalink: /blog/how-not-to-be-wrong.html
+aliases: ['/blog/how-not-to-be-wrong.html']
 categories:
     - Blog
 tags:

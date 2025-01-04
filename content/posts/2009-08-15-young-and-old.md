@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Young and Old." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1617'
-permalink: /photography/photofriday/young-and-old.html
+aliases: ['/photography/photofriday/young-and-old.html']
 categories:
     - PhotoFriday
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is there more to being a liberal than just not supporting Labour or the Torys?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=67370'
-permalink: /blog/how-to-be-a-liberal.html
+aliases: ['/blog/how-to-be-a-liberal.html']
 spay_email:
     - ''
 categories:

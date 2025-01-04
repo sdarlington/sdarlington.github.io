@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The mystery of my vanishing websites is solved...'
 layout: post
 guid: 'http://www.zx81.org.uk/news/consolidation.html'
-permalink: /news/consolidation.html
+aliases: ['/news/consolidation.html']
 categories:
     - News
 tags:

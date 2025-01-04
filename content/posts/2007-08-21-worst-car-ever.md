@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In the past few years I''ve started to think that most cars are at least competent. On a recent trip to California I found the exception.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/worst-car-ever.html'
-permalink: /blog/worst-car-ever.html
+aliases: ['/blog/worst-car-ever.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Reflection." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3928'
-permalink: /photography/photofriday/reflection.html
+aliases: ['/photography/photofriday/reflection.html']
 categories:
     - PhotoFriday
 tags:

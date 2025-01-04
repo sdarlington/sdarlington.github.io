@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Early thoughts about the new update coming to your iPhone later this week.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=64080'
-permalink: /computing/opinion/ios-13-and-ipados.html
+aliases: ['/computing/opinion/ios-13-and-ipados.html']
 categories:
     - Opinion
 tags:

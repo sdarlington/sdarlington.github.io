@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Today featured nearly ten hours walking, over a thousand metres of ascent, damaged ankles and some absolutely amazing views.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-corte-to-calacuccia.html'
-permalink: /travel/corsica-corte-to-calacuccia.html
+aliases: ['/travel/corsica-corte-to-calacuccia.html']
 categories:
     - Travel
 tags:

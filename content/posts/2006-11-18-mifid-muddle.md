@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The new MiFID regulations are not fair to everyone. Here''s why.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/mifid-muddle.html'
-permalink: /blog/mifid-muddle.html
+aliases: ['/blog/mifid-muddle.html']
 categories:
     - Blog
 tags:

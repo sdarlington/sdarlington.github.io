@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "My Favorite Spot." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1577'
-permalink: /photography/photofriday/my-favourite-spot.html
+aliases: ['/photography/photofriday/my-favourite-spot.html']
 categories:
     - PhotoFriday
 tags:

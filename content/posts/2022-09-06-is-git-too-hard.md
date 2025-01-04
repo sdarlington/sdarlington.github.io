@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'We need to be careful not to throw the baby out with the bath water when we critique git.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=73574'
-permalink: /computing/opinion/is-git-too-hard.html
+aliases: ['/computing/opinion/is-git-too-hard.html']
 categories:
     - Opinion
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Far from home." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=465'
-permalink: /photography/photofriday/far-from-home.html
+aliases: ['/photography/photofriday/far-from-home.html']
 categories:
     - PhotoFriday
 tags:

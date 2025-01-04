@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A simple solution to a bizarre problem.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4189'
-permalink: /computing/opinion/preview-is-damaged-and-cant-be-opened.html
+aliases: ['/computing/opinion/preview-is-damaged-and-cant-be-opened.html']
 categories:
     - Opinion
 ---

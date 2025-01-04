@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Who would think that a high-tech scavenger hunt would be so much fun?'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/geocaching.html'
-permalink: /blog/geocaching.html
+aliases: ['/blog/geocaching.html']
 categories:
     - Blog
 tags:

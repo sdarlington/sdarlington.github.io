@@ -5,7 +5,7 @@ date: '2013-06-06T20:30:59+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3646'
-permalink: /computing/opinion/aqgridview-to-uicollectionview.html
+aliases: ['/computing/opinion/aqgridview-to-uicollectionview.html']
 categories:
     - Opinion
 ---

@@ -5,7 +5,7 @@ date: '2008-06-30T20:40:46+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=503'
-permalink: /travel/lucca-tuscany-italy.html
+aliases: ['/travel/lucca-tuscany-italy.html']
 categories:
     - Travel
 tags:

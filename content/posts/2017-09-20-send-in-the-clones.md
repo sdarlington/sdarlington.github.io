@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Help! My backups are too efficient!'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4687'
-permalink: /blog/send-in-the-clones.html
+aliases: ['/blog/send-in-the-clones.html']
 categories:
     - Blog
 tags:

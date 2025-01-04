@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'People seem to just trust highly mechanised solutions without really considering what the problem really is. Can it be true that an old, well established technology can be better than a computerised one?'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html'
-permalink: /computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html
+aliases: ['/computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html']
 categories:
     - Opinion
 tags:

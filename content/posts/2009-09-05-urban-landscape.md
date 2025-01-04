@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Urban Landscape." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1679'
-permalink: /photography/photofriday/urban-landscape.html
+aliases: ['/photography/photofriday/urban-landscape.html']
 categories:
     - PhotoFriday
 tags:

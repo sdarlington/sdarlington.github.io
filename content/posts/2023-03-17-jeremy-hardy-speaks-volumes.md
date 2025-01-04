@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I''m not going to busy the lede: I loved this book.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=81392'
-permalink: /blog/jeremy-hardy-speaks-volumes.html
+aliases: ['/blog/jeremy-hardy-speaks-volumes.html']
 categories:
     - Blog
 tags:

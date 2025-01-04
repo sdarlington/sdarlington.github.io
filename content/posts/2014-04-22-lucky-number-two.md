@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'We have a new arrival!'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3932'
-permalink: /blog/lucky-number-two.html
+aliases: ['/blog/lucky-number-two.html']
 categories:
     - Blog
 tags:

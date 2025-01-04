@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Isolation." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1124'
-permalink: /photography/photofriday/isolation.html
+aliases: ['/photography/photofriday/isolation.html']
 adman_disable:
     - 'on'
 categories:

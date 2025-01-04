@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Depth Perception." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3228'
-permalink: /photography/photofriday/depth-perception.html
+aliases: ['/photography/photofriday/depth-perception.html']
 image:
     - ''
 embed:

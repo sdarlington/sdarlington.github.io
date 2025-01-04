@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "From my window." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3365'
-permalink: /photography/photofriday/from-my-window.html
+aliases: ['/photography/photofriday/from-my-window.html']
 categories:
     - PhotoFriday
 tags:

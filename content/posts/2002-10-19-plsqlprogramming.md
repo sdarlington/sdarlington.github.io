@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Having recommended it in my Oracle for Linux Installation HOWTO, I thought it was time I documented why I value it so highly. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/oracle-plsql-programming.html'
-permalink: /computing/opinion/plsqlprogramming.html
+aliases: ['/computing/opinion/plsqlprogramming.html']
 categories:
     - Opinion
 tags:

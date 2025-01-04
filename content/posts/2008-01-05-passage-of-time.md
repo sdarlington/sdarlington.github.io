@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Passage of Time." This is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/passage-of-time.html'
-permalink: /photography/photofriday/passage-of-time.html
+aliases: ['/photography/photofriday/passage-of-time.html']
 categories:
     - PhotoFriday
 tags:

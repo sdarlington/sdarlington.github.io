@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Structures." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3680'
-permalink: /photography/photofriday/structures.html
+aliases: ['/photography/photofriday/structures.html']
 categories:
     - PhotoFriday
 tags:

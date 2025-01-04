@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'My second time as a tourist in New York. As usual I cover a lot of ground.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2107'
-permalink: /travel/new-new-york.html
+aliases: ['/travel/new-new-york.html']
 adman_disable:
     - 'on'
 categories:

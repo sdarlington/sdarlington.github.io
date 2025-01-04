@@ -5,7 +5,7 @@ date: '2006-03-06T12:30:55+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2006/03/06/wallace-gromit-and-me/'
-permalink: /blog/wallace-gromit-and-me.html
+aliases: ['/blog/wallace-gromit-and-me.html']
 categories:
     - Blog
 tags:

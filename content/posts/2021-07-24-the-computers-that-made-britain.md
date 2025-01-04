@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In short: you should read this book. Read on to find out why.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=69547'
-permalink: /blog/the-computers-that-made-britain.html
+aliases: ['/blog/the-computers-that-made-britain.html']
 spay_email:
     - ''
 categories:

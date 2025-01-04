@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What''s with the new pro laptops?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=5251'
-permalink: /computing/opinion/pro-is-not-a-useful-label.html
+aliases: ['/computing/opinion/pro-is-not-a-useful-label.html']
 categories:
     - Opinion
 ---

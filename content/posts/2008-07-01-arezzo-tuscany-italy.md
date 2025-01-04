@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It turns out that poor intuition is no substitute for a good map when visiting Arezzo.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=500'
-permalink: /travel/arezzo-tuscany-italy.html
+aliases: ['/travel/arezzo-tuscany-italy.html']
 categories:
     - Travel
 tags:

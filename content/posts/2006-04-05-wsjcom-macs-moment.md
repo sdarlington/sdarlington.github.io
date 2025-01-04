@@ -5,7 +5,7 @@ date: '2006-04-05T16:13:31+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/2006/04/05/wsjcom-macs-moment/'
-permalink: /links/wsjcom-macs-moment.html
+aliases: ['/links/wsjcom-macs-moment.html']
 categories:
     - Links
 tags:

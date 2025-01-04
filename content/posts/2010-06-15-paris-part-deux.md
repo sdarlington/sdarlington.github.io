@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A quick relaxing weekend in the French capital. Farming and fine views from the Eiffel Tower.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2104'
-permalink: /travel/paris-part-deux.html
+aliases: ['/travel/paris-part-deux.html']
 adman_disable:
     - 'on'
 categories:

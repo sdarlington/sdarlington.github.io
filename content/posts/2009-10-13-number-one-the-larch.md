@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Okay, I tell a lie. It''s not a larch. But it is a picture of a tree taken in Southern Spain.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1778'
-permalink: /photography/number-one-the-larch.html
+aliases: ['/photography/number-one-the-larch.html']
 categories:
     - Photography
 tags:

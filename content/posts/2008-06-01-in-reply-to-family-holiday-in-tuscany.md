@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'How could I not reply to a couple of points in a blog entry at brandarling.com?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=502'
-permalink: /blog/in-reply-to-family-holiday-in-tuscany.html
+aliases: ['/blog/in-reply-to-family-holiday-in-tuscany.html']
 categories:
     - Blog
 tags:

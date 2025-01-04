@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Best Friend." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2194'
-permalink: /photography/photofriday/best-friend.html
+aliases: ['/photography/photofriday/best-friend.html']
 adman_disable:
     - 'on'
 categories:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It''s sad when a web service that you use dies.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4651'
-permalink: /blog/goodbye-delicious.html
+aliases: ['/blog/goodbye-delicious.html']
 categories:
     - Blog
 ---

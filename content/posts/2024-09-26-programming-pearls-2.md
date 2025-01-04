@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day four of the twenty books in twenty days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99376'
-permalink: /blog/programming-pearls-2.html
+aliases: ['/blog/programming-pearls-2.html']
 categories:
     - Blog
 tags:

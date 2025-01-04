@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'They say that it''s the photographer and not the the camera that counts. That is not always true.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1728'
-permalink: /photography/spanish-sunset.html
+aliases: ['/photography/spanish-sunset.html']
 categories:
     - Photography
 tags:

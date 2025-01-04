@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is there any way to make receiving bills and junk mail entertaining? Perhaps not, but this comes pretty close.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1430'
-permalink: /photography/mailboxes.html
+aliases: ['/photography/mailboxes.html']
 categories:
     - Photography
 tags:

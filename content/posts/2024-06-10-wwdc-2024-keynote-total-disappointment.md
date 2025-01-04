@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Did Apple meet our expectations with the WWDC keynote?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93902'
-permalink: /computing/opinion/wwdc-2024-keynote-total-disappointment.html
+aliases: ['/computing/opinion/wwdc-2024-keynote-total-disappointment.html']
 categories:
     - Opinion
 tags:

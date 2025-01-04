@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Checking out another American tradition...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3504'
-permalink: /travel/happy-halloween.html
+aliases: ['/travel/happy-halloween.html']
 categories:
     - Travel
 tags:

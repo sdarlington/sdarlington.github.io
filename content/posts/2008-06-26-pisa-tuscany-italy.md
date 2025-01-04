@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'On my second trip to Pisa I hoped to find the magic that I found missing on my previous look around.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=499'
-permalink: /travel/pisa-tuscany-italy.html
+aliases: ['/travel/pisa-tuscany-italy.html']
 categories:
     - Travel
 tags:

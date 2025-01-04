@@ -5,7 +5,7 @@ date: '2006-03-22T10:34:58+00:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=55'
-permalink: /photography/photofriday/photofriday.html
+aliases: ['/photography/photofriday/photofriday.html']
 categories:
     - PhotoFriday
 tags:

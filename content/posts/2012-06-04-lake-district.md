@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Visiting the Lake District district with a baby for the first time.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3418'
-permalink: /travel/lake-district.html
+aliases: ['/travel/lake-district.html']
 categories:
     - Travel
 tags:

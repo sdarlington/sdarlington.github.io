@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Notes on Robin Ince’s book.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=69514'
-permalink: /blog/im-a-joke-and-so-are-you.html
+aliases: ['/blog/im-a-joke-and-so-are-you.html']
 categories:
     - Blog
 tags:

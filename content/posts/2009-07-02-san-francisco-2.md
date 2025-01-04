@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What can I say about San Francisco that I''ve not already said?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1554'
-permalink: /travel/san-francisco-2.html
+aliases: ['/travel/san-francisco-2.html']
 categories:
     - Travel
 tags:

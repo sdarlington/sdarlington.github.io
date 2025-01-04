@@ -5,7 +5,7 @@ date: '2008-09-02T20:06:41+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=593'
-permalink: /computing/opinion/competitive-threat.html
+aliases: ['/computing/opinion/competitive-threat.html']
 categories:
     - Opinion
 tags:

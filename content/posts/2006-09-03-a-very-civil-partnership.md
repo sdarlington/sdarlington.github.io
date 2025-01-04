@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'It turns out that 2006 is a big year for weddings. I got married in April, a friend of my wife got married in May and my friends P and I had a Civil Partnership Ceremony yesterday.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/a-very-civil-partnership.html'
-permalink: /blog/a-very-civil-partnership.html
+aliases: ['/blog/a-very-civil-partnership.html']
 categories:
     - Blog
 tags:

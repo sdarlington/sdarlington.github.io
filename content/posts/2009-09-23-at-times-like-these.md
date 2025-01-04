@@ -5,7 +5,7 @@ date: '2009-09-23T09:41:19+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/at-times-like-these.html'
-permalink: /photography/at-times-like-these.html
+aliases: ['/photography/at-times-like-these.html']
 categories:
     - Photography
 tags:

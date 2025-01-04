@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Relive one of my favourite computer science courses? Sign me up!'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=69848'
-permalink: /blog/code-the-hidden-language-of-computer-hardware-and-software.html
+aliases: ['/blog/code-the-hidden-language-of-computer-hardware-and-software.html']
 spay_email:
     - ''
 categories:

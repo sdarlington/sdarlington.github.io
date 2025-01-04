@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The first major stop on my tour of the Middle East takes me to the Roman ruins at Jerash with some surprising musical accompaniment.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/jordan-jerash.html'
-permalink: /travel/jordan-jerash.html
+aliases: ['/travel/jordan-jerash.html']
 categories:
     - Travel
 tags:

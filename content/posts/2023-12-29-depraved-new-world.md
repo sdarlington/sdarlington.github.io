@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '"Depraved New World" is a satirical collection of John Crace''s political sketches from October 2021 to June 2023, capturing the absurdity of British politics. Best enjoyed now for timely relevance, it offers entertainment rather than deep analysis. Recommended for political enthusiasts.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=86662'
-permalink: /blog/depraved-new-world.html
+aliases: ['/blog/depraved-new-world.html']
 categories:
     - Blog
 tags:

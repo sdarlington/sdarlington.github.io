@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This week I take a break from PhotoFriday and just pick a favourite image.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1326'
-permalink: /photography/french-friday.html
+aliases: ['/photography/french-friday.html']
 categories:
     - Photography
 tags:

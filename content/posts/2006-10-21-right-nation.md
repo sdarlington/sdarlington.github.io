@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why is America the way it is? And when will Dubya and his cronies leave the Whitehouse and leave someone more reasonable in charge? I read "Right Nation" to find out.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/right-nation.html'
-permalink: /blog/right-nation.html
+aliases: ['/blog/right-nation.html']
 categories:
     - Blog
 tags:

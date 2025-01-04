@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Black and White." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4004'
-permalink: /photography/photofriday/black-and-white.html
+aliases: ['/photography/photofriday/black-and-white.html']
 categories:
     - PhotoFriday
 tags:

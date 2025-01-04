@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day fourteen of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99848'
-permalink: /blog/programming-perl.html
+aliases: ['/blog/programming-perl.html']
 categories:
     - Blog
 tags:

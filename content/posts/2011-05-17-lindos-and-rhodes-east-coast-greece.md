@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The most famous destination in Rhodes is probably Lindos and its acropolis. So while I was there I had to pay it a visit.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2850'
-permalink: /travel/lindos-and-rhodes-east-coast-greece.html
+aliases: ['/travel/lindos-and-rhodes-east-coast-greece.html']
 image:
     - ''
 embed:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Do tests early in the recruitment process work?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3971'
-permalink: /computing/opinion/recruitment-tests.html
+aliases: ['/computing/opinion/recruitment-tests.html']
 categories:
     - Opinion
 tags:

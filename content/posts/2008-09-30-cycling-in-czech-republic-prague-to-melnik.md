@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'On my first days cycling I head along the Vltava River and find flat tyres, rain and little traffic.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=646'
-permalink: /travel/cycling-in-czech-republic-prague-to-melnik.html
+aliases: ['/travel/cycling-in-czech-republic-prague-to-melnik.html']
 image:
     - ''
 embed:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Those who do not understand history are destined to repeat it. '
 layout: post
 guid: 'https://www.zx81.org.uk/?p=85689'
-permalink: /blog/how-britain-broke-the-world.html
+aliases: ['/blog/how-britain-broke-the-world.html']
 categories:
     - Blog
 tags:

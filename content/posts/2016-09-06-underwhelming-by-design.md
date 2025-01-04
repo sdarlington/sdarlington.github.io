@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Should every new operating system release immediately be a revolution?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4426'
-permalink: /computing/opinion/underwhelming-by-design.html
+aliases: ['/computing/opinion/underwhelming-by-design.html']
 categories:
     - Opinion
 ---

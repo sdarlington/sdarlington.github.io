@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I take a long wander around the Czech Capital, seeing plenty of its famous sites and even sampling some local food when staff deign to serve me.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=656'
-permalink: /travel/prague-czech-republic.html
+aliases: ['/travel/prague-czech-republic.html']
 image:
     - ''
 embed:

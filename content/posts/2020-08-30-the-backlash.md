@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'The backlash against home working has begun.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=66952'
-permalink: /blog/the-backlash.html
+aliases: ['/blog/the-backlash.html']
 categories:
     - Blog
 tags:

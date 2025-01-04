@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I found this interesting article that demolishes the myth that faith strengthens society.'
 layout: post
 guid: 'http://www.zx81.org.uk/links/does-faith-strengthen-society.html'
-permalink: /links/does-faith-strengthen-society.html
+aliases: ['/links/does-faith-strengthen-society.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What do Britney Spears and Yummy, my iPhone application, have in common? If you had asked me a few months ago I would have said nothing but I''d have been wrong. No, they both have had to grow up in public.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=720'
-permalink: /computing/opinion/growing-up-in-public.html
+aliases: ['/computing/opinion/growing-up-in-public.html']
 categories:
     - Opinion
 tags:

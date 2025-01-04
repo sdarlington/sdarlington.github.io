@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Dedication is what you need to break world records.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/if-you-want-to-be-a-record-breaker.html'
-permalink: /blog/if-you-want-to-be-a-record-breaker.html
+aliases: ['/blog/if-you-want-to-be-a-record-breaker.html']
 categories:
     - Blog
 tags:

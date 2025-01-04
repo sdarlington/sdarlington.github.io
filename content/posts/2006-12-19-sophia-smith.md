@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Here is an image I took of Sophia Smith, then aspiring, now full-time model.'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/sophia-smith.html'
-permalink: /photography/sophia-smith.html
+aliases: ['/photography/sophia-smith.html']
 categories:
     - Photography
 tags:

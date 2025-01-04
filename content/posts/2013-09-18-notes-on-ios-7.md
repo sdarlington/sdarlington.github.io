@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'What''s to like about the new iOS?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3710'
-permalink: /computing/opinion/notes-on-ios-7.html
+aliases: ['/computing/opinion/notes-on-ios-7.html']
 categories:
     - Opinion
 tags:

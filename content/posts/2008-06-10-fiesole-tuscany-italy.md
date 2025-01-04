@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Although Florence gets all the press, the smaller and older city of Fiesole has merits of its own.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=494'
-permalink: /travel/fiesole-tuscany-italy.html
+aliases: ['/travel/fiesole-tuscany-italy.html']
 categories:
     - Travel
 tags:

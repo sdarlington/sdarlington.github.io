@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'After the relative ease of 3D printing Otto, I went about testing the electronics.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4619'
-permalink: /blog/otto-electronics.html
+aliases: ['/blog/otto-electronics.html']
 categories:
     - Blog
 ---

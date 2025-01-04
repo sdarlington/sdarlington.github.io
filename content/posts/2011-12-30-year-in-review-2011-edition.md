@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Best of the year, 2011 edition.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3252'
-permalink: /blog/year-in-review-2011-edition.html
+aliases: ['/blog/year-in-review-2011-edition.html']
 image:
     - ''
 embed:

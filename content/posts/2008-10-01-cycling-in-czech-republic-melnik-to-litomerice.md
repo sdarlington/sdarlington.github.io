@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'A day of extremes. I start with some wine tasting in Melnik, stop off at an old concentration camp at Terezin and finish in Litom&#283;&#345;ice.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=648'
-permalink: /travel/cycling-in-czech-republic-melnik-to-litomerice.html
+aliases: ['/travel/cycling-in-czech-republic-melnik-to-litomerice.html']
 image:
     - ''
 embed:

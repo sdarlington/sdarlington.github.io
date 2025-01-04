@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Is “Radical Candor” one of those vacuous management phrases or actually useful?'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=73227'
-permalink: /blog/radical-candor.html
+aliases: ['/blog/radical-candor.html']
 categories:
     - Blog
 tags:

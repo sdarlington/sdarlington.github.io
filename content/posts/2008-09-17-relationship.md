@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "Relationship." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=643'
-permalink: /photography/photofriday/relationship.html
+aliases: ['/photography/photofriday/relationship.html']
 categories:
     - PhotoFriday
 tags:

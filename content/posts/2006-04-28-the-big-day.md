@@ -5,7 +5,7 @@ date: '2006-04-28T13:15:52+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=56'
-permalink: /blog/the-big-day.html
+aliases: ['/blog/the-big-day.html']
 categories:
     - Blog
 tags:

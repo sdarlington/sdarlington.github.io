@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Transportation." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=4362'
-permalink: /photography/photofriday/transportation.html
+aliases: ['/photography/photofriday/transportation.html']
 categories:
     - PhotoFriday
 tags:

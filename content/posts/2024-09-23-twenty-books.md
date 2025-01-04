@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '20 books that have had an impact on who you are. One book a day for 20 days. No explanations, no reviews, just book covers.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99367'
-permalink: /blog/twenty-books.html
+aliases: ['/blog/twenty-books.html']
 categories:
     - Blog
 tags:

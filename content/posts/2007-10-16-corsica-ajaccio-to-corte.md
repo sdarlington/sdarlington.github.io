@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'In my first full day in Corsica I leave Ajaccio, the capital city, and head to the mountainous interior at Corte.'
 layout: post
 guid: 'http://www.zx81.org.uk/travel/corsica-ajaccio-to-corte.html'
-permalink: /travel/corsica-ajaccio-to-corte.html
+aliases: ['/travel/corsica-ajaccio-to-corte.html']
 categories:
     - Travel
 tags:

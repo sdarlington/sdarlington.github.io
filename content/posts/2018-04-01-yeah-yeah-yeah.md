@@ -5,7 +5,7 @@ date: '2018-04-01T10:27:32+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=4877'
-permalink: /blog/yeah-yeah-yeah.html
+aliases: ['/blog/yeah-yeah-yeah.html']
 categories:
     - Blog
 tags:

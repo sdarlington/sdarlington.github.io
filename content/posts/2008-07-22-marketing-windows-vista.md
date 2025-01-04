@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Windows Vista needs all the help it can get at the moment. How about a little charity?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=528'
-permalink: /computing/opinion/marketing-windows-vista.html
+aliases: ['/computing/opinion/marketing-windows-vista.html']
 categories:
     - Opinion
 tags:

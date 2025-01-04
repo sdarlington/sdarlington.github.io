@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'When your desk at work has a great view, it would be a shame not to bring in your camera occasionally...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3463'
-permalink: /photography/london-bridge.html
+aliases: ['/photography/london-bridge.html']
 categories:
     - Photography
 tags:

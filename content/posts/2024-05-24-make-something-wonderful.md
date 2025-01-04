@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Jobs collection of writing and speeches is interesting but not essential.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=93204'
-permalink: /blog/make-something-wonderful.html
+aliases: ['/blog/make-something-wonderful.html']
 categories:
     - Blog
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "I''m feeling..." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=702'
-permalink: /photography/photofriday/im-feeling.html
+aliases: ['/photography/photofriday/im-feeling.html']
 categories:
     - PhotoFriday
 tags:

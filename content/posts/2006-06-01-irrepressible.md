@@ -5,7 +5,7 @@ date: '2006-06-01T19:18:55+01:00'
 author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.stephendarlington.com/wordpress/?p=67'
-permalink: /links/irrepressible.html
+aliases: ['/links/irrepressible.html']
 categories:
     - Links
 tags:

@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I went to see Al Gore''s film about global warming last night. Read on to find out what I thought of it.'
 layout: post
 guid: 'http://www.zx81.org.uk/blog/an-inconvenient-truth.html'
-permalink: /blog/an-inconvenient-truth.html
+aliases: ['/blog/an-inconvenient-truth.html']
 categories:
     - Blog
     - Links

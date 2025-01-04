@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Why do some media owners get preferential treatment with Microsoft''s new Zune player?'
 layout: post
 guid: 'http://www.zx81.org.uk/photography/double-standards.html'
-permalink: /photography/double-standards.html
+aliases: ['/photography/double-standards.html']
 categories:
     - Photography
 tags:

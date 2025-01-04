@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday theme is "Geometric." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3427'
-permalink: /photography/photofriday/geometric.html
+aliases: ['/photography/photofriday/geometric.html']
 categories:
     - PhotoFriday
 tags:

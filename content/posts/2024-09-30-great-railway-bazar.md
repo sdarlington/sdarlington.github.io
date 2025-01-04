@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'Day six of the Twenty Books in Twenty Days series.'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=99380'
-permalink: /blog/great-railway-bazar.html
+aliases: ['/blog/great-railway-bazar.html']
 categories:
     - Blog
 tags:

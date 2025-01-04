@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'This weeks PhotoFriday is "...Is In The Details." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1816'
-permalink: /photography/photofriday/is-in-the-details.html
+aliases: ['/photography/photofriday/is-in-the-details.html']
 categories:
     - PhotoFriday
 tags:

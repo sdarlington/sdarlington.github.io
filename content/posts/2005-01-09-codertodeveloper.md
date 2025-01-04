@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: '"Code to Developer" promises a lot, but can it deliver? Stephen Darlington finds out. '
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/coder-to-developer.html'
-permalink: /computing/opinion/codertodeveloper.html
+aliases: ['/computing/opinion/codertodeveloper.html']
 categories:
     - Opinion
 tags:

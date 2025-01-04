@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'I select Amsterdam and Den Haag for my annual November trip. It may be dark and rainy but there''s still plenty to do.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2476'
-permalink: /travel/the-netherlands.html
+aliases: ['/travel/the-netherlands.html']
 adman_disable:
     - 'on'
 categories:

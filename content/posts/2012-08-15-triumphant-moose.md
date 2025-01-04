@@ -6,7 +6,7 @@ author: 'Stephen Darlington'
 excerpt: 'There''s a moose loose about the... Norwegian capital.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3456'
-permalink: /travel/triumphant-moose.html
+aliases: ['/travel/triumphant-moose.html']
 categories:
     - Travel
 tags:
