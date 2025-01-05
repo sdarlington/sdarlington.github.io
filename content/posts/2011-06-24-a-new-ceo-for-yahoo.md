@@ -30,13 +30,13 @@ The point, in summary, is that buying a bunch of companies to get smart people i
 
 Let’s look at some of the suggestions and, more importantly, how they inter-relate.
 
-> I&#146;d buy Instagram and put them in charge of both Instagram and Flickr. They would have 100% autonomy over the entire &#147;Yahoo! Photo&#148; division.
+> I'd buy Instagram and put them in charge of both Instagram and Flickr. They would have 100% autonomy over the entire &#147;Yahoo! Photo&#148; division.
 
 Fine. Instagram has done really well. But what makes it successful? (Assuming that it *is* successful. So far it has managed to attract a lot of users but there’s no revenue stream as far as I can see.)
 
 Is it the photo part? Well, partially. It has filters that people like playing around with. Another key to its success is the sharing, social side. But…
 
-> I&#146;d buy Path and With for the sole reason of bringing Dave and his team on to lead the new “Yahoo! Social” division.
+> I'd buy Path and With for the sole reason of bringing Dave and his team on to lead the new “Yahoo! Social” division.
 
 What’s the direction of the company if “Yahoo! Photo” and “Yahoo! Social” are both doing social stuff? Who decides how to share photos or videos?
 

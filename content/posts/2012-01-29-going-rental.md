@@ -25,7 +25,7 @@ tags:
 
 Apparently the movie studios are placing further restrictions on rentals in order to promote the purchase of shiny disc. [Marco Arment says this won’t work because](http://www.marco.org/2012/01/27/netflix-warner-bros-queue-delay):
 
-> If I&#146;m adding a movie to my Netflix queue, I&#146;ve already decided not to buy the DVD. I&#146;m adding it because it looks mildly interesting and I&#146;d like to watch it sometime.
+> If I'm adding a movie to my Netflix queue, I've already decided not to buy the DVD. I'm adding it because it looks mildly interesting and I'd like to watch it sometime.
 
 I take the opposite approach. I am unlikely to buy a movie unless I have previously rented it. Why would I buy it if I don’t know whether or not I like it?
 

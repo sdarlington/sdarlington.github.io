@@ -32,7 +32,7 @@ It’s all covered in the FAQ which [reads like this](http://developer.apple.com
 
 > **If I enroll as an Individual, can I change to a Company later?**
 > 
-> To convert your iOS Developer Program Membership from an Individual to a Company please contact us. As part of the conversion process, you may be asked to submit business documents proving your company&#146;s identity.
+> To convert your iOS Developer Program Membership from an Individual to a Company please contact us. As part of the conversion process, you may be asked to submit business documents proving your company's identity.
 
 As the link in the FAQ requested, I send an email using the “Contact us” form. Just over two business days later they replied saying that I needed to give them a call. It’s not clear why they couldn’t have just said that in the FAQ!
 
