@@ -19,7 +19,7 @@ draft: true
 
 I thought that I was doing well. Before I made the trip to Spain I had already been on the Internet and booked tickets for the Alhambra, Granada’s most famous site.
 
-Two things, however, had escaped my attention. Firstly, Granada is about two hours by taxi from Canillas de Albaida, which meant getting up at an unsociable hour ((Why is it that I often end up setting my alarm earlier when on holiday that on a normal working week?)).
+Two things, however, had escaped my attention. Firstly, Granada is about two hours by taxi from Canillas de Albaida, which meant getting up at an unsociable hour[^1].
 
 Secondly, I hadn’t thought to print a map and the guide book that I’d brought didn’t have a map. This was unfortunate as I missed the path down from the Alhambra down to the town centre and ended up in what seemed like the middle of nowhere.
 
@@ -33,7 +33,7 @@ Secondly, I hadn’t thought to print a map and the guide book that I’d brough
 
 It turns out that I wasn’t too far from the centre after all and it only took ten minutes to get to the Cathedral. This immediately seemed more like it, with crowds of tourists trying to get in to see… something.
 
-After staying in Canillas de Albaida, a town of only seven hundred people, the crowds came as a bit of shock ((Just imagine the culture shock when I got back to London less than a week later.)) and I wasn’t quite prepared to fight my way to the front to get in or even find out what the queue was for. Instead I went around the Cathedral, noting that there ware various shopping streets fanning out and, generally, lots of activity for a Wednesday.
+After staying in Canillas de Albaida, a town of only seven hundred people, the crowds came as a bit of shock[^2] and I wasn’t quite prepared to fight my way to the front to get in or even find out what the queue was for. Instead I went around the Cathedral, noting that there ware various shopping streets fanning out and, generally, lots of activity for a Wednesday.
 
 Around one side of the Cathedral was a busker, at the back was another entrance to the church and service going on. I snuck around the side and surreptitiously took a few pictures, slightly embarrassed by the volume of the thunk as I released the shutter. A few minutes later another tourist burst in with a video camera and stood right in the middle taping the whole service.
 
@@ -46,3 +46,5 @@ The Alhambra is every bit as spectacular as you’ve probably heard. The scale i
 It took all afternoon to wander around and as 6pm approached, the agreed taxi pick-up time, it became clear that there were likely bits that I’d missed but that I was too tired to try to find in any kind of hurry.
 
 Overall, it was a long, tiring, fun day. I slept on my way back to [Canillas de Albaida](http://www.zx81.org.uk/travel/canillas-de-albaida-spain.html), please with what I’d seen.
+[^1]: Why is it that I often end up setting my alarm earlier when on holiday that on a normal working week?
+[^2]: Just imagine the culture shock when I got back to London less than a week later.

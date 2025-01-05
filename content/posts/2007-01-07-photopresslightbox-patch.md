@@ -31,7 +31,8 @@ You’ll need to follow the following few steps to do the same with your own sit
 3. Download and install the plugin. If you don’t have Photopress, try [this full version](http://www.zx81.org.uk/wp-content/uploads/2007/01/photopress-095sd.zip "Patched Photopress (Full Version)"). If you already have Photopress 0.9.5, you can download either [the only file that’s changed](http://www.zx81.org.uk/wp-content/uploads/2007/01/photopressphp.txt "Patched Photopress (Changed file)") or [this patch file](http://www.zx81.org.uk/wp-content/uploads/2007/01/photopressphppatch.txt "Patched Photopress (Patched File)")
 4. Activate the plugin
 5. Go to the Photopress Options screen. Look at the bottom of the screen. Here you can enable/disable the Lightbox effect and point Photopress to the Lightbox Javascript routines
-6. Also make sure that you have switched off the “Link to Album” feature ((Thanks to Roman Seibel for figuring this out.))
+6. Also make sure that you have switched off the “Link to Album” feature[^1]
 7. You’re done
 
 Please let me know how you get on. Hope you like it!
+[^1]: Thanks to Roman Seibel for figuring this out.

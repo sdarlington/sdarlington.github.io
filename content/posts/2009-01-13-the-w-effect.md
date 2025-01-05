@@ -17,7 +17,7 @@ tags:
     - Software
 ---
 
-This is probably the meanest article title I’ve ever written, as the “W” refers to a person, someone that I used to work with ((In fact I had a number of choices, and that’s the point. However this, as you’ll see, is an extreme case and is the first I remember.)). The critical phrase went something like this:
+This is probably the meanest article title I’ve ever written, as the “W” refers to a person, someone that I used to work with[^1]. The critical phrase went something like this:
 
 “How hard can it be? It’s only a button!”
 
@@ -36,3 +36,4 @@ But what I don’t profess to know is the design process or how long it should t
 “W” was from another discipline, couldn’t imagine what might be hard technically and made a commitment to the client based on that hunch. Unfortunately while their part would only take a few hours, it turned out that there were several *weeks* of technical work to make that button operate.
 
 Of course I don’t want to come down too hard on “W,” as this is both a fairly extreme case and something that we all do to some extent. Things that we don’t understand almost always seem easier than they are in reality. The trick, insofar as there is one, is acknowledge that it does happen and consult with someone who *does* understand it before making commitments.
+[^1]: In fact I had a number of choices, and that’s the point. However this, as you’ll see, is an extreme case and is the first I remember.

@@ -29,7 +29,7 @@ But neither Yummy nor www.cut are like that. They are almost entirely my own cod
 
 The first is historical: Yummy was initially developed when the now infamous NDA was in place. Developers couldn’t share code even if they wanted to.
 
-Secondly, I like to minimise external dependencies. The iOS platform changes fast enough as it is without having to wait for other developers to update code as well. Of course, open source means that I could fix it myself but that probably means looking at code I’m not completely familiar with and that takes time. The desire to remove third party code led me to remove AdMob in Yummy Browser and www.cut and replace with Apple’s iAd, even knowing that the fill rate was very low ((Early indications are that, even with the lower fill rate, income is not vastly different, and this is with only two countries active at the moment with iAds.)).
+Secondly, I like to minimise external dependencies. The iOS platform changes fast enough as it is without having to wait for other developers to update code as well. Of course, open source means that I could fix it myself but that probably means looking at code I’m not completely familiar with and that takes time. The desire to remove third party code led me to remove AdMob in Yummy Browser and www.cut and replace with Apple’s iAd, even knowing that the fill rate was very low[^1].
 
 Ultimately, however, there’s too much great code out there to avoid it altogether. The current, shipping version of Yummy has two open source components and I have just released a (tiny) third one.
 
@@ -48,3 +48,4 @@ I created UIViewAutoDismiss to help:
 [UIViewAutoDismiss](http://github.com/sdarlington/UIViewAutoDismiss)
 
 This code is inspired by a [question and answer on Stackoverflow](http://stackoverflow.com/questions/3105974/dismissing-UIAlertViewAutoDismisss-when-entering-background-state).
+[^1]: Early indications are that, even with the lower fill rate, income is not vastly different, and this is with only two countries active at the moment with iAds.

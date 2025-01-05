@@ -43,6 +43,7 @@ It didn’t take long to explore it fairly thoroughly. There’s the main square
 										//-->
 				</script>A thirty minute walk down a pleasant path was the “big” town, Competa. It’s all relative of course, as Competa only has a population of about four thousand.
 
-The main feature of Competa is its square and church with a bell tower that at various points in its history has also been a minaret ((Though perhaps not in its current form. It has fallen down and has been rebuilt a number of times over the centuries.)). I was lucky to experience a couple of great sunsets over the church and an enormous ice-cream in a cafe in the square.
+The main feature of Competa is its square and church with a bell tower that at various points in its history has also been a minaret[^1]. I was lucky to experience a couple of great sunsets over the church and an enormous ice-cream in a cafe in the square.
 
 It’s a hard job but someone has to do it.
+[^1]: Though perhaps not in its current form. It has fallen down and has been rebuilt a number of times over the centuries.

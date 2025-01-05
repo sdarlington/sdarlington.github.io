@@ -20,7 +20,7 @@ tags:
 
 Having “done” the [big city](http://www.zx81.org.uk/travel/japan-tokyo.html) and [the nature](http://www.zx81.org.uk/travel/japan-kamikochi.html), it was time to take in some culture. Kyoto and Nara are the “old” parts of Japan with many of the most beautiful and most famous temples. I didn’t see all of them but I did pretty well! The difference in character between them was fascinating.
 
-Pretty much straight off the Shinkansen I headed to Kiyomizudera. This was, by far, the busiest and most crowded temple of the trip ((There was one in Nara that came close, but the busy-ness was isolated. Here it was everywhere!)). Quite an odd atmosphere for a temple in any case.
+Pretty much straight off the Shinkansen I headed to Kiyomizudera. This was, by far, the busiest and most crowded temple of the trip[^1]. Quite an odd atmosphere for a temple in any case.
 
 [![Kiyomizu-dera Temple](https://i0.wp.com/farm5.staticflickr.com/4151/5093751771_50cb2ba147.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5093751771/ "Kiyomizu-dera Temple by stephendarlington, on Flickr")
 
@@ -85,3 +85,4 @@ It was bright and in direct sunlight at the time I was there, so I sat around th
 [![Sand garden, Ryoanji Temple](https://i0.wp.com/farm5.staticflickr.com/4112/5093759259_b25d94ee47.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5093759259/ "Sand garden, Ryoanji Temple by stephendarlington, on Flickr")
 
 The next instalment will be of Nara which is a smaller but older capital city.
+[^1]: There was one in Nara that came close, but the busy-ness was isolated. Here it was everywhere!

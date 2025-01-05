@@ -22,7 +22,7 @@ If you follow any iOS technology blogs you might have seen this recent scandal:
 
 This, they say, is bad because this is not what happens with Apple’s App Store.
 
-However, I don’t think Google are doing anything weird here, and I say this as someone who is not a fan of Android. The commercial relationship between developers and Apple is different from the relationship between Google and developers ((Please let me know if I have any of this wrong. I don’t develop Android software but this is my understanding of how it all works.)).
+However, I don’t think Google are doing anything weird here, and I say this as someone who is not a fan of Android. The commercial relationship between developers and Apple is different from the relationship between Google and developers[^1].
 
 In Apple’s case, the developer has a single customer (Apple). You licence your code to Apple and *Apple* sells your app. The end users relationship is with Apple, not the developer. You get royalties, much in the same way that you get royalties when you publish a book. I’m still waiting for my million dollar advance from Apple, but the principle is the same.
 
@@ -33,3 +33,4 @@ Saying that this is a privacy issue is like paying for a latte with a credit car
 There are always stories of disreputable restaurants skimming credit cards and defrauding consumers. The trick, insofar as there is one, is not to eat at those restaurants. Similarly, if you think a developer is likely to use your data in an underhand manner, don’t download their software. It’s that simple.
 
 Should Google be more upfront about who gets what details? Possibly. It never hurts to be open and honest — dare I say, not evil — about privacy matters. But I don’t think what they’re doing is inherently bad.
+[^1]: Please let me know if I have any of this wrong. I don’t develop Android software but this is my understanding of how it all works.

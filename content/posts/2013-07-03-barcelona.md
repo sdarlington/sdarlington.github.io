@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-I went to the north of [Spain](http://www.zx81.org.uk/travel/walking-in-andaluca-spain.html "Walking in Andalucía, Spain") twice in the early nineties and visited Barcelona for a day each time. I only remember bits and pieces — walking down the Ramblas and how weird the Gaudi cathedral was — and can’t find any pictures from either trip, so it made sense to make it the first city break of 2013 and the first time we’ve done something like this since the birth of Junior ((Last year we travelled a lot less than usual, and even then mostly in the UK or for longer than a weekend.))
+I went to the north of [Spain](http://www.zx81.org.uk/travel/walking-in-andaluca-spain.html "Walking in Andalucía, Spain") twice in the early nineties and visited Barcelona for a day each time. I only remember bits and pieces — walking down the Ramblas and how weird the Gaudi cathedral was — and can’t find any pictures from either trip, so it made sense to make it the first city break of 2013 and the first time we’ve done something like this since the birth of Junior[^1]
 
 [![Catalan Flag](https://i0.wp.com/farm8.staticflickr.com/7050/8689483818_f3893e8b18.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/8689483818/ "Catalan Flag by stephendarlington, on Flickr")
 
@@ -61,3 +61,4 @@ However one thing that struck me is that although it *looks* different from almo
 And that was about it, that was our weekend away. I guess the ultimate test is whether I would go back again, and the answer is a resounding Yes (even though I now have evidence that I have been!). We’ve now done all the obvious “tourist” sights but I think it’s the kind of city that would be pretty neat to just “hang out.”
 
 (There are [more pictures available on Flickr](http://www.flickr.com/photos/stephendarlington/sets/72157633355523863/) if you’re interested.)
+[^1]: Last year we travelled a lot less than usual, and even then mostly in the UK or for longer than a weekend.

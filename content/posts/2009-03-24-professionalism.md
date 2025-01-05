@@ -20,7 +20,7 @@ A few years ago I was subcontracted to one of the large consultancies. I was tak
 
 This turned out not to be entirely correct.
 
-After sitting through over a week of her spelling out each and every step in excruciating detail — much of which I don’t think she really understood — I spent three days writing a shell script to automate over ninety percent of the process. I don’t mean a quick, shoddy hack either. I spent the time to gold-plate it. It was a work of art. I set it up so that you only needed to copy the one file and allowed for the user forgetting to switch FTP into binary mode ((I basically appended a tar’d and uuencoded file to the end of the shell script which it knew how to extract and decode.)).
+After sitting through over a week of her spelling out each and every step in excruciating detail — much of which I don’t think she really understood — I spent three days writing a shell script to automate over ninety percent of the process. I don’t mean a quick, shoddy hack either. I spent the time to gold-plate it. It was a work of art. I set it up so that you only needed to copy the one file and allowed for the user forgetting to switch FTP into binary mode[^1].
 
 In the end, my three days of work reduced the week long process to about an hour, and most of that was waiting for the file to transfer over the network.
 
@@ -33,3 +33,4 @@ What does “professionalism” mean to you?
 Sometimes, I think, it’s used as an excuse to do or not do something in a particular way. “That’s not professional” is kind of a cop-out. In this case I can only assume that the real reason was that they wanted to bill a week of my time to the client for each installation. Of course they couldn’t *say* that.
 
 Since then, every time I hear the phrase “that’s not professional” I try to drill down and find the real, underlying reason. I’m hoping that one of these days I won’t be disappointed with what I find. It hasn’t happened yet.
+[^1]: I basically appended a tar’d and uuencoded file to the end of the shell script which it knew how to extract and decode.

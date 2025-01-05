@@ -25,6 +25,7 @@ tags:
 
 [My Little Secret](http://www.photofriday.com/archives/challenge/000769.php) is this, the best coffee shop in [Reykjavik, Iceland](/travel/iceland.html) — it was always half-empty even though they had great drinks and even better cakes.
 
-That’s also this weeks PhotoFriday theme. I found it a tricky subject ((Seems to be fairly common. I can’t see how most of the current entries match the theme!)) and I’m not entirely happy with this pictures connection to the topic, but I do think I captured the lighting and the atmosphere of the cafe well.
+That’s also this weeks PhotoFriday theme. I found it a tricky subject[^1] and I’m not entirely happy with this pictures connection to the topic, but I do think I captured the lighting and the atmosphere of the cafe well.
 
 Please also vote for my entry in last weeks challenge, “[Electricity](http://www.photofriday.com/linkviewer.php?id=767).” I’m entry number 225.
+[^1]: Seems to be fairly common. I can’t see how most of the current entries match the theme!

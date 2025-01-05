@@ -21,7 +21,7 @@ The same is kind of true of the first generation iPhone. Most complaints have be
 
 In fact, Where I Think iPhone Went Wrong is probably not something that will make any list of bullet points on a Jobs Keynote. It’s pretty much a single use-case: one handed operation.
 
-One of the things that really bugged me about Windows Mobile ((The version with the stylus is, I think, these days known as Windows Mobile Professional. There’s also a version for actual phones rather than PDAs with built in phones that works only using a key-pad. Maybe I chose the wrong WM device.)) is that almost everything required the use of the stylus. Not only was the stylus small and easy to lose, it requires both hands to operate the phone. Not great when you’re trying to make a call while carrying a latte or juggling several items at the supermarket and calling your significant other for advice on which to purchase.
+One of the things that really bugged me about Windows Mobile[^1] is that almost everything required the use of the stylus. Not only was the stylus small and easy to lose, it requires both hands to operate the phone. Not great when you’re trying to make a call while carrying a latte or juggling several items at the supermarket and calling your significant other for advice on which to purchase.
 
 The iPhone is way better than Windows Mobile in this regard, but there are two areas where it doesn’t work quite so well:
 
@@ -30,4 +30,6 @@ The iPhone is way better than Windows Mobile in this regard, but there are two a
 
 These probably sound like very small points but when everything else works so well they stand out. I don’t think this is really a fundamental problem. It’s just fit-and-finish, that final 10% of software development that takes 90% of the time.
 
-I am hoping that Apple gets around to fixing it soon — I need this much more than the much-hyped and almost due “enterprise” functionality — but if not then the title of this post allows me two follow up posts entitled “Some More of iPhone’s Greatest Mistakes” and “Who is this iPhone Person Anyway?” ((This is a reference to [Oolon Colluphid](http://en.wikipedia.org/wiki/Minor_characters_from_The_Hitchhiker's_Guide_to_the_Galaxy#Oolon_Colluphid)‘s god-busting trilogy.)) I am looking forward to *not* having to write them.
+I am hoping that Apple gets around to fixing it soon — I need this much more than the much-hyped and almost due “enterprise” functionality — but if not then the title of this post allows me two follow up posts entitled “Some More of iPhone’s Greatest Mistakes” and “Who is this iPhone Person Anyway?”[^2] I am looking forward to *not* having to write them.
+[^1]: The version with the stylus is, I think, these days known as Windows Mobile Professional. There’s also a version for actual phones rather than PDAs with built in phones that works only using a key-pad. Maybe I chose the wrong WM device.
+[^2]: This is a reference to [Oolon Colluphid](http://en.wikipedia.org/wiki/Minor_characters_from_The_Hitchhiker's_Guide_to_the_Galaxy#Oolon_Colluphid)‘s god-busting trilogy.

@@ -17,7 +17,7 @@ tags:
     - uk
 ---
 
-It seems that the weather is not without a sense of irony ((Nod to The Matrix with that line of course.)). In the year that is the hottest on record, in the UK we’re having a very early cold snap, complete with snow.
+It seems that the weather is not without a sense of irony[^1]. In the year that is the hottest on record, in the UK we’re having a very early cold snap, complete with snow.
 
 [![Footprints in Colliers Wood snow](https://i0.wp.com/farm6.staticflickr.com/5123/5221564672_e9bb7788f6.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5221564672/ "Footprints in Colliers Wood snow by stephendarlington, on Flickr")
 
@@ -38,3 +38,4 @@ The park was mostly monochrome, with the grey sky and snow, but there was still 
 [![Colliers Wood snow](https://i0.wp.com/farm5.staticflickr.com/4103/5220967523_8ef51c024c.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5220967523/ "Colliers Wood snow by stephendarlington, on Flickr")
 
 Unable to feel my toes and fully stocked with lunch and dinner, I went back home. I’ve not been out since. It’s warm here.
+[^1]: Nod to The Matrix with that line of course.

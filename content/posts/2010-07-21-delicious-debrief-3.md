@@ -54,10 +54,12 @@ Having spent a lot of time trying to understand why the existing libraries did n
 
 So I decided to go ahead and make my own OAuth library. In some respects this was quite a risky move as it was going to be difficult code to write and it would be in a very fundamental part of the software, traditionally somewhere that I try to use simple, well tested code.
 
-It’s difficult to say whether this was the quickest option. Maybe I could have changed one line in, say, OAuthConsumer and got everything working in half the time. But the amount of time that I spent struggling with them suggests not and this way I have full control over and full understanding of every line of code ((I’m also geeky enough to *like* writing this kind of code. So shoot me.)).
+It’s difficult to say whether this was the quickest option. Maybe I could have changed one line in, say, OAuthConsumer and got everything working in half the time. But the amount of time that I spent struggling with them suggests not and this way I have full control over and full understanding of every line of code[^1].
 
-I ended up writing about four hundred lines of new code instead of using MPOAuth or OAuthConsumer. This is some reasonably low-level code and was tricky to debug as the server-side typically responded with a simple “invalid signature” error no matter what the actual problem was. (This is not to complain about Yahoo’s service. It’s just the nature of the beast, unfortunately.) However, once written it’s proven to be surprisingly resilient ((I’m only aware of one bug caused by the new code, and that problem, strictly speaking, was already present in Yummy, it just did not exhibit the same behaviour previously.)).
+I ended up writing about four hundred lines of new code instead of using MPOAuth or OAuthConsumer. This is some reasonably low-level code and was tricky to debug as the server-side typically responded with a simple “invalid signature” error no matter what the actual problem was. (This is not to complain about Yahoo’s service. It’s just the nature of the beast, unfortunately.) However, once written it’s proven to be surprisingly resilient[^2].
 
 ### Coming tomorrow
 
 Having decided on the low-level technical details I discovered that there was [still a lot of work to do](http://www.zx81.org.uk/computing/opinion/delicious-debrief-4.html). That’s what I’ll be talking about tomorrow.
+[^1]: I’m also geeky enough to *like* writing this kind of code. So shoot me.
+[^2]: I’m only aware of one bug caused by the new code, and that problem, strictly speaking, was already present in Yummy, it just did not exhibit the same behaviour previously.

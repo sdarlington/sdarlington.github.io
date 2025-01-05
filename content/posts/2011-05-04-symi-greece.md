@@ -28,7 +28,7 @@ I was determined to make at least one boat trip to another island and there were
 
 [![Symi harbour](https://i0.wp.com/farm6.static.flickr.com/5225/5632199825_55e8f243b7.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632199825/ "Symi harbour by stephendarlington, on Flickr")
 
-Maybe it was the tides, the time of day or the phase of the moon, but the catamaran rocked about uncomfortably for ten minutes ((B continues to claim that it was far longer and far worse than this. I would just add that I was awake for the whole journey.)) before calming down to a relatively smooth ride for the rest of hour-long trip.
+Maybe it was the tides, the time of day or the phase of the moon, but the catamaran rocked about uncomfortably for ten minutes[^1] before calming down to a relatively smooth ride for the rest of hour-long trip.
 
 [![Symi houses](https://i0.wp.com/farm6.static.flickr.com/5106/5632784536_a7f8581c28.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5632784536/ "Symi houses by stephendarlington, on Flickr")
 
@@ -79,3 +79,4 @@ I sauntered back to the main harbour and got another bite to eat while waiting f
 I left as the sun was low in the sky, leaving a fittingly pretty image of the place in mind. The sea was much smoother on the way back which was just as well since I had just eaten!
 
 I would stay on Rhodes for the rest of the week but travel out of Rhodes Town.
+[^1]: B continues to claim that it was far longer and far worse than this. I would just add that I was awake for the whole journey.

@@ -30,17 +30,17 @@ Let’s not be too hasty.
 
 As I understand it, there are two main arguments given against traffic shaping (as it’s called), one technical, the other political. The technical reason is fairly simple: the Internet was designed with the assumption that all traffic was equal and we don’t really know what effect large scale traffic shaping would have. It could be the butterfly flapping its wings in Japan that causes a tornado in Florida.
 
-The political reason is probably why the ISPs *really* want an end to Net Neutrality: they are not entirely impartial when it comes to deciding which traffic gets priority. These same companies want to sell music and movies and voice over Internet services, so what’s to say that they wouldn’t give their own voice traffic priority over Vonage or Skype? ((My parents ISP chose to throttle all P2P software, which may not be a bad choice *per se*. Unfortunately they also included Skype in this category. I’m not sure whether this was purely an accident or because they are mainly a phone company who are providing “free” broadband and are trying to push people away from VoIP.))
+The political reason is probably why the ISPs *really* want an end to Net Neutrality: they are not entirely impartial when it comes to deciding which traffic gets priority. These same companies want to sell music and movies and voice over Internet services, so what’s to say that they wouldn’t give their own voice traffic priority over Vonage or Skype?[^1]
 
-This debate never really happened here in the UK. While the big print in the adverts usually says “Unlimited Downloads!” ((Are people really so gullible as to believe that they can reasonably get unlimited anything? ISPs clearly think so as I am only aware of a few that have bandwidth quotas.)) the small print typically hints at traffic shaping. I suspect this already affects many people without them knowing about it; they just blame their PC or Bill Gates without realising that the problem is actually further downstream.
+This debate never really happened here in the UK. While the big print in the adverts usually says “Unlimited Downloads!”[^2] the small print typically hints at traffic shaping. I suspect this already affects many people without them knowing about it; they just blame their PC or Bill Gates without realising that the problem is actually further downstream.
 
 But as I hinted back in the first paragraph, in the UK three of the major ISPs are taking one further step: they are [planning on selling our surfing habits to a third-party](http://www.theregister.co.uk/2008/02/25/phorm_isp_advertising/) so that they can send us context-sensitive adverts.
 
 It can’t be just me that thinks that this is creepy.
 
-Advertisers love the idea as they can see *exactly* the sites that everyone ((They are three of the biggest ISPs in the UK. So while this isn’t actually everyone, they cover around two-thirds of British broadband subscribers.)) is visiting and not just those that, for instance, have DoubleClick or Google banners.
+Advertisers love the idea as they can see *exactly* the sites that everyone[^3] is visiting and not just those that, for instance, have DoubleClick or Google banners.
 
-In return, consumers get some nebulous “security” protection, details of all their web surfing sent to a third party without their consent and even more adverts ((One of the most creepy parts is that if you opt-out then there is still the possibility that [you’re still going to be tracked anyway](http://www.theregister.co.uk/2008/02/29/phorm_documents/).)).
+In return, consumers get some nebulous “security” protection, details of all their web surfing sent to a third party without their consent and even more adverts[^4].
 
 Where does the hypocrisy come in? Well, recently the UK government suggested that [ISPs should police the Internet for copyright infringement](http://technology.timesonline.co.uk/tol/news/tech_and_web/the_web/article3353387.ece). Three offences and your connection is shut-down. These offences, incidentally, seem not to require any legal process or evidence — it’s pretty much the *suspicion* that seals your fate.
 
@@ -53,3 +53,7 @@ Hang on!
 When they can make money selling those records it’s just fine. And when this transaction hinders their own users experience by flashing up adverts without their permission, that’s also dandy. But when it comes to scanning the traffic for law enforcement purposes then it’s both illegal and impossible?
 
 Being an Internet Service Provider has gone from being an almost glamorous, high margin business in the mid-nineties to one barely above commodity level today. It is, perhaps, no wonder that they are trying every last trick to eke out every last penny, but is selling out their own customers really the best strategy?
+[^1]: My parents ISP chose to throttle all P2P software, which may not be a bad choice *per se*. Unfortunately they also included Skype in this category. I’m not sure whether this was purely an accident or because they are mainly a phone company who are providing “free” broadband and are trying to push people away from VoIP.
+[^2]: Are people really so gullible as to believe that they can reasonably get unlimited anything? ISPs clearly think so as I am only aware of a few that have bandwidth quotas.
+[^3]: They are three of the biggest ISPs in the UK. So while this isn’t actually everyone, they cover around two-thirds of British broadband subscribers.
+[^4]: One of the most creepy parts is that if you opt-out then there is still the possibility that [you’re still going to be tracked anyway](http://www.theregister.co.uk/2008/02/29/phorm_documents/).

@@ -35,7 +35,7 @@ Next came the surprise.
 
 A couple days later I conversationally asked how he’d got on with my script. It turns out that it didn’t work straight away; there was a minor bug. As far as I can tell he immediately abandoned my code and spent five hours doing the same thing by hand. He’d not mentioned the bug to me before and, for the record, it took about ten minutes for me to fix the problem that he’d encountered.
 
-So, let’s make things very clear here. This otherwise smart person had done five hours work rather than spend a few minutes looking through a program or, even more bafflingly, ask me a simple question ((There’s an argument that the problem here is his communication skills. I’m not convinced that is the case in this circumstance. He’s normally fine. And I think I’m fairly approachable!)).
+So, let’s make things very clear here. This otherwise smart person had done five hours work rather than spend a few minutes looking through a program or, even more bafflingly, ask me a simple question[^1].
 
 What’s the difference? Why do some people go out of their way to write simple programs while others go out of their way to do repetitive, mind-numbing tasks?
 
@@ -48,3 +48,4 @@ So far you might think that I’m bragging, but really I’m not. There’s anot
 Similarly, on a number of occasions I have spent far longer building a tool than it would have taken to do it by hand. Sometimes the desire to solve a programming challenge means that I lack the perspective to see when it’s not such a good idea to script the task. Tool building is not without risk. Those truly great developers, no doubt, have both the tool building ability *and* the ability to recognise when it makes sense to do so.
 
 But overall I still think that one very significant factor in making some developers more productive than others is their ability to write software tools, particularly programs that write other programs.
+[^1]: There’s an argument that the problem here is his communication skills. I’m not convinced that is the case in this circumstance. He’s normally fine. And I think I’m fairly approachable!

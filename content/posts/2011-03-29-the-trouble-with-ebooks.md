@@ -47,12 +47,14 @@ I would counter that with: *I don’t care*.
 
 What I care about is “value for money.” All else being equal, I might consider an ebook to be worth more than a real book as it takes up less space and I can download it again if I lose my reader.
 
-Unfortunately, all else is not equal. I can’t lend an ebook ((Lending Kindle books only works in the US. I like the idea of [Lendle](http://lendle.me/). iBooks doesn’t allow lending at all.)). I can’t resell an ebook. I can’t donate a book I’ve read to the local library or to a charity shop. The fact that it’s worth pretty much nothing when I’ve finished it means that an ebook is worth considerably less to me than a real book.
+Unfortunately, all else is not equal. I can’t lend an ebook[^1]. I can’t resell an ebook. I can’t donate a book I’ve read to the local library or to a charity shop. The fact that it’s worth pretty much nothing when I’ve finished it means that an ebook is worth considerably less to me than a real book.
 
 Nevertheless, I think ebooks are almost certainly the future. Unlike audiobooks or TV versus radio, ebooks have *exactly* the same use-case as traditional books. The objections are almost entirely technical. The cost. The resolution or brightness of the screen. The battery life. These are all solvable. It’s the business model that needs work.
 
-Steve Jobs famously said that people want to own their music and, to this date, Apple have only *sold* music; they’ve never rented it. On the other hand, you can rent movies and, if you live in the US, TV shows too. I think, broadly speaking, Jobs is correct ((Spotify and Last.fm have the opposite problem to ebooks: they’re too cheap. Or at least too cheap to sustain the current system. Changing the system is a different, and entirely valid, conversation.)). You might listen to your favourite music dozens, even hundreds, of times. You’ll watch a movie or read a book, even a favourite one, only a few times by comparison.
+Steve Jobs famously said that people want to own their music and, to this date, Apple have only *sold* music; they’ve never rented it. On the other hand, you can rent movies and, if you live in the US, TV shows too. I think, broadly speaking, Jobs is correct[^2]. You might listen to your favourite music dozens, even hundreds, of times. You’ll watch a movie or read a book, even a favourite one, only a few times by comparison.
 
 So following that logic, I wonder why no-one has tried ebook rentals? In libraries we can already see that there’s a market for rented reading material. The same kind of DRM used with movies could be used for books, though we might need a little more than 24 hours to read a complete novel. I’d suggest around a couple of weeks or something more along the lines of a Netflix/LoveFilm model where you borrow *n* books at a time for as long as you subscribe.
 
 Is there any reason why this won’t work?
+[^1]: Lending Kindle books only works in the US. I like the idea of [Lendle](http://lendle.me/). iBooks doesn’t allow lending at all.
+[^2]: Spotify and Last.fm have the opposite problem to ebooks: they’re too cheap. Or at least too cheap to sustain the current system. Changing the system is a different, and entirely valid, conversation.

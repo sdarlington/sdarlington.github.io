@@ -19,7 +19,7 @@ As many readers know by now I am in the late stages of developing and releasing 
 
 I [talked about pricing](http://www.zx81.org.uk/computing/opinion/what-price.html) previously, but today I want to talk about the competition.
 
-I downloaded the SDK ((Software Development Kit, the program you use to write other software.)) shortly after the original announcement. The first version was fairly primitive, with little to no support for the drag-and-drop style of development used for parts of Mac OS X programs. I played around a bit, compiled a few demo applications but didn’t really get very far. Too hard, I though.
+I downloaded the SDK[^1] shortly after the original announcement. The first version was fairly primitive, with little to no support for the drag-and-drop style of development used for parts of Mac OS X programs. I played around a bit, compiled a few demo applications but didn’t really get very far. Too hard, I though.
 
 The beta’s came and I started having ideas for programs that I might want. Initially I thought they were too easy for a professional developer and certainly something that other people would be working on.
 
@@ -40,3 +40,4 @@ I eventually calmed down enough to download a copy. Fortunately reality wasn’t
 It did mean that I had to refine my thinking about pricing. But most importantly I had to start considering when to release it. Should I trim a few features so I could release it early? Or keep going, be a bit later but have something unique? In the end I just decided to keep going. Another “me too” product wouldn’t have managed to overcome their first-mover advantage, but extra features might.
 
 If there’s a lesson here it’s that making the best product you can is a better use of your time than examining the competition. Happy users is the key to success and improving your software is the best way to achieve that.
+[^1]: Software Development Kit, the program you use to write other software.

@@ -21,7 +21,7 @@ The Cinque Terre — a series of small, connected coastal villages — has been 
 
 Having been there nearly a week and roughly established the time required to get to [Pisa](http://www.zx81.org.uk/travel/pisa-tuscany-italy.html), more or less the half-way stage to the [Cinque Terre](http://wikitravel.org/en/Cinque_Terre), I decided that I might as well try to get there.
 
-By the time I got past Pisa I was questioning my sanity. I’d had to get up early which is something that I never consider to be a good start to a day. I’d have been willing to overlook that had it not been raining. Heavily. It was the kind of rain where the water bounces from the bonnet and the wipers running at full speed still result in a blurred windscreen and visibility barely beyond the front of the car ((I may be slightly over-dramatising events here. Nevertheless, the rain would have made walking from village to village incredibly soggy and miserable.)).
+By the time I got past Pisa I was questioning my sanity. I’d had to get up early which is something that I never consider to be a good start to a day. I’d have been willing to overlook that had it not been raining. Heavily. It was the kind of rain where the water bounces from the bonnet and the wipers running at full speed still result in a blurred windscreen and visibility barely beyond the front of the car[^1].
 
 Still, having made it that far I decided to continue.
 
@@ -39,8 +39,10 @@ By the time I finish my latte the sun is out properly and it’s getting comfort
 
 It is. And it’s beautiful. Before long I can see back to Manarola, and from this distance I can’t see the pushy waiters and the postcard stands. The walk is along a decent path and is fairly flat, which means that I can concentrate on the views rather than my breathing.
 
-That is right until the final approach to the next village, which I now discover is called Corniglia. Just past the train station ((All the towns are connected by a train line that starts in La Spezia.)) there are approximately a million steps heading up a steep hillside.
+That is right until the final approach to the next village, which I now discover is called Corniglia. Just past the train station[^2] there are approximately a million steps heading up a steep hillside.
 
 By the time I get to the top I am desperately in need of an ice-cream. Perhaps it’s just the locals way of keeping the good stuff for the worthy, but the gelato here looks much better than that in Manarola.
 
 I sit and relax, looking out over the sea, admiring the view and thinking how happy I am that I made it here. True, it was a long drive and I only managed to quickly have a look around two of the five villages but it was worth it. I’d happily come back and try to give the area the time in deserves.
+[^1]: I may be slightly over-dramatising events here. Nevertheless, the rain would have made walking from village to village incredibly soggy and miserable.
+[^2]: All the towns are connected by a train line that starts in La Spezia.

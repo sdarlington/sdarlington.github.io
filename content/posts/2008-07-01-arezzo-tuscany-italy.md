@@ -22,7 +22,7 @@ However shortly after arriving things did not look quite so promising. Although 
 
 Inside the city walls things immediately get… confusing. I walk down a street. To my right is a church, ahead are a mess of signs pointing in every direction, each one presumably a place of interest. With no guide book on the city I had no real idea what any of them were and arbitrarily picked “right.”
 
-To cut a long story short(er), this was almost certainly not the best choice. After a mostly fruitless search for interesting sights, I looped back and accidentally found the Duomo. The inside was as lavishly decorated as you might expect for a Catholic church. In one cubby-hole ((I kind of want to say transept here but I’m not completely sure.)) a service was being taken. Maybe I should have gone and got a panini earlier as the wafers and wine seemed mighty tempting at this point.
+To cut a long story short(er), this was almost certainly not the best choice. After a mostly fruitless search for interesting sights, I looped back and accidentally found the Duomo. The inside was as lavishly decorated as you might expect for a Catholic church. In one cubby-hole[^1] a service was being taken. Maybe I should have gone and got a panini earlier as the wafers and wine seemed mighty tempting at this point.
 
 Immediately behind the church is *Il Prato*, a large park by the Medici Fortress and with views over the neighbouring area. I’m not sure of its significance, but there was a huge cemetery visible also.
 
@@ -33,3 +33,4 @@ Locating another parking space could have been easier. Without going into detail
 Still, having found somewhere to park near Il Prato, I failed to find anywhere decent looking to eat despite the area being well [renowned for its cuisine](http://wikitravel.org/en/Arezzo#Eat).
 
 Still, I’m pleased that I made it to Arezzo. Despite my initial misgivings, it is most certainly a city worth visiting. But next time I’ll know to turn *left*.
+[^1]: I kind of want to say transept here but I’m not completely sure.

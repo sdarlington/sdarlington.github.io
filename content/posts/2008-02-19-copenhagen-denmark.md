@@ -21,13 +21,13 @@ This is not the first time that I’ve had plans to go to Denmark. It was a brig
 
 [![Nyhavn, Copenhagen, Denmark](https://i0.wp.com/farm4.staticflickr.com/3793/11996333334_964a31aee7.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/11996333334/ "Nyhavn, Copenhagen, Denmark by stephendarlington, on Flickr")
 
-But things did not work out that way. I placed my glasses by the side of the sink while I brushed my teeth and watched in horror as my towel pulled them down onto the unforgiving tile floor. One lens survived with a small chip but the other smashed so utterly that I never found all the pieces ((The person that took over the apartment after me probably found them with their feet. Sorry if that was you.)). Unfortunately my vision is so bad that when I go into one of those “your new glasses in an hour” places they just laugh, so I had zero chance of getting new glasses and there was little point in embarking on a journey when I couldn’t really see what I was visiting.
+But things did not work out that way. I placed my glasses by the side of the sink while I brushed my teeth and watched in horror as my towel pulled them down onto the unforgiving tile floor. One lens survived with a small chip but the other smashed so utterly that I never found all the pieces[^1]. Unfortunately my vision is so bad that when I go into one of those “your new glasses in an hour” places they just laugh, so I had zero chance of getting new glasses and there was little point in embarking on a journey when I couldn’t really see what I was visiting.
 
 Fortunately I had better luck this time.
 
 [![Iceskating around Kongens Nytorv, Copenhagen, Denmark](https://i0.wp.com/farm4.staticflickr.com/3683/11996270693_2439bd1e95.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/11996270693/ "Iceskating around Kongens Nytorv, Copenhagen, Denmark by stephendarlington, on Flickr")
 
-I landed on the Friday evening and successfully managed to negotiate the clean and efficient metro system ((Certainly TFL don’t have ‘next train’ times down to the half minute.)). The hotel wasn’t far from one of the main squares in the city, Kongens Nytorv. It’s technically only a few degrees colder than home in London but it *feels* substantially colder.
+I landed on the Friday evening and successfully managed to negotiate the clean and efficient metro system[^2]. The hotel wasn’t far from one of the main squares in the city, Kongens Nytorv. It’s technically only a few degrees colder than home in London but it *feels* substantially colder.
 
 [![Strøget, Copenhagen's main shopping street, Denmark](https://i0.wp.com/farm3.staticflickr.com/2860/11996780146_c05698f42b.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/11996780146/ "Strøget, Copenhagen's main shopping street, Denmark by stephendarlington, on Flickr")
 
@@ -54,3 +54,5 @@ On Sunday I head to the other side of town, seeing the Royal Palace — includin
 [![The Little Mermaid (Den Lille Havfrue), Copenhagen, Denmark](https://i0.wp.com/farm4.staticflickr.com/3675/11995983335_b43d16efc8.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/11995983335/ "The Little Mermaid (Den Lille Havfrue), Copenhagen, Denmark by stephendarlington, on Flickr")
 
 Overall it was a great weekend. Denmark, just like the [other](/photography/photofriday/bright.html) [Nordic](/travel/iceland.html) countries that I’ve been to, manages to combine tradition with modern technology and design unlike any other area I’ve been to. I think that’s why I feel at home there.
+[^1]: The person that took over the apartment after me probably found them with their feet. Sorry if that was you.
+[^2]: Certainly TFL don’t have ‘next train’ times down to the half minute.

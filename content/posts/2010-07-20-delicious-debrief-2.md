@@ -56,7 +56,7 @@ The idea is that you shouldn’t have to trust anyone other than Yahoo! with you
 
 Without getting too bogged down in detail, this is roughly how it works:
 
-1. The client launches a web browser. Since an iPhone can’t multi-task third-party applications, this means exiting and switching over to Safari ((The iPhone OS does allow applications to include an embedded web browser, indeed Yummy already has one to allow users to preview their bookmarks. However, the OAuth specification recommends against this approach for authentication. The idea is that you should only trust Yahoo! with your username and password and that entering them into a third-party application might break that trust. An early version of the change did include an embedded browser and I may yet revert back to that version.)). The changes announced for iPhone OS 4.0 don’t help here
+1. The client launches a web browser. Since an iPhone can’t multi-task third-party applications, this means exiting and switching over to Safari[^1]. The changes announced for iPhone OS 4.0 don’t help here
 2. The user logs into Yahoo! The server responds with a code
 3. The user launches the client again and enters the code
 
@@ -69,3 +69,4 @@ Of course, writing the code yourself would be the hard option. For a standard su
 ### Next…
 
 Tomorrow [I’ll talk about those Open Source libraries](http://www.zx81.org.uk/computing/opinion/delicious-debrief-3.html) and what I ended up using.
+[^1]: The iPhone OS does allow applications to include an embedded web browser, indeed Yummy already has one to allow users to preview their bookmarks. However, the OAuth specification recommends against this approach for authentication. The idea is that you should only trust Yahoo! with your username and password and that entering them into a third-party application might break that trust. An early version of the change did include an embedded browser and I may yet revert back to that version.

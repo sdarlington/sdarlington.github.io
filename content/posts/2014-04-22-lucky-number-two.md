@@ -26,7 +26,7 @@ I’m not sure the midwives realised how close things were when we first arrived
 
 [![IMG_7112](https://i0.wp.com/farm8.staticflickr.com/7019/13967450585_9401172a64.jpg?resize=333%2C500&ssl=1)](https://www.flickr.com/photos/stephendarlington/13967450585 "IMG_7112 by Stephen Darlington, on Flickr")
 
-Less than an hour afterwards I was alone with the baby and mum was walking around, off getting a shower. The contrast with the birth of her brother couldn’t have been greater ((Okay, that’s a cliche. Certainly Junior’s birth was harder but it could have been a lot worse.)).
+Less than an hour afterwards I was alone with the baby and mum was walking around, off getting a shower. The contrast with the birth of her brother couldn’t have been greater[^1].
 
 [![IMG_7094](https://i0.wp.com/farm3.staticflickr.com/2935/13944354306_96a3b79df9.jpg?resize=500%2C333&ssl=1)](https://www.flickr.com/photos/stephendarlington/13944354306 "IMG_7094 by Stephen Darlington, on Flickr")
 
@@ -37,3 +37,4 @@ Since then things have been (relatively) straight-forward. She’s been remarkab
 Her brother has been great. Very gentle and helpful. The day she arrived home he quickly realised that, as a tiny baby, she’d appreciate all his smallest toys. I could see the logic even as I was terrified at the choke hazard…
 
 Soon I’ll be back at work and then the grandparents will leave. We’ll have two under threes to look after and, I guess, that’s when the real work begins.
+[^1]: Okay, that’s a cliche. Certainly Junior’s birth was harder but it could have been a lot worse.

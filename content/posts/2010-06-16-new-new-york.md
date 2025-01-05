@@ -22,7 +22,7 @@ tags:
 
 [Last time I went to New York](http://www.zx81.org.uk/travel/new-york-2006.html) I wrote a reasonable amount about it so I’m not sure that I have much to add this time. Instead I’ll mainly just let the pictures do the talking.
 
-The hotel I was staying in was not far from Times Square, so I passed through on a number of occasions. It’s always busy, especially early evening when this image was taken ((I thought that “Live View” on my DSLR was a bit of a gimmick but it does allow me to take pictures like this where I wouldn’t be able to get my eye to the view finder.)).
+The hotel I was staying in was not far from Times Square, so I passed through on a number of occasions. It’s always busy, especially early evening when this image was taken[^1].
 
 [![Times Square at night](https://i0.wp.com/farm5.staticflickr.com/4095/4872224692_8d2bd30e19.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872224692/ "Times Square at night by stephendarlington, on Flickr")
 
@@ -55,3 +55,4 @@ Finally, on my final way back to the hotel with my camera, I realised that I’d
 [![Street vendor](https://i0.wp.com/farm5.staticflickr.com/4139/4872257126_91515eaac3.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872257126/ "Street vendor by stephendarlington, on Flickr")
 
 And then it was back to the airport and home. Never a good thing but for some reason I was less affected by jet-lag than usual. In some sense, that made the weekend even better.
+[^1]: I thought that “Live View” on my DSLR was a bit of a gimmick but it does allow me to take pictures like this where I wouldn’t be able to get my eye to the view finder.

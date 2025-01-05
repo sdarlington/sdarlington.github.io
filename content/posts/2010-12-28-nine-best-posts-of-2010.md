@@ -22,7 +22,7 @@ None of this years blogs have done especially well in terms of page impressions 
 
 In terms of travel, I had more than my fair share of problems. A trip to Turkey was cancelled at the last minute due to the infamous ash cloud. A strike very nearly meant that we didn’t get to New York for a wedding. And a heavy work schedule and a new job meant that my annual November trip was in jeopardy.
 
-- [Salisbury](http://www.zx81.org.uk/travel/salisbury.html). Not quite as glamorous as Istanbul, but given the lemons of the ash cloud I thought we did pretty well with the lemonade of Wiltshire ((Not sure that works but you know what I mean.))
+- [Salisbury](http://www.zx81.org.uk/travel/salisbury.html). Not quite as glamorous as Istanbul, but given the lemons of the ash cloud I thought we did pretty well with the lemonade of Wiltshire[^1]
 - [Paris](http://www.zx81.org.uk/travel/paris-part-deux.html). I spent quite a lot of time in Paris this year so I had to include the post about it
 - [New York](http://www.zx81.org.uk/travel/new-new-york.html). Like Paris, I’d been to New York before. There’s something to be said for “hanging out” in a city that you (vaguely) know
 
@@ -39,3 +39,4 @@ And, finally, there were even some slightly more technical posts.
 - [Communication](http://www.zx81.org.uk/computing/opinion/communication.html). I had this post in draft form for several years, but I couldn’t figure out how to finish it. I’m not sure this is the best post I’ve ever written but I include it here because I did eventually get it out the door!
 
 I’d also like to add honourable mentions to my [Sleeping Japanese](http://www.zx81.org.uk/travel/japan-sleeping.html) and [Saving State](http://www.zx81.org.uk/computing/software/iphone-dev-saving-state.html) posts. And, finally, a big thank you to you for reading.
+[^1]: Not sure that works but you know what I mean.

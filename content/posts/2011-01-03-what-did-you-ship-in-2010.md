@@ -31,7 +31,7 @@ But that doesn’t mean that I’ve not had a pretty productive year. By stretch
 - Two major versions of Yummy and two minor versions
 - One major and one minor version of www.cut
 - A photo-book of a wedding I was photographer at
-- Painted the bathroom ((I can’t claim all the credit for this of course.))
+- Painted the bathroom[^1]
 - A whole heap of custom demos for the Day Job
 - Delivered training courses and workshops with the Day Job
 - An AGM for our freehold management company
@@ -39,3 +39,4 @@ But that doesn’t mean that I’ve not had a pretty productive year. By stretch
 Please let me know if I forgot something!
 
 I think that’s a pretty good list for stuff I mostly did in my “spare” time. The list of deliverables for the Day Job would be pretty long if (a) I *could* list them; and (b) I could remember them all!
+[^1]: I can’t claim all the credit for this of course.

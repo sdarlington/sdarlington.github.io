@@ -18,7 +18,7 @@ tags:
 
 For those that got here via Google and those other people that don’t know me, I’ll start with a confession: I am not a wedding photographer. I am keen amateur photographer, mainly concentrating on travel and occasionally branching out into portraits. However having a reputation among friends as “the photographer” has resulted in a number of people asking me to take pictures at their wedding.
 
-It’s something I have generally resisted. It struck me as just too high risk. Wedding pictures will, hopefully, last a life-time and I didn’t want the pressure of needing to get everything right on the day. Even if you discount all the variables around the camera, computers and memory cards, there are so many other things that could go wrong. The weather; missing shots ((For the second I missed the bride signing the register.)); people blinking or looking on the wrong way; people inadvertently missing ((My mum hates having her picture taken and made efforts to appear in as few photographs from my wedding as possible!)); annoying things in the back-ground ((A lot of my wedding pictures have a homeless man and a litter bin as a backdrop.)). And then, since neither of these were commercial ventures, I would have to take all this into account as well as actually trying to enjoy the event as a guest, and, in one case, as a best man.
+It’s something I have generally resisted. It struck me as just too high risk. Wedding pictures will, hopefully, last a life-time and I didn’t want the pressure of needing to get everything right on the day. Even if you discount all the variables around the camera, computers and memory cards, there are so many other things that could go wrong. The weather; missing shots[^1]; people blinking or looking on the wrong way; people inadvertently missing[^2]; annoying things in the back-ground[^3]. And then, since neither of these were commercial ventures, I would have to take all this into account as well as actually trying to enjoy the event as a guest, and, in one case, as a best man.
 
 Perhaps that’s even more pressure than getting paid for it!
 
@@ -35,3 +35,6 @@ Similarly it’s easy to forget to take pictures of someone who may not be at th
 The other thing I learned is how long it takes to edit the pictures afterwards. I took over a hundred pictures for each event so getting down to the good few images is pretty time consuming. For the second wedding I also had to spend a lot of time in Photoshop playing with the RAW decoder, adjusting the levels and removing red-eye.
 
 In the end I would have to say that it was a good experience. In both cases I was able to give a great, unique [gift](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html "Photo book") and had fun doing it.
+[^1]: For the second I missed the bride signing the register.
+[^2]: My mum hates having her picture taken and made efforts to appear in as few photographs from my wedding as possible!
+[^3]: A lot of my wedding pictures have a homeless man and a litter bin as a backdrop.

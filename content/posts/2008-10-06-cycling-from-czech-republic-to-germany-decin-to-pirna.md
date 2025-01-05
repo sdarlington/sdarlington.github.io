@@ -51,7 +51,7 @@ After the border the river valley seems to widen, the sun comes out and the hous
 
 [![Königstein Fortress](https://i0.wp.com/farm8.staticflickr.com/7202/6782217650_de949ac178.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6782217650/ "Königstein Fortress by stephendarlington, on Flickr")
 
-I stop in Königstein to see the [fortress](http://www.festung-koenigstein.de/museum/en/). As you would imagine, the fortress is on the top of a rather large hill. So hilly in fact that a comic tourist bus is not capable of going all the way to the top, meaning that I first have to switch to a smaller bus-train and finally to a gleaming steel lift that looks very much out of place on a thirteenth century castle ((Apparently there’s a technical difference between a castle and a fortress. I gather Königstein started as a castle and ultimately became a fortress.)).
+I stop in Königstein to see the [fortress](http://www.festung-koenigstein.de/museum/en/). As you would imagine, the fortress is on the top of a rather large hill. So hilly in fact that a comic tourist bus is not capable of going all the way to the top, meaning that I first have to switch to a smaller bus-train and finally to a gleaming steel lift that looks very much out of place on a thirteenth century castle[^1].
 
 The top is significantly larger than looks from the ground. There are houses, parks, wine cellars and magnificent views of the surrounding area. I’m sure I only saw half of what there was there to see, but time was pressing on and I needed to push on to my night-stop in Pirna.
 
@@ -66,3 +66,4 @@ It’s less than a couple of hours from Königstein to Pirna.
 Pirna is an old and pretty town, with a pleasant market square and a pedestrianised main street with the usual array of shops. I do not, however, spend a huge amount of time here. Instead I prepare for my last day of cycling, which will pass through Dresden and into Meißen.
 
 *This is the fifth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+[^1]: Apparently there’s a technical difference between a castle and a fortress. I gather Königstein started as a castle and ultimately became a fortress.

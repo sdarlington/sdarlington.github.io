@@ -22,8 +22,9 @@ But I’m getting ahead of myself. I drove to Siena directly from [San Gimignano
 
 To orient myself I made straight for the Piazza del Campo, the famous shell-like “square” that makes up the centre of the town.
 
-After a quick latte ((I am never going to think of a latte in exactly the same way having just seen “[Idiocracy](http://uk.imdb.com/title/tt0387808/).”)) I decided to take a good wander around. The Duomo was as impressive as ever, although — again — I didn’t manage to get inside for a look.
+After a quick latte[^1] I decided to take a good wander around. The Duomo was as impressive as ever, although — again — I didn’t manage to get inside for a look.
 
 It’s possible that before I have finished documenting my trip I will have got very bored of writing about “narrow, cobbled streets” but Siena has them too, and I wandered around them in the rain for quite some time.
 
 I even managed to drive back to the villa with no further damage to the car.
+[^1]: I am never going to think of a latte in exactly the same way having just seen “[Idiocracy](http://uk.imdb.com/title/tt0387808/).”

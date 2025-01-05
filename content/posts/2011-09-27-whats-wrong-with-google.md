@@ -32,7 +32,7 @@ In Twitter, a message (tweet) is, to risk stating the obvious, a message. It’s
 
 Facebook differs in both of these respects. First, not all messages are alike. It natively manages multimedia such a photographs, videos and links. Replies — comments — are also a special type of message and are displayed differently. Relationships are always reciprocal, which means that if I see your updates, you see mine. You don’t see posts from other users that you’re not connected to but you *do* see comments from them.
 
-Facebook also has the concept of pages, which I’m going to ignore for the moment since it’s not how I normally use Facebook ((Though you’re welcome to visit the pages for my apps, [Yummy](https://www.facebook.com/pages/Yummy/110083381485) and [www.cut](https://www.facebook.com/pages/wwwcut/124727107452).)). The gist is that while Twitter has one message type for everything, Facebook feels much more complicated.
+Facebook also has the concept of pages, which I’m going to ignore for the moment since it’s not how I normally use Facebook[^1]. The gist is that while Twitter has one message type for everything, Facebook feels much more complicated.
 
 Google+ tries to straddle the two with one-way relationships (like Twitter) and multi-media messages and comments (like Facebook).
 
@@ -63,3 +63,4 @@ Facebook solves the problem by reducing the probability that you’re going to h
 In short, the simplicity of Twitter is often seen as a disadvantage but I think it works remarkably well. Facebook has a different goal — closer relationships with smaller numbers of users — but also seems to do pretty well on that front.
 
 Google+, by trying to facilitate both uses cases, seems to do neither quite as well.
+[^1]: Though you’re welcome to visit the pages for my apps, [Yummy](https://www.facebook.com/pages/Yummy/110083381485) and [www.cut](https://www.facebook.com/pages/wwwcut/124727107452) .

@@ -20,7 +20,7 @@ Blocking content from the Internet is getting a lot of press of late. The last c
 
 Unfortunately the enthusiasm to “protect the children” and “protect the copyright holders” seems to have pushed aside much of the debate of whether we should be doing this at all or whether it’s practical.
 
-Whether we should be doing it or not is political. I have my opinions ((I’m basically anti-censorship and in favour of personal responsibility. There are already laws covering the distribution obscene materials, why should there be restrictions on legal materials?)) but what I want to concentrate on here is whether or not blocking such content is actually possible.
+Whether we should be doing it or not is political. I have my opinions[^1] but what I want to concentrate on here is whether or not blocking such content is actually possible.
 
 There are a number of different ways of vetting content. They’re not necessarily mutually exclusive, but they’re all deeply flawed.
 
@@ -53,3 +53,4 @@ Of course I’m not in favour of taking content without paying for it or exposin
 Instead, if you’re a publisher you need to make your content legally available and easier to access than the alternative. iTunes has showed that people are willing to pay. So far, you’ve mostly shown that you’d rather treat paying customers as criminals. That’s not helping.
 
 As for protecting children, it all comes back to being a responsible parent. Put the computer in the living room. Talk to them. Sure, use white or black lists or filtering, just be aware that it can never be 100% effective and that not everyone has children that need protecting. Whatever the Daily Mail and your technically unaware MP says, you can’t say the connection is being checked, problem solved.
+[^1]: I’m basically anti-censorship and in favour of personal responsibility. There are already laws covering the distribution obscene materials, why should there be restrictions on legal materials?

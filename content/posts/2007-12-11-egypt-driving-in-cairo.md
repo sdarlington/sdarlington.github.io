@@ -25,7 +25,7 @@ The bus continually lurched from lane to lane, overtaking on which ever side see
 
 Leaving the ring-road, things are slower but hardly safer. The whole system is a free-for-all. There’s no such thing as giving way to other traffic, you just move forward as far as you can, sound your horn frequently and loudly and manouver around obstacles as the opportunity arises. Whether it’s just badly designed or is considered to be a traffic calming measure, it seems that you often have to take a substantial detour just to make a turn.
 
-This is inefficient on a whole host of levels ((Actually, this is an assumption that I have not really investigated.)). It can take an hour to get from one side of town to the other and the distances are not that great. The bumps and scratches on pretty much all the cars are testament to how risky an endevour it is to tackle Cairo on four wheels. The most telling indicator, no doubt made worse my poorly refined petrol, is the air quality. It’s a while since I’ve been somewhere that has made my eyes water and given me a cough.
+This is inefficient on a whole host of levels[^1]. It can take an hour to get from one side of town to the other and the distances are not that great. The bumps and scratches on pretty much all the cars are testament to how risky an endevour it is to tackle Cairo on four wheels. The most telling indicator, no doubt made worse my poorly refined petrol, is the air quality. It’s a while since I’ve been somewhere that has made my eyes water and given me a cough.
 
 My first thought was, “how did it get this bad?” Then I realised that was the wrong question. Chaos is going to be the default state of affairs. A better question would be, “How did we get a largely effective ettiquette in the West?” Did we just make laws early enough in the development of the car that the rules became ingrained in the public psyche?
 
@@ -33,10 +33,12 @@ Secondly, how would you fix it?
 
 This, in case you were wondering, is where the Darwinianism comes into play. A road system, at its root, is many independent and selfish entities all using the same resources for their own gain. Like a biological system, there are many scenarios that work but some work better than others. These different scenarios require different levels of cooperation, but this team-work has to benefit the individual as well or they’ll just look out for themselves.
 
-How does this work on tarmac? Let’s say an Egyptian government brings in some new law ((I’m assuming that there isn’t already one that is being ignored.)) that says that at a junction the first person there gets right of way — kind of the same system you get at four way junctions in the US. This works and is fair *if everyone obeys the new law*. If there is less than full compliance then reverting to the old, chaotic ways might actually be more efficient. In effect this would penalise law-abiding citizen who, in all likelihood, would eventually get bored and fall back on their old ways.
+How does this work on tarmac? Let’s say an Egyptian government brings in some new law[^2] that says that at a junction the first person there gets right of way — kind of the same system you get at four way junctions in the US. This works and is fair *if everyone obeys the new law*. If there is less than full compliance then reverting to the old, chaotic ways might actually be more efficient. In effect this would penalise law-abiding citizen who, in all likelihood, would eventually get bored and fall back on their old ways.
 
 So could a “big bang” work? There are a number of elements working against it. Firstly, how do you inform everyone? Literacy rates are fairly low. Is there even a driving test? And even if you could get the whole population to understand, how would you enforce it? If the number of people disregarding the new law is sufficiently high then there is little that the Police could do about it. Could you give every road user a ticket and actually expect to collect the fine? Do all the cars have to be registered? Would all the details be up to date? I would suspect not.
 
 So, what have we learned?
 
 I think the only real conclusion that we can reach is: don’t drive in [Cairo](/travel/egypt-cairo.html). Oh, and that I probably think too much.
+[^1]: Actually, this is an assumption that I have not really investigated.
+[^2]: I’m assuming that there isn’t already one that is being ignored.

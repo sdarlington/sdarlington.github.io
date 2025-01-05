@@ -29,7 +29,7 @@ I arrived on Friday afternoon after an uneventful flight. After initial confusio
 
 [![Elevador de Santa Justa, Lisbon, Portgual](https://i0.wp.com/farm5.staticflickr.com/4147/5176394598_fe3c707795.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5176394598/ "Elevador de Santa Justa, Lisbon, Portgual by stephendarlington, on Flickr")
 
-It was possible to walk into the downtown area (Baixa) but for much of the time I ended up on the metro system which was surprisingly efficient. In fact, there is no shortage of options, with buses, funicular railways and trams cris-crossing the city. It’s even pretty well labelled, which made buying a ticket the hardest part of the whole process ((The ticket I wanted — a day pass — was €3.50. The ATM had, helpfully, given me mainly twenties which the machine would not accept. It also wouldn’t accept my credit card because I was trying to spend less than €10. In the end, the sole visible metro system employee somehow managed to confuse the machine into giving change.)).
+It was possible to walk into the downtown area (Baixa) but for much of the time I ended up on the metro system which was surprisingly efficient. In fact, there is no shortage of options, with buses, funicular railways and trams cris-crossing the city. It’s even pretty well labelled, which made buying a ticket the hardest part of the whole process[^1].
 
 [![Bottles of Port, Lisbon, Portugal](https://i0.wp.com/farm5.staticflickr.com/4084/5176395210_8f51099614.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5176395210/ "Bottles of Port, Lisbon, Portugal by stephendarlington, on Flickr")
 
@@ -65,10 +65,12 @@ At least that was the plan. I could *see* the tower in the distance but on the o
 
 The first stop was the Discoveries Monument, which is dedicated to Portugal’s Golden Age of Discovery but to my uncultured eyes looks like a bunch of unknown people looking out to sea. Quite a grand edifice anyway.
 
-The penultimate stop was at the Belém Tower. Originally built as a defence for the river and the city, it now provides good views of the city and exercise for people who had their fill of pastéis de nata — [Portuguese custard tarts](http://www.algarvebuzz.com/pasties-de-nata-portuguese-custard-tarts/) — at the famous [Antiga Confeitaria de Belém](http://www.pasteisdebelem.pt/) ((A famous and deceptively large bakery and cafe. Warning: annoying Flash website.)) before rather than after their visit.
+The penultimate stop was at the Belém Tower. Originally built as a defence for the river and the city, it now provides good views of the city and exercise for people who had their fill of pastéis de nata — [Portuguese custard tarts](http://www.algarvebuzz.com/pasties-de-nata-portuguese-custard-tarts/) — at the famous [Antiga Confeitaria de Belém](http://www.pasteisdebelem.pt/)[^2] before rather than after their visit.
 
 Back in central Lisbon, I took another wander before dinner, using the Elevador da Glória to get from Restauradores up to an area known as Bairro Alto that offered both a great view over the city and, more importantly after all today’s walking, a wide selection of restaurants and bars.
 
 Sunday didn’t go quite to plan. I had intended to go to the Alfama district and the nearby Castelo de São Jorge but ran out of time before having to return to the aerobus for the trip to the airport but breakfast, another selection of delicious pastries and strong coffee, kind of over-ran.
 
 I guess I’ll just have to come back.
+[^1]: The ticket I wanted — a day pass — was €3.50. The ATM had, helpfully, given me mainly twenties which the machine would not accept. It also wouldn’t accept my credit card because I was trying to spend less than €10. In the end, the sole visible metro system employee somehow managed to confuse the machine into giving change.
+[^2]: A famous and deceptively large bakery and cafe. Warning: annoying Flash website.

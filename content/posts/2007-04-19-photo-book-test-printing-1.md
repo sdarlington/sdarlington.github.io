@@ -21,7 +21,7 @@ tags:
     - uk
 ---
 
-Last year I performed a [photo-book group test](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html "Group test ordering processes"), comparing the results from three different suppliers, [Apple](http://www.zx81.org.uk/photography/photo-book-group-test-part-3.html), [MyPublisher](http://www.zx81.org.uk/photography/photo-book-group-test-part-4.html) and [PhotoBox](http://www.zx81.org.uk/photography/photo-book-group-test-part-2.html). The good news for consumers is that there are always new entrants to the market. This time a company called [Printing-1](http://www.photo-book-printing.co.uk/ "Printing-1") ((They seem to go by half a dozen different names — including *myphotobook* — and the URL on their website seems to switch between them!)) contacted me and asked for my opinion on their wares. That’s to say, while last years books were paid for out of my own pocket this one was not.
+Last year I performed a [photo-book group test](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html "Group test ordering processes"), comparing the results from three different suppliers, [Apple](http://www.zx81.org.uk/photography/photo-book-group-test-part-3.html), [MyPublisher](http://www.zx81.org.uk/photography/photo-book-group-test-part-4.html) and [PhotoBox](http://www.zx81.org.uk/photography/photo-book-group-test-part-2.html). The good news for consumers is that there are always new entrants to the market. This time a company called [Printing-1](http://www.photo-book-printing.co.uk/ "Printing-1")[^1] contacted me and asked for my opinion on their wares. That’s to say, while last years books were paid for out of my own pocket this one was not.
 
 This test follows a similar pattern to last time. This post documents the software and the ordering process; the next will talk about the quality of the finished product. The initial order was placed on the evening of 17th April.
 
@@ -37,7 +37,7 @@ Along the left are your files, with a directory chooser at the top an a list of 
 
 The default photobook is square and bright red. I’m not convinced about the colour, but when I try to change it the application [beach balls](http://www.thexlab.com/faqs/sbbod.html "Spinning beach ball of death") for over a minute.
 
-[![Printing-1 Editing Screen](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/04/full.thumbnail.JPG)](http://www.zx81.org.uk/photography/photo-book-test-printing-1.html/printing-1-editing-screen/ "Printing-1 Editing Screen")Eventually control returns and I change to a more muted colour scheme. I also decide to try the spiral bound option, something not available with the other suppliers last year ((I note that PhotoBox are planning on launching a similar service shortly.)). There appears to be iPhoto integration, which is a nice idea, but it doesn’t really work. Clicking the icon shows a list of folders, but drilling down on a folder caused the application to crash.
+[![Printing-1 Editing Screen](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/04/full.thumbnail.JPG)](http://www.zx81.org.uk/photography/photo-book-test-printing-1.html/printing-1-editing-screen/ "Printing-1 Editing Screen")Eventually control returns and I change to a more muted colour scheme. I also decide to try the spiral bound option, something not available with the other suppliers last year[^2]. There appears to be iPhoto integration, which is a nice idea, but it doesn’t really work. Clicking the icon shows a list of folders, but drilling down on a folder caused the application to crash.
 
 I navigate through the filesystem, finding the pictures I want manually, but when I select one the application crashes again. I tried repeatedly but, unfortunately, I didn’t manage to get very far without losing either everything I’d done up to that point or my patience.
 
@@ -58,3 +58,5 @@ Once complete I head over to their website to actually complete the order. The p
 Overall ordering the photobook has been a frustrating experience, even more so when you realise that most of the problems encountered suggest a lack of attention to detail rather than anything fundamentally wrong.
 
 I eagerly await the finished product — hopefully it will be worth it in the end.
+[^1]: They seem to go by half a dozen different names — including *myphotobook* — and the URL on their website seems to switch between them!
+[^2]: I note that PhotoBox are planning on launching a similar service shortly.

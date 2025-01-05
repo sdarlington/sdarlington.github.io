@@ -21,4 +21,5 @@ tags:
 
 This image is sunrise from the top of [Mount Sinai](http://www.zx81.org.uk/travel/egypt-mount-sinai.html) after a night climb with people of all ages, [Young and Old](http://www.photofriday.com/archives/challenge/000902.php). This is not just a coincidence as this is this weeks PhotoFriday theme.
 
-Please also vote for the previous challenge ((They skipped a week so I can’t say ‘last week’.)), “[Cameraphone Shot](http://www.photofriday.com/linkviewer.php?id=899).” I’m entry number 95.
+Please also vote for the previous challenge[^1], “[Cameraphone Shot](http://www.photofriday.com/linkviewer.php?id=899).” I’m entry number 95.
+[^1]: They skipped a week so I can’t say ‘last week’.

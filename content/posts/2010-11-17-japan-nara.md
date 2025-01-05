@@ -38,7 +38,7 @@ Before I got to the main “feature” I found a lot of school children, presuma
 
 [![School children painting Daibutsu-den](https://i0.wp.com/farm5.staticflickr.com/4111/5094353870_948624058f.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5094353870/ "School children painting Daibutsu-den by stephendarlington, on Flickr")
 
-When I tried to get inside I also timed it very badly ((This is normal. If I pick a line at the super market or passport control or security I can almost guarantee that it’ll be the longest one.)). Almost every kid in the prefecture was trying to get to see the same thing as me.
+When I tried to get inside I also timed it very badly[^1]. Almost every kid in the prefecture was trying to get to see the same thing as me.
 
 [![Queuing to get in Daibutsu-den](https://i0.wp.com/farm5.staticflickr.com/4084/5093754529_abcb0d2173.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5093754529/ "Queuing to get in Daibutsu-den by stephendarlington, on Flickr")
 
@@ -51,3 +51,4 @@ It’s huge, though it’s difficult to grasp a sense of scale since it’s insi
 [![Todaiji Buddha Statue](https://i0.wp.com/farm5.staticflickr.com/4154/5176003732_004af1bab8.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5176003732/ "Todaiji Buddha Statue by stephendarlington, on Flickr")
 
 After seeing the statue I meandered back through the park and towards to the train station.
+[^1]: This is normal. If I pick a line at the super market or passport control or security I can almost guarantee that it’ll be the longest one.

@@ -31,7 +31,7 @@ This was one detail of the change that would have far-reaching consequences in t
 
 I knew they’d like the smaller estimate but, equally, I knew that I didn’t want to end up trying to implement several weeks worth of functionality in the smaller time frame. I’ve seen that kind of thing happen too often.
 
-“John ((Names have been changed to protect the… well, they work for a bank so I hesitate to say “innocent” but you know what I mean.)), we don’t ever change these trades do we?”
+“John[^1], we don’t ever change these trades do we?”
 
 John was the head trader. If anyone would know it would be him.
 
@@ -58,3 +58,4 @@ Were there any *moved* trades during this time? Of course. Why did the traders n
 So, again, communication. Or at least human nature. I wanted to hear about *any* differences but they tried to help me by only talking about differences that they couldn’t account for.
 
 What’s the answer? Well, I’m not sure there’s an easy one. “Understanding your user” is a short, simple phrase but hides so much. If you spent the time to fully understood their job you probably wouldn’t have the time to do your own. But finding the balance is crucial.
+[^1]: Names have been changed to protect the… well, they work for a bank so I hesitate to say “innocent” but you know what I mean.

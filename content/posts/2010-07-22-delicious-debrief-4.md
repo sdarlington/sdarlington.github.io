@@ -40,7 +40,7 @@ The short answer is: it can’t.
 
 Worse, many, if not most, Delicious.com users also have a Yahoo! account even when their delicious.com account is *not* linked to it. This results in a very confused user, as their login works without error yet they find they have no bookmarks.
 
-What I was looking for was a way to identify the type of account that was accurate and would not require the same information to be entered multiple times. I ended up watching a number of people logging into their Yahoo! accounts ((Don’t worry, I wasn’t looking at what password you were typing.)) and, unfortunately, this invalidated most of my theories for making the process easier.
+What I was looking for was a way to identify the type of account that was accurate and would not require the same information to be entered multiple times. I ended up watching a number of people logging into their Yahoo! accounts[^1] and, unfortunately, this invalidated most of my theories for making the process easier.
 
 I thought, for example, that I was onto a winner when I noticed that I always typed “@yahoo.com” at the end of my username. Yummy could show the username screen as normal and, if the user typed “@yahoo.com” it would automatically remove the password field and offer to login using OAuth. However there are two problems with this. The minor, but annoying one, is that the user would be forced to enter their username twice, once in Yummy and then again in Safari. More significantly, I found that you don’t have to type “@yahoo.com” at the end of your Yahoo! ID. Although *I* do it all the time, most people seem to avoid the extra typing.
 
@@ -52,11 +52,11 @@ And this is exactly how it currently works.
 
 Honestly, I’m really not very happy with it. How software talks to the server is entirely technical and is really not something that I should need to ask my users about. However this seems to be the least-bad approach. As I’ve noted before, I’m happy to entertain alternatives but I’ve not come across a better one yet.
 
-The other significant user interface issue is one that I have already alluded to: should Yummy use a built-in web viewer or exit entirely and switch to Safari? The OAuth specification is clear on the matter: the users standard web browser should be used as it is both trusted and known ((We’re using an iPhone here so we can assume that the user is not using Internet Explorer.)). However, OAuth is really designed with web applications in mind. Even on a Mac this switch from “my” app to a web browser and back again would be far from ideal. But on an iPhone, that can only display a single application at a time, it is confusing at best.
+The other significant user interface issue is one that I have already alluded to: should Yummy use a built-in web viewer or exit entirely and switch to Safari? The OAuth specification is clear on the matter: the users standard web browser should be used as it is both trusted and known[^2]. However, OAuth is really designed with web applications in mind. Even on a Mac this switch from “my” app to a web browser and back again would be far from ideal. But on an iPhone, that can only display a single application at a time, it is confusing at best.
 
 All else being equal I would be happy to go against the advice of the specification and use an embedded web view if it made for a better user experience. Unfortunately, all else was not equal.
 
-What I found was that, although I could log in correctly using the web view there was no way for Yummy to automatically regain control afterwards. If you’re familiar with OAuth you will be aware that there *is* supposed to be a method for doing this. I spent a long time trying to get this to work but never did. I’m unclear whether this was a problem in my code or on the Yahoo! side ((I’ve got this working in the development version of Yummy now. I’m still not sure where the problem was.)).
+What I found was that, although I could log in correctly using the web view there was no way for Yummy to automatically regain control afterwards. If you’re familiar with OAuth you will be aware that there *is* supposed to be a method for doing this. I spent a long time trying to get this to work but never did. I’m unclear whether this was a problem in my code or on the Yahoo! side[^3].
 
 In practice, this would have meant that I’d have to provide instructions before the user was allowed to log in. Something like “press the ‘Done’ button when you have finished logging in and enter the code you were given.” Of course this is not dramatically better than copying the code from Safari and relaunching Yummy.
 
@@ -75,3 +75,6 @@ I mention this not because it was impossible to solve — indeed it was not spec
 ### Coming tomorrow
 
 With most of the hard work finished I just had to [make sure it really worked](http://www.zx81.org.uk/computing/opinion/delicious-debrief-5.html), and then sit back and analyse what went wrong.
+[^1]: Don’t worry, I wasn’t looking at what password you were typing.
+[^2]: We’re using an iPhone here so we can assume that the user is not using Internet Explorer.
+[^3]: I’ve got this working in the development version of Yummy now. I’m still not sure where the problem was.

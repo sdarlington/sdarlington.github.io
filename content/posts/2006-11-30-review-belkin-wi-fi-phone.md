@@ -19,13 +19,13 @@ tags:
     - wifi
 ---
 
-The problem is this. To get ADSL you need to have a BT phone line. Yet, except for calling my parents, I don’t really use a land-line phone. This has made using ADSL broadband more expensive than I’d have liked as I had to pay ?11 a month for a phone line I don’t make calls with ((To put this into context, our bill for calls last quarter was 38p.)). Fast forward to last month, when I find that I can get cable broadband without phone or digital TV service.
+The problem is this. To get ADSL you need to have a BT phone line. Yet, except for calling my parents, I don’t really use a land-line phone. This has made using ADSL broadband more expensive than I’d have liked as I had to pay ?11 a month for a phone line I don’t make calls with[^1]. Fast forward to last month, when I find that I can get cable broadband without phone or digital TV service.
 
 Bingo! Bye-bye BT!
 
 Except… my folks don’t have broadband and would kill me if they had to call me on my mobile. So we needed some way to allow them to call us, especially when we didn’t have a computer switched on.
 
-I toyed with the idea of a [SIP phone](http://en.wikipedia.org/wiki/Session_Initiation_Protocol "Session Initiation Protocol") or a SIP adapter. This seemed a good solution as it’s a “standards compliant” VoIP system and, my thinking went, more likely to be future proof. I even got as far as ordering one on eBay but a dodgy seller put an end to that. Eventually I realised that I had never really had much success with SIP ((I’m thinking that maybe I’m cursed. I bought a Bluetooth headset that refused to work with the dongle I had for my iBook. At home I needed to open lots of ports but always got mediocre sound quality and, when trying to buy credit, I could never get an authorisation code. Clearly it was never meant to be.)) but had never had problems with [Skype](http://www.skype.com/). I decided to give the [Belkin WiFi phone](http://www.belkin.com/skype/howitworks/ "Belkin WiFi Phone for Skype") a try.
+I toyed with the idea of a [SIP phone](http://en.wikipedia.org/wiki/Session_Initiation_Protocol "Session Initiation Protocol") or a SIP adapter. This seemed a good solution as it’s a “standards compliant” VoIP system and, my thinking went, more likely to be future proof. I even got as far as ordering one on eBay but a dodgy seller put an end to that. Eventually I realised that I had never really had much success with SIP[^2] but had never had problems with [Skype](http://www.skype.com/). I decided to give the [Belkin WiFi phone](http://www.belkin.com/skype/howitworks/ "Belkin WiFi Phone for Skype") a try.
 
 The pictures look good. If you think of a modern, “candy bar” style mobile phone you’re along the right lines. First impressions of the real thing are positive too. The slightly rubberised plastic case feels solid — robust but not heavy — and nice to the touch. It’s simple to slide off the back cover and insert the battery.
 
@@ -56,3 +56,5 @@ That’s not the show-stopper, that’s just annoying.
 But after ten minutes or so the phone appears off-line and making a call to it diverts straight to voice-mail. This makes it completely unsuitable as a home phone as any time someone calls we’re likely to be offline! The story so far is that I have sent an email to their technical support people and am waiting for a response.
 
 Overall it has good hardware but disappointing software. I have no problems with “basic” — I hardly use any of the complex stuff on my mobile — but it’s difficult to unreservedly recommend a product that takes itself off the network all by itself. If, however, Belkin have a solution then I’d be pretty happy with it. It’s not cheap (but then none of its competitors are) but making free calls without switching on a PC is a compelling prospect.
+[^1]: To put this into context, our bill for calls last quarter was 38p.
+[^2]: I’m thinking that maybe I’m cursed. I bought a Bluetooth headset that refused to work with the dongle I had for my iBook. At home I needed to open lots of ports but always got mediocre sound quality and, when trying to buy credit, I could never get an authorisation code. Clearly it was never meant to be.

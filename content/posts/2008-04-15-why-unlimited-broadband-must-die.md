@@ -17,7 +17,7 @@ In a [previous post about Internet Service Providers](/computing/opinion/net-neu
 
 The first question that we need to ask before we get any further is, What does your ISP do? This may look like a silly question at first glance but exactly what data they pass where is the key to understanding how they make (and lose) money.
 
-Unfortunately the answer gets rather complicated very quickly so I’m going to make some assumptions. First I’m going to assume that you’re in the UK. Second, that you’re using ADSL and not cable or something more exotic. And thirdly I’ll assume that your ISP hasn’t “unbundled the local loop.” If you don’t know what this means ((If you do know what it means any want the hard numbers, have a look [on the plus.net blog](http://community.plus.net/blog/2008/02/28/how-uk-isps-are-charged-for-broadband-the-cost-of-ipstream/).)) you can be reasonably sure that the following is, if not correct, then fairly close to the truth.
+Unfortunately the answer gets rather complicated very quickly so I’m going to make some assumptions. First I’m going to assume that you’re in the UK. Second, that you’re using ADSL and not cable or something more exotic. And thirdly I’ll assume that your ISP hasn’t “unbundled the local loop.” If you don’t know what this means[^1] you can be reasonably sure that the following is, if not correct, then fairly close to the truth.
 
 Let’s look at what happened when you tried to download this web page.
 
@@ -38,7 +38,7 @@ There is nothing intrinsically wrong with a supplier receiving a fixed payment a
 
 However, two things have been happening in the consumer Internet connection world.
 
-Firstly usage has been rocketing upwards. An increasing number of people are using high-bandwidth sites such as YouTube and the BBC iPlayer, and services such as movies downloads and iTunes ((Some people pin the blame on illegal downloads over peer-to-peer services. I deliberately left that off the list as typical bandwidth usage is drastically increasing even if you exclude infringing activities.)).
+Firstly usage has been rocketing upwards. An increasing number of people are using high-bandwidth sites such as YouTube and the BBC iPlayer, and services such as movies downloads and iTunes[^2].
 
 On the other side prices have been pushed down, with companies offering free broadband when taken with another service and other ISPs having to respond.
 
@@ -50,4 +50,7 @@ An unrealistic solution, and one I see fairly frequently from the people that te
 
 The ISPs are choosing a second option: either selling their users surfing habits to third-parties or billing popular websites for access to their customers. Both seem to be abusing their own customers, and yet there is still no guarantee that these new revenue streams will cover the increasing costs.
 
-It seems to me that the only solution that would work on a large scale is to charge end-users for the bandwidth that they actually use ((Of course the most likely scenario would be “bundles” of bandwidth, much as you buy bundles of texts or minutes for your mobile phone.)). This may not be popular in the short-term, but it’s a whole lot better than them limiting what services you can use and when.
+It seems to me that the only solution that would work on a large scale is to charge end-users for the bandwidth that they actually use[^3]. This may not be popular in the short-term, but it’s a whole lot better than them limiting what services you can use and when.
+[^1]: If you do know what it means any want the hard numbers, have a look [on the plus.net blog](http://community.plus.net/blog/2008/02/28/how-uk-isps-are-charged-for-broadband-the-cost-of-ipstream/).
+[^2]: Some people pin the blame on illegal downloads over peer-to-peer services. I deliberately left that off the list as typical bandwidth usage is drastically increasing even if you exclude infringing activities.
+[^3]: Of course the most likely scenario would be “bundles” of bandwidth, much as you buy bundles of texts or minutes for your mobile phone.
