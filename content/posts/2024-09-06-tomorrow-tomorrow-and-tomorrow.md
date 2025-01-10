@@ -19,7 +19,7 @@ tags:
 
 In the end, I added it to my queue at the library but its popularity meant that I had to wait six months for it to become available!
 
-For various reasons, I wasn’t able to read it in the three weeks load period. I could have waited another six months to read the end, but I was invested enough to buy a copy.
+For various reasons, I wasn’t able to read it in the three weeks loan period. I could have waited another six months to read the end, but I was invested enough to buy a copy.
 
 Maybe that’s all I need to say? As per the synopsis:
 
