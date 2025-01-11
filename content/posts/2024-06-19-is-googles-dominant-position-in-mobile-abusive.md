@@ -1,6 +1,6 @@
 ---
 id: 93908
-title: 'Is Google&#8217;s &#8220;dominant position&#8221; in mobile abusive?'
+title: 'Is Google&#8217;s "dominant position" in mobile abusive?'
 date: '2024-06-19T17:15:00+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Google say that their position in mobile isn''t abusive. We analyse their words.'

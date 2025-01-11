@@ -1,6 +1,6 @@
 ---
 id: 4189
-title: '&#8220;Preview&#8221; is damaged and can&#8217;t be opened.'
+title: '"Preview" is damaged and can&#8217;t be opened.'
 date: '2015-01-06T20:21:52+00:00'
 author: 'Stephen Darlington'
 excerpt: 'A simple solution to a bizarre problem.'

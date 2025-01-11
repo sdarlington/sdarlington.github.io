@@ -1,6 +1,6 @@
 ---
 id: 799
-title: '&#8220;There are no Buddhist Computer Systems&#8221;'
+title: '"There are no Buddhist Computer Systems"'
 date: '2009-01-06T07:03:02+00:00'
 author: 'Stephen Darlington'
 excerpt: 'Unfortunately I have a tendency to over-analyse things. In this case someone''s off-the-cuff had me thinking about faith and computers.'

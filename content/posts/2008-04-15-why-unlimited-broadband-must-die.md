@@ -1,6 +1,6 @@
 ---
 id: 460
-title: 'Why &#8220;unlimited&#8221; broadband must die'
+title: 'Why "unlimited" broadband must die'
 date: '2008-04-15T06:00:19+01:00'
 author: 'Stephen Darlington'
 layout: post

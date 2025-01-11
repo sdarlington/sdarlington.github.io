@@ -1,6 +1,6 @@
 ---
 id: 4318
-title: 'Mac OS X 10.11 &#8220;El Capitan&#8221;'
+title: 'Mac OS X 10.11 "El Capitan"'
 date: '2015-09-29T16:49:41+01:00'
 author: 'Stephen Darlington'
 excerpt: 'The new Mac OS is coming out tomorrow. What good stuff can we expect to see?'

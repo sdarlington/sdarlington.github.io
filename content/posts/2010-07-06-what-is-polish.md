@@ -1,6 +1,6 @@
 ---
 id: 1895
-title: 'What is &#8220;polish&#8221;?'
+title: 'What is "polish"?'
 date: '2010-07-06T20:11:44+01:00'
 author: 'Stephen Darlington'
 excerpt: 'If you say that an application lacks "polish" what do you mean?'

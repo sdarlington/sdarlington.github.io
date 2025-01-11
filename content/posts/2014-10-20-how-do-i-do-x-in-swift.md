@@ -1,6 +1,6 @@
 ---
 id: 4128
-title: 'How do I do &#8220;X&#8221; in Swift?'
+title: 'How do I do "X" in Swift?'
 date: '2014-10-20T20:43:42+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Maybe I can save you some time reading blogs about Swift...'

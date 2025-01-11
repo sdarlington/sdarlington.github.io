@@ -1,6 +1,6 @@
 ---
 id: 502
-title: 'In reply to &#8220;family holiday in tuscany&#8221;'
+title: 'In reply to "family holiday in tuscany"'
 date: '2008-06-01T22:00:42+01:00'
 author: 'Stephen Darlington'
 excerpt: 'How could I not reply to a couple of points in a blog entry at brandarling.com?'

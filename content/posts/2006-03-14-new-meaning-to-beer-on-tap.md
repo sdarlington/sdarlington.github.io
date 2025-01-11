@@ -1,6 +1,6 @@
 ---
 id: 185
-title: 'New meaning to &#8220;Beer on tap&#8221;'
+title: 'New meaning to "Beer on tap"'
 date: '2006-03-14T18:13:00+00:00'
 author: 'Stephen Darlington'
 layout: post

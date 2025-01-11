@@ -1,6 +1,6 @@
 ---
 id: 93929
-title: 'Apache Ignite: &#8220;IgniteCheckedException: No clients found&#8221;'
+title: 'Apache Ignite: "IgniteCheckedException: No clients found"'
 date: '2024-07-02T10:48:00+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Debugging a common exception seen when using Apache Ignite.'
