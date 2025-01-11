@@ -20,6 +20,6 @@ draft: true
 
 \[photopress:IMG\_2715.jpg,full,centered\]
 
-We pass graffiti every day without a second thought. A lot is just territorial or gossip, but some is quite artistic. Just because it’s ordinary and every day doesn’t mean it’s not worth photographing! This was taken in [Lille, France](http://www.zx81.org.uk/travel/lille-2006.html).
+We pass graffiti every day without a second thought. A lot is just territorial or gossip, but some is quite artistic. Just because it’s ordinary and every day doesn’t mean it’s not worth photographing! This was taken in [Lille, France](/travel/lille-2006.html).
 
-Please also vote for my entry in last weeks challenge, “[Exercise](http://www.zx81.org.uk/photography/photofriday/exercise.html).” I’m [entry number 130](http://www.photofriday.com/linkviewer.php?id=803).
+Please also vote for my entry in last weeks challenge, “[Exercise](/photography/photofriday/exercise.html).” I’m [entry number 130](http://www.photofriday.com/linkviewer.php?id=803).

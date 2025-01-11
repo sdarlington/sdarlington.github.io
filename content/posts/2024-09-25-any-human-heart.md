@@ -15,6 +15,6 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 [William Boyd is a great novelist](https://amzn.to/3XC1a7x) \[affiliate link\], and this is (possibly) my favourite of his. The *impact* it’s had on me, in a way, is that the main character is very much flawed. It’s good to be reminded that no one is perfect.

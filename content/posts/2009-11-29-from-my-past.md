@@ -20,4 +20,4 @@ tags:
 
 This weeks PhotoFriday theme is “[From My Past](http://www.photofriday.com/archives/challenge/000933.php).” I guess this image shows something from *all* of our pasts, except perhaps the glasses. I saw this in the Natural History Museum in Vienna and it amused me.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/vehicle.html) in last weeks challenge, “[Vehicle](http://www.photofriday.com/linkviewer.php?id=931).” I’m entry number 167.
+Please also vote for [my entry](/photography/photofriday/vehicle.html) in last weeks challenge, “[Vehicle](http://www.photofriday.com/linkviewer.php?id=931).” I’m entry number 167.

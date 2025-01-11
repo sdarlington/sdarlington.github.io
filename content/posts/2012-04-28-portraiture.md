@@ -18,4 +18,4 @@ tags:
 
 As a new parent there is no way that I could interpret this weeks PhotoFriday challenge, “[Portraiture](http://www.photofriday.com/archives/challenge/001182.php),” to be anything other than a call for baby pictures.
 
-Please vote for [my photo](http://www.zx81.org.uk/photography/photofriday/crimson.html) in last weeks challenge, “[Crimson](http://www.photofriday.com/linkviewer.php?id=1180).” I’m entry number 138.
+Please vote for [my photo](/photography/photofriday/crimson.html) in last weeks challenge, “[Crimson](http://www.photofriday.com/linkviewer.php?id=1180).” I’m entry number 138.

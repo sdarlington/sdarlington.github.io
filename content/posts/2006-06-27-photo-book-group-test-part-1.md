@@ -43,6 +43,6 @@ So that’s myexperience with buying process of three online photo-book merchant
 
 See:
 
-- [Part 2](http://www.zx81.org.uk/photography/photo-book-group-test-part-2.html)
-- [Part 3](http://www.zx81.org.uk/photography/photo-book-group-test-part-3.html)
-- [Part 4](http://www.zx81.org.uk/photography/photo-book-group-test-part-4.html)
+- [Part 2](/photography/photo-book-group-test-part-2.html)
+- [Part 3](/photography/photo-book-group-test-part-3.html)
+- [Part 4](/photography/photo-book-group-test-part-4.html)

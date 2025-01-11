@@ -20,7 +20,7 @@ I’ve been pretty quiet here for a couple of of weeks and that’s because… w
 
 [![IMG_7084](https://i0.wp.com/farm3.staticflickr.com/2939/13967448515_1d3a004bc2.jpg?resize=500%2C333&ssl=1)](https://www.flickr.com/photos/stephendarlington/13967448515 "IMG_7084 by Stephen Darlington, on Flickr")
 
-[Junior](http://www.zx81.org.uk/blog/better-out-than-in.html "Better out than in") took his sweet time popping out — we were in the hospital over a day before he made his grand appearance — but for Juniorette we weren’t sure we’d make it there in time! In the end we checked into the delivery suite just after ten in the evening and the birth was recorded just before eleven.
+[Junior](/blog/better-out-than-in.html "Better out than in") took his sweet time popping out — we were in the hospital over a day before he made his grand appearance — but for Juniorette we weren’t sure we’d make it there in time! In the end we checked into the delivery suite just after ten in the evening and the birth was recorded just before eleven.
 
 I’m not sure the midwives realised how close things were when we first arrived. They were fussing around and promising to check on progress and then… there’s a head!
 

@@ -37,6 +37,6 @@ But overall these are just nit-picks. The books are beautifully presented, well 
 
 See:
 
-- [Part 1](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html)
-- [Part 3](http://www.zx81.org.uk/photography/photo-book-group-test-part-3.html)
-- [Part 4](http://www.zx81.org.uk/photography/photo-book-group-test-part-4.html)
+- [Part 1](/photography/photo-book-group-test-part-1.html)
+- [Part 3](/photography/photo-book-group-test-part-3.html)
+- [Part 4](/photography/photo-book-group-test-part-4.html)

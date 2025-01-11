@@ -31,6 +31,6 @@ So, given that the quality is broadly comparable and the delivery is slower, wha
 
 See:
 
-- [Part 1](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html)
-- [Part 2](http://www.zx81.org.uk/photography/photo-book-group-test-part-2.html)
-- [Part 3](http://www.zx81.org.uk/photography/photo-book-group-test-part-3.html)
+- [Part 1](/photography/photo-book-group-test-part-1.html)
+- [Part 2](/photography/photo-book-group-test-part-2.html)
+- [Part 3](/photography/photo-book-group-test-part-3.html)

@@ -19,7 +19,7 @@ In this post I’ll talk about how I prepared for the project and my thoughts on
 
 The 3D print is *bigger* than anything I’ve done before but not necessarily any more complex.
 
-<figure aria-describedby="caption-attachment-4608" class="wp-caption alignleft" id="attachment_4608" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/02/Screen-Shot-2017-02-26-at-15.44.07.png?resize=300%2C289&ssl=1)](https://www.zx81.org.uk/?attachment_id=4608)<figcaption class="wp-caption-text" id="caption-attachment-4608">3D Printing Otto</figcaption></figure>
+<figure aria-describedby="caption-attachment-4608" class="wp-caption alignleft" id="attachment_4608" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/02/Screen-Shot-2017-02-26-at-15.44.07.png?resize=300%2C289&ssl=1)](/?attachment_id=4608)<figcaption class="wp-caption-text" id="caption-attachment-4608">3D Printing Otto</figcaption></figure>
 
 The part of the project that I have the least experience with is the electronics. I’ve never really been a “hardware” person, though I built a 68000-based computer while at university. Fortunately Otto uses an off-the-shelf embedded computer called an Arduino so my terrible soldering skills won’t be tested.
 

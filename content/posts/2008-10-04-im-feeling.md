@@ -21,6 +21,6 @@ draft: true
 
 “[I’m feeling](http://www.photofriday.com/archives/challenge/000813.php)… *cold*?”  
 “I’m feeling… *miserable*?”  
-“I’m feeling… that holidaying in [Brighton](http://www.zx81.org.uk/travel/brighton.html) in April wasn’t such a great idea?”
+“I’m feeling… that holidaying in [Brighton](/travel/brighton.html) in April wasn’t such a great idea?”
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/spontaneous.html) in last weeks challenge, “[Sponteneous](http://www.photofriday.com/linkviewer.php?id=811).” I’m entry number 186.
+Please also vote for [my entry](/photography/photofriday/spontaneous.html) in last weeks challenge, “[Sponteneous](http://www.photofriday.com/linkviewer.php?id=811).” I’m entry number 186.

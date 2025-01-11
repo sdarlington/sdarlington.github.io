@@ -27,7 +27,7 @@ In a poll of two, my parents, one hundred percent of participants recommended Rh
 
 [![Location of the Colossus of Rhodes](https://i0.wp.com/farm6.static.flickr.com/5302/5632194805_b9ee150520.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632194805/ "Location of the Colossus of Rhodes by stephendarlington, on Flickr")
 
-I didn’t know a huge amount about the place before I got there. I quickly realised that, like [Alexandria](http://www.zx81.org.uk/travel/egypt-alexandria.html), the one thing that Rhodes is most famous for, the Colossus, is no longer there. In the place that it is rumoured to have been located are two statues of deer. This sounds odd until you realise that deer are considered to special.
+I didn’t know a huge amount about the place before I got there. I quickly realised that, like [Alexandria](/travel/egypt-alexandria.html), the one thing that Rhodes is most famous for, the Colossus, is no longer there. In the place that it is rumoured to have been located are two statues of deer. This sounds odd until you realise that deer are considered to special.
 
 Okay, that’s still odd. The story is that the deer scared the snakes away from the island. I’ve seen no mention of *how* deer could scare away snakes so you’ll just have to use your imagination.
 
@@ -37,7 +37,7 @@ The other thing that Rhodes (and other nearby islands) are sort of famous for is
 
 But I’m not really going to talk much about either of those things any more. Over the next few days I’m going to have a few most posts, with pictures and brief commentary about the highlights of what I saw on my week away.
 
-- [Rhodes Town](http://www.zx81.org.uk/travel/rhodes-town-greece.html)
-- [East coast, including Lindos](http://www.zx81.org.uk/travel/lindos-and-rhodes-east-coast-greece.html)
-- [West cost, including Kamiros](http://www.zx81.org.uk/travel/kamiros-and-rhodes-west-coast-greece.html)
-- [Symi](http://www.zx81.org.uk/travel/symi-greece.html), a nearby, smaller island
+- [Rhodes Town](/travel/rhodes-town-greece.html)
+- [East coast, including Lindos](/travel/lindos-and-rhodes-east-coast-greece.html)
+- [West cost, including Kamiros](/travel/kamiros-and-rhodes-west-coast-greece.html)
+- [Symi](/travel/symi-greece.html), a nearby, smaller island

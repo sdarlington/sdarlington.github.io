@@ -70,4 +70,4 @@ I can’t claim that it looks very much like the Eye in London, but there’s al
 
 These last two images were taken in Obaiba in what looks like a new development. Much of Tokyo is pretty new but only this bit is not quite finished yet!
 
-And that was pretty much all of my whistle-stop tour of Tokyo. If you want to see more, there are [a few extras on Flickr](http://www.flickr.com/photos/stephendarlington/sets/72157625067132661/). After Tokyo I went to see the iconic [Mount Fuji](http://www.zx81.org.uk/travel/japan-mount-fuji.html), so that’s what I’ll be posting next.
+And that was pretty much all of my whistle-stop tour of Tokyo. If you want to see more, there are [a few extras on Flickr](http://www.flickr.com/photos/stephendarlington/sets/72157625067132661/). After Tokyo I went to see the iconic [Mount Fuji](/travel/japan-mount-fuji.html), so that’s what I’ll be posting next.

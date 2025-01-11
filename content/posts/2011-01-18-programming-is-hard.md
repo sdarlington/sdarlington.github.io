@@ -95,4 +95,4 @@ And that’s it, we’re done. We have a working version of the log in button.
 
 The final point I’m going to make here is that I ended up discarding all the code above. It just didn’t work as well as I wanted and I ended up implementing it in a completely different way. And this really is the kind of detail that you never notice. A good chuck of any programming project is prototyping, building mock-ups and other activities that don’t directly end up in any shipping product. All this discarded work — which does, at times feel like a waste of time — is designed to make the product better.
 
-Some people who have never programmed say things like “there’s nothing complicated there” or “[it’s only a button!](http://www.zx81.org.uk/computing/opinion/the-w-effect.html)” Hopefully this post has shown that even a simple button can be far more work that it initially seems.
+Some people who have never programmed say things like “there’s nothing complicated there” or “[it’s only a button!](/computing/opinion/the-w-effect.html)” Hopefully this post has shown that even a simple button can be far more work that it initially seems.

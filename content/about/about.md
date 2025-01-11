@@ -7,7 +7,7 @@ layout: page
 guid: 'http://ccgi.sdarlington.plus.com/who/'
 ---
 
-Given that this is a site called “ZX81” and yet has nothing at all to do with [that famous Sinclair computer](http://www.old-computers.com/museum/computer.asp?st=1&c=263 "ZX81") I will assume that the reason you’re here is to find out why. (There are other options if you [want to know about me](http://www.zx81.org.uk/about/about-me/ "About Me") or [want to know how I put the site together](http://www.zx81.org.uk/about/about-this-domain/ "About ZX81.org.uk").)
+Given that this is a site called “ZX81” and yet has nothing at all to do with [that famous Sinclair computer](http://www.old-computers.com/museum/computer.asp?st=1&c=263 "ZX81") I will assume that the reason you’re here is to find out why. (There are other options if you [want to know about me](/about/about-me/ "About Me") or [want to know how I put the site together](/about/about-this-domain/ "About ZX81.org.uk").)
 
 I guess the first thing to mention would be that it didn’t cost me anything. For many people, that explanation is probably enough.
 

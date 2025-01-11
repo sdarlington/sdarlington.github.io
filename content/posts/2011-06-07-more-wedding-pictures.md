@@ -28,7 +28,7 @@ Overall it was probably the best of those that I’ve done, though not without a
 
 Once outside the registry office itself, where I could choose where the light came from and where there was more space, everything went to plan. I picked “machine-gun mode” when the bride and groom first went outside, capturing their expressions as they were bombarded with confetti. All the “formal” family and friends shots went quickly and effectively. I managed to get at least once picture of each where no-one was blinking or looking the wrong way.
 
-It was a beautiful day, windy but not cold, which I think helped a lot. [Last time](http://www.zx81.org.uk/photography/white-wedding.html) I was keen to finish quickly, before everyone froze to death.
+It was a beautiful day, windy but not cold, which I think helped a lot. [Last time](/photography/white-wedding.html) I was keen to finish quickly, before everyone froze to death.
 
 I’m getting better at the post-processing, too. I had some of my favourite images [up on Flickr](http://www.flickr.com/photos/stephendarlington/sets/72157626759185571/) after less than an hour. Applications like Aperture really make event photography so much easier.
 

@@ -21,4 +21,4 @@ I couldn’t let the inaugural train journey betweeen Beijing and Lhasa, the cap
 
 Wired has a nice article — “[Train to the Roof of the World](http://www.wired.com/wired/archive/14.07/chinarail_pr.html)” — that takes a balanced view of the technology and politics. The BBC’s — “[First Beijing train reaches Lhasa](http://news.bbc.co.uk/1/hi/world/asia-pacific/5140514.stm)” — is much shorter if you’re pushed for time!
 
-Also see the [pictures from my 2002 trip](http://www.zx81.org.uk/travel/tibet.html) to the region.
+Also see the [pictures from my 2002 trip](/travel/tibet.html) to the region.

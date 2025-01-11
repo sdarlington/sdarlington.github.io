@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-This is already turning into a trip of contrasts. [Tokyo](http://www.zx81.org.uk/travel/japan-tokyo.html) was all rush and all people, all the time. [Mount Fuji](http://www.zx81.org.uk/travel/japan-mount-fuji.html) (or at least Lake Kawaguchiko) was quiet, with very few people and little noise except the occasional clank from the bike chain. Matsumoto, a city near the Japanese Alps, strikes a balance somewhere between the two.
+This is already turning into a trip of contrasts. [Tokyo](/travel/japan-tokyo.html) was all rush and all people, all the time. [Mount Fuji](/travel/japan-mount-fuji.html) (or at least Lake Kawaguchiko) was quiet, with very few people and little noise except the occasional clank from the bike chain. Matsumoto, a city near the Japanese Alps, strikes a balance somewhere between the two.
 
 The main feature, right in the centre of the city, is [Matsumoto Castle](http://www.japan-guide.com/e/e6051.html). It’s one of the oldest and best preserved castles in Japan.
 

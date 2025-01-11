@@ -11,11 +11,11 @@ categories:
     - Blog
 ---
 
-With all the pieces [printed](https://www.zx81.org.uk/blog/otto-printing.html) or [purchased](https://www.zx81.org.uk/blog/otto-electronics.html), it was time to assemble [Otto](http://www.instructables.com/id/Otto-Build-You-Own-Robot-in-Two-Hours/).
+With all the pieces [printed](/blog/otto-printing.html) or [purchased](/blog/otto-electronics.html), it was time to assemble [Otto](http://www.instructables.com/id/Otto-Build-You-Own-Robot-in-Two-Hours/).
 
 Since I’d already tested the Arduino and enlarged the holes for the eyes and stepper motors, the process of putting it together was actually fairly uneventful.
 
-<figure aria-describedby="caption-attachment-4628" class="wp-caption alignleft" id="attachment_4628" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/03/IMG_4014.jpg?resize=300%2C225&ssl=1)](https://www.zx81.org.uk/blog/otto-assembly.html/attachment/img_4014)<figcaption class="wp-caption-text" id="caption-attachment-4628">Putting Otto together</figcaption></figure>
+<figure aria-describedby="caption-attachment-4628" class="wp-caption alignleft" id="attachment_4628" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/03/IMG_4014.jpg?resize=300%2C225&ssl=1)](/blog/otto-assembly.html/attachment/img_4014)<figcaption class="wp-caption-text" id="caption-attachment-4628">Putting Otto together</figcaption></figure>
 
 Because of the small size, some parts were very fiddly but it wasn’t hard *per se*. Kudos to the people who put the instructions together!
 

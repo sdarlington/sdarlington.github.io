@@ -24,7 +24,7 @@ tags:
 
 Last year Yahoo! announced, with no notice, a significant change that had far reaching consequences for all third party applications including my iPhone program, Yummy. This is the third in a series of posts that discusses how I dealt with it.
 
-[On Monday](http://www.zx81.org.uk/computing/opinion/delicious-debrief.html) I gave an overview of the problem and [yesterday](http://www.zx81.org.uk/computing/opinion/delicious-debrief-2.html) I looked at how those changes were announced and why they were tricky. Today we’ll look at how I actually implemented those technical details — though not at the code level so don’t worry if you’re not a programmer!
+[On Monday](/computing/opinion/delicious-debrief.html) I gave an overview of the problem and [yesterday](/computing/opinion/delicious-debrief-2.html) I looked at how those changes were announced and why they were tricky. Today we’ll look at how I actually implemented those technical details — though not at the code level so don’t worry if you’re not a programmer!
 
 ### Open Source OAuth
 
@@ -60,6 +60,6 @@ I ended up writing about four hundred lines of new code instead of using MPOAuth
 
 ### Coming tomorrow
 
-Having decided on the low-level technical details I discovered that there was [still a lot of work to do](http://www.zx81.org.uk/computing/opinion/delicious-debrief-4.html). That’s what I’ll be talking about tomorrow.
+Having decided on the low-level technical details I discovered that there was [still a lot of work to do](/computing/opinion/delicious-debrief-4.html). That’s what I’ll be talking about tomorrow.
 [^1]: I’m also geeky enough to *like* writing this kind of code. So shoot me.
 [^2]: I’m only aware of one bug caused by the new code, and that problem, strictly speaking, was already present in Yummy, it just did not exhibit the same behaviour previously.

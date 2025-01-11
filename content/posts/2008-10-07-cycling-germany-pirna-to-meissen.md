@@ -44,6 +44,6 @@ After visiting the cathedral during daylight hours and heading back to the hotel
 
 [![Meißen](https://i0.wp.com/farm8.staticflickr.com/7047/6782219620_77bfeece58.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6782219620/ "Meißen by stephendarlington, on Flickr")
 
-It was a lovely end to a very fun week of cycling. I have passed through lots of amazing scenery, some fascinating towns and even crossed a border, though I nearly managed to miss it. And now I was going to get a bus back to [Prague](http://www.zx81.org.uk/travel/prague-czech-republic.html).
+It was a lovely end to a very fun week of cycling. I have passed through lots of amazing scenery, some fascinating towns and even crossed a border, though I nearly managed to miss it. And now I was going to get a bus back to [Prague](/travel/prague-czech-republic.html).
 
-*This is the sixth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the sixth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*

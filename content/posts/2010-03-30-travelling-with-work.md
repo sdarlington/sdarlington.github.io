@@ -19,13 +19,13 @@ tags:
     - Travel
 ---
 
-The first few years of my [November Plan](http://www.zx81.org.uk/blog/the-november-plan.html) were all business trips, but the truth is that I rarely get to see much more than the airport, an office and a hotel room when I go away. Oh, and maybe a restaurant if I get the chance.
+The first few years of my [November Plan](/blog/the-november-plan.html) were all business trips, but the truth is that I rarely get to see much more than the airport, an office and a hotel room when I go away. Oh, and maybe a restaurant if I get the chance.
 
 That made last weeks trip to Paris and Frankfurt the exception. Meetings finished early in France and I couldn’t change my train reservation so I took the Metro a few stops south a hung around Notre Dame for a couple of hours.
 
 [![Stalls by the Seine near Notre Dame](https://i0.wp.com/farm3.staticflickr.com/2788/4466567969_486b91c6bc.jpg?resize=500%2C375)](http://www.flickr.com/photos/stephendarlington/4466567969/ "Stalls by the Seine near Notre Dame by stephendarlington, on Flickr")
 
-I had a big rucksack with me so I couldn’t go too far and I only had my iPhone rather than my [50D](http://www.zx81.org.uk/photography/canon-eos-50d.html) so my photographic options were limited.
+I had a big rucksack with me so I couldn’t go too far and I only had my iPhone rather than my [50D](/photography/canon-eos-50d.html) so my photographic options were limited.
 
 Still, I felt lucky to have a couple of hours to myself.
 

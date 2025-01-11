@@ -24,7 +24,7 @@ tags:
     - Travel
 ---
 
-I was determined to make at least one boat trip to another island and there were no shortage of options from [Rhodes Town](http://www.zx81.org.uk/travel/rhodes-town-greece.html). There were some other famous locations within range, Kos and even some Turkish resorts, but in the end I decided on Symi. It’s a much smaller island, known for its attractive harbour, and I thought it would be a good contrast to what I’d already seen in Rhodes.
+I was determined to make at least one boat trip to another island and there were no shortage of options from [Rhodes Town](/travel/rhodes-town-greece.html). There were some other famous locations within range, Kos and even some Turkish resorts, but in the end I decided on Symi. It’s a much smaller island, known for its attractive harbour, and I thought it would be a good contrast to what I’d already seen in Rhodes.
 
 [![Symi harbour](https://i0.wp.com/farm6.static.flickr.com/5225/5632199825_55e8f243b7.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632199825/ "Symi harbour by stephendarlington, on Flickr")
 

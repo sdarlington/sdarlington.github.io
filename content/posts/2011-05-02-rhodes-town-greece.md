@@ -22,7 +22,7 @@ tags:
     - Travel
 ---
 
-Travelling out of season has its pros and cons. On this plus side it’s cheaper and not as hot. I’m not sure I would have liked Rhodes when it was in the high thirties. Twenty something in early April suits me just fine. There are also fewer tourists which is mostly nice, but does mean — and this is the major disadvantage — that not everything is open. So to head off the same kind of problem I experienced in [Porto](http://www.zx81.org.uk/travel/corsica-evisa-to-porto.html), where I arrived only to find that the hotel was closed, I decided to stay in the biggest town on the island. Even in hindsight I think that this was the right move.
+Travelling out of season has its pros and cons. On this plus side it’s cheaper and not as hot. I’m not sure I would have liked Rhodes when it was in the high thirties. Twenty something in early April suits me just fine. There are also fewer tourists which is mostly nice, but does mean — and this is the major disadvantage — that not everything is open. So to head off the same kind of problem I experienced in [Porto](/travel/corsica-evisa-to-porto.html), where I arrived only to find that the hotel was closed, I decided to stay in the biggest town on the island. Even in hindsight I think that this was the right move.
 
 [![Sunset over Rhodes Old Town Walls](https://i0.wp.com/farm6.static.flickr.com/5110/5632791488_a81cf20b0a.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632791488/ "Sunset over Rhodes Old Town Walls by stephendarlington, on Flickr")
 
@@ -50,7 +50,7 @@ The second part of town is, creatively, called the New Town. This is a fairly no
 
 [![Cat in Rhodes Old Town](https://i0.wp.com/farm6.static.flickr.com/5228/5632782614_eff09366b5.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5632782614/ "Cat in Rhodes Old Town by stephendarlington, on Flickr")
 
-On the first night I stopped at a bar that was so new that they hadn’t printed the menus in English yet! Elsewhere they also seem to have a bit of a Nordic theme going. Just around the corner from the hotel was a (closed) [Norwegian](http://www.zx81.org.uk/travel/norway.html) bar. I had breakfast in a [Swedish](http://www.zx81.org.uk/travel/stockholm-sweden.html) cafe on a few mornings and near the beach I stumbled across both a Finnish bar and a [Danish](http://www.zx81.org.uk/travel/copenhagen-denmark.html) cafe. With an [Icelandic](http://www.zx81.org.uk/travel/iceland.html) restaurant they could collect the full set.
+On the first night I stopped at a bar that was so new that they hadn’t printed the menus in English yet! Elsewhere they also seem to have a bit of a Nordic theme going. Just around the corner from the hotel was a (closed) [Norwegian](/travel/norway.html) bar. I had breakfast in a [Swedish](/travel/stockholm-sweden.html) cafe on a few mornings and near the beach I stumbled across both a Finnish bar and a [Danish](/travel/copenhagen-denmark.html) cafe. With an [Icelandic](/travel/iceland.html) restaurant they could collect the full set.
 
 A few kilometres south of the New Town is the oddly named “Monte Smith,” an acropolis and amphitheatre. It is, of course, not its original name. Its real name is Agios Stefanos but the name of the Brit somehow stuck. (Don’t worry, Greece, you can have the Elgin Marbles back soon.)
 

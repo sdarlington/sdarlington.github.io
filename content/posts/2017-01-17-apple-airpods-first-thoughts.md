@@ -11,7 +11,7 @@ categories:
     - Blog
 ---
 
-I got some [Bluetooth headphones](http://www.zx81.org.uk/computing/reviews/mpow-swift-bluetooth-headphones.html) about a year ago as an experiment. They were cheap but more than lived up to expectations. The lack of wires really is a game changer, albeit a totally #firstworldproblems one.
+I got some [Bluetooth headphones](/computing/reviews/mpow-swift-bluetooth-headphones.html) about a year ago as an experiment. They were cheap but more than lived up to expectations. The lack of wires really is a game changer, albeit a totally #firstworldproblems one.
 
 But they had flaws. When Apple announced their [AirPods](http://www.apple.com/uk/shop/product/MMEF2/airpods) I was intrigued. Would they fix the problems while keeping the benefits? At ten times more than my old headphones I hoped so.
 

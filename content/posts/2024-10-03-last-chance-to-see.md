@@ -15,7 +15,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series*.
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series*.
 
 I almost didn’t include this since I inadvertently created a new “one book per author” rule. (I did resist adding Dirk Gently.)
 

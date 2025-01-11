@@ -17,7 +17,7 @@ tags:
 
 As many readers know by now I am in the late stages of developing and releasing [an iPhone application](http://www.yummyapp.com/). This is the first time I’ve ever really been involved in the launch of a consumer product and while there’s nothing here that is likely to surprise any marketing guru’s, I’m finding it an interesting process.
 
-I [talked about pricing](http://www.zx81.org.uk/computing/opinion/what-price.html) previously, but today I want to talk about the competition.
+I [talked about pricing](/computing/opinion/what-price.html) previously, but today I want to talk about the competition.
 
 I downloaded the SDK[^1] shortly after the original announcement. The first version was fairly primitive, with little to no support for the drag-and-drop style of development used for parts of Mac OS X programs. I played around a bit, compiled a few demo applications but didn’t really get very far. Too hard, I though.
 

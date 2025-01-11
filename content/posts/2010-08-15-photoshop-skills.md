@@ -22,6 +22,6 @@ tags:
 
 I nearly didn’t take part in this weeks PhotoFriday challenge, “[Photoshop Skills](http://www.photofriday.com/archives/challenge/001006.php),” as I’m not a big Photoshop user. I tend to tweak images, enhance the colours, maybe a little dodging and burning, but nothing that would show my Photoshop skills — the whole point of my edits are normally that you can’t see them!
 
-Then I remembered that I’ve spent quite a lot of time over the years trying to make the [perfect panorama](http://www.zx81.org.uk/photography/adventures-with-panoramas.html). The above image, taken in [Siena, Italy](http://www.zx81.org.uk/travel/siena-tuscany-italy.html), is perhaps the best that I’ve managed. (I’ve used a variant of this one before for PhotoFriday.)
+Then I remembered that I’ve spent quite a lot of time over the years trying to make the [perfect panorama](/photography/adventures-with-panoramas.html). The above image, taken in [Siena, Italy](/travel/siena-tuscany-italy.html), is perhaps the best that I’ve managed. (I’ve used a variant of this one before for PhotoFriday.)
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/best-friend.html) in last weeks PhotoFriday challenge, “[Best Friend](http://www.photofriday.com/linkviewer.php?id=1004).” I’m entry number 173.
+Please also vote for [my entry](/photography/photofriday/best-friend.html) in last weeks PhotoFriday challenge, “[Best Friend](http://www.photofriday.com/linkviewer.php?id=1004).” I’m entry number 173.

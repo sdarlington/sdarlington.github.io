@@ -18,6 +18,6 @@ draft: true
 
 \[photopress:CRW\_2501.jpg,full,centered\]
 
-I thought I’d go for the pun with this weeks PhotoFriday theme, “[Well Groomed](http://www.photofriday.com/archives/challenge/000925.php).” This was taken at [my friends Civil Partnership ceremony](http://www.zx81.org.uk/blog/a-very-civil-partnership.html). I figure that a wedding with two grooms could be considered “well groomed.”
+I thought I’d go for the pun with this weeks PhotoFriday theme, “[Well Groomed](http://www.photofriday.com/archives/challenge/000925.php).” This was taken at [my friends Civil Partnership ceremony](/blog/a-very-civil-partnership.html). I figure that a wedding with two grooms could be considered “well groomed.”
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/autumn-2009.html) in last weeks challenge, “[Autumn 2009](http://www.photofriday.com/linkviewer.php?id=923).” I’m entry number 208.
+Please also vote for [my entry](/photography/photofriday/autumn-2009.html) in last weeks challenge, “[Autumn 2009](http://www.photofriday.com/linkviewer.php?id=923).” I’m entry number 208.

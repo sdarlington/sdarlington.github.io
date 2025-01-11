@@ -19,7 +19,7 @@ tags:
 
 One common refrain after the BNP made an appearance on Question Time last year was that if only more people went out and voted then right-wing extremists would not get elected. Of course that’s not the whole story but there’s some truth in that. Since we will have a General Election this time next week this becomes a very important point.
 
-This got me thinking about my experience with the British electoral system. As far as I can remember, I’ve voted in every election that I have been eligible except for those when I have not been at home. In fact I was in [California](http://www.zx81.org.uk/tag/california/) in this last election when Griffin was elected to the European parliament.
+This got me thinking about my experience with the British electoral system. As far as I can remember, I’ve voted in every election that I have been eligible except for those when I have not been at home. In fact I was in [California](/tag/california/) in this last election when Griffin was elected to the European parliament.
 
 This time I did try to vote even though I would be away. They don’t make it easy.
 
@@ -39,6 +39,6 @@ In any case, your proxy needs to vote in the same place that you would, which im
 
 And it goes without saying that you’d have to trust your proxy. You’re expecting someone to both actually turn up to vote and to put the cross in the correct box. I don’t know why, but this makes me a little uncomfortable. Maybe I should become a more trusting person, but there’s something about the idea of an *anonymous* vote that’s significant.
 
-Just to be clear, I’m not sure what the alternative should be. The voting system needs to be [simple, reliable and something that can be trusted](http://www.zx81.org.uk/computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html).
+Just to be clear, I’m not sure what the alternative should be. The voting system needs to be [simple, reliable and something that can be trusted](/computing/opinion/when-is-a-pencil-and-paper-better-than-a-computer.html).
 
 But whatever the current system it’s still important to try to vote. It’s just much easier if you’re in the country on May 6<sup>th</sup>.

@@ -23,7 +23,7 @@ tags:
     - Travel
 ---
 
-I actually had plans to visit Prague on my [previous visit to Continental Europe](http://www.zx81.org.uk/travel/tuscany-italy.html) but the various transportation options didn’t quite work out, meaning that this was the first time that I’d made it to the Czech capital.
+I actually had plans to visit Prague on my [previous visit to Continental Europe](/travel/tuscany-italy.html) but the various transportation options didn’t quite work out, meaning that this was the first time that I’d made it to the Czech capital.
 
 [![Tube station in Prague](https://i0.wp.com/farm8.staticflickr.com/7050/6928331265_c9348e5edc.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6928331265/ "Tube station in Prague by stephendarlington, on Flickr")
 
@@ -37,7 +37,7 @@ Alighting at Muzeum, I found myself in Wencalas Square. When I arrived it was fo
 
 [![Prague street](https://i0.wp.com/farm8.staticflickr.com/7050/6928332053_bbfbfeda48.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6928332053/ "Prague street by stephendarlington, on Flickr")
 
-At this point I had really just arrived and did not know Where Stuff Was, and so randomly chose to head south. The first thing that struck me was that it looked more affluent than I was expecting, more so than [Warsaw](http://www.zx81.org.uk/travel/poland.html) for example.
+At this point I had really just arrived and did not know Where Stuff Was, and so randomly chose to head south. The first thing that struck me was that it looked more affluent than I was expecting, more so than [Warsaw](/travel/poland.html) for example.
 
 The second thing that struck me was a tram. Well, nearly. Everywhere you go there were trams and tram lines.
 
@@ -49,17 +49,17 @@ The bridge itself was a bit of a disappointment in all honesty. I’m sure it lo
 
 [![View over Prague, Czech Republic](https://i0.wp.com/farm8.staticflickr.com/7189/6782212610_8503b31c4d.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6782212610/ "View over Prague, Czech Republic by stephendarlington, on Flickr")
 
-I cross and head up towards the castle. This side of the river is older (very much like [Budapest](http://www.zx81.org.uk/travel/hungary.html)) than the other. Still, it’s all relative. I forget who said it, but it’s worth noting that [Prague’s new town was founded in the 14th century](http://wikitravel.org/en/Prague/New_Town).
+I cross and head up towards the castle. This side of the river is older (very much like [Budapest](/travel/hungary.html)) than the other. Still, it’s all relative. I forget who said it, but it’s worth noting that [Prague’s new town was founded in the 14th century](http://wikitravel.org/en/Prague/New_Town).
 
 [![Guard](https://i0.wp.com/farm8.staticflickr.com/7183/6782212942_171e4ba4fe.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6782212942/ "Guard by stephendarlington, on Flickr")
 
-The view from the top is impressive. The whole town can be seen from here, the churches, bridges and the Vltava, the river that I’ll be [following by bike](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) for the next few days.
+The view from the top is impressive. The whole town can be seen from here, the churches, bridges and the Vltava, the river that I’ll be [following by bike](/travel/cycling-from-the-czech-republic-to-germany.html) for the next few days.
 
 [![Clock tower, Prague](https://i0.wp.com/farm8.staticflickr.com/7058/6782213236_be887ca29e.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6782213236/ "Clock tower, Prague by stephendarlington, on Flickr")
 
 [![A square in Prague](https://i0.wp.com/farm8.staticflickr.com/7065/6928340487_89343c5d76.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6928340487/ "A square in Prague by stephendarlington, on Flickr")
 
-Also in this area I managed to see the changing of the guards outside the palace. It was probably the quickest, least formal change over that I’ve seen in a while. I never thought that an ex-Communist country would be *less* formal than [a Nordic country](http://www.zx81.org.uk/travel/copenhagen-denmark.html).
+Also in this area I managed to see the changing of the guards outside the palace. It was probably the quickest, least formal change over that I’ve seen in a while. I never thought that an ex-Communist country would be *less* formal than [a Nordic country](/travel/copenhagen-denmark.html).
 
 The weather on my return at the end of the trip was better. It was nice to see many of the same sights but in bright sunlight rather than oppressive, grey cloud.
 
@@ -71,4 +71,4 @@ The last day I just spent bumming around. I went up the clock tower and, general
 
 Overall I really liked what I saw of Prague. It’s compact — definitely walkable — with a lot to see and a relaxed atmosphere.
 
-*This is the second of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the second of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*

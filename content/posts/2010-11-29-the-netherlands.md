@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-It may be a silly idea, but that’s never stopped me before. Yes, travelling to Holland would be the thirteenth year where I’ve spent [some or all of November](http://www.zx81.org.uk/blog/the-november-plan.html) out of the country.
+It may be a silly idea, but that’s never stopped me before. Yes, travelling to Holland would be the thirteenth year where I’ve spent [some or all of November](/blog/the-november-plan.html) out of the country.
 
 I decided on The Hague for a few reasons. First, it would be short. I was starting a new job so I couldn’t take very much time off work. The Netherlands is just a short flight from London so there was no need to try to ask for a day off in the first few weeks! Secondly, I spent a few days in Den Haag in 2007. Unfortunately it was in December and I was working a little way out of the city centre. I wandered around after dark, looking for somewhere decent to eat but otherwise saw very little. It did look pretty, though, so I flagged it for a later visit.
 

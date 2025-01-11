@@ -42,7 +42,7 @@ I understand that there were other parts to the complex but I decided to press o
 
 [![Lindos](https://i0.wp.com/farm6.static.flickr.com/5105/5632209121_d02ff6f66c.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632209121/ "Lindos by stephendarlington, on Flickr")
 
-When I finally got to Lindos, I took the same approach as when I arrived at the [Cinque Terre](http://www.zx81.org.uk/travel/cinque-terre-tuscany-italy.html): I went past a few car parks with spaces and went to the one that looked to be nearest the town. (If I’m going to go to the expense of hiring a car I figure I should try to minimise my walking!) I went past a lot of parked cars and ended up in an overflow carpark.
+When I finally got to Lindos, I took the same approach as when I arrived at the [Cinque Terre](/travel/cinque-terre-tuscany-italy.html): I went past a few car parks with spaces and went to the one that looked to be nearest the town. (If I’m going to go to the expense of hiring a car I figure I should try to minimise my walking!) I went past a lot of parked cars and ended up in an overflow carpark.
 
 From the car park you could see pretty much all of Lindos, the pretty white buildings at the bottom and the picturesque acropolis right at the top.
 

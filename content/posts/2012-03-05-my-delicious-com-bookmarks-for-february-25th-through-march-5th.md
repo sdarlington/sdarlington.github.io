@@ -30,5 +30,5 @@ tags:
 - <http://pinboard.in/talks/biz.pdf> – Interesting talk by the founder of @Pinboard. http://t.co/UwAHIHP6 \[PDF\]
 - <http://feedproxy.google.com/~r/Scoopertino/~3/ntGLHzoJc6U/> – Apple takes the wraps off OS X Cowardly Lion http://t.co/9wM2DYVt
 - <http://j.mp/wW9h2u> – “Apple’s share value hit an unprecedented $500bn… this morning, making the company worth more than Poland.” http://t.co/lkNP7zFY
-- [Cycling from the Czech Republic to Germany](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) – I've updated all the images on my Prague to Meißen cycling trip blog. I'm better with Aperture than I used to be… It was a good trip; can't believe it was in 2008!
+- [Cycling from the Czech Republic to Germany](/travel/cycling-from-the-czech-republic-to-germany.html) – I've updated all the images on my Prague to Meißen cycling trip blog. I'm better with Aperture than I used to be… It was a good trip; can't believe it was in 2008!
 - [Rant: I Love Photography](http://m.wired.com/rawfile/2012/02/rant-i-love-photography/) – Well said. Plus some great pictures!

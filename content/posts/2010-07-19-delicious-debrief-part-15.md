@@ -36,4 +36,4 @@ I’m going to split the discussion into a number of different “chapters.” F
 
 What follows is not densely technical, in the sense that I’m not going to be talking to the level of individual lines of code. However many of the decisions and trade-offs are somewhat technical in nature. Most people should be able to follow the process if not every last detail.
 
-[Tomorrow we’ll start with the announcement](http://www.zx81.org.uk/computing/opinion/delicious-debrief-2.html) and why what they changed made things tricky for all third-party clients, including Yummy.
+[Tomorrow we’ll start with the announcement](/computing/opinion/delicious-debrief-2.html) and why what they changed made things tricky for all third-party clients, including Yummy.

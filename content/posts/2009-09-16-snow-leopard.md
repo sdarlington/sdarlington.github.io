@@ -22,11 +22,11 @@ I wasn’t sure whether I should upgrade initially. I have been stung before by 
 
 I waited several months before making the leap to 10.5 for this very reason. But Leopard at least had some neat new features (and the lame new look of the dock) to try to tempt me over. Snow Leopard, by design, has few user-facing enhancements to make it worth the risk.
 
-Of course I’m not a typical end user. [The reason I moved from Windows to the Mac](http://www.zx81.org.uk/computing/opinion/dreadfulthought.html) back in 2001 was because of its Unix underpinnings:
+Of course I’m not a typical end user. [The reason I moved from Windows to the Mac](/computing/opinion/dreadfulthought.html) back in 2001 was because of its Unix underpinnings:
 
 > MacOS X is based on a BSD Unix kernel (called Darwin and available under an Open Source licence) and has an enhanced Macintosh user interface grafted on top. This is truly the key. You have the complex internals available from a command-line when you need it and a state of the art GUI when you just need a word processor.
 
-And now that [I’m an iPhone developer](http://www.zx81.org.uk/software/) I have a vested interest in using the best tools available for the platform, and they were only available for Snow Leopard. Also a lure where the new APIs ([Grand Central Dispatch](http://developer.apple.com/mac/library/documentation/Performance/Reference/GCD_libdispatch_Ref/index.html), [OpenCL](http://developer.apple.com/mac/library/documentation/Performance/Conceptual/OpenCL_MacProgGuide/Introduction/Introduction.html)) and language enhancements ([blocks](http://developer.apple.com/mac/articles/cocoa/introblocksgcd.html)). I’ve not done much Macintosh development but these were exactly the kind of things that would potentially get me started.
+And now that [I’m an iPhone developer](/software/) I have a vested interest in using the best tools available for the platform, and they were only available for Snow Leopard. Also a lure where the new APIs ([Grand Central Dispatch](http://developer.apple.com/mac/library/documentation/Performance/Reference/GCD_libdispatch_Ref/index.html), [OpenCL](http://developer.apple.com/mac/library/documentation/Performance/Conceptual/OpenCL_MacProgGuide/Introduction/Introduction.html)) and language enhancements ([blocks](http://developer.apple.com/mac/articles/cocoa/introblocksgcd.html)). I’ve not done much Macintosh development but these were exactly the kind of things that would potentially get me started.
 
 All this is a long way of saying that, despite the risks, I took the plunge anyway.
 
@@ -38,7 +38,7 @@ Yes, it’s quicker. Most noticeably in starting up, shutting down, Time Machine
 
 Yes, all my programs still work. I’d read reports that PhotoShop Elements didn’t work under Snow Leopard. I can report that it takes a considerable amount of time to start up and frequently beach-balls afterwards. Or, put another way, it works just as well as it did under 10.5.
 
-I’d also seen scare-stories about old versions of Microsoft Office and other PPC applications that need Rosetta to run but, again, I’ve not seen any problems[^2]. Even lower level software like my screen calibration program and [film scanner software](http://www.zx81.org.uk/computing/opinion/dualscanii.html) are fine.
+I’d also seen scare-stories about old versions of Microsoft Office and other PPC applications that need Rosetta to run but, again, I’ve not seen any problems[^2]. Even lower level software like my screen calibration program and [film scanner software](/computing/opinion/dualscanii.html) are fine.
 
 I have two negatives so far, both fairly minor in the grand scheme of things.
 

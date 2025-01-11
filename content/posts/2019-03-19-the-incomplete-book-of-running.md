@@ -18,7 +18,7 @@ tags:
     - running
 ---
 
-After all my fun with [Couch to 5K](https://www.zx81.org.uk/blog/c25k-diary.html) and the [Parkrun](https://www.zx81.org.uk/blog/c25k-diary-part-4.html), [The Incomplete Book of Running](https://amzn.to/2HI7Vjd), about Peter Sagal‘s running experiences, looked like it might strike a chord.
+After all my fun with [Couch to 5K](/blog/c25k-diary.html) and the [Parkrun](/blog/c25k-diary-part-4.html), [The Incomplete Book of Running](https://amzn.to/2HI7Vjd), about Peter Sagal‘s running experiences, looked like it might strike a chord.
 
 One thing that *didn’t* strike a chord was the author. I guess if you’re American and listen to NPR and [*Wait wait… don’t tell me!*](https://www.npr.org/programs/wait-wait-dont-tell-me/) you might know what you’re letting yourself in for. But I’m British and am more likely to be listening to [*The News Quiz on Radio 4*](https://www.bbc.co.uk/programmes/b006r9yq). I don’t think that this missing knowledge affected my enjoyment of the book, though.
 

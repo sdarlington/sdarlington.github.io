@@ -17,7 +17,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 I lent “[Peopleware](https://amzn.to/3BJlhtm)” \[affiliate link\] to a friend at some point but never got it back. I supposed they valued it as much as I do. I should probably buy the newer edition at some point.
 

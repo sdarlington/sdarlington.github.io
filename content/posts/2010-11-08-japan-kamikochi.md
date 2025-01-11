@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-For my last day in Nagano Prefecture I had set my sights on [Kamikochi](http://www.kamikochi.or.jp/english/), known as one of the most scenic parts of the Japanese Alps. However, the night before I had pretty much given up all home. It had been raining heavily and it was so cloudy that you couldn’t really see the mountains around [Matsumoto](http://www.zx81.org.uk/travel/japan-matsumoto.html)[^1], much less those any higher up.
+For my last day in Nagano Prefecture I had set my sights on [Kamikochi](http://www.kamikochi.or.jp/english/), known as one of the most scenic parts of the Japanese Alps. However, the night before I had pretty much given up all home. It had been raining heavily and it was so cloudy that you couldn’t really see the mountains around [Matsumoto](/travel/japan-matsumoto.html)[^1], much less those any higher up.
 
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5093749693/player/" webkitallowfullscreen="" width="333"></iframe>
 
@@ -28,7 +28,7 @@ Luckily I was right.
 
 <iframe allowfullscreen="" frameborder="0" height="333" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5094349752/player/" webkitallowfullscreen="" width="500"></iframe>
 
-Much like [my trip to Yosemite](http://www.zx81.org.uk/travel/yosemite.html) last year, I didn’t stray too far from the main, well trodden parts. I’d love to have had more time, but you know how it is…
+Much like [my trip to Yosemite](/travel/yosemite.html) last year, I didn’t stray too far from the main, well trodden parts. I’d love to have had more time, but you know how it is…
 
 I started at the main Bus Terminal (who says travel isn’t glamorous?) and took a coach up the twisty roads to the Kappa Bridge area. A Kappa, incidentally, is a sort of troll or [water sprite](http://en.wikipedia.org/wiki/Kappa_(folklore)) if you believe Wikipedia. People crossing this part of the river with things balanced on their heads look, if you have poor eye-sight, a little like a kappa, hence the name of the bridge.
 
@@ -54,4 +54,4 @@ Marge: That’s what I said, foilage. It doesn’t take a nucular scientist
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5093751393/player/" webkitallowfullscreen="" width="333"></iframe>
 
 By the time I got back to the bus terminal it was pretty much dark. It had remained pretty much fine the whole day. I’m really glad I made it.
-[^1]: Mountains hiding, of course, had already become [a bit of a theme for this trip](http://www.zx81.org.uk/travel/japan-mount-fuji.html).
+[^1]: Mountains hiding, of course, had already become [a bit of a theme for this trip](/travel/japan-mount-fuji.html).

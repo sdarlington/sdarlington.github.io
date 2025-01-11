@@ -21,4 +21,4 @@ tags:
 
 Having spent a little time in Jordan, Egypt and Moorish Spain, the word “[Geometric](http://www.photofriday.com/archives/challenge/001194.php),” this weeks PhotoFriday theme, says “Islamic architecture.” The above picture was taken in the Muhammad Ali Mosque in Cairo.
 
-Please also [vote for my entry](http://www.zx81.org.uk/photography/photofriday/grandeur.html) in last weeks challenge, “[Grandeur](http://www.photofriday.com/linkviewer.php?id=1192).” I’m entry number 118.
+Please also [vote for my entry](/photography/photofriday/grandeur.html) in last weeks challenge, “[Grandeur](http://www.photofriday.com/linkviewer.php?id=1192).” I’m entry number 118.

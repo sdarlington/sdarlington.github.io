@@ -20,6 +20,6 @@ tags:
     - Travel
 ---
 
-I thought that this image was suitable for the “[Monochrome](http://www.photofriday.com/archives/challenge/000884.php)” theme for a number of reasons. It was taken on black and white film (Ilford XP2) and, even on colour film it would have been pretty monochromatic. It was taken in [Vigland Park, Oslo](http://www.zx81.org.uk/travel/norway.html).
+I thought that this image was suitable for the “[Monochrome](http://www.photofriday.com/archives/challenge/000884.php)” theme for a number of reasons. It was taken on black and white film (Ilford XP2) and, even on colour film it would have been pretty monochromatic. It was taken in [Vigland Park, Oslo](/travel/norway.html).
 
 Please also vote for my entry in last weeks challenge, “[Metal](http://www.photofriday.com/linkviewer.php?id=881).” I’m entry number 27.

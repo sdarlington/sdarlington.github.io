@@ -15,7 +15,7 @@ tags:
     - Travel
 ---
 
-After the [disappointment of Pisa](http://www.zx81.org.uk/travel/pisa-tuscany-italy.html)[^1] I was looking forward to the highly regarded city of Lucca, which is only twenty five kilometres north-east up the SS12.
+After the [disappointment of Pisa](/travel/pisa-tuscany-italy.html)[^1] I was looking forward to the highly regarded city of Lucca, which is only twenty five kilometres north-east up the SS12.
 
 Like Pisa the parking situation was dire and it took several attempts to find somewhere to put the car. The comparisons to Pisa end here, however, as I immediately liked what I saw.
 

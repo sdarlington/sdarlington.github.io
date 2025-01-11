@@ -20,4 +20,4 @@ tags:
 
 This image represents my “[Morning Routine](http://www.photofriday.com/archives/challenge/000852.php)” on a weekend. Croissants and tea are the way to go for a relaxing start to the day.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/pet.html) in last weeks challenge, “[Pet](http://www.photofriday.com/linkviewer.php?id=850).” I don’t want to guilt-trip you into voting for entry number 138, but it might give Cornelius’ short life meaning if you do. (No pressure.)
+Please also vote for [my entry](/photography/photofriday/pet.html) in last weeks challenge, “[Pet](http://www.photofriday.com/linkviewer.php?id=850).” I don’t want to guilt-trip you into voting for entry number 138, but it might give Cornelius’ short life meaning if you do. (No pressure.)

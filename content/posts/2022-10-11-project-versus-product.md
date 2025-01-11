@@ -35,7 +35,7 @@ The idea here is that the word “project” implies some degree of a work in pr
 
 In my Day Job<sup>[1](#fn1-22158 "see footnote")</sup>, I often see companies expecting to get commercial quality support for free because the software is free. By “commercial quality” I don’t mean “good.” The level of knowledge and support provided by most free projects is phenomenal. Instead, I mean that there are service-level agreements and *guarantees* of service within a particular time frame.
 
-As it says in “[Cloud Without Compromise](https://www.zx81.org.uk/blog/cloud-without-compromise.html)”:
+As it says in “[Cloud Without Compromise](/blog/cloud-without-compromise.html)”:
 
 > But there is something to the old adage that “You get what you pay for.” (… there’s a world of difference between building systems for pet projects versus designing for the needs of enterprise.)
 

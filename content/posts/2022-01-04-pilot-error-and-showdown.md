@@ -17,7 +17,7 @@ tags:
     - scifi
 ---
 
-In one sense this was me trying to cheat my “[twelve books in 2021](https://www.zx81.org.uk/tag/reading2021)” challenge. Does reading two short stories count as two books? Goodreads seems to think so…
+In one sense this was me trying to cheat my “[twelve books in 2021](/tag/reading2021)” challenge. Does reading two short stories count as two books? Goodreads seems to think so…
 
 But it wasn’t *just* a cheat. These are still stories that I did want to read. Dan Moren is a writer I’ve followed for a while, though entirely in his Mac-centric, technical writing at [Six Colors](https://sixcolors.com)<sup>[1](#fn1-300 "see footnote")</sup> and podcasting at [Clockwise](https://www.relay.fm/clockwise). The stories are both part of a bigger sci-fi-space-opera universe but work well stand-alone.
 

@@ -18,4 +18,4 @@ tags:
 
 I’m sure that this is *exactly* what the PhotoFriday people had in mind when they created the challenge, “[Mobile Phone Photo](http://www.photofriday.com/challenge.php?id=1309).”
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/structures.html "Structures") in last weeks challenge, “[Structures](http://www.photofriday.com/linkviewer.php?id=1306).” I’m entry 81.
+Please also vote for [my entry](/photography/photofriday/structures.html "Structures") in last weeks challenge, “[Structures](http://www.photofriday.com/linkviewer.php?id=1306).” I’m entry 81.

@@ -14,7 +14,7 @@ tags:
     - people
 ---
 
-I was rather surprised last year when [people started asking what songs I’d been playing at my birthday party](http://www.zx81.org.uk/blog/december-14.html).
+I was rather surprised last year when [people started asking what songs I’d been playing at my birthday party](/blog/december-14.html).
 
 I’m pleased to say that I’m prepared this year and have already uploaded my playlist to iTunes. Enjoy.
 

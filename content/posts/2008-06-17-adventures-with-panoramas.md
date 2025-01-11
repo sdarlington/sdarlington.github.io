@@ -17,7 +17,7 @@ tags:
 draft: true
 ---
 
-One of the things that I noticed the last time I was in [Siena](http://www.zx81.org.uk/travel/siena-tuscany-italy.html) was the potential for a 360° panoramic shot in the Piazza del Campo. Unfortunately that trip was the last time I used my film SLR and, given the hit and miss results of my attempts up to that point, I was too cheap to waste half a roll of film on the task.
+One of the things that I noticed the last time I was in [Siena](/travel/siena-tuscany-italy.html) was the potential for a 360° panoramic shot in the Piazza del Campo. Unfortunately that trip was the last time I used my film SLR and, given the hit and miss results of my attempts up to that point, I was too cheap to waste half a roll of film on the task.
 
 This time, however, I was on digital:
 

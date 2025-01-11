@@ -18,4 +18,4 @@ tags:
     - usa
 ---
 
-Despite Californian voters failing to reject [Prop 8](http://en.wikipedia.org/wiki/California_Proposition_8_(2008)), the graffiti in [Los Angeles](http://www.zx81.org.uk/travel/los-angeles.html) shows that not everyone agrees: Post No <strike>Bills</strike> Prop.
+Despite Californian voters failing to reject [Prop 8](http://en.wikipedia.org/wiki/California_Proposition_8_(2008)), the graffiti in [Los Angeles](/travel/los-angeles.html) shows that not everyone agrees: Post No <strike>Bills</strike> Prop.

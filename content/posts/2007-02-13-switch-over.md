@@ -14,4 +14,4 @@ tags:
     - News
 ---
 
-The day has finally come. [As previously discussed](http://www.zx81.org.uk/news/consolidation.html "Vanishing websites") my other two websites are finally going away. Very shortly, links to darlingtonphotography.com and stephendarlington.com will no longer redirect here so please update any links you have. Pretty much all the content available on those sites is now here. A quick search should turn up something useful but [let me know](/about/contact-me/ "Contact me") if something you liked has gone missing in action.
+The day has finally come. [As previously discussed](/news/consolidation.html "Vanishing websites") my other two websites are finally going away. Very shortly, links to darlingtonphotography.com and stephendarlington.com will no longer redirect here so please update any links you have. Pretty much all the content available on those sites is now here. A quick search should turn up something useful but [let me know](/about/contact-me/ "Contact me") if something you liked has gone missing in action.

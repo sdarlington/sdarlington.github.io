@@ -31,6 +31,6 @@ tags:
 
 I’m slightly cheating for this weeks PhotoFriday challenge, “Human Form.” This image is technically not human but it’s confused a few people in the past so I figure it qualifies.
 
-(My main hesitation in using this picture is that I’ve used it [twice](http://www.zx81.org.uk/photography/photofriday/black.html) [before](http://www.zx81.org.uk/photography/photofriday/monochrome.html). But I like it so I’m sticking with it!)
+(My main hesitation in using this picture is that I’ve used it [twice](/photography/photofriday/black.html) [before](/photography/photofriday/monochrome.html). But I like it so I’m sticking with it!)
 
-Please also vote on [my entry](http://www.zx81.org.uk/photography/photofriday/suburbia.html) in last weeks challenge, “[Suburbia](http://www.photofriday.com/linkviewer.php?id=1047).” I’m entry number 146.
+Please also vote on [my entry](/photography/photofriday/suburbia.html) in last weeks challenge, “[Suburbia](http://www.photofriday.com/linkviewer.php?id=1047).” I’m entry number 146.

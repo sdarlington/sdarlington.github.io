@@ -22,7 +22,7 @@ tags:
     - uk
 ---
 
-[![Apple Store 500](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/08/picture-1.thumbnail.png)](http://www.zx81.org.uk/computing/opinion/apple-addict.html/apple-store-500/ "Apple Store 500")Like the true Mac obsessive that I am, I was “tuning in” for all the news on todays [press event](http://www.appleinsider.com/articles/07/07/31/apple_to_host_mac_event_next_tuesday.html).
+[![Apple Store 500](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/08/picture-1.thumbnail.png)](/computing/opinion/apple-addict.html/apple-store-500/ "Apple Store 500")Like the true Mac obsessive that I am, I was “tuning in” for all the news on todays [press event](http://www.appleinsider.com/articles/07/07/31/apple_to_host_mac_event_next_tuesday.html).
 
 Judging by the effect that the coverage is having on the UK store (see screen shot) it seems that I’m not the only one!
 

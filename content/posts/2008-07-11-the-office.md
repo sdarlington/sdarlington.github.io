@@ -22,6 +22,6 @@ draft: true
 
 \[photopress:IMG\_3448.jpg,full,centered\]
 
-My first reaction was why would I want to take a picture that reminds me of work? Then I remembered this image that I took in [Alcatraz](http://www.zx81.org.uk/travel/alcatraz.html). My desk at work tends not to have hand-cuffs. Actually, I tend to have so much paper littering the place that you can’t see the surface. Anyway, I thought this fit the theme of “[The Office](http://www.photofriday.com/archives/challenge/000789.php).”
+My first reaction was why would I want to take a picture that reminds me of work? Then I remembered this image that I took in [Alcatraz](/travel/alcatraz.html). My desk at work tends not to have hand-cuffs. Actually, I tend to have so much paper littering the place that you can’t see the surface. Anyway, I thought this fit the theme of “[The Office](http://www.photofriday.com/archives/challenge/000789.php).”
 
 Please also vote for my entry in last weeks challenge, “[Spiral](http://www.photofriday.com/linkviewer.php?id=787).” I’m entry 162.

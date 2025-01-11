@@ -27,4 +27,4 @@ tags:
 
 I love the *curved* roof of the British Museum, which is why I thought that this would make a good entry for this weeks PhotoFriday challenge, which is “[Curvature](http://www.photofriday.com/archives/challenge/001111.php).”
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/gold.html) in last weeks challenge, “[Gold](http://www.photofriday.com/linkviewer.php?id=1109).” I’m entry 149.
+Please also vote for [my entry](/photography/photofriday/gold.html) in last weeks challenge, “[Gold](http://www.photofriday.com/linkviewer.php?id=1109).” I’m entry 149.

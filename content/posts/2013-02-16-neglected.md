@@ -21,4 +21,4 @@ tags:
 
 This weeks PhotoFriday challenge is “[Neglected](http://www.photofriday.com/archives/challenge/001264.php),” which is quite appropriate since I’ve *neglected* to enter the challenge for quite some time now.
 
-My entry was taken in [Amsterdam](http://www.zx81.org.uk/travel/the-netherlands.html "The Netherlands").
+My entry was taken in [Amsterdam](/travel/the-netherlands.html "The Netherlands").

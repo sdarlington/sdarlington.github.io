@@ -26,4 +26,4 @@ What makes it work is that Clay is entirely believable. She’s fun and brave, i
 
 Boyd is a great writer. He has the characters, the structure and the story all wrapped up in a way that appears effortless. There are surprises and twists. Even the ending is satisfying.
 
-The plan was [to read more fiction this year](https://www.zx81.org.uk/blog/reading-2020.html). This was a good start.
+The plan was [to read more fiction this year](/blog/reading-2020.html). This was a good start.

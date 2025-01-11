@@ -17,7 +17,7 @@ tags:
 
 <figure aria-describedby="caption-attachment-1644" class="wp-caption aligncenter" id="attachment_1644" style="width: 500px">![Barbecue's on Brighton Beach](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/08/IMG_0931.jpg?resize=500%2C333 "Barbecue's on Brighton Beach")<figcaption class="wp-caption-text" id="caption-attachment-1644">Barbecue's on Brighton Beach</figcaption></figure>
 
-I was going to say that it was second time lucky with the weather but really that’s the difference between [going to Brighton in April](http://www.zx81.org.uk/travel/brighton.html) and going in August. Certainly, there was no-one grilling sausages on the beach last year.
+I was going to say that it was second time lucky with the weather but really that’s the difference between [going to Brighton in April](/travel/brighton.html) and going in August. Certainly, there was no-one grilling sausages on the beach last year.
 
 <figure aria-describedby="caption-attachment-1645" class="wp-caption aligncenter" id="attachment_1645" style="width: 500px">![Brighton Sunset](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/08/IMG_0933.jpg?resize=500%2C333 "Brighton Sunset")<figcaption class="wp-caption-text" id="caption-attachment-1645">Brighton Sunset</figcaption></figure>
 

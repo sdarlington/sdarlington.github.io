@@ -19,7 +19,7 @@ tags:
 draft: true
 ---
 
-My previous exploits in San Francisco have been well documented ([1](http://www.zx81.org.uk/travel/san-francisco.html) [2](http://www.zx81.org.uk/travel/alcatraz.html) [3](http://www.zx81.org.uk/travel/berkeley-point-lobos-and-carmel.html) [4](http://www.zx81.org.uk/travel/california-2006.html) [5](http://www.zx81.org.uk/travel/muir-woods.html)) so I shall just get straight into the images.
+My previous exploits in San Francisco have been well documented ([1](/travel/san-francisco.html) [2](/travel/alcatraz.html) [3](/travel/berkeley-point-lobos-and-carmel.html) [4](/travel/california-2006.html) [5](/travel/muir-woods.html)) so I shall just get straight into the images.
 
 <div class="flickr-gallery tag" id="gallery-c102dd81"><div class="fg-clear"></div> </div><div class="fg-clear"></div> <script type="text/javascript">
 											jQuery(document).ready(function(){

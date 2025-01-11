@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-If there’s one thing that Japan is famous for it’s Mount Fuji[^1], which, despite its name, is actually a volcano. That meant that it had to be on the itinerary when on my [first trip to Japan](http://www.zx81.org.uk/travel/japan.html).
+If there’s one thing that Japan is famous for it’s Mount Fuji[^1], which, despite its name, is actually a volcano. That meant that it had to be on the itinerary when on my [first trip to Japan](/travel/japan.html).
 
 In order to get the best view I went to Kawaguchiko, which sits between Kawaguchiko lake to its north and Fuji-san to its south. When I first arrived I couldn’t see the mountain as it was covered in mist. I quickly found the lake instead.
 

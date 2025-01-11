@@ -27,7 +27,7 @@ tags:
 
 The short version of this post is: congratulation to the happy couple! Enjoy your honeymoon and see you when you get back. The longer version follows…
 
-A month ago I drove up to the midlands for a wedding where I had been asked to be the photographer. [It’s not the first time](http://www.zx81.org.uk/photography/my-life-as-a-wedding-photographer.html) that this has happened but it *is* the first time that I’ve been the “official” photographer and it’s also the first time where the wedding has been in a church, white dress, limo and all.
+A month ago I drove up to the midlands for a wedding where I had been asked to be the photographer. [It’s not the first time](/photography/my-life-as-a-wedding-photographer.html) that this has happened but it *is* the first time that I’ve been the “official” photographer and it’s also the first time where the wedding has been in a church, white dress, limo and all.
 
 It may have been more formal but I was also more prepared. [I asked a question](http://photo.stackexchange.com/questions/4922/tips-for-photographing-a-wedding) on a StackExchange site. There were going to be more people, so I got a list of pictures that the bride and groom wanted in advance. Last time I didn’t have an external flash and ended up spending a lot of time in Photoshop fixing up the flaws. This time I hired a flash.
 

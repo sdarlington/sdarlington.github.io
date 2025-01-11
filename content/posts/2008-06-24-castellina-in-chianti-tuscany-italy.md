@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-After leaving [Monteriggioni](http://www.zx81.org.uk/travel/monteriggioni-tuscany-italy.html) I aim the car towards Castelline in Chianti, an area well known for its wineries.
+After leaving [Monteriggioni](/travel/monteriggioni-tuscany-italy.html) I aim the car towards Castelline in Chianti, an area well known for its wineries.
 
 And, well, I passed a few. After they thinned out I did a U-turn and went back to the first one which looked the most promising. From the road there was a long, straight line of trees either side of the drive up to the farm house at the end. It was a bumpy drive and I pulled in next to a couple of other waiting cars. I got out and strolled towards the entrance.
 

@@ -16,7 +16,7 @@ tags:
     - iphone
 ---
 
-As I’ve done [on](https://www.zx81.org.uk/computing/opinion/ios-6.html) [many](https://www.zx81.org.uk/computing/opinion/notes-on-ios-7.html) [previous](https://www.zx81.org.uk/computing/opinion/ios-9.html) [occasions](https://www.zx81.org.uk/computing/opinion/ios-10.html), I thought I’d write a few words about the latest Apple operating systems. I’m sure you’ve seen the reviews and possibly even upgraded yourself, so I’ll keep this brief! This is not intended to be complete; just a few highlights from my point of view.
+As I’ve done [on](/computing/opinion/ios-6.html) [many](/computing/opinion/notes-on-ios-7.html) [previous](/computing/opinion/ios-9.html) [occasions](/computing/opinion/ios-10.html), I thought I’d write a few words about the latest Apple operating systems. I’m sure you’ve seen the reviews and possibly even upgraded yourself, so I’ll keep this brief! This is not intended to be complete; just a few highlights from my point of view.
 
 First: they’re both stable. I’ve not seen any significant problems this year. If you were happy with iOS 15 and watchOS 8, and you’re able to, there’s no good reason *not* to upgrade.
 

@@ -21,6 +21,6 @@ The reason for this outage was an upgrade. I generally find it easier to stay wi
 
 And, honestly, it wasn’t too tricky. I did a test upgrade on my laptop using the webserver and MySQL database in [MAMP](http://www.mamp.info/en/home.php "Macintosh, Apache, Mysql and PHP"). I found that the template I use needed a quick update (as detailed on [GFXedit](http://www.gfxedit.com/theme-fixes/fixes-for-wordpress-21-ella.html)) but otherwise the upgrade script seems to have done the job without any trouble. Please let me know if you do find anything wrong.
 
-And the website vanishing? Entirely down to operator error I’m afraid. Need I mention the importance of [regular backups](http://www.zx81.org.uk/computing/opinion/backup.html "My backup regime")?
+And the website vanishing? Entirely down to operator error I’m afraid. Need I mention the importance of [regular backups](/computing/opinion/backup.html "My backup regime")?
 
 So overall, a great job by the WordPress team — thanks guys — and a rather shoddy job by my clumsy fingers!

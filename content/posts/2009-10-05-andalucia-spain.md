@@ -25,8 +25,8 @@ I spent a week walking around the [Sierra Tejeda Natural Park](http://www.andalu
 
 Over the following few posts I’ll be talking about and showing pictures of the tiny, white-washed villages, the diverse and beautiful mountains and, as a contrast, the buildings and culture in Granada.
 
-- [Canillas de Albaida](http://www.zx81.org.uk/travel/canillas-de-albaida-spain.html) — the town that I stayed in
-- [Walking in Andalucía](http://www.zx81.org.uk/travel/walking-in-andaluca-spain.html) — what I went to Spain to do
-- [Granada](http://www.zx81.org.uk/travel/granada-spain.html) — what I did on my “rest” day
+- [Canillas de Albaida](/travel/canillas-de-albaida-spain.html) — the town that I stayed in
+- [Walking in Andalucía](/travel/walking-in-andaluca-spain.html) — what I went to Spain to do
+- [Granada](/travel/granada-spain.html) — what I did on my “rest” day
 
-Stay tuned for any future travels of mine by subscribing to the [RSS feed](http://www.zx81.org.uk/feed/) or [by email](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=742748&loc=en_US).
+Stay tuned for any future travels of mine by subscribing to the [RSS feed](/feed/) or [by email](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=742748&loc=en_US).

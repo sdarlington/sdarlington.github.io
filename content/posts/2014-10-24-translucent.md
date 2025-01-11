@@ -21,4 +21,4 @@ format: image
 
 My entry to this weeks PhotoFriday challenge, “[Translucent](http://www.photofriday.com/challenge.php?id=1444),” was taken much closer to home than many of my previous ones. It was from Tooting Library which is just a few minutes walk away from home.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/autumn-colour.html) in last weeks challenge, “[Autumn Colours](http://www.photofriday.com/linkviewer.php?id=1442).” I’m entry number 86.
+Please also vote for [my entry](/photography/photofriday/autumn-colour.html) in last weeks challenge, “[Autumn Colours](http://www.photofriday.com/linkviewer.php?id=1442).” I’m entry number 86.

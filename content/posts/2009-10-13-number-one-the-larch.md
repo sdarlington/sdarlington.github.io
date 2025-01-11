@@ -17,4 +17,4 @@ tags:
     - tree
 ---
 
-Okay, I tell a lie. It’s not a larch. This is a shot I took on my recent trip to the [Parque Natural Sierras De Tejeda](http://www.zx81.org.uk/travel/andalucia-spain.html). I didn’t think this fitted in with any of the individual blogs I did but I really like this image and wanted to show it off a little!
+Okay, I tell a lie. It’s not a larch. This is a shot I took on my recent trip to the [Parque Natural Sierras De Tejeda](/travel/andalucia-spain.html). I didn’t think this fitted in with any of the individual blogs I did but I really like this image and wanted to show it off a little!

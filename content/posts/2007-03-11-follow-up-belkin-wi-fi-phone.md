@@ -18,7 +18,7 @@ tags:
     - wifi
 ---
 
-Back in November I [wrote about my then-new Belkin Wi-Fi Phone for Skype](http://www.zx81.org.uk/computing/opinion/review-belkin-wi-fi-phone.html "My Skype phone review"). At the time I was fairly pleased with the concept but less so with the actual implementation.
+Back in November I [wrote about my then-new Belkin Wi-Fi Phone for Skype](/computing/opinion/review-belkin-wi-fi-phone.html "My Skype phone review"). At the time I was fairly pleased with the concept but less so with the actual implementation.
 
 The phone’s hardware was fine. The unit as a whole was reasonably solid. The buttons were a bit wobbly and the screen was smaller than you might initially think, but there was nothing to complain about too much.
 

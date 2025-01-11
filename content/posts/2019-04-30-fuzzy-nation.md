@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-After reading quite a few non-fiction books I decided that this time I would pick a novel. Having read “[Red Shirts](https://www.zx81.org.uk/blog/reading-2017.html)” a couple of years ago, I randomly selected another John Scalzi book, “[Fuzzy Nation](https://amzn.to/2XQVKoN).”
+After reading quite a few non-fiction books I decided that this time I would pick a novel. Having read “[Red Shirts](/blog/reading-2017.html)” a couple of years ago, I randomly selected another John Scalzi book, “[Fuzzy Nation](https://amzn.to/2XQVKoN).”
 
 The history of this is a little unusual: it’s not an entirely original story. It’s based on an older story by H. Beam Piper called “Little Fuzzy.” (“Think of this as a ‘reboot’ of the Fuzzy universe, not unlike the recent J. J. Abrams ‘reboot’ of the *Star Trek* film series (but hopefully with better science.)”) Not having read that, I can’t compare but I did enjoy this one.
 

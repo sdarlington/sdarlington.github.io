@@ -18,4 +18,4 @@ tags:
 
 For this weeks PhotoFriday, “[My Favourite Spot](http://www.photofriday.com/archives/challenge/000894.php),” you could interpret my picture in one of two ways. Firstly as “with friends and family.” The second would be “with a glass of beer in my hand.” I picked this one just to be contrary, as most of the other entries appear to be sunsets!
 
-I’m running a bit late this week, but if there’s still time then please also vote for [my entry in last weeks challenge, “](http://www.zx81.org.uk/photography/photofriday/eyes.html)[Eyes](http://www.photofriday.com/linkviewer.php?id=892).” I’m entry number 66.
+I’m running a bit late this week, but if there’s still time then please also vote for [my entry in last weeks challenge, “](/photography/photofriday/eyes.html)[Eyes](http://www.photofriday.com/linkviewer.php?id=892).” I’m entry number 66.

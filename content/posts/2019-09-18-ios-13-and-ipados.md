@@ -15,7 +15,7 @@ tags:
     - iphone
 ---
 
-As I [normally do](https://www.zx81.org.uk/computing/opinion/ios-12.html) at this time of year, here are a few thoughts about Apple’s new mobile operating system. However, this year has been different in a few ways.
+As I [normally do](/computing/opinion/ios-12.html) at this time of year, here are a few thoughts about Apple’s new mobile operating system. However, this year has been different in a few ways.
 
 Betas are, well, betas. You don’t use them on devices that you actually need<sup>[1](#fn1-21814 "see footnote")</sup>. My normal pattern is put them on my iPad around the start of August. This is often the third or forth beta. Most of the worst glitches have been resolved by this point. Then, depending on how it goes on the iPad, I’ll probably put it on my phone towards the end of August, earlier if everything is going well.
 

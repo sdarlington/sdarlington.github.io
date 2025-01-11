@@ -24,7 +24,7 @@ tags:
 
 Last year Yahoo! announced, with no notice, a significant change that had far reaching consequences for all third party applications including my iPhone program, Yummy. This is the third in a series of posts that discusses how I dealt with it.
 
-[On Monday](http://www.zx81.org.uk/computing/opinion/delicious-debrief.html) I gave an overview of the problem, [Tuesday](http://www.zx81.org.uk/computing/opinion/delicious-debrief-2.html) I looked at how those changes were announced and why they were tricky, and [yesterday](http://www.zx81.org.uk/computing/opinion/delicious-debrief-3.html) I looked at how I actually implemented those technical details.
+[On Monday](/computing/opinion/delicious-debrief.html) I gave an overview of the problem, [Tuesday](/computing/opinion/delicious-debrief-2.html) I looked at how those changes were announced and why they were tricky, and [yesterday](/computing/opinion/delicious-debrief-3.html) I looked at how I actually implemented those technical details.
 
 After the low level technical stuff there was still a lot of work making it useful. That’s what I’d like to talk about today.
 
@@ -74,7 +74,7 @@ I mention this not because it was impossible to solve — indeed it was not spec
 
 ### Coming tomorrow
 
-With most of the hard work finished I just had to [make sure it really worked](http://www.zx81.org.uk/computing/opinion/delicious-debrief-5.html), and then sit back and analyse what went wrong.
+With most of the hard work finished I just had to [make sure it really worked](/computing/opinion/delicious-debrief-5.html), and then sit back and analyse what went wrong.
 [^1]: Don’t worry, I wasn’t looking at what password you were typing.
 [^2]: We’re using an iPhone here so we can assume that the user is not using Internet Explorer.
 [^3]: I’ve got this working in the development version of Yummy now. I’m still not sure where the problem was.

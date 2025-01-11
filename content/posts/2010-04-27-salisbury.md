@@ -28,7 +28,7 @@ After picking up the hire car and driving out of London, I realised that I was a
 
 One of the bizarre things about Stone Henge is that it’s right next to the A303, a major road. (In fact last time I was here I just drove past in the car and never progressed into the visitors centre!) There have been suggestions that the road should be moved *under* the monument but, given the proximity, wandering around was remarkably quiet.
 
-It’s an impressive sight. Like [Giza’s pyramids](http://www.zx81.org.uk/travel/egypt-cairo.html), even today it would be a reasonable engineering task to build but it’s almost unimaginable how they achieved it thousands of years ago.
+It’s an impressive sight. Like [Giza’s pyramids](/travel/egypt-cairo.html), even today it would be a reasonable engineering task to build but it’s almost unimaginable how they achieved it thousands of years ago.
 
 As has been noted many times before, the location has a certain atmosphere that’s difficult to put into words. It must have been a magical place, at least in times where people believed in magic!
 

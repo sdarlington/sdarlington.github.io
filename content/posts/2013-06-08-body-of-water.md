@@ -19,4 +19,4 @@ tags:
 
 [![Yacht on Lake Tahoe](https://i0.wp.com/farm7.staticflickr.com/6009/5985284733_e028384dd4.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5985284733/ "Yacht on Lake Tahoe by stephendarlington, on Flickr")
 
-It’s been a while since I’ve entered the PhotoFriday challenge, but I liked this weeks theme — “[Body of Water](http://www.photofriday.com/challenge.php?id=1296)” — and thought I had a good image for it. This was taken a couple of years ago in [Lake Tahoe](http://www.zx81.org.uk/travel/lake-tahoe.html "Lake Tahoe"), California.
+It’s been a while since I’ve entered the PhotoFriday challenge, but I liked this weeks theme — “[Body of Water](http://www.photofriday.com/challenge.php?id=1296)” — and thought I had a good image for it. This was taken a couple of years ago in [Lake Tahoe](/travel/lake-tahoe.html "Lake Tahoe"), California.

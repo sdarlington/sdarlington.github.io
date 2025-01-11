@@ -17,7 +17,7 @@ tags:
 
 I’m starting to sound like a grumpy old man. (Those that know me should stop nodding their heads and agreeing now, please.) This is another “things were better in my day” post.
 
-As I [previously mentioned](http://www.zx81.org.uk/links/it-grads-damn-university-courses.html), both graduates and companies are complaining that university courses are not vocational enough. I personally dispute that. However I am generally in agreement with Joel Spolsky when he says that “Java is not, generally, a hard enough programming language that it can be used to discriminate between great programmers and mediocre programmers.”
+As I [previously mentioned](/links/it-grads-damn-university-courses.html), both graduates and companies are complaining that university courses are not vocational enough. I personally dispute that. However I am generally in agreement with Joel Spolsky when he says that “Java is not, generally, a hard enough programming language that it can be used to discriminate between great programmers and mediocre programmers.”
 
 [Joel on Software: The Perils of JavaSchools](http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html)
 

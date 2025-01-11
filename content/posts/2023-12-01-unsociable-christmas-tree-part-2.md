@@ -14,7 +14,7 @@ tags:
     - 'raspberry pi'
 ---
 
-[Back in 2020](https://www.zx81.org.uk/computing/unsociable-christmas-tree.html)<span style="font-size: revert; font-weight: 400;"> I talked about my </span>[Raspberry Pi powered Christmas Tree](https://github.com/modmypi/Programmable-Xmas-Tree/)<span style="font-size: revert; font-weight: 400;">. Today’s blog delves into what I’ve done this year.</span>
+[Back in 2020](/computing/unsociable-christmas-tree.html)<span style="font-size: revert; font-weight: 400;"> I talked about my </span>[Raspberry Pi powered Christmas Tree](https://github.com/modmypi/Programmable-Xmas-Tree/)<span style="font-size: revert; font-weight: 400;">. Today’s blog delves into what I’ve done this year.</span>
 
 Previously, I decided that setting up a web server on which family members could change the light patterns on the tree was too boring. At the time, I was thinking of extending the sample Python code – much as I did with the OpenCV frontend – with a simple Python-based web server.
 

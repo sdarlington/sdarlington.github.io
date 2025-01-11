@@ -520,7 +520,7 @@ With this HOWTO, and a little luck, you will be able to get “Oracle 8i Enterpr
 - “Oracle Design,” Dave Ensor and Ian Stevenson, O’Reilly and Associates, ISBN 1-56592-268-9.
 - “PL/SQL Programming,” Steven Feuerstein, O’Reilly and Associates, ISBN 1-56592-335-9.
 - “PL/SQL Built-in Packages,” Steven Feuerstein, O’Reilly and Associates, ISBN 1-56592-375-8.
- You’ll find some more [book recommendations and reviews on my web site](http://www.zx81.org.uk/computing/opinion/).
+ You’ll find some more [book recommendations and reviews on my web site](/computing/opinion/).
 
 ### 6.3. Useful Internet resources
 

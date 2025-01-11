@@ -31,6 +31,6 @@ Overall this is the best of the two books seen so far. The quality is at least a
 
 See:
 
-- [Part 1](http://www.zx81.org.uk/photography/photo-book-group-test-part-1.html)
-- [Part 2](http://www.zx81.org.uk/photography/photo-book-group-test-part-2.html)
-- [Part 4](http://www.zx81.org.uk/photography/photo-book-group-test-part-4.html)
+- [Part 1](/photography/photo-book-group-test-part-1.html)
+- [Part 2](/photography/photo-book-group-test-part-2.html)
+- [Part 4](/photography/photo-book-group-test-part-4.html)

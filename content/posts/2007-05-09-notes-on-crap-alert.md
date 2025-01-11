@@ -22,7 +22,7 @@ tags:
     - uk
 ---
 
-I enjoyed writing my [CRAP Alert](http://www.zx81.org.uk/blog/crap-alert.html) post yesterday. Very cathartic. But there are some serious points in it and while I might be overstating the case when I spell them out here, I think it’s worth doing just to be clear.
+I enjoyed writing my [CRAP Alert](/blog/crap-alert.html) post yesterday. Very cathartic. But there are some serious points in it and while I might be overstating the case when I spell them out here, I think it’s worth doing just to be clear.
 
 The truth is I genuinely do support the right of people to publish this kind of information. I am against pretty much all forms of censorship and am very much in favour of giving people good information so that they can make an informed decision themselves.
 

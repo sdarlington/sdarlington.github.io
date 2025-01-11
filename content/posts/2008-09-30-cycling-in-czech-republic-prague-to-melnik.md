@@ -47,4 +47,4 @@ I then return to the river and continue until the turning for Melnik. Here I fin
 
 From here is was a straight-forward roll straight into Melnik, or at least the outskirts of Melnik where the hotel was. Tomorrow I have a look around the town itself and head on towards Litoměřic.
 
-*This is the second of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the second of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*

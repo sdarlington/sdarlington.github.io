@@ -29,7 +29,7 @@ I know that this isn’t supposed to be showing a spanking bear but can you tell
 
 Not all Japanese food is funny or weird, though. In a sense, one of the defining qualities of Japanese food, like French food, is the care and attention that goes into it, both in terms of the combination of flavours and in the presentation.
 
-While I was in [Matsumoto](http://www.zx81.org.uk/travel/japan-matsumoto.html), there was a large and well attended festival all about soba, a type of noodle. It’s fascinating to see this kind of thing anyway, but it was raining and otherwise miserable, so where else was I going to go of a Saturday morning?
+While I was in [Matsumoto](/travel/japan-matsumoto.html), there was a large and well attended festival all about soba, a type of noodle. It’s fascinating to see this kind of thing anyway, but it was raining and otherwise miserable, so where else was I going to go of a Saturday morning?
 
 One of the cool things was the demonstrations of how the noodles were made.
 

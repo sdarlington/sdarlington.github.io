@@ -22,5 +22,5 @@ tags:
 
 Wishing you and your family happiness and peace, turkey[^1] and chocolate this festive season, whatever your faith or lack thereof.
 
-The above image, by the way, was taken in [Reykjavik, Iceland](http://www.zx81.org.uk/travel/iceland.html) a couple of days before Christmas 2006.
+The above image, by the way, was taken in [Reykjavik, Iceland](/travel/iceland.html) a couple of days before Christmas 2006.
 [^1]: Or spicy pancake if that’s your preference.

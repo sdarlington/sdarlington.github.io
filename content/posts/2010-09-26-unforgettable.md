@@ -21,4 +21,4 @@ tags:
 
 People are still laying flowers and postcards near where John Lennon died nearly thirty years after his death, so I think this qualifies as being “[Unforgettable](http://www.photofriday.com/archives/challenge/001018.php),” which is this weeks PhotoFriday challenge.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/reflect.html) in last weeks challenge, “[Reflect](http://www.photofriday.com/linkviewer.php?id=1016).” I’m entry number 257.
+Please also vote for [my entry](/photography/photofriday/reflect.html) in last weeks challenge, “[Reflect](http://www.photofriday.com/linkviewer.php?id=1016).” I’m entry number 257.

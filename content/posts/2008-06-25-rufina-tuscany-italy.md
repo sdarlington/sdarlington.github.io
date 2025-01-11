@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-A few days ago when I drive to [Poppi](http://www.zx81.org.uk/travel/poppi-tuscany-italy.html) I saw signs for Rufina and Borgo San Lorenzo. Today I decided to head for the latter and stop off in the former.
+A few days ago when I drive to [Poppi](/travel/poppi-tuscany-italy.html) I saw signs for Rufina and Borgo San Lorenzo. Today I decided to head for the latter and stop off in the former.
 
 First stop was the [Vine and Wine Museum](http://vivifirenze.info/cgi-bin/news/gi_pub3_det_lun.cgi?id=529&sezione=leisure), which I found at the end of this long row of tall trees.
 

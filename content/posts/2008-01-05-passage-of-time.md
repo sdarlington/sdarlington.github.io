@@ -21,6 +21,6 @@ tags:
 
 This weeks PhotoFriday theme is “[Passage of Time](http://www.photofriday.com/archives/challenge/000733.php).” This is my entry.
 
-The varying colours and textures of these sandstone cliffs in [Petra, Jordan](http://www.zx81.org.uk/travel/jordan-petra.html) show the *passage of time* on a geological scale.
+The varying colours and textures of these sandstone cliffs in [Petra, Jordan](/travel/jordan-petra.html) show the *passage of time* on a geological scale.
 
 Please also vote for my entry in last weeks challenge, “[Best of 2007](http://www.photofriday.com/linkviewer.php?id=730).” I’m entry number 272.

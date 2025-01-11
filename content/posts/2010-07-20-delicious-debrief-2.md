@@ -24,7 +24,7 @@ tags:
 
 Last year Yahoo! announced, with no notice, a significant change that had far reaching consequences for all third party applications including my iPhone program, Yummy. This is the second in a series of posts that discusses how I dealt with it.
 
-[Yesterday](http://www.zx81.org.uk/computing/opinion/delicious-debrief-part-15.html) I spoke at a high level about my iPhone application and some changes that Yahoo! made to their side of the system. Today I’d like to talk in a little more detail about how those changes were announced and why they were tricky.
+[Yesterday](/computing/opinion/delicious-debrief-part-15.html) I spoke at a high level about my iPhone application and some changes that Yahoo! made to their side of the system. Today I’d like to talk in a little more detail about how those changes were announced and why they were tricky.
 
 ### The announcement
 
@@ -68,5 +68,5 @@ Of course, writing the code yourself would be the hard option. For a standard su
 
 ### Next…
 
-Tomorrow [I’ll talk about those Open Source libraries](http://www.zx81.org.uk/computing/opinion/delicious-debrief-3.html) and what I ended up using.
+Tomorrow [I’ll talk about those Open Source libraries](/computing/opinion/delicious-debrief-3.html) and what I ended up using.
 [^1]: The iPhone OS does allow applications to include an embedded web browser, indeed Yummy already has one to allow users to preview their bookmarks. However, the OAuth specification recommends against this approach for authentication. The idea is that you should only trust Yahoo! with your username and password and that entering them into a third-party application might break that trust. An early version of the change did include an embedded browser and I may yet revert back to that version.

@@ -11,13 +11,13 @@ categories:
     - Blog
 ---
 
-The first stage of [building a dancing, obstacle avoiding robot](https://www.zx81.org.uk/blog/new-project-otto.html) was to [build the body and legs using my 3D printer](https://www.zx81.org.uk/blog/otto-printing.html). The second was to test the electronics before assembly. This would prove to be more eventful than the printing.
+The first stage of [building a dancing, obstacle avoiding robot](/blog/new-project-otto.html) was to [build the body and legs using my 3D printer](/blog/otto-printing.html). The second was to test the electronics before assembly. This would prove to be more eventful than the printing.
 
 I was least sure about all the electronics. They components arrived and… they sure looked okay. I didn’t think the buzzer looked quite right — it looked too big, but I figured that it even if a little lose it should make something approaching a buzzing noise.
 
 The computer itself arrived poorly packaged, with a bunch of the pins bent. I managed to right them without breaking anything.
 
-<figure aria-describedby="caption-attachment-4620" class="wp-caption alignleft" id="attachment_4620" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/03/IMG_4012.jpg?resize=300%2C225&ssl=1)](https://www.zx81.org.uk/?attachment_id=4620)<figcaption class="wp-caption-text" id="caption-attachment-4620">Arduino Nano, IO Shield, obstacle detection (eyes), motors</figcaption></figure>
+<figure aria-describedby="caption-attachment-4620" class="wp-caption alignleft" id="attachment_4620" style="width: 300px">[![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/03/IMG_4012.jpg?resize=300%2C225&ssl=1)](/?attachment_id=4620)<figcaption class="wp-caption-text" id="caption-attachment-4620">Arduino Nano, IO Shield, obstacle detection (eyes), motors</figcaption></figure>
 
 And talking of breaking things: I plugged in the Arduino and… nothing. Eventually I realised that I needed to install a Serial-USB device driver. The Otto download came with a CH341 (as it’s creatively called) driver so I installed it, rebooted and… well, when you see text scrolling up the screen when you boot your Mac, *either* you accidentally jabbed command-V *or* something bad is happening. In this case, the latter.
 

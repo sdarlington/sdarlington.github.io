@@ -17,6 +17,6 @@ tags:
     - h2g2
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 As I type this I am wearing a t-shirt with the slogan “Don’t Panic” on it. [Douglas Adams](https://amzn.to/3XTtLH9) \[affiliate link\] was always going to make a “best of” list from me. Might as well get it out of the way at the start. The combination of science fiction, satire, and the quality of the writing just works for me. I am one of those people who is forever quoting the books. Sorry, not sorry.

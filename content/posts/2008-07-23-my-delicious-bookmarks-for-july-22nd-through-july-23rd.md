@@ -22,6 +22,6 @@ tags:
     - web
 ---
 
-- [WordPress for iPhone](http://www.zx81.org.uk/computing/opinion/wordpress-for-iphone.html) – It turns out that my recent review of WordPress for iPhone was the four-hundredth post on ZX81.org.uk. Time for a small celebration!
+- [WordPress for iPhone](/computing/opinion/wordpress-for-iphone.html) – It turns out that my recent review of WordPress for iPhone was the four-hundredth post on ZX81.org.uk. Time for a small celebration!
 - [Font Conference](http://www.collegehumor.com/video:1823766) – Typeface adventures…
 - [Simon Pegg's Geek Roots Show in Spaced](http://blog.wired.com/underwire/2008/07/simon-peggs-gee.html) – I'm no longer a twenty-something, but I still love Spaced. Now available in the US.

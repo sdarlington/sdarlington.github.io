@@ -20,4 +20,4 @@ tags:
 
 In fact this isn’t the first “[Cameraphone Shot](http://www.photofriday.com/archives/challenge/000899.php)” that I’ve entered as an entry to PhotoFriday. This shot isn’t perfect but I think it makes good use of the available light. It kind of goes back to the old adage that the best camera is the one that you have with you. I could have done better with my 50D but that was at home.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/in-shadow.html) in last weeks challenge, “[In Shadow](http://www.photofriday.com/linkviewer.php?id=897).” I’m entry number 210.
+Please also vote for [my entry](/photography/photofriday/in-shadow.html) in last weeks challenge, “[In Shadow](http://www.photofriday.com/linkviewer.php?id=897).” I’m entry number 210.

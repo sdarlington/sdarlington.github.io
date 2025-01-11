@@ -17,7 +17,7 @@ tags:
     - review
 ---
 
-[Since I wrote about iTunes Match nearly eighteen months ago](http://www.zx81.org.uk/computing/opinion/itunes-match.html "http://www.zx81.org.uk/computing/opinion/itunes-match.html") I thought it was worth revisiting and seeing how things have changed in that time.
+[Since I wrote about iTunes Match nearly eighteen months ago](/computing/opinion/itunes-match.html "/computing/opinion/itunes-match.html") I thought it was worth revisiting and seeing how things have changed in that time.
 
 Oddly, the short answer is “not very much.”
 

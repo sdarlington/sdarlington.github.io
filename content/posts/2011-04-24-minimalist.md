@@ -26,4 +26,4 @@ tags:
 
 I don’t think this is my strongest ever entry to a PhotoFriday challenge, but I do think that this old typewriter fits the theme of “[Minimalist](http://www.photofriday.com/archives/challenge/001077.php).” I am mainly referring to the minimalism of the picture itself, the almost monochrome look and the simplicity of it all. But you could also consider that by using a typewriter rather than a word processor you’d be keeping things simple and minimalist.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/lines.html) in last weeks challenge, “[Lines](http://www.photofriday.com/linkviewer.php?id=1075).” I’m entry number 268.
+Please also vote for [my entry](/photography/photofriday/lines.html) in last weeks challenge, “[Lines](http://www.photofriday.com/linkviewer.php?id=1075).” I’m entry number 268.

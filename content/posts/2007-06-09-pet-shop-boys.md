@@ -41,5 +41,5 @@ Anyway, back to the gig. I would never have remembered the set list unaided, but
 
 <div style="position:relative;">[![](https://i0.wp.com/ax.phobos.apple.com.edgesuite.net/images/spacer.gif?resize=60%2C60)](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=257628898&s=143444&v0=575)[![](https://i0.wp.com/ax.phobos.apple.com.edgesuite.net/images/spacer.gif?resize=335%2C20)](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=257628898&s=143444&v0=575)[![](https://i0.wp.com/ax.phobos.apple.com.edgesuite.net/images/spacer.gif?resize=175%2C20)](itms://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/publishedPlayListHelp?v0=575)</div>
 [^1]: Something that I’ve noticed is that pretty much all of my closest friends are passionate about music. Not necessarily the same kind of thing as me, but they’re all above your typical couple of dozen CDs.
-[^2]: Such are the perils of being [INTP](http://www.zx81.org.uk/about/about-me/ "Personality profiles").
+[^2]: Such are the perils of being [INTP](/about/about-me/ "Personality profiles").
 [^3]: Unfortunately the list isn’t entirely complete. iTunes didn’t have all the tracks in the same format I have, even though I decided against including the original Bobby Orlando version of “West End Girls”!

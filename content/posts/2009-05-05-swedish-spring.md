@@ -19,4 +19,4 @@ tags:
 
 <figure aria-describedby="caption-attachment-1353" class="wp-caption aligncenter" id="attachment_1353" style="width: 500px">![Swedish Spring](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/04/swedish-spring.jpg?resize=500%2C333 "Swedish Spring")<figcaption class="wp-caption-text" id="caption-attachment-1353">Swedish Spring</figcaption></figure>
 
-There are a few pictures that I took when I was in [Stockholm](http://www.zx81.org.uk/travel/stockholm-sweden.html) that I didn’t include in that blog because they’re not really *of* Sweden even though that’s exactly where they were taken. This is the first of, well, a few. I think it nicely conjures up thoughts of spring and the coming of summer.
+There are a few pictures that I took when I was in [Stockholm](/travel/stockholm-sweden.html) that I didn’t include in that blog because they’re not really *of* Sweden even though that’s exactly where they were taken. This is the first of, well, a few. I think it nicely conjures up thoughts of spring and the coming of summer.

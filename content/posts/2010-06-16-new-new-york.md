@@ -20,13 +20,13 @@ tags:
 
 [!["City of New York" drain cover](https://i0.wp.com/farm5.staticflickr.com/4099/4872223660_355d42a61c.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872223660/ ""City of New York" drain cover by stephendarlington, on Flickr")
 
-[Last time I went to New York](http://www.zx81.org.uk/travel/new-york-2006.html) I wrote a reasonable amount about it so I’m not sure that I have much to add this time. Instead I’ll mainly just let the pictures do the talking.
+[Last time I went to New York](/travel/new-york-2006.html) I wrote a reasonable amount about it so I’m not sure that I have much to add this time. Instead I’ll mainly just let the pictures do the talking.
 
 The hotel I was staying in was not far from Times Square, so I passed through on a number of occasions. It’s always busy, especially early evening when this image was taken[^1].
 
 [![Times Square at night](https://i0.wp.com/farm5.staticflickr.com/4095/4872224692_8d2bd30e19.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872224692/ "Times Square at night by stephendarlington, on Flickr")
 
-I always wonder about the artists who paint pictures and caricatures of passing tourists (I saw exactly the same thing in [Montmartre](http://www.zx81.org.uk/travel/paris-part-deux.html) the previous week). On the one hand they’re making a living from their art, something that probably most artists are unable to do. Yet I’m sure it’s not what they set out to do.
+I always wonder about the artists who paint pictures and caricatures of passing tourists (I saw exactly the same thing in [Montmartre](/travel/paris-part-deux.html) the previous week). On the one hand they’re making a living from their art, something that probably most artists are unable to do. Yet I’m sure it’s not what they set out to do.
 
 [![Caricature artist, Times Square](https://i0.wp.com/farm5.staticflickr.com/4139/4872225234_83f8452697.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872225234/ "Caricature artist, Times Square by stephendarlington, on Flickr")
 

@@ -24,7 +24,7 @@ tags:
 
 Last year Yahoo! announced, with no notice, a significant change that had far reaching consequences for all third party applications including my iPhone program, Yummy. This is the third in a series of posts that discusses how I dealt with it.
 
-We’ve already talked about most of the work, starting with an [overview](http://www.zx81.org.uk/computing/opinion/delicious-debrief.html), [the announcement, the low level technical challenges](http://www.zx81.org.uk/computing/opinion/delicious-debrief-2.html) and the implementation ([technical](http://www.zx81.org.uk/computing/opinion/delicious-debrief-3.html) and [UI](http://www.zx81.org.uk/computing/opinion/delicious-debrief-4.html)). All that remains it to launch it, and that’s what we’re going to talk about today.
+We’ve already talked about most of the work, starting with an [overview](/computing/opinion/delicious-debrief.html), [the announcement, the low level technical challenges](/computing/opinion/delicious-debrief-2.html) and the implementation ([technical](/computing/opinion/delicious-debrief-3.html) and [UI](/computing/opinion/delicious-debrief-4.html)). All that remains it to launch it, and that’s what we’re going to talk about today.
 
 ### Availability
 

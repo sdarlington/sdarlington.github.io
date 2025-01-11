@@ -34,7 +34,7 @@ The other reason is more fundamental: even in summer, they’re moths and not bu
 
 [![Locked monastery](https://i0.wp.com/farm6.static.flickr.com/5188/5632215463_91b08b4f31.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5632215463/ "Locked monastery by stephendarlington, on Flickr")
 
-But despite the lack of the animal that gave the place its (English language) name, it was still a pleasant walk. It wasn’t completely “back to nature.” There were maintained paths and bridges, making it more like [Muir Woods](http://www.zx81.org.uk/travel/muir-woods.html) than the [Peak District](http://www.zx81.org.uk/photography/photofriday/the-country.html).
+But despite the lack of the animal that gave the place its (English language) name, it was still a pleasant walk. It wasn’t completely “back to nature.” There were maintained paths and bridges, making it more like [Muir Woods](/travel/muir-woods.html) than the [Peak District](/photography/photofriday/the-country.html).
 
 I followed the path all the way to the end, where I found another empty ticket gate. Just after that were (closed) stalls where a little later in the year lunch could be purchased. And just beyond, I saw on a map, was a monastery. However, as I got to the top of the hill I realised that the gate to it was closed. I had no choice but to return the way I had come, back to the car park.
 
@@ -42,7 +42,7 @@ I followed the path all the way to the end, where I found another empty ticket g
 
 Next stop was “[Ancient Kamiros](http://www.rhodesguide.com/travelguide/rhodes_monuments.php?ssp=9),” a well preserved 5C BC town. It was surprisingly large and the walls were very well preserved. As an added bonus, there were great views over the sea which was just a short distance away.
 
-Like the acropolis in [Lindos](http://www.zx81.org.uk/travel/lindos-and-rhodes-east-coast-greece.html), Kamiros closed shortly after I arrived. But I got lucky again and had seen pretty much everything I wanted to see before I was thrown out.
+Like the acropolis in [Lindos](/travel/lindos-and-rhodes-east-coast-greece.html), Kamiros closed shortly after I arrived. But I got lucky again and had seen pretty much everything I wanted to see before I was thrown out.
 
 By this time it was getting quite late and I was pretty hungry, so before continuing down the coast I stopped at a water-side restaurant. They claim to have been open for several decades so I assumed that they can’t have given *too* many people upset stomachs!
 

@@ -18,6 +18,6 @@ tags:
 
 My first thought for this weeks PhotoFriday theme, “[Extreme Closeup](http://www.photofriday.com/archives/challenge/000862.php),” was [Wayne’s World](http://uk.imdb.com/title/tt0105793/). (Party on, reader.)
 
-Indeed, so ingrained in my memory is that phrase and that film, so was the second thing. It took me a while to think of anything else. In the end I decided on a close-up of an eye. I tried to do my own with a tripod and the remote control software on my Mac (never thought I’d use the “live view” on [my 50D](http://www.zx81.org.uk/photography/canon-eos-50d.html) but it seems that it has its uses) but that didn’t work out so well. So this is an extreme close-up of [B](http://www.brandarling.com/)‘s eye. Sorry for blinding you with the flash…
+Indeed, so ingrained in my memory is that phrase and that film, so was the second thing. It took me a while to think of anything else. In the end I decided on a close-up of an eye. I tried to do my own with a tripod and the remote control software on my Mac (never thought I’d use the “live view” on [my 50D](/photography/canon-eos-50d.html) but it seems that it has its uses) but that didn’t work out so well. So this is an extreme close-up of [B](http://www.brandarling.com/)‘s eye. Sorry for blinding you with the flash…
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/edible.html) in last weeks challenge, “[Edible](http://www.photofriday.com/linkviewer.php?id=860).” I’m number 213.
+Please also vote for [my entry](/photography/photofriday/edible.html) in last weeks challenge, “[Edible](http://www.photofriday.com/linkviewer.php?id=860).” I’m number 213.

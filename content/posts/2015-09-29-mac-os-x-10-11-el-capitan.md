@@ -11,7 +11,7 @@ categories:
     - Opinion
 ---
 
-I wrote a [few words about iOS 9](http://www.zx81.org.uk/computing/opinion/ios-9.html) when it came out, so I thought that I should also say something now that the new version of OS X is on the verge of release. As before, there are people who have [written many words](http://arstechnica.com/apple/2015/09/os-x-10-11-el-capitan-the-ars-technica-review/) about it as a formal review, so I’ll stick to my highlights. I have no intention of being the most complete or thorough here!
+I wrote a [few words about iOS 9](/computing/opinion/ios-9.html) when it came out, so I thought that I should also say something now that the new version of OS X is on the verge of release. As before, there are people who have [written many words](http://arstechnica.com/apple/2015/09/os-x-10-11-el-capitan-the-ars-technica-review/) about it as a formal review, so I’ll stick to my highlights. I have no intention of being the most complete or thorough here!
 
 Having said that, I *am* qualified to say a few words. I’ve been playing with El Cap since the first beta and have had it installed on my main Mac since the GM was first made available.
 

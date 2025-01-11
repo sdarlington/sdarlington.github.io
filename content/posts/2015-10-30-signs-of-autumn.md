@@ -21,4 +21,4 @@ format: image
 
 This weeks PhotoFriday challenge is “Signs of Autumn.” Here is my entry. It was taken in Windsor
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/skyline.html) in last weeks challenge, “[Skyline](http://www.photofriday.com/linkviewer.php?id=1549).” I’m entry number 57.
+Please also vote for [my entry](/photography/photofriday/skyline.html) in last weeks challenge, “[Skyline](http://www.photofriday.com/linkviewer.php?id=1549).” I’m entry number 57.

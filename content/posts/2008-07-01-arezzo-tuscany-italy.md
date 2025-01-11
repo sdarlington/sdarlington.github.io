@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-Walled cities are a Tuscan specialty. I’d been [to](http://www.zx81.org.uk/travel/san-gimignano-tuscany-italy.html) [a](http://www.zx81.org.uk/travel/monteriggioni-tuscany-italy.html) [few](http://www.zx81.org.uk/travel/lucca-tuscany-italy.html) in the last couple of weeks and, on paper, Arezzo looked to be another gem in the making.
+Walled cities are a Tuscan specialty. I’d been [to](/travel/san-gimignano-tuscany-italy.html) [a](/travel/monteriggioni-tuscany-italy.html) [few](/travel/lucca-tuscany-italy.html) in the last couple of weeks and, on paper, Arezzo looked to be another gem in the making.
 
 However shortly after arriving things did not look quite so promising. Although an old city, much of what you can see on first entering the city is dull, generic office buildings, including one company amusingly called “multiass.”
 

@@ -33,6 +33,6 @@ To that end I have [uploaded the text used in www.cut](http://www.getlocalizatio
 
 My guess is that I will need to change some of the text in the application itself. For example, one block looks like this: “%1$i character%2$@ remaining.” When viewed on the iPhone looks like either “100 characters remaining” or “1 character remaining” but I’m sure that form of pluralisation doesn’t work in most languages. Changing it is not a problem but I will need suggestions as to what the “generic” version should be. Or do I need two versions, one for singular and one for plural?
 
-So far I have only added [www.cut](http://www.zx81.org.uk/software/www-cut/) and I’m classifying it as an experiment, though if it works well I will likely use the same method for Yummy.
+So far I have only added [www.cut](/software/www-cut/) and I’m classifying it as an experiment, though if it works well I will likely use the same method for Yummy.
 
 Thanks for your help.

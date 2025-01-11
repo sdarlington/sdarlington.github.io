@@ -39,7 +39,7 @@ This *is* the centre of a major wine growing region and so, although still early
 
 Leaving the wine cellar into the bright sun light I headed out along the Elbe towards Litoměřice, stopping only for a quick lunch in Roudnice. Well, I say “quick” but by now we’re all familiar with the way that Czech restaurants work!
 
-Back on the bike, it only took an hour to reach Terezin, a former fortress turned [concentration camp](http://en.wikipedia.org/wiki/Concentration_camp_Theresienstadt) in the second world war. Every time I see something like this is affects me more than I expect, from [Anne Frank’s house ](http://www.annefrank.org/content.asp?pid=1&lid=2)in Amsterdam, to sites in [Vietnam](http://www.zx81.org.uk/travel/vietnam-2005.html) to this. The sheer clinical inhumanity is still almost unbelievable.
+Back on the bike, it only took an hour to reach Terezin, a former fortress turned [concentration camp](http://en.wikipedia.org/wiki/Concentration_camp_Theresienstadt) in the second world war. Every time I see something like this is affects me more than I expect, from [Anne Frank’s house ](http://www.annefrank.org/content.asp?pid=1&lid=2)in Amsterdam, to sites in [Vietnam](/travel/vietnam-2005.html) to this. The sheer clinical inhumanity is still almost unbelievable.
 
 [![Terezin Concentration Camp](https://i0.wp.com/farm8.staticflickr.com/7048/6782215418_0ebd5c58ee.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6782215418/ "Terezin Concentration Camp by stephendarlington, on Flickr")
 
@@ -49,4 +49,4 @@ Although Theresienstadt (as it’s called in German) was not an extermination ca
 
 In silent contemplation I press on to Litoměřice where I’ll spend the night. Tomorrow I’ll be having a look around before pressing on to Děčín.
 
-*This is the third of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the third of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*

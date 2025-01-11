@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-While there was a very long short-list of places to go, Vienna eventually won the coveted prize of being the destination of my [November trip](http://www.zx81.org.uk/blog/the-november-plan.html), 2009. Before I stepped onto the plane I confess that I have little idea what there is to see in Austria’s capital city. It certainly has a famous name but you can’t base an entire trip on an [Ultravox song](http://open.spotify.com/track/7AmdLtDBBMHWTvneMLm8Nj) and the teenage home of one of the least loved people from the twentieth century.
+While there was a very long short-list of places to go, Vienna eventually won the coveted prize of being the destination of my [November trip](/blog/the-november-plan.html), 2009. Before I stepped onto the plane I confess that I have little idea what there is to see in Austria’s capital city. It certainly has a famous name but you can’t base an entire trip on an [Ultravox song](http://open.spotify.com/track/7AmdLtDBBMHWTvneMLm8Nj) and the teenage home of one of the least loved people from the twentieth century.
 
 Having dropped my bags off at the hotel, I decided to just get the metro to the centre of town and see how things panned out. Public transport was pretty swift and efficient as far as I could tell.
 
@@ -54,6 +54,6 @@ There was a nice Darwin exhibition that managed to explain some pretty sophistic
 
 Continuing the theme of how easily amused I am, there was also an infrared camera. My camera looks really big from that angle!
 
-Overall Vienna was a great place to spend a long weekend and it’s relatively small which makes it very walkable. There’s lots of stuff to see both inside and out. If there’s one down-side it’s that they seem to hide their best food. My success rate at just stumbling across restaurants was not high, and getting anything more than a (very good) cake after lunch was more miss than hit. Not since Copenhagen has a [dinner been so lame](http://www.zx81.org.uk/travel/copenhagen-denmark.html). Next time I guess I should pay more attention to the guide book.
+Overall Vienna was a great place to spend a long weekend and it’s relatively small which makes it very walkable. There’s lots of stuff to see both inside and out. If there’s one down-side it’s that they seem to hide their best food. My success rate at just stumbling across restaurants was not high, and getting anything more than a (very good) cake after lunch was more miss than hit. Not since Copenhagen has a [dinner been so lame](/travel/copenhagen-denmark.html). Next time I guess I should pay more attention to the guide book.
 
 *If you have not had your fill of pictures, take a look at the [full Vienna set on Flickr](http://www.flickr.com/photos/stephendarlington/sets/72157622774881685/).*

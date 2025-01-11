@@ -17,7 +17,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 Many people in the computer industry don’t understand how we got here. Well, maybe not *here*. Due to the passage of time, it would be how we got to the mid-nineties.
 

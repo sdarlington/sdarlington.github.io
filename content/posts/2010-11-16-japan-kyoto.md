@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-Having “done” the [big city](http://www.zx81.org.uk/travel/japan-tokyo.html) and [the nature](http://www.zx81.org.uk/travel/japan-kamikochi.html), it was time to take in some culture. Kyoto and Nara are the “old” parts of Japan with many of the most beautiful and most famous temples. I didn’t see all of them but I did pretty well! The difference in character between them was fascinating.
+Having “done” the [big city](/travel/japan-tokyo.html) and [the nature](/travel/japan-kamikochi.html), it was time to take in some culture. Kyoto and Nara are the “old” parts of Japan with many of the most beautiful and most famous temples. I didn’t see all of them but I did pretty well! The difference in character between them was fascinating.
 
 Pretty much straight off the Shinkansen I headed to Kiyomizudera. This was, by far, the busiest and most crowded temple of the trip[^1]. Quite an odd atmosphere for a temple in any case.
 

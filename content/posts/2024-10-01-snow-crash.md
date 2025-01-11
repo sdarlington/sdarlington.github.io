@@ -15,7 +15,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 I’m not sure how much of backstory of [this](https://amzn.to/3BfbE5o) \[affiliate link\] book I understood when I first read it, but I enjoyed the ride so much that I ended up doing some research into parts of the story. This enhanced my appreciation of the book, since Stephenson had clearly done the same research!
 

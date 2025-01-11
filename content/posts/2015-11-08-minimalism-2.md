@@ -21,6 +21,6 @@ format: image
 
 A couple of days late, but this weeks PhotoFriday theme is “[Minimalism](http://www.photofriday.com/challenge.php?id=1553).” Here is my entry. It was take in Littlehampton earlier this year.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/signs-of-autumn.html) in last weeks challenge, “[Signs of Autumn](http://www.photofriday.com/linkviewer.php?id=1551).” I’m entry number 34.
+Please also vote for [my entry](/photography/photofriday/signs-of-autumn.html) in last weeks challenge, “[Signs of Autumn](http://www.photofriday.com/linkviewer.php?id=1551).” I’m entry number 34.
 
-(Incidentally, this isn’t the first time “Minimalism” has been a theme. My previous entry was [here](http://www.zx81.org.uk/photography/photofriday/minimalism.html).)
+(Incidentally, this isn’t the first time “Minimalism” has been a theme. My previous entry was [here](/photography/photofriday/minimalism.html).)

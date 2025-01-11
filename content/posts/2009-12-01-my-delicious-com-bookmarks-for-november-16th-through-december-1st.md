@@ -24,6 +24,6 @@ tags:
     - zx81
 ---
 
-- [The November Plan](http://www.zx81.org.uk/blog/the-november-plan.html) – Post now updated with my recent trip to Austria.
+- [The November Plan](/blog/the-november-plan.html) – Post now updated with my recent trip to Austria.
 - [Apple’s Mistake](http://paulgraham.com/apple.html) – "How much of the goodwill Apple once had with programmers have they lost over the App Store? A third? Half? And that's just so far. The App Store is an ongoing karma leak."
 - [The Daily Shoot](http://blog.duncandavidson.com/2009/11/the-daily-shoot.html) – A great idea to help people (myself included!) to take more pictures. I think a lot of us have the will, just not the time or inspiration. Time is hard but inspiration just got a little easier.

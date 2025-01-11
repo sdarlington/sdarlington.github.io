@@ -16,7 +16,7 @@ tags:
     - Travel
 ---
 
-I went to the north of [Spain](http://www.zx81.org.uk/travel/walking-in-andaluca-spain.html "Walking in Andalucía, Spain") twice in the early nineties and visited Barcelona for a day each time. I only remember bits and pieces — walking down the Ramblas and how weird the Gaudi cathedral was — and can’t find any pictures from either trip, so it made sense to make it the first city break of 2013 and the first time we’ve done something like this since the birth of Junior[^1]
+I went to the north of [Spain](/travel/walking-in-andaluca-spain.html "Walking in Andalucía, Spain") twice in the early nineties and visited Barcelona for a day each time. I only remember bits and pieces — walking down the Ramblas and how weird the Gaudi cathedral was — and can’t find any pictures from either trip, so it made sense to make it the first city break of 2013 and the first time we’ve done something like this since the birth of Junior[^1]
 
 [![Catalan Flag](https://i0.wp.com/farm8.staticflickr.com/7050/8689483818_f3893e8b18.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/8689483818/ "Catalan Flag by stephendarlington, on Flickr")
 

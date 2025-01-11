@@ -28,6 +28,6 @@ tags:
 
 [![Bottles of Port, Lisbon, Portugal](https://i0.wp.com/farm5.static.flickr.com/4084/5176395210_8f51099614.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5176395210/ "Bottles of Port, Lisbon, Portugal by stephendarlington, on Flickr")
 
-This weeks PhotoFriday challenge is “[Manufactured](http://www.photofriday.com/archives/challenge/001081.php).” These bottles, found in a shop in [Lisbon](http://www.zx81.org.uk/travel/lisbon-portugal.html), were certainly manufactured.
+This weeks PhotoFriday challenge is “[Manufactured](http://www.photofriday.com/archives/challenge/001081.php).” These bottles, found in a shop in [Lisbon](/travel/lisbon-portugal.html), were certainly manufactured.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/primary-colour.html) in last weeks challenge, “[Primary Colour](http://www.photofriday.com/linkviewer.php?id=1079).” I’m entry number 176.
+Please also vote for [my entry](/photography/photofriday/primary-colour.html) in last weeks challenge, “[Primary Colour](http://www.photofriday.com/linkviewer.php?id=1079).” I’m entry number 176.

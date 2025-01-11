@@ -27,6 +27,6 @@ tags:
 
 [![The meeting of the North American and the European tectonic plates at Thingvellir, Iceland](https://i0.wp.com/farm5.staticflickr.com/4102/4872212378_96f139140f.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872212378/ "The meeting of the North American and the European tectonic plates at Thingvellir, Iceland by stephendarlington, on Flickr")
 
-Even in December, with the fog, rain and setting sun, this view of the meeting of the European and North American tectonic plates in [Iceland](http://www.zx81.org.uk/travel/iceland.html) is pretty spectacular. Breathtaking you might say. And, for the sake of [this weeks PhotoFriday challenge](http://www.photofriday.com/archives/challenge/001057.php), that’s exactly what I’m saying.
+Even in December, with the fog, rain and setting sun, this view of the meeting of the European and North American tectonic plates in [Iceland](/travel/iceland.html) is pretty spectacular. Breathtaking you might say. And, for the sake of [this weeks PhotoFriday challenge](http://www.photofriday.com/archives/challenge/001057.php), that’s exactly what I’m saying.
 
 I didn’t make an entry in last weeks challenge so don’t feel obligated to vote for me!

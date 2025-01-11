@@ -33,4 +33,4 @@ Some of the hardest parts of the trekking were down to the weather. It had been 
 
 On the plus side, the streams were almost dry which made the many crossings significantly easier; staying dry would have been much harder back in April or May.
 
-Despite having enjoyed the walking, I did chicken out of the last day — an ascent of Cerro Lucero — in favour of a more thorough look around [Competa](http://www.zx81.org.uk/travel/canillas-de-albaida-spain.html) and some well-deserved relaxation. This was, after all, a holiday!
+Despite having enjoyed the walking, I did chicken out of the last day — an ascent of Cerro Lucero — in favour of a more thorough look around [Competa](/travel/canillas-de-albaida-spain.html) and some well-deserved relaxation. This was, after all, a holiday!

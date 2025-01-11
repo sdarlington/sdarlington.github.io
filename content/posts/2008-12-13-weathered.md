@@ -20,4 +20,4 @@ tags:
 
 Maybe I’m being a little mean to this camel handler from Wadi Rum in Jordan, but for the purposes of this PhotoFriday Challenge I am calling his face “[Weathered](http://www.photofriday.com/archives/challenge/000833.php).”
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/dusk.html) in last weeks challenge, “[Dusk](http://www.photofriday.com/linkviewer.php?id=831).” I’m entry number 128.
+Please also vote for [my entry](/photography/photofriday/dusk.html) in last weeks challenge, “[Dusk](http://www.photofriday.com/linkviewer.php?id=831).” I’m entry number 128.

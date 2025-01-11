@@ -14,7 +14,7 @@ You can get a measure of my life this year when when you realise two things: my 
 
 [![Perros-Guirec water front](https://i0.wp.com/farm8.staticflickr.com/7445/9250425896_39e2ef53d7.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/9250425896/ "Perros-Guirec water front by stephendarlington, on Flickr")
 
-As we did a few years ago in [Tuscany](http://www.zx81.org.uk/travel/tuscany-italy.html "Tuscany, Italy"), we hired a villa. Unlike last time — when we were a long way from anywhere — were a few minutes walk from the centre of the biggest coastal town in the area, called Perros-Guirec (or Perroz-Gireg in Breton).
+As we did a few years ago in [Tuscany](/travel/tuscany-italy.html "Tuscany, Italy"), we hired a villa. Unlike last time — when we were a long way from anywhere — were a few minutes walk from the centre of the biggest coastal town in the area, called Perros-Guirec (or Perroz-Gireg in Breton).
 
 Both were great in their own way but the flavour and focus of the trip changed because of the geography. Rather than the culture of Florence we had the beaches. They both had more than their fair share of pretty little towns nearby and attractive walks.
 
@@ -34,7 +34,7 @@ On the other side of the bay we stumbled across a beach near Trélévern which w
 
 [![Stone circles](https://i0.wp.com/farm8.staticflickr.com/7387/9247657467_d2b06d5bbe.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/9247657467/ "Stone circles by stephendarlington, on Flickr")
 
-Other than the beaches, the area is most famous for its Pink Granite rocks and a winding trail that passes along it, past some of the more attractive coastal towns. The trail is part of the GR34, one of the many long distance walking trails in France. (I did part of the GR20 when I was in [Corsica](http://www.zx81.org.uk/travel/corsica-lac-de-nino.html "Corsica: Lac de Nino").)
+Other than the beaches, the area is most famous for its Pink Granite rocks and a winding trail that passes along it, past some of the more attractive coastal towns. The trail is part of the GR34, one of the many long distance walking trails in France. (I did part of the GR20 when I was in [Corsica](/travel/corsica-lac-de-nino.html "Corsica: Lac de Nino").)
 
 [![Dilapidated farm building](https://i0.wp.com/farm4.staticflickr.com/3743/9247659703_bbef866517.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/9247659703/ "Dilapidated farm building by stephendarlington, on Flickr")
 

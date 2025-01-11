@@ -17,6 +17,6 @@ tags:
     - Travel
 ---
 
-The obvious part of this weeks PhotoFriday theme, “[…Is In The Details](http://www.photofriday.com/archives/challenge/000921.php),” is *details*. It calls for something close-up, imperfections and all. But there’s a missing part, typically “the devil,” so I thought it was appropriate that the above picture is a close-up of some tiles on a [church in Spain](http://www.zx81.org.uk/travel/canillas-de-albaida-spain.html). Hopefully that means that no dæmons are present.
+The obvious part of this weeks PhotoFriday theme, “[…Is In The Details](http://www.photofriday.com/archives/challenge/000921.php),” is *details*. It calls for something close-up, imperfections and all. But there’s a missing part, typically “the devil,” so I thought it was appropriate that the above picture is a close-up of some tiles on a [church in Spain](/travel/canillas-de-albaida-spain.html). Hopefully that means that no dæmons are present.
 
 Please also vote for my entry in last weeks challenge, “[Dawn](http://www.photofriday.com/linkviewer.php?id=919).” I’m entry number 74.

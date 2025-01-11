@@ -45,6 +45,6 @@ The Alhambra is every bit as spectacular as you’ve probably heard. The scale i
 
 It took all afternoon to wander around and as 6pm approached, the agreed taxi pick-up time, it became clear that there were likely bits that I’d missed but that I was too tired to try to find in any kind of hurry.
 
-Overall, it was a long, tiring, fun day. I slept on my way back to [Canillas de Albaida](http://www.zx81.org.uk/travel/canillas-de-albaida-spain.html), please with what I’d seen.
+Overall, it was a long, tiring, fun day. I slept on my way back to [Canillas de Albaida](/travel/canillas-de-albaida-spain.html), please with what I’d seen.
 [^1]: Why is it that I often end up setting my alarm earlier when on holiday that on a normal working week?
 [^2]: Just imagine the culture shock when I got back to London less than a week later.

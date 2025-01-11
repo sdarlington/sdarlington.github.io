@@ -15,4 +15,4 @@ tags:
 
 - <http://dilbert.com/strips/comic/2012-03-06/> – "Our lawyer has instructed me not to listen to your product idea." http://t.co/jDWArMa6
 - [http://www.etsy.com/listing/91617431/upcycled-apple-computer-pet-bed?ref=cat\_gallery\_10](http://www.etsy.com/listing/91617431/upcycled-apple-computer-pet-bed?ref=cat_gallery_10) – Heh, for @krider2010 and @shabba1973. “@CMoz: Niiiice http://t.co/Tm2wIvmT Cat &amp; mac lovers will love this!! :D”
-- [ZX81.org.uk – Photography, opinions and other random ramblings by Stephen Darlington](http://www.zx81.org.uk/) – I'm moving zx81.org.uk to a new server, so if things are a little glitchy there for a while, that's why.
+- [ZX81.org.uk – Photography, opinions and other random ramblings by Stephen Darlington](/) – I'm moving zx81.org.uk to a new server, so if things are a little glitchy there for a while, that's why.

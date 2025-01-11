@@ -17,7 +17,7 @@ tags:
     - Travel
 ---
 
-It was all part of the [November Plan](http://www.zx81.org.uk/blog/the-november-plan.html). Head out of the country for a weekend for no apparent reason, with little research beforehand and no expectations. It’s a great way to travel, even if to say that I planned it that way is an exaggeration.
+It was all part of the [November Plan](/blog/the-november-plan.html). Head out of the country for a weekend for no apparent reason, with little research beforehand and no expectations. It’s a great way to travel, even if to say that I planned it that way is an exaggeration.
 
 [![View over Lisbon, Portugal](https://i0.wp.com/farm5.staticflickr.com/4132/5175788563_2c8c183e2a.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5175788563/ "View over Lisbon, Portugal by stephendarlington, on Flickr")
 

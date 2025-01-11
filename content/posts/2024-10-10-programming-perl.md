@@ -16,9 +16,9 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
-Sometimes confused with the also excellent [Programming Pearls](https://www.zx81.org.uk/blog/programming-pearls-2.html), [Programming Perl](https://amzn.to/4dGsYOe) \[affiliate link\] is quite different. It’s big and well written and well structured. But a lot of books meet those criteria, so in what sense did it have an impact on me?
+Sometimes confused with the also excellent [Programming Pearls](/blog/programming-pearls-2.html), [Programming Perl](https://amzn.to/4dGsYOe) \[affiliate link\] is quite different. It’s big and well written and well structured. But a lot of books meet those criteria, so in what sense did it have an impact on me?
 
 It’s a technical book that proves that you don’t need to be dry and boring to get the message across. Being “professional” doesn’t mean being humourless.
 

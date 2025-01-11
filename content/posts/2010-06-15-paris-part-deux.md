@@ -22,9 +22,9 @@ tags:
 
 It’s been a while since I got back from Paris but things have been so hectic since then that I’ve not found the time to document my trip.
 
-The [last time I was in Paris as a tourist](http://www.zx81.org.uk/travel/paris-2006.html) I did most of the obvious stuff which meant that this time I was able to just hang out and wander around without any particular aim. That I also had great weather and some luck factored in to make a great weekend.
+The [last time I was in Paris as a tourist](/travel/paris-2006.html) I did most of the obvious stuff which meant that this time I was able to just hang out and wander around without any particular aim. That I also had great weather and some luck factored in to make a great weekend.
 
-I started by walking by the Seine, near Îlle de la Cité, not far from where I waited for my train when I was [in Paris a few weeks ago with work](http://www.zx81.org.uk/travel/travelling-with-work.html). While there I passed these roller-blading Policemen. Not something you see every day back at home.
+I started by walking by the Seine, near Îlle de la Cité, not far from where I waited for my train when I was [in Paris a few weeks ago with work](/travel/travelling-with-work.html). While there I passed these roller-blading Policemen. Not something you see every day back at home.
 
 [![Policemen rollerblading](https://i0.wp.com/farm5.staticflickr.com/4137/4872223252_9f0a0a84f8.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872223252/ "Policemen rollerblading by stephendarlington, on Flickr")
 

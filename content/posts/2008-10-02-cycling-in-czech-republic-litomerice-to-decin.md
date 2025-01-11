@@ -43,4 +43,4 @@ Děčín itself — my night stop — is not the prettiest town that I’ve stop
 
 Tomorrow I will cross over the Czech border into Germany, a fact reflected in the menus provided at dinner later. Despite taking German at school I have very little idea what I am likely to be served, something I again seem to share with the waiters.
 
-*This is the fourth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the fourth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*

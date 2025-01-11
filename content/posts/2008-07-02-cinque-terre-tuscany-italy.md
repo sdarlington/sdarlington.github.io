@@ -17,9 +17,9 @@ tags:
     - walking
 ---
 
-The Cinque Terre — a series of small, connected coastal villages — has been on my, admittedly rather long, list of places to visit for some time, but when I first flew out to [Tuscany](http://www.zx81.org.uk/travel/tuscany-italy.html) I didn’t quite know how achievable it would be. Sure, Google Maps said that it would be a two hour drive from the villa, but I wasn’t completely sure that I was using the right address and I have been late several times when relying on directions cribbed from the Internet.
+The Cinque Terre — a series of small, connected coastal villages — has been on my, admittedly rather long, list of places to visit for some time, but when I first flew out to [Tuscany](/travel/tuscany-italy.html) I didn’t quite know how achievable it would be. Sure, Google Maps said that it would be a two hour drive from the villa, but I wasn’t completely sure that I was using the right address and I have been late several times when relying on directions cribbed from the Internet.
 
-Having been there nearly a week and roughly established the time required to get to [Pisa](http://www.zx81.org.uk/travel/pisa-tuscany-italy.html), more or less the half-way stage to the [Cinque Terre](http://wikitravel.org/en/Cinque_Terre), I decided that I might as well try to get there.
+Having been there nearly a week and roughly established the time required to get to [Pisa](/travel/pisa-tuscany-italy.html), more or less the half-way stage to the [Cinque Terre](http://wikitravel.org/en/Cinque_Terre), I decided that I might as well try to get there.
 
 By the time I got past Pisa I was questioning my sanity. I’d had to get up early which is something that I never consider to be a good start to a day. I’d have been willing to overlook that had it not been raining. Heavily. It was the kind of rain where the water bounces from the bonnet and the wipers running at full speed still result in a blurred windscreen and visibility barely beyond the front of the car[^1].
 

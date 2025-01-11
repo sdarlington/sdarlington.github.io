@@ -35,7 +35,7 @@ After looking around, I hopped back on my bike, across the river and towards the
 
 [![D??ín housing](https://i0.wp.com/farm8.staticflickr.com/7059/6782216800_f8b5d8a363.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6782216800/ "D??ín housing by stephendarlington, on Flickr")
 
-The level of formality at each border crossing varies a lot, sometimes crossings between the same two countries a few miles apart differ wildly. When in [southern France](http://www.zx81.org.uk/travel/alps-to-riviera-france-2005.html), at one crossing into Italy there was an empty hut and a barrier that looked as though it has not been lowered for many years. A few miles south, on the coast at Menton, were huge gantries, border guards with guns and much inconvenience.
+The level of formality at each border crossing varies a lot, sometimes crossings between the same two countries a few miles apart differ wildly. When in [southern France](/travel/alps-to-riviera-france-2005.html), at one crossing into Italy there was an empty hut and a barrier that looked as though it has not been lowered for many years. A few miles south, on the coast at Menton, were huge gantries, border guards with guns and much inconvenience.
 
 Given the level of anticipation it is, therefore, slightly disappointing that I nearly missed the crossing entirely.
 
@@ -65,5 +65,5 @@ It’s less than a couple of hours from Königstein to Pirna.
 
 Pirna is an old and pretty town, with a pleasant market square and a pedestrianised main street with the usual array of shops. I do not, however, spend a huge amount of time here. Instead I prepare for my last day of cycling, which will pass through Dresden and into Meißen.
 
-*This is the fifth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](http://www.zx81.org.uk/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
+*This is the fifth of a series of posts about my cycling holiday from Prague in the Czech Republic, to Meißen, in Germany. See the [index page for](/travel/cycling-from-the-czech-republic-to-germany.html) more details or [subscribe to my RSS feed](http://feeds.zx81.org.uk/zx81orguk) for updates as they arrive.*
 [^1]: Apparently there’s a technical difference between a castle and a fortress. I gather Königstein started as a castle and ultimately became a fortress.

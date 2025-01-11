@@ -24,11 +24,11 @@ The format of the book involves presenting a programming problem and then iterat
 
 As you work your way through the chapters, you realise that the key for most of them is not esoteric optimisations or low-level hacking made possible by the C programming language. Instead, it’s data structures. If you somehow manage to store your data in the “correct” way, the algorithm to process it becomes simpler, clearer and faster. It’s almost miraculous.
 
-Of course, there’s a lively debate about “computer science” and whether it should be [the subject of developer interviews](https://www.zx81.org.uk/computing/opinion/what-do-you-know.html). What I would say is that the kinds of people who like to attempt Advent of Code are very likely the kind of people who will also enjoy Programming Pearls.
+Of course, there’s a lively debate about “computer science” and whether it should be [the subject of developer interviews](/computing/opinion/what-do-you-know.html). What I would say is that the kinds of people who like to attempt Advent of Code are very likely the kind of people who will also enjoy Programming Pearls.
 
 <div class="footnotes">---
 
-1. Not to be confused with [Programming Perl](https://www.zx81.org.uk/computing/opinion/eight-best-computer-books.html). [↩︎](#fnr1-12000 "return to article")
+1. Not to be confused with [Programming Perl](/computing/opinion/eight-best-computer-books.html). [↩︎](#fnr1-12000 "return to article")
 2. In my defence, I usually use Advent of Code to learn (or brush up on) a new programming language rather than solve the puzzle in the best way. That’s my excuse, and I’m sticking to it. [↩︎](#fnr2-12000 "return to article")
 
 </div>

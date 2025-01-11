@@ -15,7 +15,7 @@ tags:
     - Travel
 ---
 
-Last week [I complained that my iPhone’s camera was no substitute for my 50D](http://www.zx81.org.uk/photography/at-times-like-these.html).
+Last week [I complained that my iPhone’s camera was no substitute for my 50D](/photography/at-times-like-these.html).
 
 The next day I was lucky enough to have my DSLR with me at sunset, and it looked a bit like this.
 

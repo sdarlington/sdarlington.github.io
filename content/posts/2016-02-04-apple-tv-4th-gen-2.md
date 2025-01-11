@@ -11,7 +11,7 @@ categories:
     - Reviews
 ---
 
-Yes, I already wrote about the [new Apple TV](http://www.zx81.org.uk/computing/opinion/apple-tv-4th-gen.html) but I had a little more to say now that I’ve been using it a few months.
+Yes, I already wrote about the [new Apple TV](/computing/opinion/apple-tv-4th-gen.html) but I had a little more to say now that I’ve been using it a few months.
 
 So far Siri has not been as useful as I thought it would be. The main failing is that we use Netflix profiles a lot and Siri doesn’t understand them. I might tell Siri that I want to watch, say, House of Cards but if it’s currently logged into the kids’ profile it either won’t let me watch it or wants to start it on the first episode. If you’re going to have to switch profiles with the remote anyway…
 

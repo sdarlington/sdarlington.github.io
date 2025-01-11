@@ -19,7 +19,7 @@ I normally try to be pretty positive here. Most reviews you’ll find here are o
 
 That makes this post the exception.
 
-You may remember that ZX81.org.uk [went off-line for over twenty-four hours last month](http://www.zx81.org.uk/news/new-host.html). Shortly afterwards I switched away from Adept Hosting, but it’s not only, as you might expect, because of the reliability.
+You may remember that ZX81.org.uk [went off-line for over twenty-four hours last month](/news/new-host.html). Shortly afterwards I switched away from Adept Hosting, but it’s not only, as you might expect, because of the reliability.
 
 I [posted the following review](http://www.reviewcentre.com/reviews152961.html) at Review Centre:
 

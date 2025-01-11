@@ -16,7 +16,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 Sadly, another one of those “what happened to the author” books. As much as I don’t want to be a gatekeeper, Dawkins might well have been better sticking to evolution rather than branch out into religion and trans issues (the former in which he’s forthright but not original and the latter [where he’s just wrong](https://www.thepinknews.com/2021/11/01/richard-dawkins-trans-women-race-gender/)).
 

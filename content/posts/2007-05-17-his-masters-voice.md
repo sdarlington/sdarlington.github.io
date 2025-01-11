@@ -17,7 +17,7 @@ tags:
     - uk
 ---
 
-[![Radio 4 Recording](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/05/radio4.thumbnail.jpg)](http://www.zx81.org.uk/blog/his-masters-voice.html/radio-4-recording/ "Radio 4 Recording")Last night we went to see the recording of a new [BBC Radio 4](http://www.bbc.co.uk/radio4/) comedy programme called “His Master’s Voice.” It’s the first time that I’ve ever been to the [Drill Hall](http://www.drillhall.co.uk/) (on Chennies Street in London) although I’ve heard many broadcasts of “Just A Minute” that were recorded there.
+[![Radio 4 Recording](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/05/radio4.thumbnail.jpg)](/blog/his-masters-voice.html/radio-4-recording/ "Radio 4 Recording")Last night we went to see the recording of a new [BBC Radio 4](http://www.bbc.co.uk/radio4/) comedy programme called “His Master’s Voice.” It’s the first time that I’ve ever been to the [Drill Hall](http://www.drillhall.co.uk/) (on Chennies Street in London) although I’ve heard many broadcasts of “Just A Minute” that were recorded there.
 
 The programme itself is a political satire set in the offices of “The Blue Touch Paper,” the weekly magazine for the thinking Tory. I don’t want to give too much of the story away because I want you to tune in when it airs in July!
 

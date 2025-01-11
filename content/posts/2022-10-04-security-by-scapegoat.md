@@ -26,7 +26,7 @@ https://twitter.com/sdarlington/status/1523602044791115776?s=61&amp;t=69wO28ER8N
 
 The security team in many companies models itself on the [DUP](https://en.wikipedia.org/wiki/Democratic_Unionist_Party). Say no to everything. But – and this is the key – offer no alternative.
 
-The tweet above is about passwords but I see it everywhere. Another common one is [transferring files](https://www.zx81.org.uk/computing/opinion/why-enterprise-software-is-bloated.html). I understand why sharing files can be problematic. Confidential data can be exported, either deliberately or accidentally. Viruses can be imported. Security defects can be exploited.
+The tweet above is about passwords but I see it everywhere. Another common one is [transferring files](/computing/opinion/why-enterprise-software-is-bloated.html). I understand why sharing files can be problematic. Confidential data can be exported, either deliberately or accidentally. Viruses can be imported. Security defects can be exploited.
 
 So yes, blocking OneDrive or DropBox *is* part of the job. What is missing is a legitimate alternative.
 

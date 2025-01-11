@@ -34,7 +34,7 @@ It still didn’t stop my trying.
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6072/6109275319_b83d2a9f8f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6109275319/ "Carol and Stephen get married by stephendarlington, on Flickr")
 
-Over the last few years I have been to an Anglican [church wedding](http://www.zx81.org.uk/photography/white-wedding.html), a [civil partnership](http://www.zx81.org.uk/blog/a-very-civil-partnership.html), a [couple of](http://www.zx81.org.uk/blog/september-wedding.html) [registry office](http://www.zx81.org.uk/photography/more-wedding-pictures.html) weddings, a Jewish wedding but never a Catholic one.
+Over the last few years I have been to an Anglican [church wedding](/photography/white-wedding.html), a [civil partnership](/blog/a-very-civil-partnership.html), a [couple of](/blog/september-wedding.html) [registry office](/photography/more-wedding-pictures.html) weddings, a Jewish wedding but never a Catholic one.
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6195/6109277277_a6f9e02b4d.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6109277277/ "Carol and Stephen get married by stephendarlington, on Flickr")
 
@@ -44,7 +44,7 @@ The memorable feature of this wedding (in terms of the wedding service rather th
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6206/6109828692_dc66f63170.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6109828692/ "Carol and Stephen get married by stephendarlington, on Flickr")
 
-As you might imagine of an [Irish](http://www.zx81.org.uk/travel/glen-of-aherlow-ireland.html) wedding, the service was only the start. The reception went on for… well, longer that I stayed awake in any case. All I can say is that at midnight, only a couple of hours after a huge meal, they were bringing out burgers for a snack.
+As you might imagine of an [Irish](/travel/glen-of-aherlow-ireland.html) wedding, the service was only the start. The reception went on for… well, longer that I stayed awake in any case. All I can say is that at midnight, only a couple of hours after a huge meal, they were bringing out burgers for a snack.
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6068/6109352839_8560d28dbc.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6109352839/ "Carol and Stephen get married by stephendarlington, on Flickr")
 

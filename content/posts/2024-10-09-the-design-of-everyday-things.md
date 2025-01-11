@@ -16,7 +16,7 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 It’s a slow-burner [of a book](https://amzn.to/3XN46ys) \[affiliate link\]. Everyone said how great it was. It took me a while to read and I thought it was a bit meh.
 

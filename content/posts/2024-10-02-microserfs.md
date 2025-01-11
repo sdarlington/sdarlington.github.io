@@ -16,11 +16,11 @@ tags:
     - TwentyBooksInTwentyDays
 ---
 
-*Part of the [Twenty Books in Twenty Days](https://www.zx81.org.uk/blog/twenty-books.html) series.*
+*Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
 I have previously joked that if you could somehow combine Neal Stephenson and Douglas Coupland, you’d end up with a dense, well-researched, character driven story.
 
-Over the years, Stephenson has got better at writing people and Coupland has added more plot. Just as I argue that [Snow Crash](https://www.zx81.org.uk/blog/snow-crash.html) was the sweet spot for Stephenson, I think that Microserfs is for Coupland. (Don’t @ me. That’s an opinion, not an objective truth.)
+Over the years, Stephenson has got better at writing people and Coupland has added more plot. Just as I argue that [Snow Crash](/blog/snow-crash.html) was the sweet spot for Stephenson, I think that Microserfs is for Coupland. (Don’t @ me. That’s an opinion, not an objective truth.)
 
 [Microserfs](https://amzn.to/3BpJQLR) \[affiliate link\] tells the story of some friends working for Microsoft, trying to figure out the corporate culture and life in general. It’s set in the nineties, when Microsoft was ascendent, but it still seems pretty relevant.
 

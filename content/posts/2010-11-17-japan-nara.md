@@ -18,7 +18,7 @@ tags:
     - Travel
 ---
 
-Having spent a good couple of hours [looking around Kyoto](http://www.zx81.org.uk/travel/japan-kyoto.html) I decided it was time to get out and head to Nara.
+Having spent a good couple of hours [looking around Kyoto](/travel/japan-kyoto.html) I decided it was time to get out and head to Nara.
 
 Actually it wasn’t nearly so dramatic. Nara is only an hour away on the train and it’s a much smaller, though culturally nearly as important, place. I’d be back in Kyoto in time for sunset at the Silver Pavilion.
 

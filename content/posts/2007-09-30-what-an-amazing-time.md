@@ -19,7 +19,7 @@ tags:
     - uk
 ---
 
-[![Gwen Stefani gig ticket](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/09/img_3522.thumbnail.jpg)](http://www.zx81.org.uk/blog/what-an-amazing-time.html/gwen-stefani-gig-ticket/ "Gwen Stefani gig ticket")On the approach to Wembley there were a gaggle of vendors selling glowing rabbit ears and furry wands. We speculated whether this was where Gwen Stefani bought the wardrobe for her tour. They probably sell the same merchandise for most gigs here, but there are few other artists that I could imagine actually wearing such cheap and cheesy accessories.
+[![Gwen Stefani gig ticket](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/09/img_3522.thumbnail.jpg)](/blog/what-an-amazing-time.html/gwen-stefani-gig-ticket/ "Gwen Stefani gig ticket")On the approach to Wembley there were a gaggle of vendors selling glowing rabbit ears and furry wands. We speculated whether this was where Gwen Stefani bought the wardrobe for her tour. They probably sell the same merchandise for most gigs here, but there are few other artists that I could imagine actually wearing such cheap and cheesy accessories.
 
 Of course she didn’t, at least until about two thirds of the way through the set when she launched herself into the audience, alternately running around and standing in the crowd to sing a verse. At one point she borrowed some rabbit ears from a fan. Very fetching.
 

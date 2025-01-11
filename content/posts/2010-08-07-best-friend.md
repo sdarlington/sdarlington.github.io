@@ -22,4 +22,4 @@ That’s not my style.
 
 I found these ducks in a hotel in Zurich, the yellow one in the bathroom, the chocolate one on the bed. I thought it would be nice to introduce them. They got on famously until one came to an unfortunate, albeit tasty, end.
 
-Please also vote for [my entry](http://www.zx81.org.uk/photography/photofriday/crooked.html) in last weeks challenge, “[Crooked](http://www.photofriday.com/linkviewer.php?id=1002).” I’m entry number 187.
+Please also vote for [my entry](/photography/photofriday/crooked.html) in last weeks challenge, “[Crooked](http://www.photofriday.com/linkviewer.php?id=1002).” I’m entry number 187.
