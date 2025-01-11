@@ -25,7 +25,7 @@ tags:
 
 I just realised that the story of my Belkin Wi-Fi Phone for Skype lacks any form of closure. But before we get there, let’s start with a quick recap in case you didn’t read the [original review](/computing/opinion/review-belkin-wi-fi-phone.html "Skype phone review") or its [follow-up](/computing/opinion/follow-up-belkin-wi-fi-phone.html "Skype phone follow up").
 
-Last year, after realising that we had spent over ?30 in a quarter on line rental but less than 50p on phone calls, we decided to get rid of our land-line and rely only on broadband and VoIP technology. After some thought we went for Skype and a physical handset that connected to our wireless access point. This seemed like a great solution as leaving a computer switched on 24/7 just so we could recieve calls on our SkypeIn number didn’t appeal.
+Last year, after realising that we had spent over £30 in a quarter on line rental but less than 50p on phone calls, we decided to get rid of our land-line and rely only on broadband and VoIP technology. After some thought we went for Skype and a physical handset that connected to our wireless access point. This seemed like a great solution as leaving a computer switched on 24/7 just so we could recieve calls on our SkypeIn number didn’t appeal.
 
 The appeal quickly wore off when it materialised that the Belkin handset just didn’t work very well. Other parties complained of an annoying echo while we complained that it drifted on- and off-line, meaning that people had to be lucky and call us when it was online. It also exhibited stability problems, often crashing during a call or even while in standby. Belkin were actually pretty efficient about taking the handset back and replacing it with a less broken one.
 

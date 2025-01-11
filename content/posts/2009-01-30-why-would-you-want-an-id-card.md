@@ -3,7 +3,7 @@ id: 914
 title: 'Why would you want an ID card?'
 date: '2009-01-30T22:59:08+00:00'
 author: 'Stephen Darlington'
-excerpt: 'Is it worth spending ?1435m to avoid a little inconvenience? The British government thinks so.'
+excerpt: 'Is it worth spending £1435m to avoid a little inconvenience? The British government thinks so.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=914'
 aliases: ['/blog/why-would-you-want-an-id-card.html']
@@ -30,11 +30,11 @@ Limiting the ability of foreigners to claim benefits would be great. If it worke
 
 And lastly, a convenient way of travelling around Europe. You mean, like a Passport? I already have one of those. And a common way to get an ID Card is going to be… when you apply for a new passport. So I now have *two* documents instead of one. In what way is that convenient?
 
-Okay, so some of these grumbles are “relative.” I may not be inconvenienced by proving my ID very often, but if it’s cheap it may be worth it. They say: “It is intended that the fee for a British citizen?s identity card issued in 2009 or 2010 will be ?30 or less.” So before the vast majority of the population get one it will be ?30 or less. There’s no indication of the costs after that, presumably because they don’t know what will go wrong with it. Or put another way: it will be *more* than ?30. If you think I’m being cynical, feel free to go away and Google for successful Government IT projects. I’ll wait.
+Okay, so some of these grumbles are “relative.” I may not be inconvenienced by proving my ID very often, but if it’s cheap it may be worth it. They say: “It is intended that the fee for a British citizen?s identity card issued in 2009 or 2010 will be £30 or less.” So before the vast majority of the population get one it will be £30 or less. There’s no indication of the costs after that, presumably because they don’t know what will go wrong with it. Or put another way: it will be *more* than £30. If you think I’m being cynical, feel free to go away and Google for successful Government IT projects. I’ll wait.
 
-They also say that “approximately 70% of this cost will need to be spent in any event to implement secure biometric passports.” So by their own numbers ID Cards will cost ?1435m[^1].
+They also say that “approximately 70% of this cost will need to be spent in any event to implement secure biometric passports.” So by their own numbers ID Cards will cost £1435m[^1].
 
 That’s a lot of money to spend so you can travel to Europe using a different document than you usually use and avoid digging out a few utility bills every year or two.
 
 So in conclusion, it’s expensive and won’t do what they say it will. What are ID Cards for again?
-[^1]: “The latest (Nov 2008) estimated cost of the Service for the next 10 years is ?4,785m for UK citizens, including the issue of both passports and identity cards and ?326m for foreign nationals.”
+[^1]: “The latest (Nov 2008) estimated cost of the Service for the next 10 years is £4,785m for UK citizens, including the issue of both passports and identity cards and £326m for foreign nationals.”

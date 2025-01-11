@@ -20,7 +20,7 @@ tags:
     - Travel
 ---
 
-I’ve been reading the magazine [Wanderlust](http://www.wanderlust.co.uk/ "Wanderlust magazine") for a few years now. It’s a great magazine with interesting stories about places that are often well off the beaten path — my kind of travelling! A couple of months ago I took the unusual step of writing a letter. It came in two parts, a comment about my time in Cuba (in response to someone who said he couldn’t find any night-life) and a second, longer piece about my time in Gdansk, [Poland](/travel/poland.html) (as a counter-point to their piece on long-weekends for less than ?100).
+I’ve been reading the magazine [Wanderlust](http://www.wanderlust.co.uk/ "Wanderlust magazine") for a few years now. It’s a great magazine with interesting stories about places that are often well off the beaten path — my kind of travelling! A couple of months ago I took the unusual step of writing a letter. It came in two parts, a comment about my time in Cuba (in response to someone who said he couldn’t find any night-life) and a second, longer piece about my time in Gdansk, [Poland](/travel/poland.html) (as a counter-point to their piece on long-weekends for less than £100).
 
 Of course they published the [Cuba](/travel/cuba.html) story but edited out the rest. I thought the Polish story was the best part so I reprint it here:
 

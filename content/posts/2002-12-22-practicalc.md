@@ -48,7 +48,7 @@ What the book lacks is a clear focus. Is the book for a novice programmer? Is it
 
 Author: Steve Oualline
 
-Cost: Approximately ?24.50 or US$32.95
+Cost: Approximately £24.50 or US$32.95
 
 ISBN: 1-56592-306-5
 

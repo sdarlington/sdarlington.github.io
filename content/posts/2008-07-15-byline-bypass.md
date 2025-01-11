@@ -24,5 +24,5 @@ However, one thing worries me: Google have not released a publicly available API
 
 I’m confident that the interface works now, but what about tomorrow? The popular opinion is that Google are [not happy with parts of the API](http://code.google.com/p/pyrfeed/wiki/GoogleReaderAPI) and will [publish the full version soon](http://www.niallkennedy.com/blog/2005/12/google-reader-api.html), but until the API is publicly available and stable there are no guarantees and it could change at any time.
 
-Do you want to spend ?5.99 on an application that could be disabled at any time by a third party? As useful as it looks to be, I don’t want to start relying on an application with foundations as shaky as this.
+Do you want to spend £5.99 on an application that could be disabled at any time by a third party? As useful as it looks to be, I don’t want to start relying on an application with foundations as shaky as this.
 [^1]: My first thought was that it was just a specialised RSS feed. However, the video shows support for the “Star” functionality and they say that it synchronises read status, etc.

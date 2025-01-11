@@ -3,7 +3,7 @@ id: 237
 title: '.Mac Defection'
 date: '2006-10-03T21:41:44+01:00'
 author: 'Stephen Darlington'
-excerpt: 'Why Apple''s .Mac online service is not worth ?68.98 a year.'
+excerpt: 'Why Apple''s .Mac online service is not worth £68.98 a year.'
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/mac-defection.html'
 aliases: ['/computing/opinion/mac-defection.html']
@@ -62,4 +62,4 @@ Overall I think it’s odd that there are no direct competitors to .Mac. Most of
 
 All this is to say that moving away will result in some frustration, and where there’s frustration there is, I’m sure, money to be made. I think Apple are shooting themselves in the foot by neglecting .Mac. Software such as most of the iLife suite pushes people to the convenience of .Mac but once you join up the reality lets you down.
 
-Let’s assume that .Mac worked as advertised. Would I subscribe? Yes. They’ve had two years subscription fees from me; I’ve put my money where my mouth is. I do think it’s over-priced as many of the components are available for free elsewhere. But for the convenience and its seamless interface in OS X and iLife (iPhoto in particular) I’m prepared to bite the bullet. However, for a service that does not work correctly, nearly ?70 a year is far too much.
+Let’s assume that .Mac worked as advertised. Would I subscribe? Yes. They’ve had two years subscription fees from me; I’ve put my money where my mouth is. I do think it’s over-priced as many of the components are available for free elsewhere. But for the convenience and its seamless interface in OS X and iLife (iPhoto in particular) I’m prepared to bite the bullet. However, for a service that does not work correctly, nearly £70 a year is far too much.

@@ -59,7 +59,7 @@ Steve McConnell has done it again. I don’t think that it will go down as a cla
 
 Author: Steve McConnell
 
-Cost: ?22.49
+Cost: £22.49
 
 ISBN: 1-57231-621-7
 

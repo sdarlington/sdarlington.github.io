@@ -19,7 +19,7 @@ tags:
     - wifi
 ---
 
-The problem is this. To get ADSL you need to have a BT phone line. Yet, except for calling my parents, I don’t really use a land-line phone. This has made using ADSL broadband more expensive than I’d have liked as I had to pay ?11 a month for a phone line I don’t make calls with[^1]. Fast forward to last month, when I find that I can get cable broadband without phone or digital TV service.
+The problem is this. To get ADSL you need to have a BT phone line. Yet, except for calling my parents, I don’t really use a land-line phone. This has made using ADSL broadband more expensive than I’d have liked as I had to pay £11 a month for a phone line I don’t make calls with[^1]. Fast forward to last month, when I find that I can get cable broadband without phone or digital TV service.
 
 Bingo! Bye-bye BT!
 

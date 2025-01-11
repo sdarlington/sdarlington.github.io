@@ -41,6 +41,6 @@ If you’re at all interested in how the PC industry came to be, this is the boo
 
 Author: Robert X. Cringely
 
-Cost: ?6.99
+Cost: £6.99
 
 ISBN: 0887308554
