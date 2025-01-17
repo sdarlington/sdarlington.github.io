@@ -17,7 +17,7 @@ If I was vain, I might have chosen something with my name in it. Let’s say, �
 
 The domain had to be something other than my name, have some connection to me no matter how odd or obscure, but, at the same time, it had be memorable. Let’s think…
 
-I work with computers and it’s been a hobby since I was knee-high to a grass-hopper, as it were. I thought that something computer-ish might be good. But I didn’t want something too obscure ((I probably should have thought about this more. Outside the UK no-one has heard of the ZX81. Even here it’s only a certain type of person of a particular age.)) or something fantastically difficult to remember.
+I work with computers and it’s been a hobby since I was knee-high to a grass-hopper, as it were. I thought that something computer-ish might be good. But I didn’t want something too obscure[^1] or something fantastically difficult to remember.
 
 My first computer was a [Sinclair Spectrum+](http://www.old-computers.com/museum/computer.asp?st=1&c=480 "Speccy") (a 48K Spectrum with a marginally better keyboard), but the first machine that I really wanted was a ZX81 so that became my choice for a domain. zx81.co.uk had already gone — looks like they had a similar idea to me — which left zx81.org.uk.
 
@@ -26,3 +26,5 @@ The first pages went live in November 1999. Initially it was just a few vanity p
 The first spike in traffic came when I announced the Oracle on Linux Installation HOWTO and this was the main focus of the site for some time. As my interest in travel and photography grew I started to add travel photos. Over time they became the most popular parts of the site.
 
 In 2005, I decided to split my web-sites so that the personal, photographic and technical aspects would be kept separate. This did not work as well as I would have liked and a year later I changed my mind and merged them together. The result is right before your eyes now.
+
+[^1]:  I probably should have thought about this more. Outside the UK no-one has heard of the ZX81. Even here it’s only a certain type of person of a particular age.

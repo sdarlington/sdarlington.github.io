@@ -44,14 +44,16 @@ It walked along for a little bit and then jumped back into the trees.
 
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5094350928/player/" webkitallowfullscreen="" width="333"></iframe>
 
-Even without more macaque’s there was still plenty to see. The mountains, the autumn foliage (([Marge](http://www.snpp.com/episodes/4F05.html): Next to Spring and Winter, Fall is my absolute favorite season.  
- Just look at all this beautiful foilage.  
- Lisa: It’s not “foilage,” mom, it’s “foliage.” Foo-liage.  
-Marge: That’s what I said, foilage. It doesn’t take a nucular scientist  
- to pronounce foilage.  
- Lisa: \[growls\])), the greens and reds contrasting with the blue sky. Really beautiful.
+Even without more macaque’s there was still plenty to see. The mountains, the autumn foliage[^2], the greens and reds contrasting with the blue sky. Really beautiful.
 
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5093751393/player/" webkitallowfullscreen="" width="333"></iframe>
 
 By the time I got back to the bus terminal it was pretty much dark. It had remained pretty much fine the whole day. I’m really glad I made it.
+
 [^1]: Mountains hiding, of course, had already become [a bit of a theme for this trip](/travel/japan-mount-fuji.html).
+[^2]: [Marge](http://www.snpp.com/episodes/4F05.html): Next to Spring and Winter, Fall is my absolute favorite season.  
+ Just look at all this beautiful foilage.  
+ Lisa: It’s not “foilage,” mom, it’s “foliage.” Foo-liage.  
+Marge: That’s what I said, foilage. It doesn’t take a nucular scientist  
+ to pronounce foilage.  
+ Lisa: \[growls\]

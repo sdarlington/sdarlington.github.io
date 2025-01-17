@@ -26,13 +26,14 @@ I did offer the patch to the author of Photopress, but I have heard nothing from
 You’ll need to follow the following few steps to do the same with your own site:
 
 1. Disable the Photopress plugin if you already have it installed
-2. Download the Lightbox Javascript library and install it on your webserver. I put it in *wp-content/lightbox* ((You’ll need to keep the same directory structure as in the LightBox ZIP file. For example, you should see three directories “css”, “images”  
-    and “js” Inside the “lightbox” directory on the webserver.)). Remember where you put it as you’ll need it again in a couple of steps
+2. Download the Lightbox Javascript library and install it on your webserver. I put it in *wp-content/lightbox*[^1]. Remember where you put it as you’ll need it again in a couple of steps
 3. Download and install the plugin. If you don’t have Photopress, try [this full version](/wp-content/uploads/2007/01/photopress-095sd.zip "Patched Photopress (Full Version)"). If you already have Photopress 0.9.5, you can download either [the only file that’s changed](/wp-content/uploads/2007/01/photopressphp.txt "Patched Photopress (Changed file)") or [this patch file](/wp-content/uploads/2007/01/photopressphppatch.txt "Patched Photopress (Patched File)")
 4. Activate the plugin
 5. Go to the Photopress Options screen. Look at the bottom of the screen. Here you can enable/disable the Lightbox effect and point Photopress to the Lightbox Javascript routines
-6. Also make sure that you have switched off the “Link to Album” feature[^1]
+6. Also make sure that you have switched off the “Link to Album” feature[^2]
 7. You’re done
 
 Please let me know how you get on. Hope you like it!
-[^1]: Thanks to Roman Seibel for figuring this out.
+[^1]: You’ll need to keep the same directory structure as in the LightBox ZIP file. For example, you should see three directories “css”, “images”  
+    and “js” Inside the “lightbox” directory on the webserver.
+[^2]: Thanks to Roman Seibel for figuring this out.
