@@ -28,6 +28,10 @@ social = [
     { id = "mastodon", url = "https://mas.to/@sdarlington" },
 ]
 
+[services]
+  [services.rss]
+    limit = 20
+
 [[menu.main]]
 identifier = "home"
 name = "Home"
