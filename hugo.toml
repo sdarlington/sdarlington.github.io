@@ -1,13 +1,14 @@
 baseURL = "https://www.zx81.org.uk/"
 languageCode = "en-gb"
 theme = "anubis2"
-title = "Welcome to ZX81.org.uk"
+title = "This is ZX81.org.uk"
 
+copyright = '© Stephen Darlington'
 [params.author]
 name = "Stephen Darlington"
 
 [params]
-description = "Photography, opinions and other random ramblings by Stephen Darlington."
+description = "Ponderings on software, the universe and everything by Stephen Darlington."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 
