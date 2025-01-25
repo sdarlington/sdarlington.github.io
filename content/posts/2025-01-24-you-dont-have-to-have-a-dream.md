@@ -9,7 +9,7 @@ tags:
     - reading2025
     - reading
 ---
-As Tim Minchin cynically notes [in the prologue](https://amzn.to/3DRuWiA), universities hand out honorary degrees for good PR. As a well known, articulate, and talented individual, Minchin has received a number of them and this book is the transcript of the speeches he gave when accepting three of them.
+As Tim Minchin cynically notes [in the prologue](https://amzn.to/3DRuWiA) [affiliate link], universities hand out honorary degrees for good PR. As a well known, articulate, and talented individual, Minchin has received a number of them and this book is the transcript of the speeches he gave when accepting three of them.
 
 If you've seen any of his live performances, you'll be able to hear him speaking as you read through. Each has that easy flow that makes his work so good. Of course, anyone who has written or performed knows that kind of "easy flow" takes a lot of work. Effortless is difficult.
 
