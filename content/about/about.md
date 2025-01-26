@@ -19,7 +19,7 @@ The domain had to be something other than my name, have some connection to me no
 
 I work with computers and it’s been a hobby since I was knee-high to a grass-hopper, as it were. I thought that something computer-ish might be good. But I didn’t want something too obscure[^1] or something fantastically difficult to remember.
 
-My first computer was a [Sinclair Spectrum+](http://www.old-computers.com/museum/computer.asp?st=1&c=480 "Speccy") (a 48K Spectrum with a marginally better keyboard), but the first machine that I really wanted was a ZX81 so that became my choice for a domain. zx81.co.uk had already gone — looks like they had a similar idea to me — which left zx81.org.uk.
+My first computer was a [Sinclair Spectrum+](https://en.wikipedia.org/wiki/ZX_Spectrum#ZX_Spectrum+) (a 48K Spectrum with a marginally better keyboard), but the first machine that I really wanted was a ZX81 so that became my choice for a domain. zx81.co.uk had already gone — looks like they had a similar idea to me — which left zx81.org.uk.
 
 The first pages went live in November 1999. Initially it was just a few vanity pages but I quickly consolidated my various web sites onto this one.
 
