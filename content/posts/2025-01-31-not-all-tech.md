@@ -38,6 +38,12 @@ Unfortunately, I can't endorse the whole article, which is [Andreesen's famous p
 
 Do their vast riches distort and desensitise them? Can they no longer appreciate what it's like to like and work in the Real World?
 
+From a position of substantially less privilege[^3a]:
+
+> I wonder what the point of [their] wealth and power is if [they] will only use it for more wealth and power?
+
+(This [quote is about Tim Cook](https://joe-steel.com/2025-01-25-Tim-Cook-Is-Failing-Us.html) but applies to all the CEOs to some extent.)
+
 In any case, despite their wealth and influence, tech is far from only Big Tech. Most people in tech don't work for them. Most innovations that happen do _not_ come from them, much as their marketing might suggest otherwise[^4].
 
 The products that most of us work on are not going to save the world. We're not curing cancer, or solving the climate emergency, or ending homelessness. Then again, we're not mining personal information or lobbying to avoid regulation. But I think most of us believe that we're making the world better, even if only a little.
@@ -55,6 +61,8 @@ When I think of the tech industry, _that's_ what comes to mind. Their sheer size
 [^2]: Maybe worse? What's the point in accumulating all that money and influence if you don't use it for "good"?
 
 [^3]: The closest is Oracle, albeit by an acquisition rather than by applying for a job there.
+
+[^3a]: Though, speaking as a cisgendered white man, still a lot of privilege.
 
 [^4]: This is why the acquire so many smaller companies.
 
