@@ -18,7 +18,7 @@ I don't blame him, but [Ian Dunt started his column last week](https://iandunt.s
 
 > Somewhere along the line, technology went from something hopeful to something threatening.
 
-Given the continued overreach of the trillion Dollar companies (Meta, Alphabet, Apple, Microsoft, Amazon) this is understandable. Whether we like it or not, these companies have an outsized influence on the technologies we use. Their success allows them to push into even more niches, from your phone, to your watch, to your speakers, to your car, to your fridge. When they collectively decided that AI was the next big things, they subjected us to it, whether we wanted it or not. These companies farm your personal information so they can sell advertising[^1], and obscure what they do to make it impossible to opt-out or give informed consent.
+Given the continued overreach of the trillion Dollar companies (Meta, Alphabet, Apple, Microsoft, Amazon) this is understandable. Whether we like it or not, these companies have an outsized influence on the technologies we use. Their success allows them to push into even more niches, from your phone, to your watch, to your speakers, to your car, to your fridge. When they collectively decided that AI was the next big thing, they subjected us to it, whether we wanted it or not. These companies farm your personal information so they can sell advertising[^1], and obscure what they do to make it impossible to opt-out or give informed consent.
 
 Worse[^2], to further their goals, they try to curry favour with tawdry politicians by contributing money and time and undeserved compliments.
 
@@ -36,7 +36,7 @@ While more hyperbolic than I would have been, I mostly think it's directionally 
 
 Unfortunately, I can't endorse the whole article, which is [Andreesen's famous piece](https://a16z.com/the-techno-optimist-manifesto/) about techno-optimism. He takes that positivity as a starting point and veers off into some nasty capitalistic hellscape. Not my thing at all. 
 
-Do their vast riches distort and desensitise them? Can they no longer appreciate what it's like to like and work in the Real World?
+Do their vast riches distort and desensitise them? Can they no longer appreciate what it's like to live and work in the Real World?
 
 From a position of substantially less privilege[^3a]:
 
@@ -64,6 +64,6 @@ When I think of the tech industry, _that's_ what comes to mind. Their sheer size
 
 [^3a]: Though, speaking as a cisgendered white man, still a lot of privilege.
 
-[^4]: This is why the acquire so many smaller companies.
+[^4]: This is why they acquire so many smaller companies.
 
 [^5]: Happy to chat more about these if you're interested.
