@@ -21,7 +21,7 @@ tags:
 
 The pitch is “Be a kick-ass boss without losing your humanity” which sounds positive but I don’t manage people at work. Even if it contained genuine insight, would there be anything I could use?
 
-The book starts with a description of what “Radical Candor<sup>[1](#fn1-5730 "see footnote")</sup>” is and finishes with how to apply the theory, an approach that I prefer to “How To Win Friends and Influence People” where the story is scattered throughout the text.
+The book starts with a description of what “Radical Candor[^1]” is and finishes with how to apply the theory, an approach that I prefer to “How To Win Friends and Influence People” where the story is scattered throughout the text.
 
 The examples vary in how useful or relatable they are. Some I was nodding with recognition. Others were some way out of my experience.
 
@@ -39,8 +39,4 @@ I don’t think you need to be in a management position for this book to be usef
 
 Do you need to go on a training course or read the full book to get the gist? Unlikely. But is there some value here? Absolutely.
 
-<div class="footnotes">---
-
-1. I’m going to use the American spelling as that’s the name of the book, but I can’t say I’m happy about it. [↩︎](#fnr1-5730 "return to article")
-
-</div>
+[^1]: I’m going to use the American spelling as that’s the name of the book, but I can’t say I’m happy about it.

@@ -21,7 +21,7 @@ How does switching email hosts disable your Bluetooth headphones? Read on to fin
 
 As many people did recently, I got The Email from Google telling me that my [Apps for Domains (Legacy) account is going away](https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/) and that I should either pay up or move away.
 
-I’m not averse to paying. I use email a lot and I have my own domain, so I appreciate that I’m not a typical consumer. But I do object to paying Google because it feels like they’re double-dipping: both [data mining my information *and* billing me for the service](https://arstechnica.com/?p=1831215)<sup>[1](#fn1-24775 "see footnote")</sup>.
+I’m not averse to paying. I use email a lot and I have my own domain, so I appreciate that I’m not a typical consumer. But I do object to paying Google because it feels like they’re double-dipping: both [data mining my information *and* billing me for the service](https://arstechnica.com/?p=1831215)[^1].
 
 In short, I’m not going to stay with Google.
 
@@ -67,8 +67,4 @@ Would I recommend it? With reservations. It’s not going to work as a replaceme
 
 Let’s hope that Apple work on this. Sadly, I don’t think it’s going to be an overnight thing. There are a bunch of issues here, many of which appear to be a consequence of decisions made years ago.
 
-<div class="footnotes">---
-
-1. The argument may well go that they do not data mine paid accounts but I have no ability to verify that. Google have done enough dodgy things with data that I don’t trust them. Pick one. [↩︎](#fnr1-24775 "return to article")
-
-</div>
+[^1]: The argument may well go that they do not data mine paid accounts but I have no ability to verify that. Google have done enough dodgy things with data that I don’t trust them. Pick one.

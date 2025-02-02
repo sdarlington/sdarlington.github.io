@@ -48,5 +48,5 @@ Maybe rather than move to a [proprietary, cloud-based source control system](htt
 
 Git *is* tricky. But rather than return to a centralised system maybe we should fix git’s user interface. Being able to fix past commits is useful, though we we should be able to do so without messing up our code or, especially, the code repository.
 
-[^1]: As ever, it was always possible to hack the repo but in my experience this was frowned upon. [↩︎](#fnr1-14229 "return to article")
-[^2]: I do remember a time when someone committed a password. It took a lot of time and expertise to scrub it from the history. [↩︎](#fnr2-14229 "return to article")
+[^1]: As ever, it was always possible to hack the repo but in my experience this was frowned upon.
+[^2]: I do remember a time when someone committed a password. It took a lot of time and expertise to scrub it from the history.

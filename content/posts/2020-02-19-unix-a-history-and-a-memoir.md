@@ -19,7 +19,7 @@ tags:
 
 [This](https://amzn.to/2UZuoyD) [affiliate link] is probably the geekiest book I’ve read in a long time. It’s basically one step up from reading the source code for your favourite operating system. Or perhaps having a favourite operating system.
 
-What I would say is that Unix has been pretty much the only constant throughout my career. I started with Solaris and HP-UX at university. I installed an early version of Linux on my personal machine to avoid the thirty-minute walk from home to the university labs. I’ve done consulting, I’ve developed both vertical and horizontal applications<sup>[1](#fn1-1120 "see footnote")</sup>, C and C++, Swift and Java, banking and telecoms. Pretty much the only thing they’ve all had in common was some sort of Unix underpinning.
+What I would say is that Unix has been pretty much the only constant throughout my career. I started with Solaris and HP-UX at university. I installed an early version of Linux on my personal machine to avoid the thirty-minute walk from home to the university labs. I’ve done consulting, I’ve developed both vertical and horizontal applications[^1], C and C++, Swift and Java, banking and telecoms. Pretty much the only thing they’ve all had in common was some sort of Unix underpinning.
 
 And that’s bizarre. So much of computing changes in five years, yet Unix wasn’t even new when I started at university!
 
@@ -29,8 +29,4 @@ Also, if you’re Richard Stallman, you’re probably not the target for this bo
 
 On the other hand, if you’re not Stallman and you know about some or all of the people involved, then you *are* the target for this book. Read it. You’ll love it.
 
-<div class="footnotes">---
-
-1. Is that common terminology? A “vertical” application is one that’s applicable only to one industry, such as a trading application. A “horizontal” application is usable by many, like a database or operating system. [↩︎](#fnr1-1120 "return to article")
-
-</div>
+[^1]: Is that common terminology? A “vertical” application is one that’s applicable only to one industry, such as a trading application. A “horizontal” application is usable by many, like a database or operating system.

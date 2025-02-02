@@ -17,7 +17,7 @@ tags:
 
 As I [normally do](/computing/opinion/ios-12.html) at this time of year, here are a few thoughts about Apple’s new mobile operating system. However, this year has been different in a few ways.
 
-Betas are, well, betas. You don’t use them on devices that you actually need<sup>[1](#fn1-21814 "see footnote")</sup>. My normal pattern is put them on my iPad around the start of August. This is often the third or forth beta. Most of the worst glitches have been resolved by this point. Then, depending on how it goes on the iPad, I’ll probably put it on my phone towards the end of August, earlier if everything is going well.
+Betas are, well, betas. You don’t use them on devices that you actually need[^1]. My normal pattern is put them on my iPad around the start of August. This is often the third or forth beta. Most of the worst glitches have been resolved by this point. Then, depending on how it goes on the iPad, I’ll probably put it on my phone towards the end of August, earlier if everything is going well.
 
 As I write this, I still don’t have the beta on either my carry phone or my iPad pro. I’ve had it installed on my iPad mini 4 since the very first beta, but that’s not a device I use every day.
 
@@ -29,7 +29,7 @@ Even now, on the most recent beta, there are still a few… oddities. One of my 
 
 Anyway, I mention this for two reasons, on both sides of the stability coin. First, the betas have been such that the idea that there was a serious rendering bug remaining wasn’t entirely implausible. Second, *maybe* that this affected my own app skewed my perspective and that they’re not as bad as I think. Your milage may vary, etc.
 
-So, in summary, I’ve not been working with the new OS full time for a few weeks. This possibly means that my opinion isn’t quite as well informed as in previous years. If you can call my previous posts informed<sup>[2](#fn2-21814 "see footnote")</sup>.
+So, in summary, I’ve not been working with the new OS full time for a few weeks. This possibly means that my opinion isn’t quite as well informed as in previous years. If you can call my previous posts informed[^2].
 
 ## The Good
 
@@ -50,9 +50,6 @@ There are some features that I wanted to mention but I’ve not actually used. T
 
 Overall, I think that has the potential to be a great release. There are some nice improvements. I just hope I’m wrong about the glitches.
 
-<div class="footnotes">---
+[^1]: That Apple make them available for non-developers so early in the process is a rant for another time.
 
-1. That Apple make them available for non-developers so early in the process is a rant for another time. [↩︎](#fnr1-21814 "return to article")
-2. Answers on a postcard, please. [↩︎](#fnr2-21814 "return to article")
-
-</div>
+[^2]: Answers on a postcard, please.

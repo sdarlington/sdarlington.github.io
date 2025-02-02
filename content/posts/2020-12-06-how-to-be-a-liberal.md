@@ -21,7 +21,7 @@ You can’t say that it lacks ambition. Ian Dunt’s “[How to be a Liberal](ht
 
 > tells the forgotten story of the advance of liberalism and the events which led to its current retreat.
 
-And, by and large, it succeeds. I’m not qualified to say how complete it is — he may have missed out half of the story for all I know — but from Descartes to Mills, to Keynes, Orwell, Trump and Brexit, the history is here, right up to events of 2020. It’s well researched and mostly easy to read<sup>[1](#fn1-26855 "see footnote")</sup>. Having heard the author on various podcasts, I might have expected more swearing.
+And, by and large, it succeeds. I’m not qualified to say how complete it is — he may have missed out half of the story for all I know — but from Descartes to Mills, to Keynes, Orwell, Trump and Brexit, the history is here, right up to events of 2020. It’s well researched and mostly easy to read[^1]. Having heard the author on various podcasts, I might have expected more swearing.
 
 From a personal point of view, I think it clarifies a lot of my thinking and opinions, putting a name and a structure around things that I’ve likely believed for a long time but had never known the correct label.
 
@@ -31,8 +31,4 @@ I never thought I was without principle, but perhaps I lacked the vocabulary to 
 
 It also ends on a positive note. I don’t know about you, but I needed that.
 
-<div class="footnotes">---
-
-1. A few typos and dodgy sentences made it into print. Not enough to spoil the book but enough to be noticeable. [↩︎](#fnr1-26855 "return to article")
-
-</div>
+[^1]: A few typos and dodgy sentences made it into print. Not enough to spoil the book but enough to be noticeable.

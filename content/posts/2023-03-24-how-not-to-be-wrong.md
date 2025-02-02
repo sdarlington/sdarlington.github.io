@@ -25,4 +25,4 @@ The debates are a mixture of personal anecdotes and transcripts from guests on h
 
 Like his previous effort, it’s not a *bad* book but nor is it an essential read.
 
-[^1]: “Fortunately,” the current government isn’t giving me much opportunity to reluctantly agree with them. [↩︎](#fnr1-16568 "return to article")
+[^1]: “Fortunately,” the current government isn’t giving me much opportunity to reluctantly agree with them.

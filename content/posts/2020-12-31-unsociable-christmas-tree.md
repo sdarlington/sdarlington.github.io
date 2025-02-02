@@ -41,7 +41,7 @@ What I’m saying is that while I was *planning* on something a little more elab
 
 When I came back to it, I realised that OpenCV was something that many Raspberry Pi owners were likely to use and I was surprised that I had to build my own version.
 
-Luckily my surprise was supported by the actual Raspberry Pi software archive: if you install `python3-opencv` you get all the libraries you need, and all without all the hassle of having to build your own<sup>[1](#fn1-5260 "see footnote")</sup>. As a side benefit, this removes about half of the steps in the tutorial!
+Luckily my surprise was supported by the actual Raspberry Pi software archive: if you install `python3-opencv` you get all the libraries you need, and all without all the hassle of having to build your own[^1]. As a side benefit, this removes about half of the steps in the tutorial!
 
 The rest worked incredibly well “out of the box.” I ran it, trained it on a few unsuspecting family members and was very impressed that it worked the first time. It uses a lot of CPU on my Pi 4, so I’m not sure that it would work on any of the earlier models.
 
@@ -51,8 +51,4 @@ The interface between the facial-recognition and the tree lights is, well, *mini
 
 It technically meets the requirements of an Unsociable Christmas Tree but is certainly less ambitious than I would have liked. Still, getting machine learning working on a Pi and connecting it to something physical was fun. Maybe *next* year I’ll get the time to bring everything together?
 
-<div class="footnotes">---
-
-1. In theory, installing `python3-opencv` means you can skip the whole of point 4, “Install OpenCV by running the following commands in your Terminal,” from the guide. In practice, I *tried* to build my own version of OpenCV so it’s possible that I have extra libraries installed that you also need. If I get the time, I’ll come back and try this on a default installation of Raspberry Pi OS. [↩︎](#fnr1-5260 "return to article")
-
-</div>
+[^1]: In theory, installing `python3-opencv` means you can skip the whole of point 4, “Install OpenCV by running the following commands in your Terminal,” from the guide. In practice, I *tried* to build my own version of OpenCV so it’s possible that I have extra libraries installed that you also need. If I get the time, I’ll come back and try this on a default installation of Raspberry Pi OS.
