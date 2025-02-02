@@ -16,11 +16,11 @@ tags:
     - work
 ---
 
-<span style="font-size: revert;">I recently shared a blog post entitled “</span>[The Most Successful Developers Share More Than They Take](https://stackoverflow.blog/2020/05/14/the-most-successful-developers-share-more-than-they-take/)<span style="font-size: revert;">” with the comment:</span>
+I recently shared a blog post entitled “[The Most Successful Developers Share More Than They Take](https://stackoverflow.blog/2020/05/14/the-most-successful-developers-share-more-than-they-take/)” with the comment:
 
 > I try to practice “public by default” though, because of my work, it’s often “on the internal wiki” rather than fully open.
 
-Unfortunately the article spends a lot of time talking about blogging and podcasting which, perhaps, undermined the point I was trying to make. If you want to write blogs, speak on podcasts, and present at conferences, good luck to you<sup>[1](#fn1-26329 "see footnote")</sup>. Not everyone will want to do those things, and that’s fine. I’m not advocating for that. I think most people can do what I meant.
+Unfortunately the article spends a lot of time talking about blogging and podcasting which, perhaps, undermined the point I was trying to make. If you want to write blogs, speak on podcasts, and present at conferences, good luck to you[^1]. Not everyone will want to do those things, and that’s fine. I’m not advocating for that. I think most people can do what I meant.
 
 Here’s the key point: make your “content” as widely available as practicable. Allow people to *pull* when it’s convenient for them rather than you *push* the information you assume they’d be interested in.
 
@@ -48,9 +48,9 @@ But here’s the thing: you’re not stupid. I bet other people have a similar m
 
 > “What matters to me is not merely to impart to the reader what I have to say, but above all to convey to him the reasons, subterfuges, and lucky hazards which led me to my discoveries.”
 
-Those “lucky hazards” might help other avoid the same mistakes. Can we fix the documentation? Include it in the company induction? Is there a blog or a conference talk in it?<sup>[2](#fn2-26329 "see footnote")</sup> These steps may require a little extra work but they have benefits for everyone, from future you, to your colleagues and your customers.
+Those “lucky hazards” might help other avoid the same mistakes. Can we fix the documentation? Include it in the company induction? Is there a blog or a conference talk in it?[^2] These steps may require a little extra work but they have benefits for everyone, from future you, to your colleagues and your customers.
 
-<figure class="wp-block-image alignleft">![](https://i0.wp.com/imgs.xkcd.com/comics/duty_calls.png?ssl=1)<figcaption class="wp-element-caption">Someone is <span style="text-decoration: underline;">wrong</span> on the internet.</figcaption></figure>The other thing is that it’s a good strategy for getting the right answer. People can be too busy to respond, right up to the point where they find that [Someone On The Internet Was Wrong](https://xkcd.com/386/). People are more likely to offer to fix your work more readily than they will be to come up with a working solution from scratch.
+![Someone is wrong on the internet](https://imgs.xkcd.com/comics/duty_calls.png)The other thing is that it’s a good strategy for getting the right answer. People can be too busy to respond, right up to the point where they find that [Someone On The Internet Was Wrong](https://xkcd.com/386/). People are more likely to offer to fix your work more readily than they will be to come up with a working solution from scratch.
 
 What if no one looks up your status updates? What happens when your notes go unread? Well… nothing. You were already writing the notes and no one except you read them. Worst case, you’re exactly where you were.
 
@@ -58,9 +58,6 @@ In short, this is a terrible process if you want to be seen as being right all t
 
 And, best of all, there is no need to speak on a podcast or to have a website.
 
-<div class="footnotes">---
+[^1]: Again, possibly undermining my argument, I do write blogs — hello! — and have spoken at conferences. I’ve never appeared on a podcast, though!
 
-1. Again, possibly undermining my argument, I do write blogs — hello! — and have spoken at conferences. I’ve never appeared on a podcast, though! [↩︎](#fnr1-26329 "return to article")
-2. I said I wasn’t advocating podcasting or blogging, but that doesn’t mean you shouldn’t if it’s the best way of sharing the information. [↩︎](#fnr2-26329 "return to article")
-
-</div>
+[^2]: I said I wasn’t advocating podcasting or blogging, but that doesn’t mean you shouldn’t if it’s the best way of sharing the information. 

@@ -15,7 +15,7 @@ tags:
     - work
 ---
 
-<span style="font-size: revert;">Have you heard about the </span>[Maker Schedule](http://www.paulgraham.com/makersschedule.html)<span style="font-size: revert;">? The idea resonated as it explained a lot about my productivity.</span>
+Have you heard about the [Maker Schedule](http://www.paulgraham.com/makersschedule.html)? The idea resonated as it explained a lot about my productivity.
 
 For the uninitiated, here are how the two types are defined.
 
@@ -25,7 +25,7 @@ The Maker’s schedule, on the other hand:
 
 > \[Makers\] generally prefer to use time in units of half a day at least. You can’t write or program well in units of an hour. That’s barely enough time to get started.
 
-The challenge I have is that I’m neither a maker nor a manager. As a “consultant”<sup>[1](#fn1-23058 "see footnote")</sup> I fall somewhere between the two. The variety is what makes it interesting to me. The variety is also what makes it difficult.
+The challenge I have is that I’m neither a maker nor a manager. As a “consultant”[^1] I fall somewhere between the two. The variety is what makes it interesting to me. The variety is also what makes it difficult.
 
 Sometimes I have to sit and concentrate for a large block of time. Maybe I’m sketching out an architecture, researching something, building a prototype, or debugging some code. Perhaps I’m writing a report or putting together a presentation.
 
@@ -41,13 +41,9 @@ Another suggestion is to block out the time in my calendar. This is probably the
 
 Another reason it’s hard to keep those time blocks is that it can be hard to know how long they need to be. Consultants usually have to maximise “billable time,” which makes it hard to turn down sure-fire client-facing hours. If I block out four hours in my diary, what’s to say I won’t get stuck after an hour and have to wait for feedback? What do I then do with the remaining three hours? It’s a real optimisation and opportunity cost problem.
 
-So what’s the answer? I wish I had the One True Way. I’m not sure that one exists. Unlike many of the other people giving advice on the internet<sup>[2](#fn2-23058 "see footnote")</sup>, I am not 100% in control of my schedule. The best I’ve been able to come up with is a combination of all of the above. I *try* to have meeting-free days. I *try* to block time where it makes sense.
+So what’s the answer? I wish I had the One True Way. I’m not sure that one exists. Unlike many of the other people giving advice on the internet[^2], I am not 100% in control of my schedule. The best I’ve been able to come up with is a combination of all of the above. I *try* to have meeting-free days. I *try* to block time where it makes sense.
 
 To an extent, it’s my job to be flexible and available for clients. Maybe I just need to learn to live with it?
 
-<div class="footnotes">---
-
-1. I’m a “field engineer”, which means I help clients get the most out of my company’s software. [↩︎](#fnr1-23058 "return to article")
-2. As ever, you get what you pay for. [↩︎](#fnr2-23058 "return to article")
-
-</div>
+[^1]: I’m a “field engineer”, which means I help clients get the most out of my company’s software.
+[^2]: As ever, you get what you pay for.
