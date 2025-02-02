@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-I should have believed the reviews. [This is not a good book](https://amzn.to/2pL3TQo). A few light sniggers and that’s about all.
+I should have believed the reviews. [This is not a good book](https://amzn.to/2pL3TQo) [affiliate link]. A few light sniggers and that’s about all.
 
 The conceit is that Tony Hawks, writer and comedian, gets fan mail for Tony Hawk, celebrity skateboarder. He writes back.
 

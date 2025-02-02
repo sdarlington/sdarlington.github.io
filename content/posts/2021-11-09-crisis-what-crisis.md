@@ -18,7 +18,7 @@ tags:
     - 'united kingdom'
 ---
 
-Empty shops, rising prices, the laughing stock of Europe, our place in the world in question, people out of work and fuel shortages. But that’s enough about late 2021, I decided that I wanted to learn more about the Seventies, the decade that brought, well, me, the Winter of Discontent, power cuts, the three day week and shocking fashion sense. There are a few books that cover the same timeline, but I decided on “[Crisis? What Crisis?](https://amzn.to/3kfhW9N)”\[affiliate link\] by Alwyn W. Turner.
+Empty shops, rising prices, the laughing stock of Europe, our place in the world in question, people out of work and fuel shortages. But that’s enough about late 2021, I decided that I wanted to learn more about the Seventies, the decade that brought, well, me, the Winter of Discontent, power cuts, the three day week and shocking fashion sense. There are a few books that cover the same timeline, but I decided on “[Crisis? What Crisis?](https://amzn.to/3kfhW9N)” [affiliate link] by Alwyn W. Turner.
 
 The book is in roughly chronological order, with occasional jumping around to make certain aspects make sense.
 

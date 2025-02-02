@@ -22,7 +22,7 @@ tags:
 
 Over the years, “life” touches on the concepts fairly often. Whether it’s what’s going on at work or things the government is doing (or not doing), you can’t get far without hearing the word.
 
-Probably what I *need* is an “introduction to economics” book. Instead, I read Mariana Mazzucato’s “[The Value of Everything](https://amzn.to/2YOybjv),” which talks about the concept of “value” which isn’t *quite* the same thing but was fascinating nevertheless.
+Probably what I *need* is an “introduction to economics” book. Instead, I read Mariana Mazzucato’s “[The Value of Everything](https://amzn.to/2YOybjv)” [affiliate link], which talks about the concept of “value” which isn’t *quite* the same thing but was fascinating nevertheless.
 
 For example, reading about forecasts and GDP<sup>[1](#fn1-8608 "see footnote")</sup>, you often see hints, or explicit mention, that government is “unproductive.” Certainly, the idea that private enterprise is more efficient than the government is thoroughly entrenched. What I hadn’t really considered was how “value” and GDP is defined. And, it turns out, that what the government does is *by definition* unproductive.
 

@@ -19,6 +19,6 @@ tags:
 
 Anyone else read Scott Adams’ blog? The guy who does Dilbert? He seems to have gone off the rails a bit recently with all his Trump stuff *but* the idea behind some of it — the art of persuasion — is potentially interesting. I wanted to learn more.
 
-Jay Heinrichs’ “[How to argue with a cat](https://amzn.to/2Gpo5tt)” seemed like a good introduction, in that it didn’t look too sleazy or too serious. As an added bonus, it’s also very short.
+Jay Heinrichs’ “[How to argue with a cat](https://amzn.to/2Gpo5tt)” [affiliate link] seemed like a good introduction, in that it didn’t look too sleazy or too serious. As an added bonus, it’s also very short.
 
 It’s well written, humorous (“But most of us humans look ridiculous when we swivel our ears,” “Cats rarely change their expression. That’s one reason they look so dignified. It also helps them hide their ploys.”), entertaining and clearly organised, so I wish I could recommend it more. However, I’m not really sure how much new I learned by reading it. If you’re truly a beginner — maybe I knew more than I thought — it’s possibly worth a read otherwise you might want to consider something a little more advanced.

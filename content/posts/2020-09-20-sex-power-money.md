@@ -19,7 +19,7 @@ tags:
     - science
 ---
 
-This book isn’t what I was expecting. I know Sara Pascoe’s standup and thought [this](https://amzn.to/2FuqQPp) might be some fun, light reading.
+This book isn’t what I was expecting. I know Sara Pascoe’s standup and thought [this](https://amzn.to/2FuqQPp) [affiliate link] might be some fun, light reading.
 
 To be fair, the *writing* does have fun bits but the subject matter? Not so much. Relationships, power dynamics, tesosterone, prostitution. Heavy stuff! She’s clearly done reseach and quotes interviews<sup>[1](#fn1-3419 "see footnote")</sup> she’s conducted. This is no “memoir” as many comedians have done. But nor is it an academic treatise. There are still personal bits, as she discusses the struggles she had grappling with some of the more challenging concepts or how her opinions had changed over time. It’s a refreshing approach as most authors push the solution rather that the journey to it. Sometimes the route is more interesting than the destination.
 

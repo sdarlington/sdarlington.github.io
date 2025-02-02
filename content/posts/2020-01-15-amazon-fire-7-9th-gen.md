@@ -15,7 +15,7 @@ tags:
     - tablet
 ---
 
-<span style="color: var(--color-text); font-size: 16px; font-weight: 400;">A few years ago we got an Amazon </span>[Fire](/computing/reviews/amazon-fire-7.html)<span style="color: var(--color-text); font-size: 16px; font-weight: 400;"> tablet and I could almost copy and paste that review for </span>[the ninth generation unit](https://amzn.to/2ZMChrI)<span style="color: var(--color-text); font-size: 16px; font-weight: 400;">.</span>
+A few years ago we got an Amazon [Fire](/computing/reviews/amazon-fire-7.html) tablet and I could almost copy and paste that review for [the ninth generation unit](https://amzn.to/2ZMChrI) [affiliate link].
 
 My biggest complaint this time around is the battery life. It feels like it’s always in need of recharging. Almost everything else from last time is improved. It’s slightly smaller. The build quality is much better. It’s faster.
 

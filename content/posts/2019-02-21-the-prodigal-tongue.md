@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-Lynne Murphy writes [a great blog](https://separatedbyacommonlanguage.blogspot.com), which [this book](https://amzn.to/2BA1NW8) is at least partly based on, about the differences between American and British English. Or should that be *that* this book is based on?
+Lynne Murphy writes [a great blog](https://separatedbyacommonlanguage.blogspot.com), which [this book](https://amzn.to/2BA1NW8) [affiliate link] is at least partly based on, about the differences between American and British English. Or should that be *that* this book is based on?
 
 Books like this really make you question everything you write.
 

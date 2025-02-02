@@ -15,7 +15,7 @@ tags:
     - review
 ---
 
-I’m not generally big on memoirs or autobiographies, but I’ve liked a lot of things Robert Webb has done and the title “[How not to be a boy](https://amzn.to/2LKahB1)” worked for me.
+I’m not generally big on memoirs or autobiographies, but I’ve liked a lot of things Robert Webb has done and the title “[How not to be a boy](https://amzn.to/2LKahB1)” [affiliate link] worked for me.
 
 There’s a lot I can relate to in here. I may not have wanted to be an actor or comedian but there are definite parallels to people, like myself, who were not interested in “boys” things like football. While that’s not necessary in a memoir, it did make the more rant-y, less autobiographical parts make sense to me.
 

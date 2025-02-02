@@ -22,7 +22,7 @@ tags:
 
 <span style="font-size: revert;">Before you ask, yes, it is weird that I’m reading a bunch of “management” books.</span>
 
-You can watch Michael Lopp’s career by following his various books. Start with “[Being Geek](https://amzn.to/3AQ9w05),” the software developer’s career handbook. The move into management resulted in “[Managing Humans](https://amzn.to/3KPQPhJ).” And his promotion from manager to director and executive gets you “[The Art of Leadership](https://amzn.to/3wYr2hC),” which is the book I recently finished.
+You can watch Michael Lopp’s career by following his various books. Start with “[Being Geek](https://amzn.to/3AQ9w05)” [affiliate link], the software developer’s career handbook. The move into management resulted in “[Managing Humans](https://amzn.to/3KPQPhJ)” [affiliate link]. And his promotion from manager to director and executive gets you “[The Art of Leadership](https://amzn.to/3wYr2hC)” [affiliate link] which is the book I recently finished.
 
 My career has not followed the same trajectory. I continue to be an “individual contributor,” so why would I read this book?
 

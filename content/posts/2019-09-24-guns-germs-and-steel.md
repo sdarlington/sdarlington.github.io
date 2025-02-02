@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-[Jared Diamond’s door-stop of a book](https://amzn.to/2lyCsat) has been on my to-read list for quite some time. Maybe not quite since it was released over twenty years ago but probably not far from it.
+[Jared Diamond’s door-stop of a book](https://amzn.to/2lyCsat) [affiliate link] has been on my to-read list for quite some time. Maybe not quite since it was released over twenty years ago but probably not far from it.
 
 The gist is pretty much there in the title: in the last 13,000 years, the most successful societies used guns, germs and steel to conquer others. Why, for example, was it Europeans who had world-wide empires rather than Africans or Americans or Chinese?
 

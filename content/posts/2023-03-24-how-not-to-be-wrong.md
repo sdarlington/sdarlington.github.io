@@ -15,9 +15,9 @@ tags:
     - review
 ---
 
-<span style="font-size: revert;">“</span>[How not to be wrong: The art of changing your mind](https://amzn.to/422RJ2t)<span style="font-size: revert;">” is a follow-up to James O’Brien’s earlier book, “</span>[How to be right](/blog/how-to-be-right.html)<span style="font-size: revert;">.” The idea this time is that he walks through a number of areas where he has been wrong in the past and has changed his mind.</span>
+“[How not to be wrong: The art of changing your mind](https://amzn.to/422RJ2t)” [affiliate link] is a follow-up to James O’Brien’s earlier book, “[How to be right](/blog/how-to-be-right.html)” The idea this time is that he walks through a number of areas where he has been wrong in the past and has changed his mind.
 
-It’s such a simple concept, but, as a society, we have difficulty doing exactly that. Politicians are criticised for doing the wrong thing and then again for doing a u-turn. Tribal loyalty means that people won’t change their minds if that would mean agreeing with “the enemy.” I’m not putting myself above this<sup>[1](#fn1-16568 "see footnote")</sup>, sadly, and neither does O’Brien.
+It’s such a simple concept, but, as a society, we have difficulty doing exactly that. Politicians are criticised for doing the wrong thing and then again for doing a u-turn. Tribal loyalty means that people won’t change their minds if that would mean agreeing with “the enemy.” I’m not putting myself above this[^1], sadly, and neither does O’Brien.
 
 He explores a wide range of subjects, from corporal punishment in schools, to stop and search, tattoos, fat-shaming and trans rights. For some subjects, he admits he was wrong, others we discover that it’s [all a bit more complicated than that](/blog/reading-2016.html), and that, perhaps, anyone with absolute certainty is missing something. We’d be better off as a society if people were willing to say “I don’t know” more often.
 
@@ -25,8 +25,4 @@ The debates are a mixture of personal anecdotes and transcripts from guests on h
 
 Like his previous effort, it’s not a *bad* book but nor is it an essential read.
 
-<div class="footnotes">---
-
-1. “Fortunately,” the current government isn’t giving me much opportunity to reluctantly agree with them. [↩︎](#fnr1-16568 "return to article")
-
-</div>
+[^1]: “Fortunately,” the current government isn’t giving me much opportunity to reluctantly agree with them. [↩︎](#fnr1-16568 "return to article")

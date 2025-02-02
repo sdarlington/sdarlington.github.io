@@ -18,9 +18,9 @@ tags:
     - reading2021
 ---
 
-I rate William Boyd as one of my favourite authors, so when I say that “[Sweet Caress](https://amzn.to/3rBdVh3)” isn’t his best work you have to calibrate it appropriately.
+I rate William Boyd as one of my favourite authors, so when I say that “[Sweet Caress](https://amzn.to/3rBdVh3)” [affiliate link] isn’t his best work you have to calibrate it appropriately.
 
-As a structure, it’s almost identical to “[Any Human Heart](https://amzn.to/3cUq5NZ).” It’s a journal or memoir of an interesting character, covering pretty much their entire life. In this one, Amory Clay is born early in the twentieth century and lives a full life as a photographer in Europe, North America and Asia. The timing allows her to see the World Wars, the rise of fascism, the Vietnam war and much more besides. It covers her successes and failures, and the consequences of them both.
+As a structure, it’s almost identical to “[Any Human Heart](https://amzn.to/3cUq5NZ)” [affiliate link]. It’s a journal or memoir of an interesting character, covering pretty much their entire life. In this one, Amory Clay is born early in the twentieth century and lives a full life as a photographer in Europe, North America and Asia. The timing allows her to see the World Wars, the rise of fascism, the Vietnam war and much more besides. It covers her successes and failures, and the consequences of them both.
 
 What makes it work is that Clay is entirely believable. She’s fun and brave, impulsive and flawed. Lacking any of those qualities might have made it less of an entertaining read or less plausible.
 

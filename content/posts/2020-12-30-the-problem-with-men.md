@@ -18,7 +18,7 @@ tags:
     - Reading2020
 ---
 
-<span style="font-size: inherit; font-weight: 400;">If there’s one thing to take away from “</span>[The Problem With Men](https://amzn.to/2JxHYpK)<span style="font-size: inherit; font-weight: 400;">” is that there </span>*is*<span style="font-size: inherit; font-weight: 400;"> an International Men’s Day and it’s on November 19th. Is that two things?</span>
+If there’s one thing to take away from “[The Problem With Men](https://amzn.to/2JxHYpK)” [affiliate link] is that there *is* an International Men’s Day and it’s on November 19th. Is that two things?
 
 But you probably knew that.
 

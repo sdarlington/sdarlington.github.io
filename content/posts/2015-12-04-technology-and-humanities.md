@@ -15,7 +15,7 @@ I read a couple of things about the [intersection between technology and the lib
 
 ## What the humanities can learn
 
-The first was in the conclusion of Walter Isaacson’s “[The Innovators](http://amzn.to/1O8mGnN),” a book about the inventors of the “digital revolution.” He started by talking about how engineers need to understand the arts and humanities (as Steve Jobs insisted Apple did) and moves on to how the opposite is also true:
+The first was in the conclusion of Walter Isaacson’s “[The Innovators](http://amzn.to/1O8mGnN),” [affiliate link] a book about the inventors of the “digital revolution.” He started by talking about how engineers need to understand the arts and humanities (as Steve Jobs insisted Apple did) and moves on to how the opposite is also true:
 
 > The converse to this paean to the humanities, however, is also true. People who love the arts and humanities should endeavour to appreciate the beauties of math and physics, just as Ada did. Otherwise, they will be left as bystanders at the intersection of arts and science, where most digital-age creativity will occur. They will surrender control of that territory to the engineers.
 > 

@@ -15,7 +15,7 @@ tags:
     - review
 ---
 
-I learned about this book on [Richard Herring’s Leicester Square Theatre Podcast](https://www.comedy.co.uk/podcasts/richard_herring_lst_podcast/rhlstp_281_robert_webb/) (RHLSTP!). One of my favourite nineties comedy performers interviewing one of my favourite two-thousands comedy performers. I guess what I’m saying is that I’m not entirely impartial; I was predisposed to like “[Come Again](https://amzn.to/36vdoWW).”
+I learned about this book on [Richard Herring’s Leicester Square Theatre Podcast](https://www.comedy.co.uk/podcasts/richard_herring_lst_podcast/rhlstp_281_robert_webb/) (RHLSTP!). One of my favourite nineties comedy performers interviewing one of my favourite two-thousands comedy performers. I guess what I’m saying is that I’m not entirely impartial; I was predisposed to like “[Come Again](https://amzn.to/36vdoWW)” [affiliate link].
 
 Webb’s [first book was a kind of a memoir](/blog/how-not-to-be-a-boy.html). This is a novel. I’m pretty much the perfect demographic. The lead character went to an English university in the early nineties to study Computer Science. Even though it was a different university, so much was familiar.
 

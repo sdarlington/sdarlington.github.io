@@ -18,6 +18,6 @@ tags:
 
 Sometimes I can’t help being a bit of a liberal caricature. James O’Brien is one too, and he knows it.
 
-In his book “[How to be right… in a world gone wrong](https://amzn.to/3b59Olg)” he goes through a bunch of topics, from Islam to Political Correctness, and debunks the common arguments, often using transcripts from his radio show. The chapter on The Age Gap is, perhaps, the one that made me think the most.
+In his book “[How to be right… in a world gone wrong](https://amzn.to/3b59Olg)” [affiliate link] he goes through a bunch of topics, from Islam to Political Correctness, and debunks the common arguments, often using transcripts from his radio show. The chapter on The Age Gap is, perhaps, the one that made me think the most.
 
 If you live in the same bubble that I do, you’ll probably find that it’s not essential reading. Which is not to say that it’s badly written or poorly argued or difficult to read. It isn’t. It’s a quick, enjoyable read. There’s just not a lot that’s new.

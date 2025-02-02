@@ -15,7 +15,7 @@ tags:
     - review
 ---
 
-![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/07/IMG_4463-1.jpg?resize=300%2C225&ssl=1)This was all set to be a story of how much the whole family were enjoying the [Nintendo Switch](http://amzn.to/2tVm6tO). While that’s true, there’s another side. We’ll get to that but let’s start with the good stuff.
+![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/07/IMG_4463-1.jpg?resize=300%2C225&ssl=1)This was all set to be a story of how much the whole family were enjoying the [Nintendo Switch](http://amzn.to/2tVm6tO)[^aff]. While that’s true, there’s another side. We’ll get to that but let’s start with the good stuff.
 
 Long story short: after just over a week, we’re all getting a lot out of it. The games are fun, even my three year old gets a kick driving Princess Peach around what looks like Sugar Rush from Wreck-It Ralph.
 
@@ -23,7 +23,7 @@ I should probably qualify our enthusiasm. I’ve never owned a games console bef
 
 What I *do* care about are fun games, preferably multiplayer — sat around the TV rather than online — that can be played by all ages without requiring much effort to get started.
 
-We’ve mostly played [Mario Kart](http://amzn.to/2tdZwOk) connected to the TV, using [the steering wheel accessory](http://amzn.to/2trtx8x), in two player mode. I was tempted to get a couple more joycons so all four of us could play together until I saw [how much they cost](http://amzn.to/2tVpXHp)!
+We’ve mostly played [Mario Kart](http://amzn.to/2tdZwOk)[^aff] connected to the TV, using [the steering wheel accessory](http://amzn.to/2trtx8x)[^aff], in two player mode. I was tempted to get a couple more joycons so all four of us could play together until I saw [how much they cost](http://amzn.to/2tVpXHp)[^aff]!
 
 Overall it Just Works. Even a software update was quick and simple. (Top tip: when setting it up, do it handheld rather than docked with the TV. That way you can enter your Wifi and account passwords with the touchscreen keyboard.) The graphics are beautiful (probably more a function of Nintendo’s designers than hardware prowess) and the sound adds to the experience, in contrast to many iOS games where it’s irritating or distracting.
 
@@ -37,7 +37,7 @@ Also, the dock is, if not wrong, then at least a bit odd. It’s the same height
 
 Under “recent launch” I’d put some of the pairing issues I’ve seen with the joycons, especially when trying to use the sticks separately in Mario Kart. I’m hoping, presuming, that this is a fixable software glitch.
 
-As I hinted at in the first paragraph, in the second week things took a turn for the worse. I fired up [ARMS](http://amzn.to/2temWTI) but couldn’t start it.
+As I hinted at in the first paragraph, in the second week things took a turn for the worse. I fired up [ARMS](http://amzn.to/2temWTI)[^aff] but couldn’t start it.
 
 After a while debugging, I figured out that the L button on the left joycon no longer worked. I was pretty relaxed about it initially, assuming it was a software glitch that could be fixed by some combination of fiddling around and searching the internet.
 
@@ -66,3 +66,5 @@ As of yesterday, there’s a happy ending to my first few weeks with the device.
 We spent a while last night, er, testing the new joycons with ARMS and I can confirm that they work as expected. This morning we combined the joycons from the new console with the working one from the old and had a three-player game of Mario Kart. This pushes me ever so closer to buying that second set of joycons…
 
 So despite the problems, we all still like it. That, I think, says a lot.
+
+[^aff]: Affiliate link.

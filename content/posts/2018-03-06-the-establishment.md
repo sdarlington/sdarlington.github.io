@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-“[The Establishment](http://amzn.to/2sRNvhC)” by Owen Jones is another Brexit-inspired read, though it was actually written before the referendum and some of it has dated remarkably quickly because of that.
+“[The Establishment](http://amzn.to/2sRNvhC)” [affiliate link] by Owen Jones is another Brexit-inspired read, though it was actually written before the referendum and some of it has dated remarkably quickly because of that.
 
 It reads like a long Guardian article. Or, maybe, as a collection of Guardian columns strung together, in the sense that some turns of phrase seem to repeat often. If they’d not been in one book it might have been less noticeable? And the politics are similarly left-leaning.
 

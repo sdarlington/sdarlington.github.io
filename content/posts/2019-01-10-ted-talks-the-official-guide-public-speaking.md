@@ -17,7 +17,7 @@ tags:
     - ted
 ---
 
-Over the years my job has required me to do varying amounts of public speaking. A few years ago I was doing it weekly to audiences ranging from a handful of people to dozens. I’ve done less recently but it’s something I wanted to get back into, hence this book. TED talks are slickly produced and the speakers almost always appear to be, at the very least, competent, and usually much better than that. That made “[TED Talks](https://amzn.to/2Vpso0C)” a good place to start.
+Over the years my job has required me to do varying amounts of public speaking. A few years ago I was doing it weekly to audiences ranging from a handful of people to dozens. I’ve done less recently but it’s something I wanted to get back into, hence this book. TED talks are slickly produced and the speakers almost always appear to be, at the very least, competent, and usually much better than that. That made “[TED Talks](https://amzn.to/2Vpso0C)” [affiliate link] a good place to start.
 
 While reading the book I ended up speaking at a conference and I was able to put some of the lessons into practice. Of course I’d only read half of it so I did make some avoidable mistakes. However, it also showed some practical limitations of the book: naturally it’s about the kind of talks given at TED, but most people rarely do that.
 

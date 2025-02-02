@@ -16,7 +16,7 @@ tags:
     - uk
 ---
 
-<span style="font-size: revert;">“</span>[A Decade in Tory](https://amzn.to/3LX7wdm)<span style="font-size: revert;">” by Russell Jones was a shorter book than I thought. Ordinarily that might be a bad thing, but the reason for my confusion in this case is that there are nearly five hundred pages of footnotes and fifty for the index. There are plenty of criticisms you could make, but you can’t argue that it’s not well researched or that the events are made up.</span>
+"[A Decade in Tory](https://amzn.to/3LX7wdm)" [affiliate link] by Russell Jones was a shorter book than I thought. Ordinarily that might be a bad thing, but the reason for my confusion in this case is that there are nearly five hundred pages of footnotes and fifty for the index. There are plenty of criticisms you could make, but you can’t argue that it’s not well researched or that the events are made up.
 
 Because, honestly, if you hadn’t lived through some of the stories, read about them as they occurred, you might well think they were fictional.
 

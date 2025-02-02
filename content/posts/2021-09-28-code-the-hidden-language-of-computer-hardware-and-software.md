@@ -19,7 +19,7 @@ tags:
     - review
 ---
 
-<span style="font-size: revert; font-weight: 400;">While I have more than enough books on my “to read” list, I am always up for suggestions. “</span>[Code](https://amzn.to/3AHy0Yj)<span style="font-size: revert; font-weight: 400;">” came up in a Twitter conversations about computer hardware. I noted that one of my favourite courses from my Computer Science degree (in hindsight if not at the time) was where we went from “What is electricity?” right up to a pretty much fully working CPU. “Code” was recommended as it covers the same ground.</span>
+While I have more than enough books on my “to read” list, I am always up for suggestions. “[Code](https://amzn.to/3AHy0Yj)” [affiliate link] came up in a Twitter conversations about computer hardware. I noted that one of my favourite courses from my Computer Science degree (in hindsight if not at the time) was where we went from “What is electricity?” right up to a pretty much fully working CPU. “Code” was recommended as it covers the same ground.
 
 If you’d like to refresh your memory or you never took such a course, this is great introduction to how computers work.
 

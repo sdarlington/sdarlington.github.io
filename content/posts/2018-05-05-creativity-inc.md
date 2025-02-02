@@ -15,7 +15,7 @@ tags:
     - Reading2018
 ---
 
-I wasn’t entirely sure what to expect when I started “[Creativity, inc](https://amzn.to/2FLmeys).” In the end, it’s a bunch of anecdotes strung together to explain certain business practices that [Ed Catmull](https://en.m.wikipedia.org/wiki/Edwin_Catmull) believes has made Pixar successful. Half biography, half management guide if you like.
+I wasn’t entirely sure what to expect when I started “[Creativity, inc](https://amzn.to/2FLmeys)” [affiliate link]. In the end, it’s a bunch of anecdotes strung together to explain certain business practices that [Ed Catmull](https://en.m.wikipedia.org/wiki/Edwin_Catmull) believes has made Pixar successful. Half biography, half management guide if you like.
 
 While the stories are engaging, and he has a surprising degree of humility, it’s difficult to see how many of the ideas can be successfully translated to other industries. Which is not to say that he’s wrong just that I wouldn’t expect to take his advice and immediately apply it to your workplace.
 

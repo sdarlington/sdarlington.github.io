@@ -16,7 +16,7 @@ tags:
     - review
 ---
 
-<span style="font-size: revert;">I have a problem with </span>[this book](https://amzn.to/3yxLzKk)<span style="font-size: revert;">. Now that I come to write some notes on it, I find that there is so much that I want to quote that I may as well copy and paste the whole text.</span>
+I have a problem with [this book](https://amzn.to/3yxLzKk) [affiliate link]. Now that I come to write some notes on it, I find that there is so much that I want to quote that I may as well copy and paste the whole text.
 
 I’m not going to, but here are a few.
 

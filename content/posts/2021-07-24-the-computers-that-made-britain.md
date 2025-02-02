@@ -25,7 +25,7 @@ tags:
 
 But looking back, there’s a huge diversity of ideas all leaping onto the market in just a few years. Naturally, some of those ideas were terrible. Many machines were rushed and buggy, precisely because there was so much competition. Going on sale at the right time could make or break a machine.
 
-Tim Danton’s “[The Computers That Made Britain](https://amzn.to/3reOmDL)” is the story of a few of those machines.
+Tim Danton’s “[The Computers That Made Britain](https://amzn.to/3reOmDL)[^aff]” is the story of a few of those machines.
 
 He covers all the obvious ones, like the Spectrum and the BBC Micro, and others that I’ve not seen the stories of before, like the PCW8256.
 
@@ -37,4 +37,6 @@ But those are minor complaints for an otherwise well put together book. Recommen
 
 It’s published by the company that makes Raspberry Pis, which you could argue is the spiritual successor to the Sinclair and Acorn machine. You *can* download the book for free, but you should buy it! The above link is for Amazon, but if you’re near Cambridge you should pop into the Raspberry Pi store and pick up your copy there instead.
 
-If this is your kind of book, I would also recommend “[Digital Retro](https://amzn.to/2UjX9YZ)” and “[Home Computers: 100 Icons that defined a digital generation](https://amzn.to/3hJHo6s),” both of which are more photography books than stories.
+If this is your kind of book, I would also recommend “[Digital Retro](https://amzn.to/2UjX9YZ)[^aff]” and “[Home Computers: 100 Icons that defined a digital generation](https://amzn.to/3hJHo6s)[^aff],” both of which are more photography books than stories.
+
+[^aff]: Affiliate link.

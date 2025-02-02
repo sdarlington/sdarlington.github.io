@@ -17,7 +17,7 @@ tags:
     - work
 ---
 
-If I took [this book](https://amzn.to/2tVeieh) to heart, I should try to convince you to read it.
+If I took [this book](https://amzn.to/2tVeieh) [affiliate link] to heart, I should try to convince you to read it.
 
 I’ll be honest, I wasn’t sure I’d like this book, and I mainly took it out of the library so I could make the joke in the first paragraph (and others like it). I mean, negotiation isn’t my job. I’m not, like the author, a hostage negotiator. I’m not even in sales. The key, of course, is that we all have to negotiate from time to time. While I may not often have to negotiate money in my day job, I *do* have to agree on the scope of work. This is a form of negotiation. We all have to buy stuff or hire someone to deal with jobs around the house.
 

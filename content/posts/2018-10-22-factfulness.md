@@ -18,7 +18,7 @@ tags:
     - world
 ---
 
-I didn’t mean to immediately buy Hans Rosling’s “[Factfulness](https://amzn.to/2Aoyshn)“. I saw it in a “recommended reads” list (both Bill Gates and Barak Obama suggested it, if I remember correctly), thought it sounded interesting and went to Amazon to add it to my wish list. Fat fingers meant that I tapped the “buy” button instead.
+I didn’t mean to immediately buy Hans Rosling’s “[Factfulness](https://amzn.to/2Aoyshn)“ [affiliate link]. I saw it in a “recommended reads” list (both Bill Gates and Barak Obama suggested it, if I remember correctly), thought it sounded interesting and went to Amazon to add it to my wish list. Fat fingers meant that I tapped the “buy” button instead.
 
 Anyway. As an antidote to all the bad news around at the moment, I decided to read it right away. The narrative that the world is getting worse by many measures, this book argues, is false. I *want* to believe that we’re progressing but the pictures on TV of Trump and Brexit, famine and war make it hard to accept.
 
