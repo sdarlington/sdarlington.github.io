@@ -1,5 +1,6 @@
 ---
 date: '2025-01-31T10:08:23Z'
+lastmod: '2025-02-02T19:23:42+00:00'
 title: 'Big Tech isn''t All Tech'
 author: 'Stephen Darlington'
 layout: post
@@ -55,6 +56,14 @@ The tech industry isn't all social networks and messaging services and AI chatbo
 That invisibility and the incremental nature of improvements means it's easy to miss them. But there are thousands of companies and millions of people pushing forward. Even if most fail -- and they will -- there will be many great ideas.
 
 When I think of the tech industry, _that's_ what comes to mind. Their sheer size and influence means that we can't ignore Big Tech but it's a mistake to conflate them with everyone else.
+
+*Update (2 February, 2025)*: [Halle Winkler](https://mastodon.social/@Halle/113923061789124940) made an excellent point that I got quite close to making but didn't quite get there.
+
+> There are simply a huge number of people in this industry, big tech or not, who resonate with the industry Leitmotif of not applying humanism to their choices.
+
+When I read the Andreesen quote, I imbue it with humanism because that's how I see the world. I want it to be true! I do not believe that technology is inherently good, rather that with care and thought it can be used to enhance our lives. As Halle notes, this take is not shared by everyone.
+
+I guess the question is how many people in the industry subscribe to each philosophy? There is probably no way to know. In my bubble, I know very few who take Andreesen's tech-is-inherently-good outlook. That's unlikely to be representative. However, [I want to believe](https://en.wikipedia.org/wiki/The_X-Files:_I_Want_to_Believe).
 
 [^1]: I'm generalising here. Not all make the bulk of their money this way but it's too common.
 
