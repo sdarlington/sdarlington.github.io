@@ -18,7 +18,7 @@ tags:
     - review
 ---
 
-<span style="font-size: inherit; font-weight: 400;">I met a man once. He was tall and dark, with straight hair in parting on his left side. His smooth, fair skin contrasted with his choice of a dark, tailored suit. He rarely wore a tie, but in a small concession to whimsy his cuff links bore small images of Daffy Duck. When anyone noticed, he’d laugh it off, saying they were a gift from his youngest.</span>
+I met a man once. He was tall and dark, with straight hair in parting on his left side. His smooth, fair skin contrasted with his choice of a dark, tailored suit. He rarely wore a tie, but in a small concession to whimsy his cuff links bore small images of Daffy Duck. When anyone noticed, he’d laugh it off, saying they were a gift from his youngest.
 
 Sat in his office on the fifteenth floor of an anonymous office block in the City of London he had a realisation, one that would change his life forever.
 

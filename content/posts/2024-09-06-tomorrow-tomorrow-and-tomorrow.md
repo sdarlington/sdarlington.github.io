@@ -15,7 +15,7 @@ tags:
     - reading2024
 ---
 
-<span style="font-size: revert; font-family: var(--wp--preset--font-family--body);">For a while, </span>[this book](https://amzn.to/3XgA6ee)<span style="font-size: revert; font-family: var(--wp--preset--font-family--body);"> \[affiliate link\] was everywhere. It was recommended on podcasts. Every second person on the Tube was reading it. Friends suggested I take a look.</span>
+For a while, [this book](https://amzn.to/3XgA6ee) \[affiliate link\] was everywhere. It was recommended on podcasts. Every second person on the Tube was reading it. Friends suggested I take a look.
 
 In the end, I added it to my queue at the library but its popularity meant that I had to wait six months for it to become available!
 

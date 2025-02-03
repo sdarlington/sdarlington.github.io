@@ -17,7 +17,7 @@ tags:
     - uk
 ---
 
-<span style="font-size: revert;">If there’s one good thing that has come out of the whole Brexit omnishambles, it’s that my understanding of how British politics works has dramatically increased. I don’t think it’s worth the cost, but understanding how laws are debated and passed is something that should be taught in schools, but isn’t.</span>
+If there’s one good thing that has come out of the whole Brexit omnishambles, it’s that my understanding of how British politics works has dramatically increased. I don’t think it’s worth the cost, but understanding how laws are debated and passed is something that should be taught in schools, but isn’t.
 
 Brexit taught me about Proroguing Parliament and the various readings of bills. I learned of the role that committees serve and the works that the Lords do. It made me do homework to find out what a “three line whip” is.
 

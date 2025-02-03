@@ -18,4 +18,4 @@ tags:
 
 *Part of the [Twenty Books in Twenty Days](/blog/twenty-books.html) series.*
 
-At some point I realised I would never be a *great* programmer. It’s possible that point came when I read this book, where [Bentley](https://amzn.to/3zqtmCw) \[affiliate link\[ iterates on a number of problems, gradually improving them. Maybe I couldn’t do what the author does, but it’s a fascinating, well written journey.
+At some point I realised I would never be a *great* programmer. It’s possible that point came when I read this book, where [Bentley](https://amzn.to/3zqtmCw) [affiliate link] iterates on a number of problems, gradually improving them. Maybe I couldn’t do what the author does, but it’s a fascinating, well written journey.

@@ -15,7 +15,7 @@ tags:
     - Reading2023
 ---
 
-[This book](https://amzn.to/47FjakQ)<span style="font-size: revert;"> (affiliate link) was being promoted by </span>[my local council](https://www.wimbledonbookfest.org/merton-big-read/)<span style="font-size: revert;"> as part of a reading campaign. I’m not sure I would have picked it up otherwise, which, despite my misgivings, would have been a shame.</span>
+[This book](https://amzn.to/47FjakQ) (affiliate link) was being promoted by [my local council](https://www.wimbledonbookfest.org/merton-big-read/) as part of a reading campaign. I’m not sure I would have picked it up otherwise, which, despite my misgivings, would have been a shame.
 
 The story is about the world population spontaneously turning black, and the consequence and effects of that. It focuses on a few characters (Anders and Oona) and how it affects their lives.
 

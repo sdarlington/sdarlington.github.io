@@ -18,7 +18,7 @@ tags:
     - uk
 ---
 
-<span style="font-size: revert;">It’s difficult to come up with a better explanation for what this book is like than the description on the back: </span>[Depraved New World](https://amzn.to/3REMBx3)<span style="font-size: revert;"> (affiliate link) is a worryingly funny collection, which captures British politics at its most absurd. ￼</span>
+It’s difficult to come up with a better explanation for what this book is like than the description on the back: [Depraved New World](https://amzn.to/3REMBx3) (affiliate link) is a worryingly funny collection, which captures British politics at its most absurd. 
 
 It’s a collection of John Crace’s political sketches, originally published in the Guardian, covering October 2021 to June 2023. A pretty eventful time in British politics.
 

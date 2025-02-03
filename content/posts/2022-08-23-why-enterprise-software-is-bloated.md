@@ -15,7 +15,7 @@ tags:
     - Software
 ---
 
-<span style="font-size: revert;">I confess that I’ve stolen the title of the post from </span>[elsewhere](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)<span style="font-size: revert;">. My objective here is not to detract from that post, which is great, but to build on a few points that I </span>*thought*<span style="font-size: revert;"> it was going to make but didn’t. To make it clear where I’m coming from, here’s </span>[a Tweet](https://twitter.com/sdarlington/status/1489618760180944897?s=21)<span style="font-size: revert;"> that I wrote some time before I read that blog:</span>
+I confess that I’ve stolen the title of the post from [elsewhere](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/). My objective here is not to detract from that post, which is great, but to build on a few points that I *thought* it was going to make but didn’t. To make it clear where I’m coming from, here’s [a Tweet](https://twitter.com/sdarlington/status/1489618760180944897?s=21) that I wrote some time before I read that blog:
 
 > People who complain that “enterprise” software is too expensive have clearly never come across the bizarre, arbitrary and nonsensical policies and rules these companies have. It’s not unusual to have two customers with contradictory policies.
 

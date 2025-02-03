@@ -18,7 +18,7 @@ tags:
     - technology
 ---
 
-“[Make Something Wonderful](https://books.apple.com/gb/book/make-something-wonderful/id6446905902)<span style="font-size: revert;">,” a collection of Steve Jobs writing and photos is… well, it’s a good thing that I write these notes for myself. You’ll already know if you’re interested.</span>
+“[Make Something Wonderful](https://books.apple.com/gb/book/make-something-wonderful/id6446905902),” a collection of Steve Jobs writing and photos is… well, it’s a good thing that I write these notes for myself. You’ll already know if you’re interested.
 
 I’m not sure there’s much new and undiscovered here, but it’s nicely collated and fascinating reading.
 

@@ -16,7 +16,7 @@ tags:
     - startup
 ---
 
-<span style="color: var(--color-text); font-size: 16px; font-weight: 400;">Here’s something I’ve seen a few times recently: a startup issues a patch for a critical issue seen by one of their large customers. The “enterprise,” however, takes a week to install and test it. Clearly, the startup concludes, if it takes a week to </span>*try*<span style="color: var(--color-text); font-size: 16px; font-weight: 400;"> a patch it can’t be </span>*that*<span style="color: var(--color-text); font-size: 16px; font-weight: 400;"> urgent or the staff are dumb, or, quite likely, both.</span>
+Here’s something I’ve seen a few times recently: a startup issues a patch for a critical issue seen by one of their large customers. The “enterprise,” however, takes a week to install and test it. Clearly, the startup concludes, if it takes a week to *try* a patch it can’t be *that* urgent or the staff are dumb, or, quite likely, both.
 
 Separately, we all know that a [big difference between a startup and an enterprise is process](https://seths.blog/2019/08/rules-and-responsibility/). So why do people suddenly get angry and start to lack empathy when that difference is exposed?
 

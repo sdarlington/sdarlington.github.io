@@ -16,7 +16,7 @@ tags:
     - Reading2023
 ---
 
-<span style="font-size: revert;">“</span>[Wilt on High](https://ramblingreaders.org/book/128190/s/wilt-on-high)<span style="font-size: revert;">” is another one of those books that I read because a number of people said “if you like Douglas Adams, you’ll enjoy Tom Sharpe.” This book was picked arbitrarily by virtue of being available in a second hand bookstore for 50p.</span>
+"[Wilt on High](https://ramblingreaders.org/book/128190/s/wilt-on-high)” is another one of those books that I read because a number of people said “if you like Douglas Adams, you’ll enjoy Tom Sharpe.” This book was picked arbitrarily by virtue of being available in a second hand bookstore for 50p.
 
 Since it’s the third book in the series staring Wilt and I’ve not read any of the others, there were some references to the backstory that I missed. I don’t think those details were absolutely critical.
 

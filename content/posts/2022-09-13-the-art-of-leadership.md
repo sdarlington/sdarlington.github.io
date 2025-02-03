@@ -20,7 +20,7 @@ tags:
     - reading2022
 ---
 
-<span style="font-size: revert;">Before you ask, yes, it is weird that I’m reading a bunch of “management” books.</span>
+Before you ask, yes, it is weird that I’m reading a bunch of “management” books.
 
 You can watch Michael Lopp’s career by following his various books. Start with “[Being Geek](https://amzn.to/3AQ9w05)” [affiliate link], the software developer’s career handbook. The move into management resulted in “[Managing Humans](https://amzn.to/3KPQPhJ)” [affiliate link]. And his promotion from manager to director and executive gets you “[The Art of Leadership](https://amzn.to/3wYr2hC)” [affiliate link] which is the book I recently finished.
 

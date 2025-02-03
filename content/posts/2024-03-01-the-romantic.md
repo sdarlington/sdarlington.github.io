@@ -15,7 +15,7 @@ tags:
     - reading2024
 ---
 
-<span style="font-size: revert; color: #2b2b2b;">William Boyd is one of my favourite authors. He specialises in doorstop novels that document the entire life of an interesting individual. His most famous is probably “Any Human Heart” and “</span>[The Romantic](https://amzn.to/42V3bye)<span style="font-size: revert; color: #2b2b2b;">” \[affiliate link\] follows in its footsteps.</span>
+William Boyd is one of my favourite authors. He specialises in doorstop novels that document the entire life of an interesting individual. His most famous is probably “Any Human Heart” and "[The Romantic](https://amzn.to/42V3bye)" [affiliate link] follows in its footsteps.
 
 The story crosses the globe, starting in Ireland, moving to England, Belgium, the US, Africa, India, Sri Lanka, Italy, Austrian and others I’m probably forgetting. And it begins in 1899, so covers an interesting time in history. (I did some quick Wikipedia fact checking and it stands up!)
 

@@ -17,7 +17,7 @@ tags:
     - process
 ---
 
-<span style="color: #3d596d; background-color: #ffffff;">The problem with “agile development” is that it is both a methodology and a buzzword. What this means in practice is that people who do not understand it implement parts of it without appreciating the whole. This usually results in more overhead but without the benefits.</span>
+The problem with “agile development” is that it is both a methodology and a buzzword. What this means in practice is that people who do not understand it implement parts of it without appreciating the whole. This usually results in more overhead but without the benefits.
 
 I’ve come across this multiple times in my career. The usual refrain is “we’re agile so we don’t need documentation.” The “agile” aspect is more often than not, merely the assertion that the project is agile. Or someone says that the code is the documentation.
 

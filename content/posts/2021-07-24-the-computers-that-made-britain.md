@@ -21,7 +21,7 @@ tags:
     - spectrum
 ---
 
-<span style="font-size: revert; font-weight: 400;">I’m still fascinated by the computers of the eighties. Without well known standards, every machine was different, not only from those of other manufacturers but also older machines from the same company. As as user it was terrible. Back the wrong horse and you’d be stuck with a working computer with no software and no one else to share your disappointment with.</span>
+I’m still fascinated by the computers of the eighties. Without well known standards, every machine was different, not only from those of other manufacturers but also older machines from the same company. As as user it was terrible. Back the wrong horse and you’d be stuck with a working computer with no software and no one else to share your disappointment with.
 
 But looking back, there’s a huge diversity of ideas all leaping onto the market in just a few years. Naturally, some of those ideas were terrible. Many machines were rushed and buggy, precisely because there was so much competition. Going on sale at the right time could make or break a machine.
 

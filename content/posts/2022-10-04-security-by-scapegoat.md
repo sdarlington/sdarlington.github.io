@@ -16,7 +16,7 @@ tags:
     - security
 ---
 
-<span style="font-size: revert;">As is common these days, I was complaining about something on Twitter.</span>
+As is common these days, I was complaining about something on Twitter.
 
 https://twitter.com/sdarlington/status/1523588282986033152
 

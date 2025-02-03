@@ -16,7 +16,7 @@ tags:
     - religion
 ---
 
-<span style="font-size: revert;">I’ll cut to the chase:</span> [David Baddiel’s book](https://amzn.to/3oLJb1f)<span style="font-size: revert;"> about anti-semitism and how it’s often treated as a second-class form of racism is very much a worthwhile read. I’m sure you can find more academic works, or with more detail, but even in this short text, he’s able to passionately and effectively makes his case.</span>
+I’ll cut to the chase: [David Baddiel’s book](https://amzn.to/3oLJb1f) about anti-semitism and how it’s often treated as a second-class form of racism is very much a worthwhile read. I’m sure you can find more academic works, or with more detail, but even in this short text, he’s able to passionately and effectively makes his case.
 
 I had a sneaking suspicion that I didn’t fully understand the subject, and it does a nice job of filling in those gaps. As he notes at one point, there are lots of *oh yeah, I suppose so, never really thought about it like that* moments.
 
