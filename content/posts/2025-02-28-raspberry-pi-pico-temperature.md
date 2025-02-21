@@ -1,5 +1,5 @@
 ---
-date: '2025-02-28T11:23:23Z'
+date: '2025-02-28T10:23:23Z'
 title: 'Raspberry Pi Pico: Temperature Sensor'
 author: 'Stephen Darlington'
 layout: post
