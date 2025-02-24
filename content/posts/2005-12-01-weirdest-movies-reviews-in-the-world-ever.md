@@ -1,6 +1,6 @@
 ---
 id: 150
-title: 'Weirdest Movies Reviews in the World &#8212; Ever'
+title: 'Weirdest Movies Reviews in the World -- Ever'
 date: '2005-12-01T08:08:47+00:00'
 author: 'Stephen Darlington'
 layout: post

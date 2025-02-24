@@ -1,6 +1,6 @@
 ---
 id: 3446
-title: 'Mountain Lion &#8212; The Good, The Bad and the Ugly'
+title: 'Mountain Lion -- The Good, The Bad and the Ugly'
 date: '2012-07-30T18:25:25+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Installing a new operating system can be traumatic. The spectre of corruption, the application incompatibility, the suggestion that not everything will be improved. What about the new Mac OS?'

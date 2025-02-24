@@ -1,6 +1,6 @@
 ---
 id: 3283
-title: 'iTunes Match &#8212; addendum'
+title: 'iTunes Match -- addendum'
 date: '2013-07-10T19:09:42+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Eighteen months on, how is iTunes Match holding up?'
