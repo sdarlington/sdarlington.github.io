@@ -19,7 +19,7 @@ Unlikely. Knowing that removes some of the pressure. Instead, I really just want
 
 For the most part, personally, 2020 wasn't a _terrible_ year, just _unusual_. I’m fortunate in so many ways. I kept my job. I normally work from home anyway, so the challenge when the first lockdown hit was having to work while having two kids running around all day. Not easy, but, equally, churlish to complain when so many others were losing their jobs or having relationship issues.
 
-Like everyone, we managed. Birthday parties were conducted over Zoom. My first ever 10k run was cancelled and participation was "virtual." We skipped the sourdough craze but there was more baking than usual. Or daily hour of exercise would normally have including a visit to the local playground, but they were closed.
+Like everyone, we managed. Birthday parties were conducted over Zoom. My first ever 10k run was cancelled and participation was "virtual." We skipped the sourdough craze but there was more baking than usual. Our daily hour of exercise would normally have including a visit to the local playground, but they were closed.
 
 If there's anything to note about life in 2020, it's the monotony. Even between lockdowns, life has been remarkably consistent. Every day feels the same. The normal ability to have a change of scenery, whether working from a coffee shop or travelling further afield, has been curtailed. We didn't really go on holiday. There has been no travel for work. Get up. Breakfast. Exercise. Work and childcare. Dinner. Crash. Bed. Of course, most of the year is like this anyway, but the fact that we _can't_ travel, that I’ve not even got as far as central London, either for business or pleasure, takes its toll.
 
