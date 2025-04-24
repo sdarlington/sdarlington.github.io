@@ -27,7 +27,7 @@ Those two point, on their own, were enough to clinch the purchase just over eigh
 
 The book is, to say the least, comprehensive. When I first started to use PL/SQL I would never have guessed that there was enough there to write a thousand page book, but there is.
 
-It’s split into seven sections and twenty-six chapters, making it a good reference as well as useful to learn from. Section one, ‘Programming in PL/SQL’ talks about the history, block structure and style. I’m not entirely convinced that ‘programming style’ belongs in a book such as this, but it’s well written, useful and less intrusive than the similar treatment in “[Practical C](practicalc.html).”
+It’s split into seven sections and twenty-six chapters, making it a good reference as well as useful to learn from. Section one, ‘Programming in PL/SQL’ talks about the history, block structure and style. I’m not entirely convinced that ‘programming style’ belongs in a book such as this, but it’s well written, useful and less intrusive than the similar treatment in “[Practical C](/computing/opinion/practicalc.html).”
 
 Section two moves onto the ‘meat’ of the language and takes up over two-hundred pages in its own right — longer than the whole of some other texts! Feuerstein covers all this in detail and with great skill, mentioning not only how the language works but also, where appropriate, where it doesn’t work. This kind of honesty seems rare, especially in Oracle Press books!
 

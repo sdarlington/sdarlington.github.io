@@ -32,9 +32,9 @@ For example, I liked the way that he sticks to the things that you *need* to kno
 
 **Windows Coder to Windows Developer?**
 
-What you’ve seen so far is praise for the general concept of the book rather than anything very specific. There’s a reason for that. For a general software engineering book, it’s strange that there is such a strong Windows and .Net slant. There is no need for such details and it will reduce its longevity and usefulness. Steve McConnell’s “[Code Complete](http://www.amazon.com/exec/obidos/ASIN/0735619670/zx81orguk00)” is ten years old and is still relevant (even though a [new edition](http://www.cc2e.com/) has just come out). In six months Coder To Developer could well look dated.
+What you’ve seen so far is praise for the general concept of the book rather than anything very specific. There’s a reason for that. For a general software engineering book, it’s strange that there is such a strong Windows and .Net slant. There is no need for such details and it will reduce its longevity and usefulness. Steve McConnell’s “[Code Complete](http://www.amazon.com/exec/obidos/ASIN/0735619670/zx81orguk00)” [affiliate link] is ten years old and is still relevant (even though a [new edition](http://www.cc2e.com/) has just come out). In six months Coder To Developer could well look dated.
 
-There is also a question-mark over the accuracy of some of the information. For example, he credits the the iterative development process to [Microsoft](http://www.microsoft.com/) and [Rational](http://www-306.ibm.com/software/rational/), forgetting Bohem’s spiral model predated both by well over ten years. He seems to be much more fluent in more recent practises like [Agile](http://agilemanifesto.org/) and [XP](extremeprogramming.html), which is commendable but seemingly lacking the foundations makes it difficult to put these newer methodologies into perspective.
+There is also a question-mark over the accuracy of some of the information. For example, he credits the the iterative development process to [Microsoft](http://www.microsoft.com/) and [Rational](http://www-306.ibm.com/software/rational/), forgetting Bohem’s spiral model predated both by well over ten years. He seems to be much more fluent in more recent practises like [Agile](http://agilemanifesto.org/) and [XP](/computing/opinion/extremeprogramming.html), which is commendable but seemingly lacking the foundations makes it difficult to put these newer methodologies into perspective.
 
 But if you can ignore these problems, there is lots of good advice. He’s pragmatic ? using the good bits of, say, XP without taking the process as gospel ? and the writing is accessible and friendly. Even disagreeing with some of the early chapters, I still persevered as it wasn’t a dense or difficult read.
 
@@ -46,4 +46,4 @@ Cost: $29.99
 
 ISBN: 0-7821-4327-X.
 
-Buy from [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/ASIN/078214327X/zx81orguk).
+Buy from [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/ASIN/078214327X/zx81orguk) [affiliate link].

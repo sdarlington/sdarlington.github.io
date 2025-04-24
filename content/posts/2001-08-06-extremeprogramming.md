@@ -54,7 +54,7 @@ I only thought of a couple of other problems that are not addressed, although ne
 
 Documentation is never kept up to date anyway, and in XP there is a much greater chance of at least one person knowing how it works. Couple that with a full set of tests, the ‘business’ person being on the team right from the start and, well, what’s my problem?
 
-The problem is identified in [Death March](deathmarch.html). Who are the stake holders on the project? Is it your team-member (the end user)? Is it their manager, who might want a bunch of reports? Is it the CTO who doesn’t actually care what the system does and just wants a success of some kind in order to get promoted?! The book and the Extreme Programming approach treat the problem of requirements as something that is eventually known and is fix-able given close enough interaction with the users. I wish that were true.
+The problem is identified in [Death March](/computing/opinion/deathmarch.html). Who are the stake holders on the project? Is it your team-member (the end user)? Is it their manager, who might want a bunch of reports? Is it the CTO who doesn’t actually care what the system does and just wants a success of some kind in order to get promoted?! The book and the Extreme Programming approach treat the problem of requirements as something that is eventually known and is fix-able given close enough interaction with the users. I wish that were true.
 
 Beck might suggest that this ‘unknown’ is just another form of change than can be managed in the normal manner, but my guess would be that the magnitude of changes required by people that don’t have day-to-today access to the team would be too big and would break the process.)
 

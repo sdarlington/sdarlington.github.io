@@ -20,7 +20,7 @@ tags:
 
 **Introduction**
 
-I still can’t quite believe that I did it. I actually bought and Apple Macintosh, just [like I said](dreadfulthought.html) back in February. After years of using Windows and Unix is seems a little odd, but I think I like it.
+I still can’t quite believe that I did it. I actually bought an Apple Macintosh, just [like I said](/computing/opinion/dreadfulthought.html) back in February. After years of using Windows and Unix is seems a little odd, but I think I like it.
 
 There’s a lot to like about it, though. Here are some of my thoughts as a Windows and Unix user.
 

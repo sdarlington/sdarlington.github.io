@@ -42,7 +42,7 @@ That’s how they stand right now, but six months from now things may be very di
 
 The Unix side probably isn’t going to change much. Linux, especially, will continue with its vast range of incremental upgrades. distributions will eventually come on-line with the new 2.4 kernel, and improvements will continue in both the KDE and GNOME environments.
 
-In the same time-frame, the next desktop version of Windows, XP, will be unleashed on the world. The beta’s are currently doing the rounds and people seem generally impressed. The interface is easier, more consistent and more aesthetically pleasing, and its built on the Windowds 2000 core which has generally been well recieved.
+In the same time-frame, the next desktop version of Windows, XP, will be unleashed on the world. The beta’s are currently doing the rounds and people seem generally impressed. The interface is easier, more consistent and more aesthetically pleasing, and its built on the Windows 2000 core which has generally been well recieved.
 
 Normally it might have been enough for me to upgrade from my old copy of Windows 95. But for two things: you can’t, you can only upgrade from Windows 98 or above; and MacOS X.
 

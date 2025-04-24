@@ -19,7 +19,7 @@ tags:
 
 **Introduction**
 
-The review of [StarOffice 4](staroffice4.html) is, at the time of writing, the most popular on this site. There is a good reason for that. Not only did Simeon do an excellent job of it, but StarOffice is probably *the* major office application for Linux.
+The review of [StarOffice 4](/computing/linux/tps/staroffice4.html) is, at the time of writing, the most popular on this site. There is a good reason for that. Not only did Simeon do an excellent job of it, but StarOffice is probably *the* major office application for Linux.
 
 StarDivision were first on the scene with a serious product and, with the onslaught of Corel and Applix, they intend to keep the lead. But is StarOffice 5 enough to keep people from defecting?
 
@@ -83,4 +83,4 @@ Unfortunately, it’s starting to look like Microsoft Office in other ways too. 
 
 It’s a shame, as in almost every other aspect it looks to be a winning application.
 
-> ***Also see this more complete [review of StarOffice 4](staroffice4.html).***
+> ***Also see this more complete [review of StarOffice 4](/computing/linux/tps/staroffice4.html).***
