@@ -20,10 +20,6 @@ tags:
     - usa
 ---
 
-<iframe align="left" frameborder="0" height="240" loading="lazy" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?o=1&l=as1&f=ifr&t=zx81orguk00&p=8&asins=1590598385&IS2=1&lt1=_blank" width="120"><map name="boxmap-p8"><area coords="14, 200, 103, 207" href="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" shape="RECT"></area><area coords="0,0,10000,10000" href="http://www.amazon.com/exec/obidos/redirect-home/zx81orguk00"></area></map>![Shop at Amazon.com](http://rcm-images.amazon.com/images/G/01/rcm/120x240.gif)
-
-</iframe>
-
 I like Joel. Well, I’ve never actually met him, of course. I mean I like his writing. I’ve read much of his website, I subscribe to his RSS feed so that I can see his new pieces as soon as they’re “published” and I’ve bought [his other books](/computing/opinion/joelonsoftware.html "Joel on Software") even though they’re just rehashes of stuff that’s already on the net. That may seem a little crazy, as though I have more money than sense, but some things are much easier to read on paper than on LCD. And his writing is easy, humorous and engaging, making it worth dipping into occasionally.
 
 So, cutting a long story short, I bought “Smart and Gets Things Done.” So what’s it all about? Well, one suspect is that it’s an advertisement for Spolsky’s software company, Fog Creek. But, in fact, it’s a book about attracting, recruiting and keeping super-star programmers. Indeed, chapter one is why you even want to hire top developers when you can hire a decent developer for rather less money and effort.

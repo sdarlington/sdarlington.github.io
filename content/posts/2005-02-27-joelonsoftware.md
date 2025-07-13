@@ -19,11 +19,6 @@ tags:
     - review
     - strategy
 ---
-
-<iframe align="left" frameborder="0" height="240" loading="lazy" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?o=1&l=as1&f=ifr&t=zx81orguk00&p=8&asins=1590593898&IS2=1&lt1=_blank" width="120"><map name="boxmap-p8"><area coords="14, 200, 103, 207" href="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" shape="RECT"></area><area coords="0,0,10000,10000" href="http://www.amazon.com/exec/obidos/redirect-home/zx81orguk00"></area></map>![Shop at Amazon.com](http://rcm-images.amazon.com/images/G/01/rcm/120x240.gif)
-
-</iframe>
-
 Let’s cut to the chase: if you’ve read and enjoyed any of [Joel Spolsky’s ramblings on the web](http://www.joelonsoftware.com/) you’ll like this book. Skip the rest of this review and just go buy it.
 
 For the benefit of those that have not heard of him, who is this Joel chap and what is the book and his normal prose about? The “About the Author” section describes him as an industry veteran that writes an “anti-Dilbert manifesto” on his website. I can’t think of a better description, which is why I have shamelessly copied it rather than finding my own phrase…
