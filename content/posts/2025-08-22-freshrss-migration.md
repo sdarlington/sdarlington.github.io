@@ -1,8 +1,8 @@
 ---
-title: 'Migrating to FreshRDD'
+title: 'Migrating to FreshRSS'
 date: '2025-08-22T10:49:53+01:00'
 author: 'Stephen Darlington'
-excerpt: 'Migrating to FreshRDD'
+excerpt: 'How I migrated from Feedly to a self-hosted instance of FreshRSS'
 layout: post
 categories:
     - Opinion
