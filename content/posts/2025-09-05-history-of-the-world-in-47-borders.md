@@ -14,7 +14,7 @@ tags:
     - history
     - book
 ---
-I hear John Elledge a lot [on podcasts](https://www.podmasters.co.uk/oh-god-what-now), so when his new book came out I was immediately interested. I saw it in a bookstore, almost bought it, and then realised that I have more than enough books at home. (Un)fortunately, Amazon were selling it cheap and a caved.
+I hear John Elledge a lot [on podcasts](https://www.podmasters.co.uk/oh-god-what-now), so when his new book came out I was immediately interested. I saw it in a bookstore, almost bought it, and then realised that I have more than enough books at home. (Un)fortunately, Amazon were selling it cheap and I caved.
 
 The good news is that "[A History of the World in 47 Borders](https://amzn.to/3TZ4lVu)"[^1] is an entertaining read. No regrets.
 
@@ -22,7 +22,7 @@ It's well researched, and full of interesting tidbits, and connecting historical
 
 About Korea:
 
-> until the entertainingly names Wang Kén managed to unify the lot
+> until the entertainingly named Wang Kén managed to unify the lot
 
 Switzerland:
 
