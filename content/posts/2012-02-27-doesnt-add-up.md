@@ -1,6 +1,6 @@
 ---
 id: 3337
-title: 'Doesn&#8217;t add up'
+title: 'Doesn''t add up'
 date: '2012-02-27T21:42:10+00:00'
 author: 'Stephen Darlington'
 excerpt: 'Should the highest 1% of earners be contributing 30% of all income tax? I''m not going to get into that but I will say why the number may not be as crazy as it might sound.'
