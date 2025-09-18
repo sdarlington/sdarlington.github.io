@@ -12,18 +12,18 @@ description = "Ponderings on software, the universe and everything by Stephen Da
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 
-colorTheme = "auto"
-colorThemeSwitcher = true
+anubis2.colorTheme = "auto"
+anubis2.enableColorThemeSwitcher = true
 
-readMore = true
-readNextPosts = 3
+anubis2.enableReadMoreButton = true
+anubis2.readNextPosts = 3
 copyCodeButton = true
-rssAsSocialIcon = true
+anubis2.enableRssIcon = true
 locale = "en-gb"
-math = false # true: enable mathjax globally (default is false)
-toc = true
+anubis2.enableMathGlobally = false # true: enable mathjax globally (default is false)
+anubis2.tocWordCount = true
 
-social = [
+anubis2.socialIcons = [
     { id = "github", url = "https://github.com/sdarlington" },
     { id = "linkedin", url = "https://www.linkedin.com/in/stephendarlington/" },
     { id = "mastodon", url = "https://mas.to/@sdarlington" },
