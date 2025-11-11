@@ -20,7 +20,7 @@ tags:
 
 **Introduction**
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=013143635X&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>Perhaps more than any other engineering discipline (see Steve McConnell’s [After The Gold Rush](http://www.amazon.com/exec/obidos/ASIN/0735608776/zx81orguk00)), software engineers work on projects that have no real chance of success. There are as many reasons why as there are projects, but if you want to be in with a chance of surviving such a ‘death march’ this could be the book for you.
+Perhaps more than any other engineering discipline (see Steve McConnell’s [After The Gold Rush](http://www.amazon.com/exec/obidos/ASIN/0735608776/zx81orguk00)), software engineers work on projects that have no real chance of success. There are as many reasons why as there are projects, but if you want to be in with a chance of surviving such a ‘death march’ this could be the book for you.
 
 **Content**
 

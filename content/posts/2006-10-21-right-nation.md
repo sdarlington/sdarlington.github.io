@@ -17,7 +17,7 @@ tags:
     - research
 ---
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=0143035398&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;"></iframe>I was amused when, while working in [North Carolina in 2003](/travel/misc2003.html "Pictures of Charlotte, North Carolina"), I visited some friends for Thanksgiving. All their neighbours introduced themselves and then, on finding I was English, apologised. “It’s not our fault, we didn’t vote for him!” Stood amongst those liberal, well travelled and smart people it was difficult to reconcile this with the fact that they lived in a country that had a president that was none of those things.
+I was amused when, while working in [North Carolina in 2003](/travel/misc2003.html "Pictures of Charlotte, North Carolina"), I visited some friends for Thanksgiving. All their neighbours introduced themselves and then, on finding I was English, apologised. “It’s not our fault, we didn’t vote for him!” Stood amongst those liberal, well travelled and smart people it was difficult to reconcile this with the fact that they lived in a country that had a president that was none of those things.
 
 It’s bizarre. Virtually every American I’ve met has disliked Dubya, yet over the whole country, despite a number of obvious set-backs, his popularity has rarely been in question. Why such a contradiction? How did it get like that and how soon will the US be returning to normal?
 

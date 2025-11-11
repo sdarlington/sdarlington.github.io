@@ -19,7 +19,7 @@ tags:
 
 **Introduction**
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=1565925823&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>This is a very strange book by almost any criteria. Firstly, much of the content is available on the web in one form or another. This includes an appendix which is literally a Usenet discussion printed. Secondly, most of the writers are techies first and writers second. You don’t get that kind of admission from most writers, even when it’s obviously true.
+This is a very strange book by almost any criteria. Firstly, much of the content is available on the web in one form or another. This includes an appendix which is literally a Usenet discussion printed. Secondly, most of the writers are techies first and writers second. You don’t get that kind of admission from most writers, even when it’s obviously true.
 
 **Content**
 

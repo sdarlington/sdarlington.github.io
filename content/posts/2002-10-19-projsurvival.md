@@ -19,7 +19,7 @@ tags:
 
 **Introduction**
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=1572316217&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>For many people here, writing software is, if not a job, then a hobby. Our enthusiasm is a double-edged sword. Our technical knowledge is usually much greater than people who just develop software for a living. This sounds like a big advantage, but it’s not as large as you would have thought.
+For many people here, writing software is, if not a job, then a hobby. Our enthusiasm is a double-edged sword. Our technical knowledge is usually much greater than people who just develop software for a living. This sounds like a big advantage, but it’s not as large as you would have thought.
 
 Let’s have a look in ‘Software Project Survival Guide’ (SPSG) to see what Steve McConnell, famed author of ‘Code Complete’ and ‘Rapid Development,’ has to say on the subject.
 

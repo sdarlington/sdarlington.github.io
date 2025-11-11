@@ -17,7 +17,7 @@ tags:
     - review
 ---
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=0887308554&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>**Introduction**
+**Introduction**
 
 This is neither a new book nor a new purchase for me, so why am I reviewing it? Bottom line: it’s a book that I’ve enjoyed a lot over the years and one that I feel the need to recommend to as many people as possible.
 

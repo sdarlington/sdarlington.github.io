@@ -20,7 +20,7 @@ tags:
 
 **Introduction**
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=1565923065&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>It sounded like just the kind of book that I was looking for. I wanted a refresher on C since I’d not used it for a while, and some pointers on ‘advanced techniques.’ The blurb on the back looked about right and the fact that O’Reilly published it clinched the sale.
+It sounded like just the kind of book that I was looking for. I wanted a refresher on C since I’d not used it for a while, and some pointers on ‘advanced techniques.’ The blurb on the back looked about right and the fact that O’Reilly published it clinched the sale.
 
 *“Practical C Programming” not only plans to teach you C, but also about style, debugging and the software life-cycle.*
 

@@ -18,7 +18,7 @@ tags:
 ---
 
 **Introduction**  
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=1565923758&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>Steven Feuerstein’s ‘[Oracle PL/SQL Programming](http://www.amazon.com/exec/obidos/ASIN/1565923359/zx81orguk00)‘ book has, over the last couple of years, become my bible on the subject of writing sizable Oracle PL/SQL programs. As I said [in my review](/computing/opinion/plsqlprogramming.html), it’s useful because it covers just about everything, including the things that don’t work.
+Steven Feuerstein’s ‘[Oracle PL/SQL Programming](http://www.amazon.com/exec/obidos/ASIN/1565923359/zx81orguk00)‘ book has, over the last couple of years, become my bible on the subject of writing sizable Oracle PL/SQL programs. As I said [in my review](/computing/opinion/plsqlprogramming.html), it’s useful because it covers just about everything, including the things that don’t work.
 
 So if that book covers just about everything, why would anyone want to buy ‘Oracle Builtin Packages’?
 

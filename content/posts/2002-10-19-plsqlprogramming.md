@@ -19,7 +19,7 @@ tags:
 
 **Introduction**
 
-<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=zx81orguk00&o=1&p=8&l=as1&asins=0596009771&fc1=000000&IS2=1&lt1=_blank&lc1=0000ff&bc1=000000&bg1=ffffff&f=ifr" style="width:120px;height:240px;"></iframe>The first point to note is that this book is published by O’Reilly. The second point would be that Steven Feuerstein is generally regarded to be one of the worlds leading PL/SQL experts.
+The first point to note is that this book is published by O’Reilly. The second point would be that Steven Feuerstein is generally regarded to be one of the worlds leading PL/SQL experts.
 
 Those two point, on their own, were enough to clinch the purchase just over eighteen months ago.
 
