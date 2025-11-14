@@ -18,14 +18,13 @@ tags:
     - running
 ---
 
-<figure>![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2018/09/Watches.jpeg?ssl=1)  
-</figure>This was going to be my first thoughts on the new Apple Watch, posted about a day after I unboxed it. But then life got in the way and I’ve now been using it for a week. What I’d planned to be a little more than a “hot take” is now probably a little closer to an actual review!
+This was going to be my first thoughts on the new <a href="https://en.wikipedia.org/wiki/Apple_Watch#Fourth_generation_(Series_4)">Apple Watch</a>, posted about a day after I unboxed it. But then life got in the way and I’ve now been using it for a week. What I’d planned to be a little more than a “hot take” is now probably a little closer to an actual review!
 
-From the picture above you can see what I was using before. It’s not an Apple Watch, it’s not a competing smart watch. It doesn’t even have a battery. (To be clear, my new watch isn’t a replacement. I still plan to wear the Marloe.)
+My previous watch was  not a competing smart watch. It doesn’t even have a battery. (To be clear, my new watch isn’t a replacement. I still plan to wear the <a href="https://www.marloewatchcompany.com">Marloe</a>.)
 
 I’ll be honest: until recently I wasn’t very interested in the Apple Watch. It was too big, didn’t look nice enough, was another thing to recharge every night and none of the things it did were compelling enough to overcome those annoyances.
 
-Here’s the thing. The Series 4 is still too big — about twice as thick as the Marloe — and doesn’t look as good as a traditional watch. But I’ve been on a health kick for the last year, so partly I bought it as a new gadget, a reward for keeping going for twelve months, and partly, because of that, the health features became compelling enough.
+Here’s the thing. The Series 4 is still too big — about twice as thick as the Marloe — and doesn’t look as good as a traditional watch. But I’ve been on a <a href="/posts/2018-01-09-c25k-diary/">health kick</a> for the last year, so partly I bought it as a new gadget, a reward for keeping going for twelve months, and partly, because of that, the health features became compelling enough.
 
 As you’d expect for Apple, the hardware looks great and is well presented. The finish is beautiful, the controls click and rotate in a satisfying way. I found it odd that it came without the strap attached but I was able to get it up and running pretty quickly.
 
