@@ -8,7 +8,7 @@ copyright = '© Stephen Darlington'
 name = "Stephen Darlington"
 
 [params]
-description = "Ponderings on software, the universe and everything by Stephen Darlington."
+description = "Ponderings on software, the universe and everything by Stephen Darlington (a human) since 1999."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 
@@ -17,8 +17,9 @@ anubis2.enableColorThemeSwitcher = true
 
 anubis2.enableReadMoreButton = true
 anubis2.readNextPosts = 3
-copyCodeButton = true
+anubis2.enablecopycodebutton = true
 anubis2.enableRssIcon = true
+anubis2.enableSummary = true
 locale = "en-gb"
 anubis2.enableMathGlobally = false # true: enable mathjax globally (default is false)
 anubis2.tocWordCount = true
