@@ -14,6 +14,7 @@ tags:
     - reading
     - Reading2019
     - review
+    - John Scalzi
 ---
 
 After reading quite a few non-fiction books I decided that this time I would pick a novel. Having read “[Red Shirts](/blog/reading-2017.html)” a couple of years ago, I randomly selected another John Scalzi book, “[Fuzzy Nation](https://amzn.to/2XQVKoN)” [affiliate link].

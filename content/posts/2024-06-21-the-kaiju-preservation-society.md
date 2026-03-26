@@ -14,6 +14,7 @@ tags:
     - fiction
     - reading
     - reading2024
+    - John Scalzi
 ---
 
 Those with extraordinarily good memories will recall that I read a couple of John Scalzi book a few years ago and enjoyed them (“[Redshirts](/blog/reading-2017.html)” and “[Fuzzy Nation](/blog/fuzzy-nation.html)”). In fact, it took me longer to pick up another one of his books than I expected, though, to be fair, when I did it, I did it in style: I bought a “Humble Bundle” of them. “[The Kaiju Preservation Society](https://amzn.to/4cpTTh4)” is the first of that bundle that I’ve read.
