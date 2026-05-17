@@ -12,7 +12,7 @@ categories:
 tags:
     - app
     - ipad
-    - iphpne
+    - iphone
 ---
 
 *[Instapaper](http://www.instapaper.com/)*
