@@ -1,6 +1,6 @@
 ---
 date: '2026-05-01T10:25:40+01:00'
-title: 'Regulation Customer Demand'
+title: 'Regulation Is More Than What People Want'
 author: 'Stephen Darlington'
 layout: post
 categories:
