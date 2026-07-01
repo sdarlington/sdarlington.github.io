@@ -15,12 +15,8 @@
     {{ with .Site.Params.copyright }}
     <copyright>{{ . }}</copyright>{{ end }}
     <generator>Hugo (https://gohugo.io)</generator>
-    {{ with .Site.LanguageCode }}
+    {{ with .Site.Language.Locale }}
     <language>{{.}}</language>{{end}}
-    {{ with .Site.Params.author.name }}
-    <managingEditor>{{ with $.Site.Params.author.email }}{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}{{ end }}</managingEditor>{{ end }}
-    {{ with .Site.Params.author.name }}
-    <webMaster>{{ with $.Site.Params.author.email }}{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}{{ end }}</webMaster>{{ end }}
     {{ if not .Date.IsZero }}
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 +0800" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
@@ -32,7 +28,7 @@
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 +0800" | safeHTML }}</pubDate>
       {{ with .Site.Params.author.name }}
-      <author>{{ with $.Site.Params.author.email }}{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}{{ end }}</author>{{ end }}
+      <author><name>{{ with $.Site.Params.author.name }}{{ . }}{{ end }}{{ end }}</name><uri>{{ .Site.BaseURL }}</uri></author>
 
       {{ $cover := "" }}
       {{ with $page.Params.cover }}

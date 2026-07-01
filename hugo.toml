@@ -1,5 +1,5 @@
 baseURL = "https://www.zx81.org.uk/"
-languageCode = "en-gb"
+language.locale = "en-gb"
 theme = "anubis2"
 title = "This is ZX81.org.uk"
 
