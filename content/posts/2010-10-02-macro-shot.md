@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Macro Shot." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2336'
 aliases: ['/photography/photofriday/macro-shot.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

@@ -7,14 +7,6 @@ excerpt: 'Despite what you may have heard, it is possible to move an iOS Develop
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3112'
 aliases: ['/computing/opinion/ios-developer-program-from-individual-to-company.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Opinion
 tags:

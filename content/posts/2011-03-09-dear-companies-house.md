@@ -7,14 +7,6 @@ excerpt: 'Sometimes when doing legal stuff, all you can do to stop yourself scre
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2738'
 aliases: ['/blog/dear-companies-house.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

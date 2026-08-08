@@ -7,14 +7,6 @@ excerpt: 'My second longest cycling day is a success. My chain only falls off a 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=650'
 aliases: ['/travel/cycling-in-czech-republic-litomerice-to-decin.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

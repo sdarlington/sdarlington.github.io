@@ -3,7 +3,7 @@ id: 56
 title: 'Software Project Survival Guide'
 date: '2002-10-19T17:23:03+01:00'
 author: 'Stephen Darlington'
-excerpt: " Originally written for another on-line magazine, Stephen Darlington reviews a book from the author of Code Complete, Steve McConnell.\r\n\r\n"
+excerpt: " Originally written for another on-line magazine, Stephen Darlington reviews a book from the author of Code Complete, Steve McConnell.\r\n"
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/software-project-survival-guide.html'
 aliases: ['/computing/opinion/projsurvival.html']

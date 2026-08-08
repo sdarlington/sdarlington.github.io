@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Human Form." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2643'
 aliases: ['/photography/photofriday/human-form.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

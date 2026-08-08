@@ -6,8 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2543'
 aliases: ['/links/my-delicious-com-bookmarks-for-december-1st-through-december-3rd.html']
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

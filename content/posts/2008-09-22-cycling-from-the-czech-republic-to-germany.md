@@ -7,14 +7,6 @@ excerpt: 'Despite being thoroughly out of shape, I decide to cycle from Prague, 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=645'
 aliases: ['/travel/cycling-from-the-czech-republic-to-germany.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

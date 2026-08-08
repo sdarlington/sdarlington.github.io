@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Mother Nature." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2785'
 aliases: ['/photography/photofriday/mother-nature.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

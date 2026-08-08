@@ -7,14 +7,6 @@ excerpt: 'Try as I might, I can''t get into Google''s new social networking site
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3095'
 aliases: ['/computing/opinion/whats-wrong-with-google.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Opinion
 tags:

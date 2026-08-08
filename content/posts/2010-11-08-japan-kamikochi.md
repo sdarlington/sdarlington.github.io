@@ -7,8 +7,6 @@ excerpt: 'It looked very much as though I wouldn''t make it to this treasure of 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2372'
 aliases: ['/travel/japan-kamikochi.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

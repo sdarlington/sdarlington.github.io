@@ -7,8 +7,6 @@ excerpt: 'Returning the changes I made to some open source projects back upstrea
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2327'
 aliases: ['/computing/software/giving-back.html']
-adman_disable:
-    - 'on'
 categories:
     - Software
 tags:

@@ -6,8 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1822'
 aliases: ['/blog/your-vote-counts.html']
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

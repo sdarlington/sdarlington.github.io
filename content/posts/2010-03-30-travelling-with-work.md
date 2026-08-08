@@ -7,8 +7,6 @@ excerpt: 'Travels without my camera.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2024'
 aliases: ['/travel/travelling-with-work.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

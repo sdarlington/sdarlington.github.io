@@ -7,8 +7,6 @@ excerpt: 'Communicating in the same language as your users is never as easy as y
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1412'
 aliases: ['/computing/opinion/communication.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

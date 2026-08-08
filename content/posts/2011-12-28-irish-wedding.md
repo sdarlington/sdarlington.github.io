@@ -7,14 +7,6 @@ excerpt: 'The first wedding for a while where I''ve not been The Photographer in
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3250'
 aliases: ['/photography/irish-wedding.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Photography
 tags:

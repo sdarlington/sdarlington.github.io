@@ -7,14 +7,6 @@ excerpt: 'It''s not like me to retread old ground, but a friends wedding provide
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3242'
 aliases: ['/travel/glen-of-aherlow-ireland.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

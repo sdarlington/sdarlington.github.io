@@ -7,14 +7,6 @@ excerpt: 'Should the highest 1% of earners be contributing 30% of all income tax
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3337'
 aliases: ['/blog/doesnt-add-up.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Blog
 tags:

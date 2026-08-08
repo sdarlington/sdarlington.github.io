@@ -6,8 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2403'
 aliases: ['/links/my-delicious-com-bookmarks-for-october-25th-through-october-31st.html']
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

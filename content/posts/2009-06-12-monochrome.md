@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Monochrome." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1477'
 aliases: ['/photography/photofriday/monochrome.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

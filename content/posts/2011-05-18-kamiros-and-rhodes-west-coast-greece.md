@@ -7,12 +7,6 @@ excerpt: 'The east coast of Rhodes has all the big name destinations, Faliraki a
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2852'
 aliases: ['/travel/kamiros-and-rhodes-west-coast-greece.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
 categories:
     - Travel
 tags:

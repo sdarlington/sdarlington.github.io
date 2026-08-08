@@ -7,8 +7,6 @@ excerpt: 'It seems that the weather is not without a sense of irony. In the year
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2540'
 aliases: ['/photography/early-snow.html']
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:

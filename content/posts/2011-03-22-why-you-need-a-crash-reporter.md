@@ -7,14 +7,6 @@ excerpt: 'If you write iOS software and are waiting for crash reports to be deli
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2758'
 aliases: ['/computing/opinion/why-you-need-a-crash-reporter.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

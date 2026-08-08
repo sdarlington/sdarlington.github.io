@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Primary Colour." Here is my entry
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2877'
 aliases: ['/photography/photofriday/primary-colour.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

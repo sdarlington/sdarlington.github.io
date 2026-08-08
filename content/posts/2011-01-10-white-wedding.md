@@ -7,14 +7,6 @@ excerpt: 'Being a wedding photographer only gets slightly easier the more you do
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2587'
 aliases: ['/photography/white-wedding.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:

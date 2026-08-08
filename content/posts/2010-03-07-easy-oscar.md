@@ -7,8 +7,6 @@ excerpt: 'I find the easy way to an Oscar statue.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1992'
 aliases: ['/blog/easy-oscar.html']
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

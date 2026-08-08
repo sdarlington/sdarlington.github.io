@@ -7,8 +7,6 @@ excerpt: 'A good iPhone application should launch in the same state it was in wh
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1960'
 aliases: ['/computing/software/iphone-dev-saving-state.html']
-adman_disable:
-    - 'on'
 categories:
     - Software
 tags:

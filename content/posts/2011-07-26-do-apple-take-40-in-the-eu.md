@@ -7,16 +7,6 @@ excerpt: 'I''ve seen this question -- and asked it myself -- a few times now. Th
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3064'
 aliases: ['/computing/opinion/do-apple-take-40-in-the-eu.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
-seo_noindex:
-    - 'false'
 categories:
     - Opinion
 tags:

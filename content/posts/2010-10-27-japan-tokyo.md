@@ -7,8 +7,6 @@ excerpt: 'From glitz and lights to commerce to tranquil temples to statues that 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2367'
 aliases: ['/travel/japan-tokyo.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

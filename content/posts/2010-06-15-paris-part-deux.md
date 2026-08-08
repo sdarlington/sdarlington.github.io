@@ -7,8 +7,6 @@ excerpt: 'A quick relaxing weekend in the French capital. Farming and fine views
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2104'
 aliases: ['/travel/paris-part-deux.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

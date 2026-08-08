@@ -7,8 +7,6 @@ excerpt: 'I select Amsterdam and Den Haag for my annual November trip. It may be
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2476'
 aliases: ['/travel/the-netherlands.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

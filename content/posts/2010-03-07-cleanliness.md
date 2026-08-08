@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday is "Cleanliness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2001'
 aliases: ['/photography/photofriday/cleanliness.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

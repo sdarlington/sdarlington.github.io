@@ -7,8 +7,6 @@ excerpt: 'A quick look at the Chinese New Year celebrations in London.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1981'
 aliases: ['/photography/chinese-new-year-2010.html']
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:

@@ -7,14 +7,6 @@ excerpt: 'I thought that I''d try out Apple''s new iTunes Match service. Here ar
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3265'
 aliases: ['/computing/opinion/itunes-match.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Opinion
 tags:

@@ -7,8 +7,6 @@ excerpt: 'Last week I was staying in Canillas de Albiada, Southern Spain, walkin
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1723'
 aliases: ['/travel/andalucia-spain.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

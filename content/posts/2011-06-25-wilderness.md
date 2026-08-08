@@ -7,12 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Wilderness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3015'
 aliases: ['/photography/photofriday/wilderness.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

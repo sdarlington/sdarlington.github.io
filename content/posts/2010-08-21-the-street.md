@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "The Street." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2244'
 aliases: ['/photography/photofriday/the-street.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

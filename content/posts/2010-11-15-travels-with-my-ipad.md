@@ -7,8 +7,6 @@ excerpt: 'I don''t normally travel with a laptop computer but the iPad is a bit 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2362'
 aliases: ['/computing/opinion/travels-with-my-ipad.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

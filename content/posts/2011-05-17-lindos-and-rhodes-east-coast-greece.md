@@ -7,14 +7,6 @@ excerpt: 'The most famous destination in Rhodes is probably Lindos and its acrop
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2850'
 aliases: ['/travel/lindos-and-rhodes-east-coast-greece.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

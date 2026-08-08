@@ -3,7 +3,7 @@ id: 137
 title: 'Oracle 8i for Linux Installation HOWTO'
 date: '2003-07-19T11:34:16+01:00'
 author: 'Stephen Darlington'
-excerpt: "With this HOWTO, and a little luck, you will be able to get \"Oracle 8i   Enterprise Edition for Linux\" installed, create a database and connect   to it from a remote machine. The main focus of this guide is RedHat   Linux 6.0 and Oracle 8.1.5, although it should work well for other   recent distributions and more stable versions of Oracle.\r\n"
+excerpt: "With this HOWTO, and a little luck, you will be able to get \"Oracle 8i   Enterprise Edition for Linux\" installed, create a database and connect   to it from a remote machine. The main focus of this guide is RedHat   Linux 6.0 and Oracle 8.1.5, although it should work well for other   recent distributions and more stable versions of Oracle."
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/news/oracle-howto.html'
 aliases: ['/computing/oracle/oracle-howto/oracle-howto.html']

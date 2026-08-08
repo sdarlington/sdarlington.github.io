@@ -7,8 +7,6 @@ excerpt: 'In the eleventh in my series of November trips, I decide to head to Po
 layout: post
 guid: 'http://www.zx81.org.uk/?p=777'
 aliases: ['/travel/lisbon-portugal.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

@@ -7,8 +7,6 @@ excerpt: 'Having seen the current Japanese capital city it was now time to see t
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2369'
 aliases: ['/travel/japan-kyoto.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

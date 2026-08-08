@@ -7,14 +7,6 @@ excerpt: 'I take a long wander around the Czech Capital, seeing plenty of its fa
 layout: post
 guid: 'http://www.zx81.org.uk/?p=656'
 aliases: ['/travel/prague-czech-republic.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

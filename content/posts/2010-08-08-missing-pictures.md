@@ -7,8 +7,6 @@ excerpt: 'Disaster strikes ZX81''s photo hosting.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2201'
 aliases: ['/news/missing-pictures.html']
-adman_disable:
-    - 'on'
 categories:
     - News
 tags:

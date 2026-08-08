@@ -7,14 +7,6 @@ excerpt: 'Best of the year, 2011 edition.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3252'
 aliases: ['/blog/year-in-review-2011-edition.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Blog
 tags:

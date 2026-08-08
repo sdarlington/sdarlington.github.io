@@ -7,14 +7,6 @@ excerpt: 'California isn''t all sun, fog, movies and software companies. There a
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3106'
 aliases: ['/travel/lake-tahoe.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

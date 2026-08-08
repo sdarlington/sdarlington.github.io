@@ -7,8 +7,6 @@ excerpt: 'I got a lot done and with the ninety minutes I saved by not commuting 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1917'
 aliases: ['/blog/the-perils-of-working-from-home.html']
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

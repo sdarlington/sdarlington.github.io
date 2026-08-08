@@ -7,14 +7,6 @@ excerpt: 'In a poll of two, my parents, one hundred percent of participants reco
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2840'
 aliases: ['/travel/rhodes-greece.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
-embed:
-    - 'This is the default text'
 categories:
     - Travel
 tags:

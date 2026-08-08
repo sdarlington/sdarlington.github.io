@@ -7,12 +7,6 @@ excerpt: 'Does the new CEO of Yahoo! -- whoever that turns out to be -- really n
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3005'
 aliases: ['/computing/opinion/a-new-ceo-for-yahoo.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
 categories:
     - Opinion
 tags:

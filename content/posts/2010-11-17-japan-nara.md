@@ -7,8 +7,6 @@ excerpt: 'On paper Nara seems to be just a mini-Kyoto but it certainly has a cha
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2370'
 aliases: ['/travel/japan-nara.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

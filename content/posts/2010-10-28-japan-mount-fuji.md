@@ -7,8 +7,6 @@ excerpt: 'To get the best view of Japans iconic Mount Fuji I went to the "five l
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2368'
 aliases: ['/travel/japan-mount-fuji.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

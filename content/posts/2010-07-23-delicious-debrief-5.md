@@ -7,8 +7,6 @@ excerpt: 'Developing iPhone software isn''t all sex, drugs and rock and roll. So
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2155'
 aliases: ['/computing/opinion/delicious-debrief-5.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

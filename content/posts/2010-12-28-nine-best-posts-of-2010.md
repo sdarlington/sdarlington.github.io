@@ -7,8 +7,6 @@ excerpt: 'It feels like it''s been a fairly quiet year here but the numbers tell
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2583'
 aliases: ['/blog/nine-best-posts-of-2010.html']
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

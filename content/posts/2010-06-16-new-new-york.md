@@ -7,8 +7,6 @@ excerpt: 'My second time as a tourist in New York. As usual I cover a lot of gro
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2107'
 aliases: ['/travel/new-new-york.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

@@ -3,12 +3,10 @@ id: 334
 title: Futuristic
 date: '2007-05-27T18:41:19+01:00'
 author: 'Stephen Darlington'
-excerpt: "This weeks PhotoFriday theme is \"Futuristic.\" Here is my entry.\r\n"
+excerpt: "This weeks PhotoFriday theme is \"Futuristic.\" Here is my entry."
 layout: post
 guid: 'http://www.zx81.org.uk/photography/photofriday/futuristic.html'
 aliases: ['/photography/photofriday/futuristic.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:
