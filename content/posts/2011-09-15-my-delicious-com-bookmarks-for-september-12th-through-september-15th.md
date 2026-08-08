@@ -6,14 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3149'
 aliases: ['/links/my-delicious-com-bookmarks-for-september-12th-through-september-15th.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Links
 tags:

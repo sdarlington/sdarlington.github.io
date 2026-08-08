@@ -1,6 +1,6 @@
 ---
 id: 218
-title: 'What right-wingers see&#8230;'
+title: 'What right-wingers see...'
 date: '2006-08-19T22:53:03+01:00'
 author: 'Stephen Darlington'
 excerpt: 'What do right-wingers see when they read the paper?'

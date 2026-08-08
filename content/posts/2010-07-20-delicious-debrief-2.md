@@ -7,8 +7,6 @@ excerpt: 'Developing iPhone software isn''t all sex, drugs and rock and roll. So
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2151'
 aliases: ['/computing/opinion/delicious-debrief-2.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:
@@ -66,7 +64,7 @@ But the devil, as ever, is in the detail. The detail in this case is a twelve pa
 
 Of course, writing the code yourself would be the hard option. For a standard such as OAuth there are bound to be some Open Source libraries that can be used without too much trouble.
 
-### Next…
+### Next...
 
 Tomorrow [I’ll talk about those Open Source libraries](/computing/opinion/delicious-debrief-3.html) and what I ended up using.
 [^1]: The iPhone OS does allow applications to include an embedded web browser, indeed Yummy already has one to allow users to preview their bookmarks. However, the OAuth specification recommends against this approach for authentication. The idea is that you should only trust Yahoo! with your username and password and that entering them into a third-party application might break that trust. An early version of the change did include an embedded browser and I may yet revert back to that version.

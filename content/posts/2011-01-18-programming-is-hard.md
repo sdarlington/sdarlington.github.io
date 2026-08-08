@@ -7,12 +7,6 @@ excerpt: 'Much of what a programmer does is a mystery to most people. Here I try
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1932'
 aliases: ['/computing/opinion/programming-is-hard.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
 categories:
     - Opinion
 tags:
@@ -59,7 +53,7 @@ This is called *pseudo code* because while a computer can’t actually execute i
 
 Not so hard.
 
-Except… you didn’t really think it would be that easy, did you?
+Except... you didn’t really think it would be that easy, did you?
 
 It turns out we’re missing one important detail from our algorithm.
 

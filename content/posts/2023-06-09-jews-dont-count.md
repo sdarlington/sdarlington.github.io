@@ -1,6 +1,6 @@
 ---
 id: 83036
-title: 'Jews don&#8217;t count'
+title: 'Jews don''t count'
 date: '2023-06-09T09:13:00+01:00'
 author: 'Stephen Darlington'
 excerpt: 'In which I read a book and find out that I don''t really understand antisemitism.'

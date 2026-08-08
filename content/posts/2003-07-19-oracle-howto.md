@@ -3,7 +3,7 @@ id: 137
 title: 'Oracle 8i for Linux Installation HOWTO'
 date: '2003-07-19T11:34:16+01:00'
 author: 'Stephen Darlington'
-excerpt: "With this HOWTO, and a little luck, you will be able to get \"Oracle 8i   Enterprise Edition for Linux\" installed, create a database and connect   to it from a remote machine. The main focus of this guide is RedHat   Linux 6.0 and Oracle 8.1.5, although it should work well for other   recent distributions and more stable versions of Oracle.\r\n"
+excerpt: "With this HOWTO, and a little luck, you will be able to get \"Oracle 8i   Enterprise Edition for Linux\" installed, create a database and connect   to it from a remote machine. The main focus of this guide is RedHat   Linux 6.0 and Oracle 8.1.5, although it should work well for other   recent distributions and more stable versions of Oracle."
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/news/oracle-howto.html'
 aliases: ['/computing/oracle/oracle-howto/oracle-howto.html']
@@ -100,7 +100,7 @@ With this HOWTO, and a little luck, you will be able to get “Oracle 8i Enterpr
 
  Firstly, both Oracle and Linux change very frequently. This is a good thing in that bugs and security holes gets fixed quickly and there are always new and exciting enhancements to play with and, with luck, solve the problems we’re actually paid to solve. The bad news is that no matter how much effort I put into this document it’ll never be completely up to date.
 
- The onus is, therefore, on you to engage brain. Sometime Oracle change small things. The dialog used to say “OK” but now says “Okay”, or the screens are in a slightly different order, or… well, it could be any number of things. There’s no way I can keep up on all the changes like that, just like there’s no way that I can provided detailed guides for every version of Oracle running on every possible Linux distribution.
+ The onus is, therefore, on you to engage brain. Sometime Oracle change small things. The dialog used to say “OK” but now says “Okay”, or the screens are in a slightly different order, or... well, it could be any number of things. There’s no way I can keep up on all the changes like that, just like there’s no way that I can provided detailed guides for every version of Oracle running on every possible Linux distribution.
 
  Or it could be the big, complex things, like when RedHat Linux 7 first came out with new C libraries and a slightly non-standard C compiler. You could apply the first point here, applying your brain, reading the release notes, the RedHat website and Oracle Technet but you’d be spending more time than you need to be. The reason is problem number two: the culture clash.
 
@@ -501,7 +501,7 @@ With this HOWTO, and a little luck, you will be able to get “Oracle 8i Enterpr
 
  Naturally Oracle have a large collection of, largely, pretty good client software, however there’s not much for Linux at this time. The main useful piece of software, Oracle Enterprise Manager, usually comes with Oracle.
 
- But most of the best software comes from other places…
+ But most of the best software comes from other places...
 
 
 - Tool for Oracle Application Development (T.O.A.D.). This used to be free but is now owned by Quest Software <http:>. You can download a free version (if you’re prepared to do it every couple of months) or you can pay for it. When I’m using Oracle on a daily basis, this is the program I choose if I have to use a Windows desktop. It’s not as polished as some, but it does just about everything you need.</http:>

@@ -7,8 +7,6 @@ excerpt: 'A nice mid-week break in the Wiltshire town of Salisbury and the nearb
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2059'
 aliases: ['/travel/salisbury.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

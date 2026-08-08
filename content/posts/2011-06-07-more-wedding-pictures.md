@@ -7,12 +7,6 @@ excerpt: 'The bride and groom get a beautiful day for their wedding and I get so
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2946'
 aliases: ['/photography/more-wedding-pictures.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
 categories:
     - Photography
 tags:

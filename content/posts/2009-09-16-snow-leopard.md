@@ -30,7 +30,7 @@ And now that [I’m an iPhone developer](/software/) I have a vested interest in
 
 All this is a long way of saying that, despite the risks, I took the plunge anyway.
 
-And…
+And...
 
 Well, so far it’s pretty much been a non-event.
 

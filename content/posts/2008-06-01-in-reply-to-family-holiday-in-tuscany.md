@@ -18,7 +18,7 @@ tags:
 draft: true
 ---
 
-So B “tagged” me on [her recent blog](http://www.brandarling.com/2008/05/family-holiday-in-tuscany.html) of our recent holiday in Tuscany. I have not quite got my act together for the full photographic and textual story of the trip just yet, but I couldn’t let a couple of her comments pass…
+So B “tagged” me on [her recent blog](http://www.brandarling.com/2008/05/family-holiday-in-tuscany.html) of our recent holiday in Tuscany. I have not quite got my act together for the full photographic and textual story of the trip just yet, but I couldn’t let a couple of her comments pass...
 
 Firstly, and least controversially, she suggested that you ask me for my picture of the rain on the car windscreen. I am happy to oblige:
 

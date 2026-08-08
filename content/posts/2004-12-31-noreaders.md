@@ -1,6 +1,6 @@
 ---
 id: 61
-title: 'Why don&#8217;t developers read?'
+title: 'Why don''t developers read?'
 date: '2004-12-31T11:53:55+00:00'
 author: 'Stephen Darlington'
 excerpt: 'Software developers rarely find the time to read computer science texts. Why? '
@@ -62,7 +62,7 @@ If you’ve not heard of this book, I’m surprised that you’ve read this far.
 
 I did warn you that not all the books were academic, computer science books. Cringely used to be a writer for Infoworld and so was just the right man to document how the microcomputer industry came about. It’s full of interesting anecdotes, such as millionaire Bill Gates accepting a quarter from a stranger because he couldn’t find a money off coupon, and is well worth investing in.
 
-**“[ In the beginning was the command line…](http://www.amazon.com/exec/obidos/ASIN/0380815931/zx81orguk00)” Neal Stephenson**
+**“[ In the beginning was the command line...](http://www.amazon.com/exec/obidos/ASIN/0380815931/zx81orguk00)” Neal Stephenson**
 
 Many people will also consider this to be an odd choice. This is less a book and more a rant about all the different current operating systems, from MacOS to Linux. But the reason you should read it is that its description on why Unix is as it is is the best I’ve seen. Even if you’re quite happy with Windows, you should be aware of the competition.
 
@@ -76,4 +76,4 @@ When I first wrote this piece I left this book in the “bubbling under” secti
 
 Also bubbling under are: [Hackers](http://www.amazon.com/exec/obidos/ASIN/0140232699/zx81orguk00), [Debugging the Development Process](http://www.amazon.com/exec/obidos/ASIN/1556156502/zx81orguk00), [OpenSources](http://www.amazon.com/exec/obidos/ASIN/1565925823/zx81orguk00) and [Being Digital](http://www.amazon.com/exec/obidos/ASIN/0340649305/zx81orguk00).
 
-*Note:* The links above all go to [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home?tag=zx81orguk00&site=amazon). If you’re in the UK then it’s much cheaper to buy them at [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/redirect-home?tag=zx81orguk&site=amazon). Here are some quick links for all the books mentioned: [Code Complete](http://www.amazon.co.uk/exec/obidos/ASIN/0735619670/zx81orguk), [After the Gold Rush](http://www.amazon.co.uk/exec/obidos/ASIN/0321193679/zx81orguk), [ The Mythical Man Month](http://www.amazon.co.uk/exec/obidos/ASIN/0201835959/zx81orguk), [ Accidental Empires](http://www.amazon.co.uk/exec/obidos/ASIN/014017138X/zx81orguk), [ In the beginning was the command line…](http://www.amazon.co.uk/exec/obidos/ASIN/0380815931/zx81orguk) and [Cathedral and the Bazaar](http://www.amazon.co.uk/exec/obidos/ASIN/1565927249/zx81orguk).
+*Note:* The links above all go to [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home?tag=zx81orguk00&site=amazon). If you’re in the UK then it’s much cheaper to buy them at [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/redirect-home?tag=zx81orguk&site=amazon). Here are some quick links for all the books mentioned: [Code Complete](http://www.amazon.co.uk/exec/obidos/ASIN/0735619670/zx81orguk), [After the Gold Rush](http://www.amazon.co.uk/exec/obidos/ASIN/0321193679/zx81orguk), [ The Mythical Man Month](http://www.amazon.co.uk/exec/obidos/ASIN/0201835959/zx81orguk), [ Accidental Empires](http://www.amazon.co.uk/exec/obidos/ASIN/014017138X/zx81orguk), [ In the beginning was the command line...](http://www.amazon.co.uk/exec/obidos/ASIN/0380815931/zx81orguk) and [Cathedral and the Bazaar](http://www.amazon.co.uk/exec/obidos/ASIN/1565927249/zx81orguk).

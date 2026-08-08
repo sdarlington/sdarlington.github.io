@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Inner City." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3314'
 aliases: ['/photography/photofriday/inner-city.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - PhotoFriday
 tags:

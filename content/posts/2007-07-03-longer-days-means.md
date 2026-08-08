@@ -1,6 +1,6 @@
 ---
 id: 348
-title: 'Longer Days means&#8230;'
+title: 'Longer Days means...'
 date: '2007-07-03T08:38:25+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Sign-spotting in Berkeley, California.'

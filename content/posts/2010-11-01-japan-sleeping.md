@@ -7,8 +7,6 @@ excerpt: 'I don''t think I''ve ever seen so sleepy a nation as Japan.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2382'
 aliases: ['/travel/japan-sleeping.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

@@ -6,14 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2812'
 aliases: ['/links/my-delicious-com-bookmarks-for-april-2nd-through-april-5th.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

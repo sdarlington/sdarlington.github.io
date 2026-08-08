@@ -40,6 +40,6 @@ Are Christians really any happier than people who don?t believe in an Abrahamic 
 
 Did this guy really think he would get any converts? I was probably the only person listening. However I’m not a great audience for him, as I’m fascinated by his conviction but utterly unconvinced by his argument.
 
-> “We already heard it! *Groan…*“
+> “We already heard it! *Groan...*“
 
 Not his words, but those of a passenger just after the doors closed and the preacher started his spiel again, almost word for word.

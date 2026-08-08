@@ -17,7 +17,7 @@ tags:
     - uk
 ---
 
-I’m not sure how true it is, but I always assume that doctors must have no fun at parties. Every time they’re introduced to someone the response is bound to be, “Oh, I have this strange tingle on my elbow…?” or “[I have this pain in all the diodes on my left side](http://www.bbc.co.uk/dna/h2g2/A4059740 "Marvin").” Even lacking the title, working in IT as I do, I get the same kind of thing. “My PC blue-screens when…” or “How do I do \[something esoteric\] in \[some weird application I’ve never heard of\]?” It’s the curse of knowing something about computers.
+I’m not sure how true it is, but I always assume that doctors must have no fun at parties. Every time they’re introduced to someone the response is bound to be, “Oh, I have this strange tingle on my elbow...?” or “[I have this pain in all the diodes on my left side](http://www.bbc.co.uk/dna/h2g2/A4059740 "Marvin").” Even lacking the title, working in IT as I do, I get the same kind of thing. “My PC blue-screens when...” or “How do I do \[something esoteric\] in \[some weird application I’ve never heard of\]?” It’s the curse of knowing something about computers.
 
 Often it turns out that people have been mis-sold either the computer itself or some associated gadget. PCs are complicated and people often end up believing the sales-person not because they are inherently trust-worthy (quite the opposite) but because they don’t know enough to counter any assertions made. Can that £300 Dell really edit your home movies? Is an extra 512Mb of memory really necessary or do the margins on it justify a hard sell? How do I avoid all those viruses? (Answers: no, yes and buy a [Mac](http://www.apple.com/uk/ "Apple Macintosh").)
 

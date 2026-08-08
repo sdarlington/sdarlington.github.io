@@ -8,7 +8,7 @@ layout: post
 guid: 'http://www.zx81.org.uk/?p=4209'
 aliases: ['/computing/programming/moving-an-app-from-paid-to-free.html']
 enclosure:
-    - "http://devstreaming.apple.com/videos/wwdc/2013/308xex4x6ybggtlw4ztv0sg5btp/308/308-HD.mov?dl=1\r\n2677472578\r\nvideo/quicktime\r\n"
+    - "http://devstreaming.apple.com/videos/wwdc/2013/308xex4x6ybggtlw4ztv0sg5btp/308/308-HD.mov?dl=1\r\n2677472578\r\nvideo/quicktime"
 categories:
     - Programming
 tags:

@@ -41,7 +41,7 @@ $
 
 The columns are Process, Status and Label. So we can see that Apple’s Install On Demand Agent is running but not what triggered it.
 
-There’s also a sub-command called ‘procinfo’. It’s not even “legacy” so it must be good… I certainly can’t complain about the volume of information, though I couldn’t claim to understand a good chunk of it.
+There’s also a sub-command called ‘procinfo’. It’s not even “legacy” so it must be good... I certainly can’t complain about the volume of information, though I couldn’t claim to understand a good chunk of it.
 
 Ah, but then I see ‘blame’ which the help tells me ‘Prints the reason a service is running.’ Ooh, yes please!
 

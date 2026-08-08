@@ -1,6 +1,6 @@
 ---
 id: 1384
-title: 'Yorkshire&#8217;s Influence on Sweden'
+title: 'Yorkshire''s Influence on Sweden'
 date: '2009-05-19T20:22:13+01:00'
 author: 'Stephen Darlington'
 excerpt: 'It''s a little known fact that Yorkshire has had a significant impact on Swedish culture. Let me explain.'

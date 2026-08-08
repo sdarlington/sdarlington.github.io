@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Curvature." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3100'
 aliases: ['/photography/photofriday/curvature.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - PhotoFriday
 tags:

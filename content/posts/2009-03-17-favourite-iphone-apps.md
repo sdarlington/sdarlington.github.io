@@ -17,7 +17,7 @@ tags:
 
 I’ve had my iPhone for over a year now. O2 have got more money out of me than they really deserve given how much I actually use it as a phone, but overall I’m still very happy with it. This is all the more surprising when you consider that I’ve been disappointed with pretty much every phone I’ve had over the years. The last one I was actually happy with was a Nokia 6310i, one of those boring but ultra-competent devices that basically just works. I even got nearly two weeks on a single charge; I barely get two *days* on the iPhone.
 
-But I digress. This post was inspired by [B](http://www.brandarling.com/) getting an iPhone and asking which apps she should get. I’ve never actually compiled a list, so here goes…
+But I digress. This post was inspired by [B](http://www.brandarling.com/) getting an iPhone and asking which apps she should get. I’ve never actually compiled a list, so here goes...
 
 First, the context. I’m not one of those people who downloads pretty much everything. I’m a long way from having the maximum allocation of 148 apps and I can be pretty ruthless at pruning applications that I don’t use. That means that every application below is something that I actually *use* and not just *like*.
 

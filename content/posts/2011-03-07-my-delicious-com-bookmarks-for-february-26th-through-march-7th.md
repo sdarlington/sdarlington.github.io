@@ -6,12 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2720'
 aliases: ['/links/my-delicious-com-bookmarks-for-february-26th-through-march-7th.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

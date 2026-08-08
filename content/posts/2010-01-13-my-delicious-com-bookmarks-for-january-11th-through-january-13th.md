@@ -6,8 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1921'
 aliases: ['/links/my-delicious-com-bookmarks-for-january-11th-through-january-13th.html']
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

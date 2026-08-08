@@ -7,16 +7,6 @@ excerpt: 'Just because you can''t get a new car for Christmas doesn''t mean that
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2609'
 aliases: ['/photography/lego-ferrari.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
-seo_noindex:
-    - 'false'
 categories:
     - Photography
 tags:

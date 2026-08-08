@@ -1,6 +1,6 @@
 ---
 id: 4189
-title: '"Preview" is damaged and can&#8217;t be opened.'
+title: '"Preview" is damaged and can''t be opened.'
 date: '2015-01-06T20:21:52+00:00'
 author: 'Stephen Darlington'
 excerpt: 'A simple solution to a bizarre problem.'
@@ -9,6 +9,10 @@ guid: 'http://www.zx81.org.uk/?p=4189'
 aliases: ['/computing/opinion/preview-is-damaged-and-cant-be-opened.html']
 categories:
     - Opinion
+tags:
+    - software
+    - mac
+    - debug
 ---
 
 > “Preview” is damaged and can’t be opened. You should move it to the Trash.

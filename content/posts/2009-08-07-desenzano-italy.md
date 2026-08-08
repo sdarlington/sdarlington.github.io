@@ -7,14 +7,6 @@ excerpt: 'There''s no PhotoFriday this week but that''s no reason for not postin
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1610'
 aliases: ['/photography/desenzano-italy.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Photography
 tags:

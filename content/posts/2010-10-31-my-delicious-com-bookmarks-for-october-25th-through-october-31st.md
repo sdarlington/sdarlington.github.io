@@ -6,8 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2403'
 aliases: ['/links/my-delicious-com-bookmarks-for-october-25th-through-october-31st.html']
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:
@@ -24,4 +22,4 @@ tags:
 ---
 
 - [Jon Stewart’s Rally to Restore Sanity draws marchers from across America](http://www.guardian.co.uk/media/2010/oct/31/rally-restore-sanity-jon-stewart-washington) – Good to see that there is some sense in American politics!
-- [Some physics to live by…](http://niemann.blogs.nytimes.com/2010/10/25/unpopular-science/?ref=science) – "Whether we like it or not, human life is subject to the universal laws of physics."
+- [Some physics to live by...](http://niemann.blogs.nytimes.com/2010/10/25/unpopular-science/?ref=science) – "Whether we like it or not, human life is subject to the universal laws of physics."

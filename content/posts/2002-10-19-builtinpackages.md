@@ -28,7 +28,7 @@ In fact, as the first chapter of the book explains, this entire book was origian
 
 But like the first book, this is still a bit of a monster in its own right. It stands at 931 pages and there’s very little padding; if only all technical books had such a high signal-to-noise ratio!
 
-It seems rather pointless to go into detail on the content of all the different sections…
+It seems rather pointless to go into detail on the content of all the different sections...
 
 The two chapters that I’ve used the most are those on DBMS\_FILE, which allows you to manipulate operating system files, and DBMS\_SQL. Just about everything I know about these modules I learned from this book. When I was originally writing the code, ‘Oracle Builtin Packages’ was by my side, open at the relevant page. When colleagues mistakenly thought I knew what I was talking about, this book was open beneath my desk giving me superiour bluffing ability.
 

@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday is "Motionless." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2126'
 aliases: ['/photography/photofriday/motionless.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

@@ -1,6 +1,6 @@
 ---
 id: 232
-title: 'You Wouldn&#8217;t Buy a Toaster Drunk'
+title: 'You Wouldn''t Buy a Toaster Drunk'
 date: '2006-09-16T14:08:36+01:00'
 author: 'Stephen Darlington'
 excerpt: '"He?s Irish. He has dark hair. He?s very, very funny." He''s Dylan Moran. And we went to see him do stand-up comedy last night.'

@@ -21,7 +21,7 @@ The problem with “agile development” is that it is both a methodology and a 
 
 I’ve come across this multiple times in my career. The usual refrain is “we’re agile so we don’t need documentation.” The “agile” aspect is more often than not, merely the assertion that the project is agile. Or someone says that the code is the documentation.
 
-Another common one is “we need to improve communication so we’ll have have a daily stand-up.” This often ends up being an opportunity for senior managers to give ten minute monologues about what they might get up to if they didn’t have so many meetings to attend. (Cue unheeded calls for sympathy.) Updates from people at the coal face often get cut due to time pressures. After a few weeks people stop attending…
+Another common one is “we need to improve communication so we’ll have have a daily stand-up.” This often ends up being an opportunity for senior managers to give ten minute monologues about what they might get up to if they didn’t have so many meetings to attend. (Cue unheeded calls for sympathy.) Updates from people at the coal face often get cut due to time pressures. After a few weeks people stop attending...
 
 Agile as it was originally designed was clever because it went up against the common wisdom of the day by jettisoning certain elements of bureaucracy but balancing them with other carefully considered, and hopefully less onerous, procedures. Less documentation might work if you increase the amount of teamwork; less formal requirements gathering is counteracted by including a user in the team; regular cadence of releases means you can get away with less rigid planning.
 

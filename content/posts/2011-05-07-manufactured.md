@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Manufactured." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2903'
 aliases: ['/photography/photofriday/manufactured.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

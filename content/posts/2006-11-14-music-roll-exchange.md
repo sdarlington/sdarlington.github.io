@@ -3,7 +3,7 @@ id: 261
 title: 'Music Roll Exchange'
 date: '2006-11-14T13:30:26+00:00'
 author: 'Stephen Darlington'
-excerpt: "I don't have an entry for this weeks PhotoFriday so I thought I would take the opportunity to show-case some of my other photography...\r\n"
+excerpt: "I don't have an entry for this weeks PhotoFriday so I thought I would take the opportunity to show-case some of my other photography..."
 layout: post
 guid: 'http://www.zx81.org.uk/photography/music-roll-exchange.html'
 aliases: ['/photography/music-roll-exchange.html']

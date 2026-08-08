@@ -7,14 +7,6 @@ excerpt: 'While I really like the idea of ebooks, I very rarely buy them. Why?'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2780'
 aliases: ['/computing/opinion/the-trouble-with-ebooks.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

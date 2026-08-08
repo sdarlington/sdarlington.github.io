@@ -19,7 +19,7 @@ tags:
 
 So that you can believe what you see, I just wanted to talk you through the process I go through to get some beautiful parts of the world conveniently into your web browser.
 
-**It starts with a camera…**
+**It starts with a camera...**
 
 I have three cameras, two of them being traditional film-based models and the last one a digital.
 
@@ -27,7 +27,7 @@ The oldest images (pre-2001) were taken on a Canon Sureshot 70 Zoom. It has auto
 
 Both film camera use standard 35mm film. (APS is more expensive and lower quality; doesn’t sound like a winning formula to me.) All of the pictures taken on the Sureshot have been taken on Kodak Gold (ISO400) film and processed in a normal mini-lab. I’ve used a wider variety of film in the EOS and the type used is generally noted on the relevant page. Except for low-light shots, I always use ISO100 with the digital.
 
-**And then we go digital…**
+**And then we go digital...**
 
 I have two scanners: a flat-bed and a film scanner.
 

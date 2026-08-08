@@ -21,7 +21,7 @@ tags:
 ---
 Let’s cut to the chase: if you’ve read and enjoyed any of [Joel Spolsky’s ramblings on the web](http://www.joelonsoftware.com/) you’ll like this book. Skip the rest of this review and just go buy it.
 
-For the benefit of those that have not heard of him, who is this Joel chap and what is the book and his normal prose about? The “About the Author” section describes him as an industry veteran that writes an “anti-Dilbert manifesto” on his website. I can’t think of a better description, which is why I have shamelessly copied it rather than finding my own phrase…
+For the benefit of those that have not heard of him, who is this Joel chap and what is the book and his normal prose about? The “About the Author” section describes him as an industry veteran that writes an “anti-Dilbert manifesto” on his website. I can’t think of a better description, which is why I have shamelessly copied it rather than finding my own phrase...
 
 He writes about software development at every level from bashing out code right through to strategy and he applies the same degree of pragmatism, common-sense and humour to every subject he covers.
 

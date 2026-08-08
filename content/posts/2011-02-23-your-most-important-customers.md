@@ -7,14 +7,6 @@ excerpt: 'People who say that the customer is always right have clearly never wo
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2685'
 aliases: ['/computing/opinion/your-most-important-customers.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

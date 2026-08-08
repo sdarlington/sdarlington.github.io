@@ -7,12 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Elaborate." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2813'
 aliases: ['/photography/photofriday/elaborate.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

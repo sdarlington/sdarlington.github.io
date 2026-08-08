@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'Accidental Empires: How the boys in Silicon Valley&#8230;'
+title: 'Accidental Empires: How the boys in Silicon Valley...'
 date: '2002-10-19T17:23:02+01:00'
 author: 'Stephen Darlington'
 excerpt: 'The PC industry has moved on in leaps and bounds since the mid-seventies. Bob Cringely documents that process, and Stephen Darlington reviews the outcome. '

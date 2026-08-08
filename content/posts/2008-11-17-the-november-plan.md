@@ -7,8 +7,6 @@ excerpt: 'Sometimes you just have to keep a tradition going, even if it makes ab
 layout: post
 guid: 'http://www.zx81.org.uk/?p=770'
 aliases: ['/blog/the-november-plan.html']
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

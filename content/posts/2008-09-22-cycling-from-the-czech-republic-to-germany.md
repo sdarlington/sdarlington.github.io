@@ -7,14 +7,6 @@ excerpt: 'Despite being thoroughly out of shape, I decide to cycle from Prague, 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=645'
 aliases: ['/travel/cycling-from-the-czech-republic-to-germany.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:
@@ -25,7 +17,7 @@ tags:
 
 [![Cycling from Prague to Meißen](https://i0.wp.com/farm8.staticflickr.com/7041/6782218740_bacaa8a07a.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6782218740/ "Cycling from Prague to MeiÃen by stephendarlington, on Flickr")
 
-I’ve noticed a trend. Every time that I come back from travelling and write a blog about it I start with the words “only a fool would…” Spend a whole winter in [Norway](/travel/norway.html)? Check. [Three countries](/travel/hungary.html) in one weekend? Count me in! Christmas in [Iceland](/travel/iceland.html)? Absolutely.
+I’ve noticed a trend. Every time that I come back from travelling and write a blog about it I start with the words “only a fool would...” Spend a whole winter in [Norway](/travel/norway.html)? Check. [Three countries](/travel/hungary.html) in one weekend? Count me in! Christmas in [Iceland](/travel/iceland.html)? Absolutely.
 
 This time it was cycling from Prague to Meißen, nearly 230km or around 45km a day. If you get on your bike regularly that might not sound like much, but I’m what you’d call a fair weather cyclist. And the weather in the UK this summer has been neither fair nor summery. So as I sat on the plane at Heathrow I was both nervous and excited. I would get to see a lot of great towns and scenery en route, but I’d have to work for it.
 

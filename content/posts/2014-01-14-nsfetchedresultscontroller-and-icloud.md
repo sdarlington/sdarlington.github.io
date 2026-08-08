@@ -19,7 +19,7 @@ tags:
     - Programming
 ---
 
-This took me a while to figure out so I thought it was worth blogging about. The short version: I’m using Core Data with iCloud syncing and it works… mostly. When starting up for the first time — <s></s>when there is already data in iCloud — <s></s> none of the data appears in a table view, but restarting the app correctly displays it.
+This took me a while to figure out so I thought it was worth blogging about. The short version: I’m using Core Data with iCloud syncing and it works... mostly. When starting up for the first time — <s></s>when there is already data in iCloud — <s></s> none of the data appears in a table view, but restarting the app correctly displays it.
 
 I know what you’re thinking: you’re not merging the updates into the right managed object context. Nope. Sorry. Thinking that was the problem is probably why it took me quite so long to track the *real* problem down!
 

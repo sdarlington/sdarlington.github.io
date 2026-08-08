@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Architecture." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2374'
 aliases: ['/photography/photofriday/architecture.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

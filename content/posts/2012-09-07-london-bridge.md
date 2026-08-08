@@ -27,12 +27,12 @@ I can also see The Shard.
 
 [![The Shard](https://i0.wp.com/farm9.staticflickr.com/8300/7950805308_b17f5e6af2.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/7950805308/ "The Shard by stephendarlington, on Flickr")
 
-It’s not to everyone’s taste, but I think it’s a great building. At least from a distance… I’ve not been in it yet.
+It’s not to everyone’s taste, but I think it’s a great building. At least from a distance... I’ve not been in it yet.
 
 And, with the Olympics still on, there are still a lot of Union Jacks around, including on the very building that I work in. Luckily, many of the nearby blocks are made of glass and work handily as a mirror.
 
 [![Reflection of my office](https://i0.wp.com/farm9.staticflickr.com/8312/7950806104_a0301af46b.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/7950806104/ "Reflection of my office by stephendarlington, on Flickr")
 
-This was a much easier option that asking security guards to let me in to take a few pictures…
+This was a much easier option that asking security guards to let me in to take a few pictures...
 
 But whatever you think of the view, you have to think that it’s better than what I had before.

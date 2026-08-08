@@ -7,12 +7,6 @@ excerpt: 'Does the new CEO of Yahoo! -- whoever that turns out to be -- really n
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3005'
 aliases: ['/computing/opinion/a-new-ceo-for-yahoo.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
 categories:
     - Opinion
 tags:
@@ -34,7 +28,7 @@ Let’s look at some of the suggestions and, more importantly, how they inter-re
 
 Fine. Instagram has done really well. But what makes it successful? (Assuming that it *is* successful. So far it has managed to attract a lot of users but there’s no revenue stream as far as I can see.)
 
-Is it the photo part? Well, partially. It has filters that people like playing around with. Another key to its success is the sharing, social side. But…
+Is it the photo part? Well, partially. It has filters that people like playing around with. Another key to its success is the sharing, social side. But...
 
 > I'd buy Path and With for the sole reason of bringing Dave and his team on to lead the new “Yahoo! Social” division.
 

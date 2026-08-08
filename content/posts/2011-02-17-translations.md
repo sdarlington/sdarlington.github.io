@@ -7,14 +7,6 @@ excerpt: 'If you like www.cut and would like to see it translated into your nati
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2696'
 aliases: ['/computing/software/translations.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Software
 tags:

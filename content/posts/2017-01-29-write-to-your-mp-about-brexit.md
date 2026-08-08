@@ -19,7 +19,7 @@ tags:
 
 [![](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/01/C26uzFVXEAAA2A2.jpg-large.jpeg?resize=474%2C334&ssl=1)](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2017/01/C26uzFVXEAAA2A2.jpg-large.jpeg?ssl=1)
 
-I’m sick of last years referendum on our membership of the EU being used to justify… pretty much anything. And any criticism is met with “you have to respect the will of the people.”
+I’m sick of last years referendum on our membership of the EU being used to justify... pretty much anything. And any criticism is met with “you have to respect the will of the people.”
 
 Well, I’m a person and I don’t think *my* will is being respected by many politicians and much of the media. The result of the referendum *doesn’t* say that people are happy with a so-called Hard Brexit, dismantling the NHS or using EU citizens as negotiation pawns.
 

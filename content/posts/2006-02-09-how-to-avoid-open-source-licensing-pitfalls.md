@@ -22,7 +22,7 @@ Given that this is the crux of the whole article, what is my objection?
 
 Well, how is this any different to proprietary software? Are the T&amp;C’s on commercial software really less onerous than free software? Are they any better known? Let’s put that another way: did you read the [EULA](http://en.wikipedia.org/wiki/Eula) that came with your copy of Microsoft Windows? I thought not.
 
-He makes a big thing of liability (“The risk of third-party intellectual property rights infringement … is a noteworthy concern”), giving a big red flag to open source software. While he concedes that “such risk is not confined to open source,” he then loses credibility by saying that the risk “is often perceived to be greater \[in free software\].” I’m not interested in the *perception*, as an expert in the subject I expect him to tell me the facts.
+He makes a big thing of liability (“The risk of third-party intellectual property rights infringement ... is a noteworthy concern”), giving a big red flag to open source software. While he concedes that “such risk is not confined to open source,” he then loses credibility by saying that the risk “is often perceived to be greater \[in free software\].” I’m not interested in the *perception*, as an expert in the subject I expect him to tell me the facts.
 
 But is that right? Did Microsoft not make a big noise about them [protecting you against violating patents while using their software](http://www.microsoft.com/windowsserversystem/facts/topics/policy.mspx)?
 

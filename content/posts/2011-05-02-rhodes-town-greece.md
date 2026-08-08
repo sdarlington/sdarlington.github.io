@@ -7,12 +7,6 @@ excerpt: 'Since that''s where I was staying, I took a good look around Rhodes to
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2844'
 aliases: ['/travel/rhodes-town-greece.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

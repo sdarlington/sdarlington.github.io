@@ -45,7 +45,7 @@ Luckily my surprise was supported by the actual Raspberry Pi software archive: i
 
 The rest worked incredibly well “out of the box.” I ran it, trained it on a few unsuspecting family members and was very impressed that it worked the first time. It uses a lot of CPU on my Pi 4, so I’m not sure that it would work on any of the earlier models.
 
-My next task was to hook in the Christmas Tree code so that the tree responds to changes in what the webcam could see. And… that’s where I ran out of time.
+My next task was to hook in the Christmas Tree code so that the tree responds to changes in what the webcam could see. And... that’s where I ran out of time.
 
 The interface between the facial-recognition and the tree lights is, well, *minimal*. If it finds someone it recognises, all the lights come on, otherwise, it goes dark. You can [see the code on GitHub](https://github.com/sdarlington/facial_recognition/blob/christmas-tree/facial_req.py) — only a handful of lines are mine.
 

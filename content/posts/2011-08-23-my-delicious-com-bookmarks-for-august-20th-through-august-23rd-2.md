@@ -6,14 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3099'
 aliases: ['/links/my-delicious-com-bookmarks-for-august-20th-through-august-23rd-2.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Links
 tags:

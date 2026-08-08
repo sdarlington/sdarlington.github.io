@@ -7,14 +7,6 @@ excerpt: 'If you write iOS software and are waiting for crash reports to be deli
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2758'
 aliases: ['/computing/opinion/why-you-need-a-crash-reporter.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:
@@ -34,7 +26,7 @@ Most developers of iOS applications hate iTunes Connect, the main impediment to 
 
 To be fair it has improved since it opened in mid-2008. One of those improvements has been the inclusion of crash reports. A crash report, in case you’re not a developer, is something that iOS devices such as iPhones and iPads write out when an application crashes. It includes all kinds of useful information, including some, but not all, of the internal state of the application in question. It’s very, very useful for diagnosing problems.
 
-However, what has become clear is that not all of the crash reports make it into iTunes Connect. There are two, maybe three, levels of screening going on. First, the user has to sync their phone with iTunes. I do this mainly to update my podcasts but otherwise I’d do it fairly infrequently. Second, the user also needs to allow the crash reports to be uploaded. I suspect most users do but, you never can tell. Third, Apple clearly does… *something* with the reports when it gets them. There’s clearly some degree of filtering going on but quite what is anyones guess.
+However, what has become clear is that not all of the crash reports make it into iTunes Connect. There are two, maybe three, levels of screening going on. First, the user has to sync their phone with iTunes. I do this mainly to update my podcasts but otherwise I’d do it fairly infrequently. Second, the user also needs to allow the crash reports to be uploaded. I suspect most users do but, you never can tell. Third, Apple clearly does... *something* with the reports when it gets them. There’s clearly some degree of filtering going on but quite what is anyones guess.
 
 The practical upshot of all this is that you’re quite likely to hear about crashes before you see them. I’ve seen reviews in iTunes complain about crashes. I’ve received tweets and support emails. And all before a single report appears in iTunes Connect.
 

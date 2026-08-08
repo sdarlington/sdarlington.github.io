@@ -3,7 +3,7 @@ id: 51
 title: 'Open Sources'
 date: '2002-10-19T17:23:02+01:00'
 author: 'Stephen Darlington'
-excerpt: " Stephen Darlington listens to the 'Voices from the Open Source Revolution' and it very impressed.\r\n\r\n"
+excerpt: " Stephen Darlington listens to the 'Voices from the Open Source Revolution' and it very impressed.\r\n"
 layout: post
 guid: 'http://ccgi.sdarlington.plus.com/computing/opinion/open-sources.html'
 aliases: ['/computing/opinion/opensources.html']

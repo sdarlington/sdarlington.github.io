@@ -7,14 +7,6 @@ excerpt: 'Why do movie rentals come and go when you look on iTunes or NetFlix? T
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3292'
 aliases: ['/blog/going-rental.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Blog
 tags:

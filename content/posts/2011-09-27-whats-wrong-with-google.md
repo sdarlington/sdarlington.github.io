@@ -1,20 +1,12 @@
 ---
 id: 3095
-title: 'What&#8217;s wrong with Google+'
+title: 'What''s wrong with Google+'
 date: '2011-09-27T19:18:07+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Try as I might, I can''t get into Google''s new social networking site, Google+. Here I try to analyse why.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3095'
 aliases: ['/computing/opinion/whats-wrong-with-google.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Opinion
 tags:

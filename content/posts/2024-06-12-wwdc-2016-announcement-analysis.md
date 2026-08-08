@@ -15,7 +15,7 @@ tags:
     - wwdc
 ---
 
-*This was originally posted to Medium in 2016. Reposting a couple of weeks ago would have made more sense in hindsight…*
+*This was originally posted to Medium in 2016. Reposting a couple of weeks ago would have made more sense in hindsight...*
 
 Apple event invitations are famous for providing clues about announcements that will be made at the event. Who can forget the square shapes on the invitation to last years keynote effectively predicting the arrival of the new Apple TV? Or the circular patterns a couple of years ago that presaged the cylindical shape of the new Mac Pro?
 

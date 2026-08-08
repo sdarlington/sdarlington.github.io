@@ -7,8 +7,6 @@ excerpt: 'Is writing software tools the thing that make some developers signific
 layout: post
 guid: 'http://www.zx81.org.uk/computing/opinion/blessed-is-the-tool-maker.html'
 aliases: ['/computing/opinion/blessed-is-the-tool-maker.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

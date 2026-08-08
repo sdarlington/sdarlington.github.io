@@ -1,6 +1,6 @@
 ---
 id: 219
-title: 'Introducing&#8230;'
+title: 'Introducing...'
 date: '2006-08-23T19:20:25+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Welcome to our new pets'
@@ -15,7 +15,7 @@ tags:
     - wildlife
 ---
 
-Introducing two new additions to the Darlington household…
+Introducing two new additions to the Darlington household...
 
 Bob:
 

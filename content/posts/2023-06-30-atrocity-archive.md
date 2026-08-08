@@ -3,7 +3,7 @@ id: 83279
 title: 'Atrocity Archive'
 date: '2023-06-30T09:30:00+01:00'
 author: 'Stephen Darlington'
-excerpt: 'There’s lots to like about this Charlie Stross book. But…'
+excerpt: 'There’s lots to like about this Charlie Stross book. But...'
 layout: post
 guid: 'https://www.zx81.org.uk/?p=83279'
 aliases: ['/blog/atrocity-archive.html']

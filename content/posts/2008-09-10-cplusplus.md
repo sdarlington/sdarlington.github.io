@@ -25,7 +25,7 @@ You’d be wrong though. In many ways I consider C++ to be a step backwards from
 
 **The big things in life**
 
-Identifying the main thing wrong with C++ is easy when you start making a list of features. I don’t mean a list trying to identify things it does badly, but a genuine feature list, stuff like object orientation, exceptions, strong-ish typing, multiple inheritance… Well I’ve only just started, but there’s a huge list.
+Identifying the main thing wrong with C++ is easy when you start making a list of features. I don’t mean a list trying to identify things it does badly, but a genuine feature list, stuff like object orientation, exceptions, strong-ish typing, multiple inheritance... Well I’ve only just started, but there’s a huge list.
 
 And that is the problem. C++ has tried to incorporate just about every interesting software engineering development that has been made over the last twenty-five years. In some ways that’s a very good thing: it allows programmers to build code in the most appropriate way which ever that way might be.
 

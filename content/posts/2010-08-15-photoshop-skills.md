@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Photoshop Skills." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2239'
 aliases: ['/photography/photofriday/photoshop-skills.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

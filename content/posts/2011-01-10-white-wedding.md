@@ -7,14 +7,6 @@ excerpt: 'Being a wedding photographer only gets slightly easier the more you do
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2587'
 aliases: ['/photography/white-wedding.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:
@@ -25,7 +17,7 @@ tags:
 
 [![Wedding rings and the wedding register](https://i0.wp.com/farm6.staticflickr.com/5003/5300682758_3ef77eb4df.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5300682758/ "Wedding rings and the wedding register by stephendarlington, on Flickr")
 
-The short version of this post is: congratulation to the happy couple! Enjoy your honeymoon and see you when you get back. The longer version follows…
+The short version of this post is: congratulation to the happy couple! Enjoy your honeymoon and see you when you get back. The longer version follows...
 
 A month ago I drove up to the midlands for a wedding where I had been asked to be the photographer. [It’s not the first time](/photography/my-life-as-a-wedding-photographer.html) that this has happened but it *is* the first time that I’ve been the “official” photographer and it’s also the first time where the wedding has been in a church, white dress, limo and all.
 
@@ -35,7 +27,7 @@ Or at least, that was the plan. I waited until noon for the flash (and a nice L-
 
 I ended up picking up a a flash at the local Jessops, which was an unexpected expense but it worked out in the end.
 
-On the day things went pretty well. The Chauffeur had clearly done this a lot before and helped out for the pictures by the car. A helpful uncle corralled the troops, ticking off most of the pictures on my list pretty quickly. Which was great as it was… well, the middle of December and we were outside. Some of the smiles may actually be people shivering.
+On the day things went pretty well. The Chauffeur had clearly done this a lot before and helped out for the pictures by the car. A helpful uncle corralled the troops, ticking off most of the pictures on my list pretty quickly. Which was great as it was... well, the middle of December and we were outside. Some of the smiles may actually be people shivering.
 
 Looking back over the images I have mainly the expected problems: people blinking or looking in the wrong direction, some minor under or over exposure. I took plenty of pictures so, mostly, the blinking wasn’t a problem. And the technical issues were not significant as I shot in RAW and it’s possible to recover the best part of two stops of exposure in Aperture.
 

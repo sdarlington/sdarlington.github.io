@@ -7,8 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Summer Fun." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2165'
 aliases: ['/photography/photofriday/summer-fun.html']
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

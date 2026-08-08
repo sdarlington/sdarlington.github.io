@@ -20,7 +20,7 @@ tags:
 
 I barely recall any mention of Halloween when I was growing up. That’s changed in the last few years. It’s certainly being much more heavily promoted these days and I want to say — though I have no evidence to support it — that it’s at the expense of Bonfire Night. Presumably children asking strangers for sugary treats is safer than fireworks and piles of burning wood?
 
-In any case, it’s big in America and has been for a long time and one of the traditions is going to a pumpkin patch. Since I was in California recently with family, including two children[^1], it made sense to check out what happens…
+In any case, it’s big in America and has been for a long time and one of the traditions is going to a pumpkin patch. Since I was in California recently with family, including two children[^1], it made sense to check out what happens...
 
 [![Pumpkin patch](https://i0.wp.com/farm9.staticflickr.com/8046/8142553974_bfb322f514.jpg?resize=500%2C375)](http://www.flickr.com/photos/stephendarlington/8142553974/ "Pumpkin patch by stephendarlington, on Flickr")
 
@@ -34,7 +34,7 @@ Away from the stalls, the pumpkins progressively lost their vivid orange colour 
 
 [![Pumpkin Patch](https://i0.wp.com/farm9.staticflickr.com/8474/8110899011_5005691f28.jpg?resize=375%2C500)](http://www.flickr.com/photos/stephendarlington/8110899011/ "Pumpkin Patch by stephendarlington, on Flickr")
 
-We didn’t take one in the end — suitcases being only finite in size and Virgin’s baggage allowance not being overly generous — but plenty of other people clearly did. Around the local neighbourhood were many examples of some fine carving…[^2]
+We didn’t take one in the end — suitcases being only finite in size and Virgin’s baggage allowance not being overly generous — but plenty of other people clearly did. Around the local neighbourhood were many examples of some fine carving...[^2]
 
 [![Halloween Pumpkins](https://i0.wp.com/farm9.staticflickr.com/8184/8110905300_a37367e52b.jpg?resize=500%2C375)](http://www.flickr.com/photos/stephendarlington/8110905300/ "Halloween Pumpkins by stephendarlington, on Flickr")
 

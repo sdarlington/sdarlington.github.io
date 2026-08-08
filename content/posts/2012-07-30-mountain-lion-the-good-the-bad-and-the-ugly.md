@@ -26,7 +26,7 @@ I’ve been using [Mountain Lion](http://www.apple.com/osx/whats-new/features.ht
 
 **Bad**
 
-- You’re not going to be able to make the best use of everything until iOS 6 comes out. This is a bit of a pain if you own a first generation iPad and know that this will never happen…
+- You’re not going to be able to make the best use of everything until iOS 6 comes out. This is a bit of a pain if you own a first generation iPad and know that this will never happen...
 - The installer got confused. After “less than a minute remaining” it went to “-1 minutes remaining.” It got to -7 before finally resetting to twenty minutes. It worked in the end so clearly this isn’t a “show stopper” but anything weird in a process that reconfigures your system is disconcerting
 - I launched Mail. It upgraded my database successfully and then, while I was making a cup of coffee, crashed. It’s been stable ever since, but first impressions and all that
 - Every time I click on Messages — the new iChat — it opens the instant message (“Messages”) window. Do Not Want

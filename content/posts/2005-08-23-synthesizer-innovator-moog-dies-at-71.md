@@ -16,7 +16,7 @@ tags:
     - uk
 ---
 
-So much of my favourite music only exists because of this man…
+So much of my favourite music only exists because of this man...
 
 [BBC NEWS | Entertainment | Music | Obituary: Dr Robert Moog](http://news.bbc.co.uk/1/hi/entertainment/music/4696651.stm)
 

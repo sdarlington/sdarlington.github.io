@@ -14,7 +14,7 @@ tags:
     - recruitment
 ---
 
-Over the years I’ve been asked to do a lot of programming aptitude tests. I’ve had to do some in the last couple of months and I’m deliberately writing this now before I get the results back of the most recent one so you won’t think that this post is just sour grapes…
+Over the years I’ve been asked to do a lot of programming aptitude tests. I’ve had to do some in the last couple of months and I’m deliberately writing this now before I get the results back of the most recent one so you won’t think that this post is just sour grapes...
 
 I’m not going to get into the details of the tests because it doesn’t really matter what they are or who administered them for the purposes of this post.
 

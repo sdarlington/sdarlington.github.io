@@ -7,14 +7,6 @@ excerpt: 'The most famous destination in Rhodes is probably Lindos and its acrop
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2850'
 aliases: ['/travel/lindos-and-rhodes-east-coast-greece.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:
@@ -64,7 +56,7 @@ Even at this time of year, when the sky looked a little overcast and where the w
 
 [![View of Lindos from the acropolis](https://i0.wp.com/farm6.static.flickr.com/5186/5632212693_30905ec901.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632212693/ "View of Lindos from the acropolis by stephendarlington, on Flickr")
 
-Tourist-wise this was probably the busiest place I’d been to so far this week. It meant that taking some pictures turned out to be more tricky than I’d hoped for. But, then again, taking pictures *of* tourists was fairly straight-forward…
+Tourist-wise this was probably the busiest place I’d been to so far this week. It meant that taking some pictures turned out to be more tricky than I’d hoped for. But, then again, taking pictures *of* tourists was fairly straight-forward...
 
 [![What to see next in the Lindos acropolis](https://i0.wp.com/farm6.static.flickr.com/5269/5632213263_550ee1749f.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5632213263/ "What to see next in the Lindos acropolis by stephendarlington, on Flickr")
 

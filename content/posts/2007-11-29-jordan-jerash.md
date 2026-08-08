@@ -34,7 +34,7 @@ I enter the site through a triumphal arch, which is located right next to the ro
 
 Some parts, mainly those near the gates, have been reconstructed. They are, no doubt, authentic but looking fairly new it’s not really the look I was expecting. For similar reasons I didn’t feel inclined to hang around and see the jousting. I was more drawn to the paths lined with columns, piazza’s and mosaics. Not as pristine as the reconstruction but amazing in their own way.
 
-Certainly the most surreal part of the whole time at Jerash is when I reach an amphitheatre, where three men entertain us with drums and… bagpipes. Yes, you read that right.
+Certainly the most surreal part of the whole time at Jerash is when I reach an amphitheatre, where three men entertain us with drums and... bagpipes. Yes, you read that right.
 
 [![Bagpipers and drummers, Jerash, Jordan](https://i0.wp.com/farm6.staticflickr.com/5526/10817726373_46dc4e3fa9.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/10817726373/ "Bagpipers and drummers, Jerash, Jordan by stephendarlington, on Flickr")
 

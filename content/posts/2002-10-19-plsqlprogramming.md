@@ -31,9 +31,9 @@ It’s split into seven sections and twenty-six chapters, making it a good refer
 
 Section two moves onto the ‘meat’ of the language and takes up over two-hundred pages in its own right — longer than the whole of some other texts! Feuerstein covers all this in detail and with great skill, mentioning not only how the language works but also, where appropriate, where it doesn’t work. This kind of honesty seems rare, especially in Oracle Press books!
 
-‘Built-in Functions’ does exactly what you’d expect, and includes a thorough discussion on handling dates, a common area of confusion (I was pleased to find that it’s not just me…).
+‘Built-in Functions’ does exactly what you’d expect, and includes a thorough discussion on handling dates, a common area of confusion (I was pleased to find that it’s not just me...).
 
-Parts four and five are, perhaps, the most clumsy sections. The first talks of ‘Modular Code,’ which I don’t see as being so advanced that it requires its own section. And part five discusses the ‘New PL/SQL8 Features’ which, again, don’t necessarily deserve a section on their own. I suppose it made writing the second edition easier…
+Parts four and five are, perhaps, the most clumsy sections. The first talks of ‘Modular Code,’ which I don’t see as being so advanced that it requires its own section. And part five discusses the ‘New PL/SQL8 Features’ which, again, don’t necessarily deserve a section on their own. I suppose it made writing the second edition easier...
 
 The last section before the appendices is called ‘Making PL/SQL Programs Work.’ For those not familiar with server-side PL/SQL, let me point out that this isn’t as silly as it sounds. PL/SQL, until recently, had no debugging facilities to speak of. You can’t set break-points or single-step and even outputting trace statements to the screen is not trivial.
 

@@ -7,8 +7,6 @@ excerpt: 'Making your free version painful isn''t the solution to getting people
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1847'
 aliases: ['/computing/opinion/the-up-sell.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

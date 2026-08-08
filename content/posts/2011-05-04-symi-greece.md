@@ -7,14 +7,6 @@ excerpt: 'Symi is just a short boat trip from Rhodes and was once the richer of 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2851'
 aliases: ['/travel/symi-greece.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

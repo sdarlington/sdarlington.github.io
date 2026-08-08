@@ -28,7 +28,7 @@ On trying to upgrade the firmware we found that the update software was packaged
 
 I tried reporting the bugs and asked for a solution from Belkin technical support. My first problem was that it wasn?t easy to negotiate their website. The Skype phone was so new that it was not possible to enter the SKU into their site, so I could raise a support call. After some time playing around I eventually found a way of doing it.
 
-My effort was rewarded with… nothing. I got no reply at all. Maybe they were confused by the UK details as it turns out that I’d posted my question to the US technical support department. I still think it was rude to get no reply whatsoever.
+My effort was rewarded with... nothing. I got no reply at all. Maybe they were confused by the UK details as it turns out that I’d posted my question to the US technical support department. I still think it was rude to get no reply whatsoever.
 
 I waited until January 2nd to resubmit the question. This time I was able to do so from the UK site and, fortunately, this time I got a response.
 

@@ -7,14 +7,6 @@ excerpt: 'This weeks PhotoFriday challenge is "Breathtaking." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2681'
 aliases: ['/photography/photofriday/breathtaking.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

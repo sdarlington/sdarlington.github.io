@@ -13,7 +13,7 @@ categories:
 
 There have been lots of articles like “[iOS 10 chooses renovation over innovation](http://www.theverge.com/2016/6/15/11943652/apple-iphone-ios-10-update-wwdc-home-app)” since Apple’s WWDC keynote in June.
 
-I think they reflect the fact that when you download the first beta and put it on your old phone — because you’re too cowardly to put it on the handset you use every day — iOS 10 is slightly underwhelming. The first time you look at the home screen you see… pretty much no differences from iOS 9. So you launch Maps and see they moved the search bar to the bottom of the screen. You tap Messages and see some new icons at the bottom. But Mail looks the same. Safari seems to be unchanged.
+I think they reflect the fact that when you download the first beta and put it on your old phone — because you’re too cowardly to put it on the handset you use every day — iOS 10 is slightly underwhelming. The first time you look at the home screen you see... pretty much no differences from iOS 9. So you launch Maps and see they moved the search bar to the bottom of the screen. You tap Messages and see some new icons at the bottom. But Mail looks the same. Safari seems to be unchanged.
 
 This isn’t like iOS 7. Not every inch of the screen is different. This is more like iOS 8 where the promise is in the new APIs. And the problem with new APIs? You see *nothing* with the first beta. There are literally no apps that use them. Most developers don’t even have *ideas* of how to use them yet.
 

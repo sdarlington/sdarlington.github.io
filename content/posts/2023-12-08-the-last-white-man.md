@@ -23,7 +23,7 @@ The writing is unusual. I hesitate to say bad, because it’s very deliberate, b
 
 This isn’t even the complete sentence.
 
-> … and he said it suits you too, and she said, really, and he said, really, and he added, you looked too hungry before, and she asked, and now I don’t, and he said, and now you don’t, and she smiled, and then she smiled again, her smile bigger and bigger.
+> ... and he said it suits you too, and she said, really, and he said, really, and he added, you looked too hungry before, and she asked, and now I don’t, and he said, and now you don’t, and she smiled, and then she smiled again, her smile bigger and bigger.
 
 The dialogue is quite convincing and some of the descriptions are beautiful, but I had a hard time seeing past the structure.
 

@@ -38,7 +38,7 @@ Our lunch stop was abrupt. The driver made a valiant attempt to reach the top of
 
 After lunch we took to a rather more sedate form of transport: camels. Now I’m not the first to note that camels are rather odd creatures. They are not on the cover of [Programming Perl](/computing/programming/languages/perl.html) for no reason. With long gangly legs, outstretched necks and heavy use of eye-lash volumiser, they’re not going to win any prizes for for aesthetics but for practicality in the desert they’re almost unbeatable.
 
-That’s not to say that it’s easy. When you get on them they lurch forward and back, risking hurting your back and squashing your… delicate areas. And they don’t so much walk as lumber forwards. It’s not elegant, but they keep the same slow, steady pace regardless of the terrain. They get up dunes that the cars would have had difficulty with.
+That’s not to say that it’s easy. When you get on them they lurch forward and back, risking hurting your back and squashing your... delicate areas. And they don’t so much walk as lumber forwards. It’s not elegant, but they keep the same slow, steady pace regardless of the terrain. They get up dunes that the cars would have had difficulty with.
 
 Mine is very sociable, always walking head to haunch with the camel in front. Most of the others are hungry, stopping to munch on as many of the dry-looking bushes as they can get away with before their handler encourages them onward.
 

@@ -7,14 +7,6 @@ excerpt: 'A day of extremes. I start with some wine tasting in Melnik, stop off 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=648'
 aliases: ['/travel/cycling-in-czech-republic-melnik-to-litomerice.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

@@ -7,8 +7,6 @@ excerpt: 'Two anniversaries to celebrate while we''re still in 2009.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1444'
 aliases: ['/computing/opinion/shrinking.html']
-adman_disable:
-    - 'on'
 categories:
     - Opinion
 tags:

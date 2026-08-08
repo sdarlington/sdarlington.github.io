@@ -32,13 +32,13 @@ But back to the fruit cake saga. For our party, my sister-in-law wanted to make 
 
 My father-in-law wasn’t going to allow the short time-frame to thwart his attempt. The cunning use of long forgotten boxes in dark cupboards was to (nearly) save the day.
 
-A couple of years ago B brought a Harrods Mince Pie back home for Christmas. It had been placed in a cupboard, then in storage while the kitchen was remodelled and then back in a dusty corner. Now was its time. He unboxed it and, using tinned frosting (icing), transformed it into… well — let’s be honest here — an iced mince pie. Most people refused even to try it, but the few brave souls who did said that it wasn’t as bad as it looked. A valient effort.
+A couple of years ago B brought a Harrods Mince Pie back home for Christmas. It had been placed in a cupboard, then in storage while the kitchen was remodelled and then back in a dusty corner. Now was its time. He unboxed it and, using tinned frosting (icing), transformed it into... well — let’s be honest here — an iced mince pie. Most people refused even to try it, but the few brave souls who did said that it wasn’t as bad as it looked. A valient effort.
 
 Fast-forward a couple more months. It’s now two weeks before our UK wedding reception, [a cruise down the Thames](/blog//thames-cruise.html), and we’ve just started thinking about cakes. I wonder if my mum would make one for us. I don’t like to ask. It’s quite hard work to make one and then she’d have to carry it two hundred miles south on the day.
 
 Eventually I decide to call and ask.
 
-After some small talk I edge up to the subject. “Would you mind… um… you know…” Well, it was something like that. In fact, she wasn’t going to say anything, wanted it to be a surprise, but she had put one in the oven only thirty minutes previously!
+After some small talk I edge up to the subject. “Would you mind... um... you know...” Well, it was something like that. In fact, she wasn’t going to say anything, wanted it to be a surprise, but she had put one in the oven only thirty minutes previously!
 
 So on the day we finally got a proper, British wedding cake. Everyone was very appreciative. A few people asked if my mum had *really* made it as it looked so professional!
 

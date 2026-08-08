@@ -7,12 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "My Little Secret." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=481'
 aliases: ['/photography/photofriday/my-little-secret.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

@@ -7,14 +7,6 @@ excerpt: 'In my last day of cycling I leave Pirna and head towards Mei&szlig;en,
 layout: post
 guid: 'http://www.zx81.org.uk/?p=654'
 aliases: ['/travel/cycling-germany-pirna-to-meissen.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:

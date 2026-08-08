@@ -7,12 +7,6 @@ excerpt: 'Happy Holidays to everyone!'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=849'
 aliases: ['/blog/happy-holidays-2008.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

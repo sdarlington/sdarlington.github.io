@@ -21,11 +21,11 @@ It slightly bugs me that the first thing a lot of people ask about my photograph
 
 > FEATURES: Reasonably compact (by SLR standards!), simple and quick to use, intelligent feature-set
 
-After my positive experience with the EOS300, this was the obvious choice for my first digital camera. And the first thing to say is that there’s nothing wrong with the 300D, it’s just that…
+After my positive experience with the EOS300, this was the obvious choice for my first digital camera. And the first thing to say is that there’s nothing wrong with the 300D, it’s just that...
 
 It took me over a year to figure out what all the buttons on the 300 were for. It didn’t take me that long to find the limitations in the 300D, which is odd as it’s a better camera in almost every respect. The worst is the start-up time. Five seconds doesn’t sound much, but it’s enough to miss some once-in-a-lifetime snaps.
 
- The rest are really irritations and, perhaps, an indication that I should have gone for the next model up. Things such as the flash sync only being 1/125, and the auto-exposure settings being lost when you switch the camera off but the frame-advance mode being remembered…
+ The rest are really irritations and, perhaps, an indication that I should have gone for the next model up. Things such as the flash sync only being 1/125, and the auto-exposure settings being lost when you switch the camera off but the frame-advance mode being remembered...
 
 So really the 300D is a fine camera and it’s my demands that have risen more quickly than my ability to pay for them!
 

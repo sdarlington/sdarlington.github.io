@@ -7,14 +7,6 @@ excerpt: 'Where bad American laws affect everyone...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3278'
 aliases: ['/blog/just-say-no-to-sopa.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Blog
 tags:

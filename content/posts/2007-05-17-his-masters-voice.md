@@ -1,6 +1,6 @@
 ---
 id: 331
-title: 'His Master&#8217;s Voice'
+title: 'His Master''s Voice'
 date: '2007-05-17T20:09:59+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Does seeing the recording of a radio show add much?'

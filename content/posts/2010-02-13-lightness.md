@@ -7,12 +7,6 @@ excerpt: 'This weeks PhotoFriday theme is "Lightness." Here is my entry.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1970'
 aliases: ['/photography/photofriday/lightness.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - PhotoFriday
 tags:

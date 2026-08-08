@@ -7,8 +7,6 @@ excerpt: 'Taking photographs of a wine bottle is actually harder than you might 
 layout: post
 guid: 'http://www.zx81.org.uk/?p=530'
 aliases: ['/photography/a-lot-of-bottle.html']
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:

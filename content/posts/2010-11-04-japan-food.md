@@ -7,8 +7,6 @@ excerpt: 'If you know me, you''ll appreciate that Japanese food was one of thing
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2366'
 aliases: ['/travel/japan-food.html']
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

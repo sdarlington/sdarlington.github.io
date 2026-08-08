@@ -7,12 +7,6 @@ excerpt: 'Sometimes when travelling you see the oddest things...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2885'
 aliases: ['/travel/plant-on-door.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Travel
 tags:

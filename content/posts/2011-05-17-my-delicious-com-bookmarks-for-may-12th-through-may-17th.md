@@ -6,12 +6,6 @@ author: 'Stephen Darlington'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2915'
 aliases: ['/links/my-delicious-com-bookmarks-for-may-12th-through-may-17th.html']
-image:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Links
 tags:

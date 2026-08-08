@@ -20,6 +20,6 @@ tags:
     - uk
 ---
 
-- [French version of The Apprentice 'not allowed to fire contestants'](http://newsbiscuit.com/article/french-version-of-the-apprentice-not-allowed-to-fire-contestants-299) – Against my better judgement I got quite into this years (UK) Apprentice. The French version sounds even more entertaining…
+- [French version of The Apprentice 'not allowed to fire contestants'](http://newsbiscuit.com/article/french-version-of-the-apprentice-not-allowed-to-fire-contestants-299) – Against my better judgement I got quite into this years (UK) Apprentice. The French version sounds even more entertaining...
 - [No ID Card Function Creep? Pull the Other One](http://opendotdotdot.blogspot.com/2008/06/no-id-card-function-creep-pull-other.html) – "Now, tell me again why we should trust the UK government over ID cards?"
 - [Burma cyclone: Regime turns back US aid ships](http://www.guardian.co.uk/world/2008/jun/04/cyclonenargis.burma) – The Burmese military junta puts their own position above the lives of over two million people. Sick.

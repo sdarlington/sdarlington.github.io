@@ -24,5 +24,5 @@ tags:
 ---
 
 - [Pro-God buses for London streets](http://news.bbc.co.uk/1/hi/england/london/7875457.stm) – Anyone feel like complaining about these Christian ads on the ground that they make unsubstantiated claims?
-- [House Approves Whitelist of People Who Aren't Terrorists](http://blog.wired.com/27bstroke6/2009/02/house-approves.html) – The solution to the errors and inconvenience of the no-fly list is… drum roll… another database! How could that possibly go wrong?
+- [House Approves Whitelist of People Who Aren't Terrorists](http://blog.wired.com/27bstroke6/2009/02/house-approves.html) – The solution to the errors and inconvenience of the no-fly list is... drum roll... another database! How could that possibly go wrong?
 - [Exclusive: ID cards are here – but police can't read them](http://www.silicon.com/publicsector/0,3800010403,39391135,00.htm) – After spending shed-loads of money on ID cards, apparently the police and immigration officers can't read them.

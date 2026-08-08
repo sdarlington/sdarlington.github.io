@@ -12,5 +12,5 @@ tags:
     - Links
 ---
 
-- [OS X Snow Leopard vs. Windows 7](http://www.theonion.com/content/infograph/os_x_snow_leopard_vs_windows) – Everything you wanted to know about the next version of OS X and Windows but were too afraid to ask…
+- [OS X Snow Leopard vs. Windows 7](http://www.theonion.com/content/infograph/os_x_snow_leopard_vs_windows) – Everything you wanted to know about the next version of OS X and Windows but were too afraid to ask...
 - [Questions for Anyone Who Voted for Proposition 8](http://friendlyatheist.com/5582/questions-for-christians-who-voted-for-proposition-8/) – Prop 8 was California's ballot asking whether the state constitution should define marriage as between a man and a woman. Religious groups (mainly) raised enough money and support to pass it.

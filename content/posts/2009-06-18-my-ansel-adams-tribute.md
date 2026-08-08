@@ -7,8 +7,6 @@ excerpt: 'In the weakest possible sense of the word, this post can be considered
 layout: post
 guid: 'http://www.zx81.org.uk/?p=1516'
 aliases: ['/photography/my-ansel-adams-tribute.html']
-adman_disable:
-    - 'on'
 categories:
     - Photography
 tags:

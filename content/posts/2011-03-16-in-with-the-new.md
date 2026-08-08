@@ -7,14 +7,6 @@ excerpt: 'New toys are great but they don''t always work first time.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=2760'
 aliases: ['/blog/in-with-the-new.html']
-image:
-    - ''
-embed:
-    - ''
-seo_follow:
-    - 'false'
-adman_disable:
-    - 'on'
 categories:
     - Blog
 tags:

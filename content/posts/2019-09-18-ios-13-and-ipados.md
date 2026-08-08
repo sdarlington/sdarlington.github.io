@@ -25,7 +25,7 @@ My caution is because of a combination of things. Firstly, I’m not doing this 
 
 At the start of the beta cycle, there were stories of iCloud Drives getting corrupted and Too Much Stuff being broken.
 
-Even now, on the most recent beta, there are still a few… oddities. One of my apps, when compiled with the latest GM SDK, comes up in lots of weird colours. Through the whole process I assumed that it was a glitch and that it would be fixed in the next seed. It turns out that this was my mistake. It’s a [*change* rather than a bug](https://www.morningswiftui.com/blog/customizing-navigation-bar-ios13). Still, in my defence, it’s rather surprising behaviour and it *looks* like a rendering bug.
+Even now, on the most recent beta, there are still a few... oddities. One of my apps, when compiled with the latest GM SDK, comes up in lots of weird colours. Through the whole process I assumed that it was a glitch and that it would be fixed in the next seed. It turns out that this was my mistake. It’s a [*change* rather than a bug](https://www.morningswiftui.com/blog/customizing-navigation-bar-ios13). Still, in my defence, it’s rather surprising behaviour and it *looks* like a rendering bug.
 
 Anyway, I mention this for two reasons, on both sides of the stability coin. First, the betas have been such that the idea that there was a serious rendering bug remaining wasn’t entirely implausible. Second, *maybe* that this affected my own app skewed my perspective and that they’re not as bad as I think. Your milage may vary, etc.
 
@@ -44,7 +44,7 @@ So, in summary, I’ve not been working with the new OS full time for a few week
 
 ## The Ugly
 
-- Release schedule. What’s going on this year? iOS 13 is available on 19 September for the iPhone. But not at all for the iPad. For that you have to wait for iOS 13.1 at the end of the month (30 September). For the Watch, which is still closely tied to the iPhone, it’s out the same day as iOS 13. Unless it’s more than a couple of years old, in which case… at some later point. This is greatly preferable to releasing software before it’s ready, but see above about stability. It does seem that Apple bit off more than they could chew this year. Either it’s not been *planned* well and they’re just reacting or they’re not *communicating* well. I really hope it’s the latter.
+- Release schedule. What’s going on this year? iOS 13 is available on 19 September for the iPhone. But not at all for the iPad. For that you have to wait for iOS 13.1 at the end of the month (30 September). For the Watch, which is still closely tied to the iPhone, it’s out the same day as iOS 13. Unless it’s more than a couple of years old, in which case... at some later point. This is greatly preferable to releasing software before it’s ready, but see above about stability. It does seem that Apple bit off more than they could chew this year. Either it’s not been *planned* well and they’re just reacting or they’re not *communicating* well. I really hope it’s the latter.
 
 There are some features that I wanted to mention but I’ve not actually used. The Reminders updates look good but I think the handover support from the Music app to the HomePod that I’m most excited by! And some things are probably true but I’ve not actually noticed, like the improved performance or reduced app sizes.
 

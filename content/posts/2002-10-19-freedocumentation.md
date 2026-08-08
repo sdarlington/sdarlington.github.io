@@ -20,7 +20,7 @@ There’s a lot of free or open source software on the net, and much been writte
 
 There is also a significant amount of free documentation. One only needs to take a look at [the GNU web site](http://www.gnu.org) (their definition of a free operating system includes free documentation) or the [Linux Documentation Project](http://www.tldp.org) to see that. However, there doesn’t seem to have been a “Cathedral and the Bazaar” for free documentation, or even anything similar.
 
-That’s kind of what I want to do here, but I’m not going to go into as much detail. Instead, I’m going to write about my own experience writing free documentation (my [Oracle 8i Installation Howto](/computing/oracle/oracle-howto/)), the trial and tribulations, the ups and downs, the good times and the bad… You get the idea.
+That’s kind of what I want to do here, but I’m not going to go into as much detail. Instead, I’m going to write about my own experience writing free documentation (my [Oracle 8i Installation Howto](/computing/oracle/oracle-howto/)), the trial and tribulations, the ups and downs, the good times and the bad... You get the idea.
 
 **Starting off**
 
@@ -50,7 +50,7 @@ The first questions I received that deliberately weren’t answered in the HOWTO
 
 I didn’t fancy wiping my PC clean and attempting the install with as many different distributions as I could find, I just didn’t have the time. Fortunately, the same community on the Internet that helped me complete my first version added to my knowledge base.
 
-I started to add more and more detail to the HOWTO. If you’re using RH6 do this, with Debian do that… It seriously affected the “flow” of the document for everyone. Given my Oracle (conservative) background, this is just not a problem I originally considered.
+I started to add more and more detail to the HOWTO. If you’re using RH6 do this, with Debian do that... It seriously affected the “flow” of the document for everyone. Given my Oracle (conservative) background, this is just not a problem I originally considered.
 
 When Oracle released 8.1.6 I made the decision that the HOWTO was for RH6 and Oracle 8i R1. It would make the occasional nod to later releases of both the database and the distribution, but fundamentally the focus would be on one version of Oracle and one version of Linux.
 
@@ -76,7 +76,7 @@ By this point, my motivation was mainly trying to reduce the number of messages 
 
 More recently I’m only getting the occasional question. It’s difficult to know whether that’s because my HOWTO covers just about everything it needs to or because I’m just not promoting it as much as I used to or because the cutting edge in Oracle is now with 9i. Or maybe I *was* rude and people are too scared to talk to me..?
 
-**In conclusion…**
+**In conclusion...**
 
 If my original intention was to save time, it failed miserably. I’ve spend even more time replying to emails and maintaining the document than I would have done occasionally adding comments to discussion groups.
 

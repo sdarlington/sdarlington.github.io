@@ -7,14 +7,6 @@ excerpt: 'Today I cycle across the border from the Czech Republic into Germany.'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=652'
 aliases: ['/travel/cycling-from-czech-republic-to-germany-decin-to-pirna.html']
-image:
-    - ''
-embed:
-    - 'This is the default text'
-seo_follow:
-    - 'false'
-seo_noindex:
-    - 'false'
 categories:
     - Travel
 tags:
