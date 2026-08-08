@@ -28,7 +28,7 @@ But I’m a developer. How hard can it be to fix?
 
 Groan! Have I ever said how much I hate web development?
 
-Anyway… two hours later I find that there are not one but two problems. I find this after fixing the first problem in a server running on my local machine but find that it still doesn’t work here.
+Anyway... two hours later I find that there are not one but two problems. I find this after fixing the first problem in a server running on my local machine but find that it still doesn’t work here.
 
 The first problem is that Flickr now requires SSL access to its API. In code terms, open *phpFlickr.php* and change the following lines:
 
@@ -50,7 +50,7 @@ I found the cause of the second problem when I realised that none of the flickr 
 
 (I find it odd that there’s no error or warning flagging the conflict. This took far longer to track down than it needed to.)
 
-I tried disabling that option in the [Jetpack](https://wordpress.org/plugins/jetpack/) plugin but that didn’t work. In the end, I added the following code to *flickr-gallery.php*, just before the “add\_shortcode(‘flickr’…” line:
+I tried disabling that option in the [Jetpack](https://wordpress.org/plugins/jetpack/) plugin but that didn’t work. In the end, I added the following code to *flickr-gallery.php*, just before the “add\_shortcode(‘flickr’...” line:
 
 ```
 if (shortcode_exists('flickr')) {
@@ -58,6 +58,6 @@ if (shortcode_exists('flickr')) {
 }
 ```
 
-Very much cheating… but it does work.
+Very much cheating... but it does work.
 
 I’m trying to figure out if there’s a way of distributing the change in a more user-friendly format.

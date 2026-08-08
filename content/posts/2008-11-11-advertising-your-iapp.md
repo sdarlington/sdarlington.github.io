@@ -19,7 +19,7 @@ tags:
 
 My iPhone application, [Yummy](http://www.yummyapp.com/), has been on sale in [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289374576&mt=8) for a couple of months now and, [as a number of other developers have noted](http://www.dragthing.com/blog/?p=30), after the initial launch sales figures take a significant nose dive very quickly. I’ve been trying to think of ways to increase visibility without taking too much time away from actually making enhancements to the software.
 
-As luck would have it, I got a “free trial” of [Google AdWords](http://adwords.google.com/) and thought I would give that a try. Results have been… well, not exactly what I was expecting.
+As luck would have it, I got a “free trial” of [Google AdWords](http://adwords.google.com/) and thought I would give that a try. Results have been... well, not exactly what I was expecting.
 
 The way AdWords works is that you give it a bunch of search terms and when someone enters those terms you go into an auction with other advertisers with the same terms. You can set a maximum bid and a maximum per day. I confess that these are not values that I have played around much with; I stuck with the defaults. You then get charged when someone clicks on your advert, not just when it’s put in front of someone.
 

@@ -28,7 +28,7 @@ In terms of travel, I had more than my fair share of problems. A trip to Turkey 
 
 For me there’s a thin line between “photography” and “travel” blogs but I do occasionally post images that are not directly connected to a trip.
 
-- [Early Snow](/photography/early-snow.html). This year has been book-ended by heavy snow. I should be getting good at taking pictures of it by now…
+- [Early Snow](/photography/early-snow.html). This year has been book-ended by heavy snow. I should be getting good at taking pictures of it by now...
 - [Corked](/photography/corked.html). I like this because it’s very simple but effective, and not the kind of thing that I normally do
 - [The Perils of Working from Home](/blog/the-perils-of-working-from-home.html). As with the above, I often get ideas but don’t find the time to actually implement them. This one took longer than you’d imagine but I thought it was quite funny. Yes, I should probably get out more
 

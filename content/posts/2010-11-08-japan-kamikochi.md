@@ -28,7 +28,7 @@ Luckily I was right.
 
 <iframe allowfullscreen="" frameborder="0" height="333" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5094349752/player/" webkitallowfullscreen="" width="500"></iframe>
 
-Much like [my trip to Yosemite](/travel/yosemite.html) last year, I didn’t stray too far from the main, well trodden parts. I’d love to have had more time, but you know how it is…
+Much like [my trip to Yosemite](/travel/yosemite.html) last year, I didn’t stray too far from the main, well trodden parts. I’d love to have had more time, but you know how it is...
 
 I started at the main Bus Terminal (who says travel isn’t glamorous?) and took a coach up the twisty roads to the Kappa Bridge area. A Kappa, incidentally, is a sort of troll or [water sprite](http://en.wikipedia.org/wiki/Kappa_(folklore)) if you believe Wikipedia. People crossing this part of the river with things balanced on their heads look, if you have poor eye-sight, a little like a kappa, hence the name of the bridge.
 

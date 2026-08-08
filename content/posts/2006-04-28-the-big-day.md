@@ -27,7 +27,7 @@ My wife — it’s going to take a while before I get used to saying that — ha
 
 This weekend went well and we soon agreed to meet again. A number of further encounters ensued. A couple of months later M was so pleased that things were going well that she [blogged about us](http://princemaximillian-story.blogspot.com/2005/10/success-story.html "The Dream Story"):
 
-> I knew theirs was a meaningful and deep union when we were casually drinking Starbucks one night and \[B\] almost fainted when she caught a sight of a new iPod nano and \[S\] joined in the drool over miniature toy. Let’s just say… Apple brought them together against the PC users.
+> I knew theirs was a meaningful and deep union when we were casually drinking Starbucks one night and \[B\] almost fainted when she caught a sight of a new iPod nano and \[S\] joined in the drool over miniature toy. Let’s just say... Apple brought them together against the PC users.
 
 \[photopress:DSCN0038.jpg,thumb,alignleft\]Although she insists on using a [Vaio](http://vaio.sony-europe.com/view/View.action?site=ite_en_GB "Not a Mac") we’re all still close. Unfortunately she was back in Croatia and couldn’t make my Stag Do. (Yes, it was mixed. Many, if not most, of my friends are female. Not to be outdone in the “unconventional” stakes, B is having her Hen Night in a couple of weeks, i.e., *after* the wedding.)
 

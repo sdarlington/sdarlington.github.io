@@ -29,4 +29,4 @@ tags:
 
 - [Fifty years of LEGO](http://gizmodo.com/349509/lego-brick-timeline-50-years-of-building-frenzy-and-curiosities) – Best. Toy. Ever. And still going strong.
 - [Polish IT worker calculates exact speed of snail mail](http://www.theregister.co.uk/2008/01/25/snail_mail/) – Apparently snail mail is actually slower than a snail.
-- [For those who thought that the MacBook Air had no use…](http://joyoftech.com/joyoftech/joyarchives/1059.html) – It’s odd that Steve Jobs didn’t mention any of these uses though.
+- [For those who thought that the MacBook Air had no use...](http://joyoftech.com/joyoftech/joyarchives/1059.html) – It’s odd that Steve Jobs didn’t mention any of these uses though.

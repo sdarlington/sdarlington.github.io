@@ -38,7 +38,7 @@ The Free Software HOWTO is aimed at people new to Linux, Open Source or free sof
 
 **New versions of this document**
 
-The official home of this HOWTO is [here](http://www.zx81.org.uk/computing/linux/free-software-howto/). You will always find the most up to date version here.
+The official home of this HOWTO is [here](https://www.zx81.org.uk/computing/linux/free-software-howto/). You will always find the most up to date version here.
 
 **Disclaimer**
 

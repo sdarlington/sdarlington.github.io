@@ -1,6 +1,6 @@
 ---
 id: 3095
-title: 'What&#8217;s wrong with Google+'
+title: 'What''s wrong with Google+'
 date: '2011-09-27T19:18:07+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Try as I might, I can''t get into Google''s new social networking site, Google+. Here I try to analyse why.'

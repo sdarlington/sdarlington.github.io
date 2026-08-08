@@ -28,5 +28,5 @@ tags:
     - uk
 ---
 
-- [The IBM PC is 30 today](http://www.reghardware.com/2011/08/12/ibm_pc_30_anniversary/) – Look how far we've come in thirty years…
+- [The IBM PC is 30 today](http://www.reghardware.com/2011/08/12/ibm_pc_30_anniversary/) – Look how far we've come in thirty years...
 - [photoshoplooter](http://photoshoplooter.tumblr.com/) – I think this is a typically British response to the rioting currently going on around the UK this week.

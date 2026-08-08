@@ -24,6 +24,6 @@ tags:
     - tv
 ---
 
-- [Happy 40th birthday, Intel 4004!](http://www.theregister.co.uk/2011/11/15/the_first_forty_years_of_intel_microprocessors/) – In a way this stated the whole microcomputer… I hate to say "revolution" but I can't think of a better word.
-- [How the BBC’s HD DRM plot was kept secret … and why](http://www.guardian.co.uk/technology/2011/nov/14/bbc-hd-drm) – Your licence money going to benefit rights holders at your expense…
+- [Happy 40th birthday, Intel 4004!](http://www.theregister.co.uk/2011/11/15/the_first_forty_years_of_intel_microprocessors/) – In a way this stated the whole microcomputer... I hate to say "revolution" but I can't think of a better word.
+- [How the BBC’s HD DRM plot was kept secret ... and why](http://www.guardian.co.uk/technology/2011/nov/14/bbc-hd-drm) – Your licence money going to benefit rights holders at your expense...
 - [The Real Cost of Patent Trolls](http://www.feld.com/wp/archives/2011/11/the-real-cost-of-patent-trolls.html) – "They conclude that the loss of billions of dollars of wealth associated with these lawsuits harm society and state."

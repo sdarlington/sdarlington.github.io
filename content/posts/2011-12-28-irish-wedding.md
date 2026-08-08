@@ -40,14 +40,14 @@ Over the last few years I have been to an Anglican [church wedding](/photography
 
 As anyone who knows me will realise, I’m not a man of faith, but it’s always interesting to see the differences.
 
-The memorable feature of this wedding (in terms of the wedding service rather than what it meant to me to see a good friend get married!) was its obsession with the creation of new offsprings. Little mention was made of their one year old daughter…
+The memorable feature of this wedding (in terms of the wedding service rather than what it meant to me to see a good friend get married!) was its obsession with the creation of new offsprings. Little mention was made of their one year old daughter...
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6206/6109828692_dc66f63170.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6109828692/ "Carol and Stephen get married by stephendarlington, on Flickr")
 
-As you might imagine of an [Irish](/travel/glen-of-aherlow-ireland.html) wedding, the service was only the start. The reception went on for… well, longer that I stayed awake in any case. All I can say is that at midnight, only a couple of hours after a huge meal, they were bringing out burgers for a snack.
+As you might imagine of an [Irish](/travel/glen-of-aherlow-ireland.html) wedding, the service was only the start. The reception went on for... well, longer that I stayed awake in any case. All I can say is that at midnight, only a couple of hours after a huge meal, they were bringing out burgers for a snack.
 
 [![Carol and Stephen get married](https://i0.wp.com/farm7.staticflickr.com/6068/6109352839_8560d28dbc.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6109352839/ "Carol and Stephen get married by stephendarlington, on Flickr")
 
 One last thing that I wanted to mention, though it’s not strictly about the wedding. I got back to the hotel in the early hours of the morning and didn’t rush up the next day. It got to nearly ten and I realised that I had missed the breakfast. I wasn’t too concerned, since Tipperary town was only a five minute drive away, and continued to lay in bed for a little longer.
 
-Just before ten thirty, the phone rang. Would I like breakfast? She wouldn’t take no for an answer. I love service in Ireland…
+Just before ten thirty, the phone rang. Would I like breakfast? She wouldn’t take no for an answer. I love service in Ireland...

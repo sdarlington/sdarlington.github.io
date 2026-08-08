@@ -3,7 +3,7 @@ id: 3539
 title: 'Donkeys of Greece Calendar 2012'
 date: '2012-12-30T13:29:44+00:00'
 author: 'Stephen Darlington'
-excerpt: 'Sometimes you see something so absurd you just have to have it…'
+excerpt: 'Sometimes you see something so absurd you just have to have it...'
 layout: post
 guid: 'http://www.zx81.org.uk/?p=3539'
 aliases: ['/travel/donkeys-of-greece-calendar-2012.html']
@@ -29,7 +29,7 @@ I’ve been posting pictures of each month entry on [Twitter](https://twitter.co
 
 [![Donkeys of Greece Calendar 2012, March](https://i0.wp.com/farm9.staticflickr.com/8494/8324737835_a56b80582c.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/8324737835/ "Donkeys of Greece Calendar 2012, March by stephendarlington, on Flickr")
 
-“So that we don’t forget…”
+“So that we don’t forget...”
 
 [![Donkeys of Greece Calendar 2012, April](https://i0.wp.com/farm9.staticflickr.com/8497/8325794774_483cf46e70.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/8325794774/ "Donkeys of Greece Calendar 2012, April by stephendarlington, on Flickr")
 
@@ -49,7 +49,7 @@ I’ve been posting pictures of each month entry on [Twitter](https://twitter.co
 
 [![Donkeys of Greece Calendar 2012, August](https://i0.wp.com/farm9.staticflickr.com/8354/8324739783_09ea4b78be.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/8324739783/ "Donkeys of Greece Calendar 2012, August by stephendarlington, on Flickr")
 
-“For a bale of hay…”
+“For a bale of hay...”
 
 [![Donkeys of Greece Calendar 2012, September](https://i0.wp.com/farm9.staticflickr.com/8504/8324740155_002a443bc8.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/8324740155/ "Donkeys of Greece Calendar 2012, September by stephendarlington, on Flickr")
 

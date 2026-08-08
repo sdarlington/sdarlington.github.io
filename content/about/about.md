@@ -15,7 +15,7 @@ For the more persistent, here goes.
 
 If I was vain, I might have chosen something with my name in it. Let’s say, ‘darlington.com’ or ‘darlington.org.uk’. But they’ve already gone, used as the virtual presence of real places ([Darlington](http://en.wikipedia.org/wiki/Darlington "The Other Darlington") is a small town in the North-East of England, near Durham and Middlesborough, if you didn’t know). So I needed something longer or something different. The word ‘darlington’ is long enough, so I wanted something different.
 
-The domain had to be something other than my name, have some connection to me no matter how odd or obscure, but, at the same time, it had be memorable. Let’s think…
+The domain had to be something other than my name, have some connection to me no matter how odd or obscure, but, at the same time, it had be memorable. Let’s think...
 
 I work with computers and it’s been a hobby since I was knee-high to a grass-hopper, as it were. I thought that something computer-ish might be good. But I didn’t want something too obscure[^1] or something fantastically difficult to remember.
 

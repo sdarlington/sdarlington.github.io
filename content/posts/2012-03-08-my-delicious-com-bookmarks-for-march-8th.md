@@ -14,7 +14,7 @@ tags:
     - twitter
 ---
 
-- <http://j.mp/y4VgND> – For those that are interested: this is kind of technology I use in my day job. Tens of millions of records per day… http://t.co/ebMpRB7w
+- <http://j.mp/y4VgND> – For those that are interested: this is kind of technology I use in my day job. Tens of millions of records per day... http://t.co/ebMpRB7w
 - <http://testflightapp.com> – @ellenich http://t.co/cTkoDDuE
 - <http://instagr.am/p/H66l8hyQmV/> – Groovy. http://t.co/DcuOQldA
 - <http://lanyrd.com/2012/lidg37/> – Hopefully making it to my first London iOS Developer Group meeting of the year tonight. http://t.co/NbKIMnTT #lidg

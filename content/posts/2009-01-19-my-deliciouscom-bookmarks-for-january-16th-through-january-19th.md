@@ -22,5 +22,5 @@ tags:
 ---
 
 - [6 days to stop MPs concealing their expenses](http://www.mysociety.org/2009/01/17/6-days-to-stop-mps-concealing-their-expenses/) – I'm appalled that they're trying to stop the public finding out how they're spending our money! How about some accountability?
-- [Yummy 2.0 Quick Overview](http://www.yummyapp.com/2009/01/yummy-20-quick-overview.html) – New version of my iPhone delicious.com client. Lots of new features, including a web preview, integration with various Twitter clients, view by tag, improved search, streamlined bookmark editing… the list goes on!
-- [If you’ve nothing to hide…](http://www.adoptioncurve.net/archives/2009/01/if-youve-nothing-to-hide-youve-got-nothing-to-fear.php) – Double standards from MPs. Who'd have thought?
+- [Yummy 2.0 Quick Overview](http://www.yummyapp.com/2009/01/yummy-20-quick-overview.html) – New version of my iPhone delicious.com client. Lots of new features, including a web preview, integration with various Twitter clients, view by tag, improved search, streamlined bookmark editing... the list goes on!
+- [If you’ve nothing to hide...](http://www.adoptioncurve.net/archives/2009/01/if-youve-nothing-to-hide-youve-got-nothing-to-fear.php) – Double standards from MPs. Who'd have thought?

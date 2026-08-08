@@ -22,7 +22,7 @@ tags:
     - wikileaks
 ---
 
-- [10 cheap and cheerful city breaks](http://www.wanderlust.co.uk/planatrip/inspire-me/lists/10-cheap-and-cheerful-city-breaks?page=all) – Some ideas for next years November trip…
+- [10 cheap and cheerful city breaks](http://www.wanderlust.co.uk/planatrip/inspire-me/lists/10-cheap-and-cheerful-city-breaks?page=all) – Some ideas for next years November trip...
 - [Schneier on WikiLeaks](http://www.schneier.com/blog/archives/2010/12/wikileaks_1.html) – "Just as the music and movie industries are going to have to change their business models for the Internet era, governments are going to have to change their secrecy models. I don't know what those new models will be, but they will be different."
 - [Publishers take note: the iPad is altering the very concept of a ‘book’](http://www.guardian.co.uk/technology/2010/dec/19/ipad-publishing-kindle-books-apple) – The future of publishing?
 - [eclipse of 2010](http://wvs.topleftpixel.com/10/12/22/) – Great images of the recent eclipse.

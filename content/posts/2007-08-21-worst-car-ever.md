@@ -21,7 +21,7 @@ tags:
 
 As is necessary when you travel to the US, I hired a car. It’s always tricky to hire a small car in America — only in the US could an SUV fit in a “small car” parking space — but I dismissed all their attempts to get me to upgrade. Maybe it was some form of revenge, but I ended up with a Chrysler P.T. Cruiser. Not terribly small. But actually terrible.
 
-I don’t own a car. I live in London and have no need for one. I mention this so you realise that every time I drive it’s in a different type of car. Most cars are… fine. Uninspired perhaps but adequate. Put it this way: I didn’t whinge when they gave me a Neon a previous time.
+I don’t own a car. I live in London and have no need for one. I mention this so you realise that every time I drive it’s in a different type of car. Most cars are... fine. Uninspired perhaps but adequate. Put it this way: I didn’t whinge when they gave me a Neon a previous time.
 
 The Cruiser looks hideous. I guess we’re now post-Mondeo where everything is no longer designed by a focus group, so it’s almost positive that its shape elicits an emotion. But still. What were they thinking? Bulbous, bug headlights, chrome accenting, as aerodynamic as a breeze block, this is a machine built this decade but with a design sensibility set five decades ago.
 

@@ -46,7 +46,7 @@ People, both locals and tourists, took advantage of the praying facilities.
 
 And most shrines had these little good luck tiles. Some of them were funny, others were touching. I’m not entirely convinced that this was written by an eight year old, though.
 
-However, I think these sake casks are more in my style of worship…
+However, I think these sake casks are more in my style of worship...
 
 Meiji Shine has the good grace to be in a park and, therefore, be relatively calm and quiet, if not by the standards of most temples then by the standards of Tokyo as a whole. This description does not apply to [Sensö-ji Temple](http://en.wikipedia.org/wiki/Sens?-ji) which is situated at the end of one of the most packed markets I’ve seen for a while!
 

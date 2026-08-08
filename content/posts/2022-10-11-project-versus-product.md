@@ -37,7 +37,7 @@ In my Day Job[^1], I often see companies expecting to get commercial quality sup
 
 As it says in “[Cloud Without Compromise](/blog/cloud-without-compromise.html)”:
 
-> But there is something to the old adage that “You get what you pay for.” (… there’s a world of difference between building systems for pet projects versus designing for the needs of enterprise.)
+> But there is something to the old adage that “You get what you pay for.” (... there’s a world of difference between building systems for pet projects versus designing for the needs of enterprise.)
 
 Those service level agreements [come with a cost](https://www.technologyreview.com/2021/12/17/1042692/log4j-internet-open-source-hacking/). If you want a fix or an enhancement, you’re welcome to *ask* a project for it, but it might never come or, if it does, maybe not on a timescale that helps you. The rules change when you pay for the help.
 

@@ -48,7 +48,7 @@ I wandered around with no specific target in mine. In the end I went from the tr
 
 [![Amsterdam Canals](https://i0.wp.com/farm5.staticflickr.com/4014/5155954192_3b36126aac.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5155954192/ "Amsterdam Canals by stephendarlington, on Flickr")
 
-Of course it’s the canals that Amsterdam is famous for. (It wasn’t until I got here that I realised that Den Haag *didn’t* have many.) In The Netherlands you can’t get very far away from bikes. Apparently the Dutch like to watch (two) TVs while unlocking them…
+Of course it’s the canals that Amsterdam is famous for. (It wasn’t until I got here that I realised that Den Haag *didn’t* have many.) In The Netherlands you can’t get very far away from bikes. Apparently the Dutch like to watch (two) TVs while unlocking them...
 
 [![Bike and old TVs](https://i0.wp.com/farm2.staticflickr.com/1161/5155955018_15f8165d0a.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5155955018/ "Bike and old TVs by stephendarlington, on Flickr")
 
@@ -56,4 +56,4 @@ Amsterdam is much less well known for its Statue of Liberty. Okay, it’s on a c
 
 [![Dutch Statue of Liberty](https://i0.wp.com/farm2.staticflickr.com/1197/5155955614_bb66bc637f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5155955614/ "Dutch Statue of Liberty by stephendarlington, on Flickr")
 
-I would say that the trip was over in a flash, but that would imply that there was a lot of light… Still, it was good to get away and The Netherlands is such a pleasant place and is incredibly easy to get around. I can’t believe it took me thirteen years to get come back.
+I would say that the trip was over in a flash, but that would imply that there was a lot of light... Still, it was good to get away and The Netherlands is such a pleasant place and is incredibly easy to get around. I can’t believe it took me thirteen years to get come back.

@@ -28,7 +28,7 @@ I generally prefer not to cover the same ground twice. I’ve got something out 
 
 [![Glen of Aherlow](https://i0.wp.com/farm7.staticflickr.com/6207/6109802038_7c51691851.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6109802038/ "Glen of Aherlow by stephendarlington, on Flickr")
 
-Eleven years ago I had taken a [driving tour around Ireland](/travel/ireland.html) with my sister. We had covered a lot of ground but spent a lot of time in the south west of the country, staying in Cashel and Cork. This time a friend was getting married in the same area. So rather the just shooting in for the celebration, I decided to stay on for a while, and retread some of the same ground. If nothing else, I have a better camera this time around…
+Eleven years ago I had taken a [driving tour around Ireland](/travel/ireland.html) with my sister. We had covered a lot of ground but spent a lot of time in the south west of the country, staying in Cashel and Cork. This time a friend was getting married in the same area. So rather the just shooting in for the celebration, I decided to stay on for a while, and retread some of the same ground. If nothing else, I have a better camera this time around...
 
 [![Pub, petrol station and shop](https://i0.wp.com/farm7.staticflickr.com/6185/6109255821_f8dfbe590f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/6109255821/ "Pub, petrol station and shop by stephendarlington, on Flickr")
 

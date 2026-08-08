@@ -26,5 +26,5 @@ tags:
 ---
 
 - [The Dumbing Of America](http://www.washingtonpost.com/wp-dyn/content/article/2008/02/15/AR2008021502901.html) – "The toxic brew of anti-rationalism and ignorance hurts discussions of U.S. public policy on topics from health care to taxation." The article is about the US but it's also increasingly true here. Depressing.
-- [New Indiana Jones movie is dreadful](http://sffmedia.com/content/view/193/38/) – Oh dear. Like many people I'll probably still go see it anyway…
+- [New Indiana Jones movie is dreadful](http://sffmedia.com/content/view/193/38/) – Oh dear. Like many people I'll probably still go see it anyway...
 - [SMS costs more than using Hubble Space Telescope](http://www.theregister.co.uk/2008/05/14/txts_r_v_pricey/) – "Text messaging \[is\] anywhere from four to 42 times as expensive as talking to the Hubble."

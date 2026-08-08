@@ -30,7 +30,7 @@ It was the combination of the new, white iBook and Mac OS X that swayed me in th
 
 One thing that I really like is the hardware. Unlike most PC’s, it feels as though it’s been designed rather than just thrown together. Even compared to my old Dell laptop, this one feels well put together.
 
-Having said that, it’s not perfect. I’m sure that it looks neat on all the design sketches, but I can’t imagine that having all the ports down one side of the machine is the most optimal way of doing things. For once, it probably works best for left handed people! The ports are all down the left side so the mouse cable goes in the correct side. Unfortunately I’m right handed…
+Having said that, it’s not perfect. I’m sure that it looks neat on all the design sketches, but I can’t imagine that having all the ports down one side of the machine is the most optimal way of doing things. For once, it probably works best for left handed people! The ports are all down the left side so the mouse cable goes in the correct side. Unfortunately I’m right handed...
 
 Also, it’s deliberate that there are no flaps over the ports. The idea being that there’s nothing to snap or fall off over time. On the other hand, I’m sure that means that they’ll fill up with fluff and other random detritus.
 
@@ -46,7 +46,7 @@ The incredible thing, after all the disappointments I’ve had comparing marketi
 
 In the previous section I mentioned that I now print using my Linux box as a server. It’s not pandering to any Macintosh oddities. Mac OS X is sending print jobs directly to the Linux print spooler, just as another Linux or Solaris machine would. Very neat.
 
-Another thing you can’t really see from screen shots in magazines is how good it all looks. Semi-translucent windows, drop-shadows instead of borders, the way loading programs bounce up and down in the dock, the way that progress bars and the default button in dialogs pulsate… They’re all completely unnecessary, but totally cool. It makes working with the machine that much more fun.
+Another thing you can’t really see from screen shots in magazines is how good it all looks. Semi-translucent windows, drop-shadows instead of borders, the way loading programs bounce up and down in the dock, the way that progress bars and the default button in dialogs pulsate... They’re all completely unnecessary, but totally cool. It makes working with the machine that much more fun.
 
 Fun. Now there’s a word you don’t hear in connection with Windows very often. Linus Torvalds wrote Linux “Just For Fun” (his book), whereas Windows was written purely for money. I guess they’ve both succeeded in their own goals. I hope Apple can profit from their combination of both.
 
@@ -56,7 +56,7 @@ There are only a few things that I really dislike, and some of them are rather p
 
 Firstly, Apple are still not too confident with it. When you get a new machine it defaults to starting Mac OS 9. If you’re used to dual-booting your PC between Windows and Linux you’d probably expect a menu when the machine starts up asking which operating system to start (that’s what I was thinking). But no. You have to find the Startup Disk control panel, change some settings and restart the machine. Not difficult when you know but not in keeping with the well known Macintosh user-friendliness. (Apple have just announced that they’re making OS X the default OS. This has not been well received by many, who are waiting until Quark and Photoshop are native OS X applications before switching.)
 
-The other things are really niggles. For example, in the Finder although you can search for NFS and (presumably) Apple shares, you can’t browse Windows shares. (Of course my Linux box only had SMB shares at the time…) In fact, I’ve not been able to *connect* to any SMB shares on my server yet. However this “problem” has not been widely reported so I think that we can assume that it’s my local configuration.
+The other things are really niggles. For example, in the Finder although you can search for NFS and (presumably) Apple shares, you can’t browse Windows shares. (Of course my Linux box only had SMB shares at the time...) In fact, I’ve not been able to *connect* to any SMB shares on my server yet. However this “problem” has not been widely reported so I think that we can assume that it’s my local configuration.
 
 And this is the churlish complaint: they’re updating it too often! Within days of getting hold of the machine there have been many megabytes of fixes. Which is kind of good, but the upgrade to 10.1.2 is 30Mb, rather a lot over a dial-up line especially when dropping the line means you have to restart the download from scratch.
 

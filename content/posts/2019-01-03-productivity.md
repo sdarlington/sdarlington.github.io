@@ -15,7 +15,7 @@ tags:
     - work
 ---
 
-I just can’t figure how to follow all those “improve your productivity” guides. I’m sure you know the ones I mean: they suggest exercising at 6am; or switching off your email and Slack during the day to avoid distractions; or to schedule all your meetings in the mornings; or…
+I just can’t figure how to follow all those “improve your productivity” guides. I’m sure you know the ones I mean: they suggest exercising at 6am; or switching off your email and Slack during the day to avoid distractions; or to schedule all your meetings in the mornings; or...
 
 Can anyone make those things work?
 

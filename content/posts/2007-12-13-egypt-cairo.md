@@ -46,7 +46,7 @@ It’s interesting that non-Islamic churches have survived the onslaught.
 
 Lastly we visit two mosques. The first is mainly outside, the interior designed to catch sunlight all day. The imam stands at the front (facing Mecca). At the other side is another where a guy repeats the sermon for the people outside — an interesting workaround until the invention of the PA system.
 
-The Mohammed Ali mosque is much more intricate, with several tall minarets a massive dome and… a clock tower gifted by the French we were told. Inside the ceilings were painted with incredible detail and the lead roof had kept it looking remarkable fresh despite being a couple of hundred years old.
+The Mohammed Ali mosque is much more intricate, with several tall minarets a massive dome and... a clock tower gifted by the French we were told. Inside the ceilings were painted with incredible detail and the lead roof had kept it looking remarkable fresh despite being a couple of hundred years old.
 
 The final stop was in a lively market, with people selling both every day essentials right through to kitsch trinkets such as mini-pyramids and stuffed camels.
 

@@ -13,7 +13,7 @@ categories:
 
 Yes, I already wrote about the [new Apple TV](/computing/opinion/apple-tv-4th-gen.html) but I had a little more to say now that I’ve been using it a few months.
 
-So far Siri has not been as useful as I thought it would be. The main failing is that we use Netflix profiles a lot and Siri doesn’t understand them. I might tell Siri that I want to watch, say, House of Cards but if it’s currently logged into the kids’ profile it either won’t let me watch it or wants to start it on the first episode. If you’re going to have to switch profiles with the remote anyway…
+So far Siri has not been as useful as I thought it would be. The main failing is that we use Netflix profiles a lot and Siri doesn’t understand them. I might tell Siri that I want to watch, say, House of Cards but if it’s currently logged into the kids’ profile it either won’t let me watch it or wants to start it on the first episode. If you’re going to have to switch profiles with the remote anyway...
 
 On the other hand, gaming has been far better than anticipated. The biggest hit so far has been two player Crossy Road. I’m sure my son would enjoy it on the iPhone but playing with someone else, on the big screen, gives it that little extra zing. Not Apple’s fault, but the two player mode feels very much an after thought right now, as it’s not super-easy to activate.
 

@@ -59,7 +59,7 @@ This is called *pseudo code* because while a computer can’t actually execute i
 
 Not so hard.
 
-Except… you didn’t really think it would be that easy, did you?
+Except... you didn’t really think it would be that easy, did you?
 
 It turns out we’re missing one important detail from our algorithm.
 

@@ -23,7 +23,7 @@ This originally started as a [question on Apple’s support](http://discussions.
 > 
 > So, why do you give away your apps?
 
-With the caveat that I have not actually submitted anything yet…
+With the caveat that I have not actually submitted anything yet...
 
 My motivation in writing an application was entirely for the pleasure of doing it. If I never do anything with it once it’s “finished” my goals have been achieved. So my only objective in pushing it to the AppStore is for other people to get some benefit from using it too. There is little incremental cost in doing so and zero cost means that it gets the widest possible distribution.
 

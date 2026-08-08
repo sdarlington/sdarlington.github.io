@@ -1,6 +1,6 @@
 ---
 id: 1717
-title: 'At times like these&#8230;'
+title: 'At times like these...'
 date: '2009-09-23T09:41:19+01:00'
 author: 'Stephen Darlington'
 layout: post

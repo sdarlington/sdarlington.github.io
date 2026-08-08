@@ -25,6 +25,6 @@ tags:
     - usa
 ---
 
-- [The BBC Micro turns 30](http://www.reghardware.com/2011/11/30/bbc_micro_model_b_30th_anniversary/) – Pretty much every Brit around my age will remember the Model B. It felt so… professional after using the Sinclair Spectrum!
-- [Thanksgiving Is Un-American](http://krugman.blogs.nytimes.com/2011/11/23/thanksgiving-is-un-american/) – Socialism and illegal immigration… Why thanksgiving is un-American.
+- [The BBC Micro turns 30](http://www.reghardware.com/2011/11/30/bbc_micro_model_b_30th_anniversary/) – Pretty much every Brit around my age will remember the Model B. It felt so... professional after using the Sinclair Spectrum!
+- [Thanksgiving Is Un-American](http://krugman.blogs.nytimes.com/2011/11/23/thanksgiving-is-un-american/) – Socialism and illegal immigration... Why thanksgiving is un-American.
 - [Coders are creatives too: Where’s our love?](http://www.theregister.co.uk/2011/11/22/frank_fisher_creative_class/) – "How did a person whose greatest educational achievement is crayoning without going over the lines get termed 'a creative', when the people who built our world are dismissed as geeks and bottom feeders?"

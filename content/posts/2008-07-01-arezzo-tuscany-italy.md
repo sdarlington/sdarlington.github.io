@@ -20,7 +20,7 @@ Walled cities are a Tuscan specialty. I’d been [to](/travel/san-gimignano-tusc
 
 However shortly after arriving things did not look quite so promising. Although an old city, much of what you can see on first entering the city is dull, generic office buildings, including one company amusingly called “multiass.”
 
-Inside the city walls things immediately get… confusing. I walk down a street. To my right is a church, ahead are a mess of signs pointing in every direction, each one presumably a place of interest. With no guide book on the city I had no real idea what any of them were and arbitrarily picked “right.”
+Inside the city walls things immediately get... confusing. I walk down a street. To my right is a church, ahead are a mess of signs pointing in every direction, each one presumably a place of interest. With no guide book on the city I had no real idea what any of them were and arbitrarily picked “right.”
 
 To cut a long story short(er), this was almost certainly not the best choice. After a mostly fruitless search for interesting sights, I looped back and accidentally found the Duomo. The inside was as lavishly decorated as you might expect for a Catholic church. In one cubby-hole[^1] a service was being taken. Maybe I should have gone and got a panini earlier as the wafers and wine seemed mighty tempting at this point.
 

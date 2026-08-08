@@ -21,6 +21,6 @@ tags:
     - religion
 ---
 
-- [Everything you ever wanted to know about "Rickrolling"…](http://latimesblogs.latimes.com/webscout/2008/03/rick-astley-kin.html) – The man who sang "Never gonna give you up," the classic Stock-Aitken-Waterman pop song, makes an unexpected come back. (What's wrong with Debbie Gibson by the way?!)
-- [Lies and Statistics](http://athinkingman.wordpress.com/2008/03/23/lies-and-statistics/#comment-1898) – Most people in Britain believe that Jesus rose from the dead. Or do they…?
+- [Everything you ever wanted to know about "Rickrolling"...](http://latimesblogs.latimes.com/webscout/2008/03/rick-astley-kin.html) – The man who sang "Never gonna give you up," the classic Stock-Aitken-Waterman pop song, makes an unexpected come back. (What's wrong with Debbie Gibson by the way?!)
+- [Lies and Statistics](http://athinkingman.wordpress.com/2008/03/23/lies-and-statistics/#comment-1898) – Most people in Britain believe that Jesus rose from the dead. Or do they...?
 - [Our Bad. Wired Had Some Tips For Apple — We Were Wrong.](http://www.wired.com/techbiz/it/magazine/16-04/bz_apple_ourbad) – Fascinating to see how much things have changed in the last ten years.

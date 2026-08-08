@@ -44,7 +44,7 @@ The most read articles that were written this year were:
 
 Kind of surprising that they were all about iOS development.
 
-And here are a few blogs that I liked writing but, it turns out, people didn’t enjoy reading…
+And here are a few blogs that I liked writing but, it turns out, people didn’t enjoy reading...
 
 - [Dear Companies House.](/blog/dear-companies-house.html) A cathartic rant elicited a response from the target
 - [Programming is Hard](/computing/opinion/programming-is-hard.html)

@@ -25,7 +25,7 @@ If the pandemic and subsequent lockdown had hit back then, how would I have cope
 
 And if you go back much before that and I wouldn’t have been able to work at all. I remember a teacher friend grumbling that she took work home but I didn’t. Couldn’t would have been more accurate: I didn’t have a £250,000 computer at home! A lot of business don’t even have machines like that any more.
 
-Ultimately, people are learning that working remotely is a skill. If you just plonk people in disparate places and hope for the best, you’re probably going to fail over the medium term. Those unplanned meetings in corridors really won’t happen. As suspected, people won’t schedule a thirty-minute meeting to discuss… well, who knows what… the whole point is the serendipity. If these things are important — and I think they are — then you can’t just say “That doesn’t work remotely,” give up and insist everyone return to the office. That’s a total abdication of leadership!
+Ultimately, people are learning that working remotely is a skill. If you just plonk people in disparate places and hope for the best, you’re probably going to fail over the medium term. Those unplanned meetings in corridors really won’t happen. As suspected, people won’t schedule a thirty-minute meeting to discuss... well, who knows what... the whole point is the serendipity. If these things are important — and I think they are — then you can’t just say “That doesn’t work remotely,” give up and insist everyone return to the office. That’s a total abdication of leadership!
 
 The meeting won’t happen in exactly the same way, but you can encourage public conversations in Slack or Teams. You can have “happy hours” when the team can dial in for chit-chat.
 

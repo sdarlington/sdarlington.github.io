@@ -27,4 +27,4 @@ tags:
 ---
 
 - [Nov. 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission](http://www.wired.com/thisdayintech/2010/11/1110mars-climate-observer-report/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wired/index+(Wired:+Index+3+(Top+Stories+2))) – Sometimes the simplest of mistakes have the most dramatic consequences.
-- [Linotype: The Film](http://linotypefilm.com/) – The revolution in printing before DTP… soon in documentary form.
+- [Linotype: The Film](http://linotypefilm.com/) – The revolution in printing before DTP... soon in documentary form.

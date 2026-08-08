@@ -46,7 +46,7 @@ Where does the hypocrisy come in? Well, recently the UK government suggested tha
 
 In response to this, [the ISPs say](http://arstechnica.com/news.ars/post/20080212-report-three-strikes-copyright-enforcement-may-come-to-uk.html):
 
-> “ISPs cannot ‘monitor or record’ the nature of the data flowing over their network, argues \[the ISPA\]. UK data protection laws make deep packet inspection illegal … and even if it wasn’t, complete monitoring is impossible. ‘ISPs are no more able to inspect and filter every single packet passing across their network than the Post Office is able to open every envelope,’ says the ISPA.”
+> “ISPs cannot ‘monitor or record’ the nature of the data flowing over their network, argues \[the ISPA\]. UK data protection laws make deep packet inspection illegal ... and even if it wasn’t, complete monitoring is impossible. ‘ISPs are no more able to inspect and filter every single packet passing across their network than the Post Office is able to open every envelope,’ says the ISPA.”
 
 Hang on!
 

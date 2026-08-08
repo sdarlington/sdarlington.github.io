@@ -28,7 +28,7 @@ The control of data sounds useful, except the Government really doesn’t have a
 
 Limiting the ability of foreigners to claim benefits would be great. If it worked. But it won’t. If people are prepared to enter the UK hidden in shipping containers, in the back of lorries and other inconvenient (at best) methods, is the difficulty and legality of forging a ID card really going to deter them?
 
-And lastly, a convenient way of travelling around Europe. You mean, like a Passport? I already have one of those. And a common way to get an ID Card is going to be… when you apply for a new passport. So I now have *two* documents instead of one. In what way is that convenient?
+And lastly, a convenient way of travelling around Europe. You mean, like a Passport? I already have one of those. And a common way to get an ID Card is going to be... when you apply for a new passport. So I now have *two* documents instead of one. In what way is that convenient?
 
 Okay, so some of these grumbles are “relative.” I may not be inconvenienced by proving my ID very often, but if it’s cheap it may be worth it. They say: “It is intended that the fee for a British citizen?s identity card issued in 2009 or 2010 will be £30 or less.” So before the vast majority of the population get one it will be £30 or less. There’s no indication of the costs after that, presumably because they don’t know what will go wrong with it. Or put another way: it will be *more* than £30. If you think I’m being cynical, feel free to go away and Google for successful Government IT projects. I’ll wait.
 

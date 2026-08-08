@@ -1,6 +1,6 @@
 ---
 id: 82940
-title: 'How Westminster Works… and why it doesn’t'
+title: 'How Westminster Works... and why it doesn’t'
 date: '2023-05-26T09:53:00+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Is Labour’s pledge to reform the Lords the right thing to do to make Westminster work better?'

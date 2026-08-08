@@ -52,7 +52,7 @@ Those “lucky hazards” might help other avoid the same mistakes. Can we fix t
 
 ![Someone is wrong on the internet](https://imgs.xkcd.com/comics/duty_calls.png)The other thing is that it’s a good strategy for getting the right answer. People can be too busy to respond, right up to the point where they find that [Someone On The Internet Was Wrong](https://xkcd.com/386/). People are more likely to offer to fix your work more readily than they will be to come up with a working solution from scratch.
 
-What if no one looks up your status updates? What happens when your notes go unread? Well… nothing. You were already writing the notes and no one except you read them. Worst case, you’re exactly where you were.
+What if no one looks up your status updates? What happens when your notes go unread? Well... nothing. You were already writing the notes and no one except you read them. Worst case, you’re exactly where you were.
 
 In short, this is a terrible process if you want to be seen as being right all the time. However, if you value getting to the right answer and acknowledge that you’re a fallible human, if your ego can handle it, then I find it works well.
 

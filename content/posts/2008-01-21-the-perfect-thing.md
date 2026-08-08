@@ -20,7 +20,7 @@ tags:
 
 My first reaction was to hate it.
 
-Actually, no. My first reaction was what a cute, almost-square book. My *second* was to hate it. It’s only a few pages into it and Levy is already discussing his great taste in music and disparaging mine (“… a pathetic [Pet Shop Boys tune](/blog/pet-shop-boys.html), the sort of thing that Nick Hornby would listen to on a bad day.”)
+Actually, no. My first reaction was what a cute, almost-square book. My *second* was to hate it. It’s only a few pages into it and Levy is already discussing his great taste in music and disparaging mine (“... a pathetic [Pet Shop Boys tune](/blog/pet-shop-boys.html), the sort of thing that Nick Hornby would listen to on a bad day.”)
 
 It wasn’t exactly what I was expecting. But — step back — what was I expecting? Well, the blurb on the back tells you that you can learn how the iPod became the defining object of the 21st century. Having read most of [Steven Levy](http://www.stevenlevy.com/)‘s previous books, the obvious point of comparison was “Insanely Great,” the story of the Macintosh. But while the Mac took several years to put together, the iPod took only around six months. In hindsight maybe it’s pretty obvious that it’s not all the trials and tribulations of putting the machine together.
 

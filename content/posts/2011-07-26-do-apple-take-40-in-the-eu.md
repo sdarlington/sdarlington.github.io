@@ -33,13 +33,13 @@ The good news is that Apple are not screwing you over. The numbers *do* add up. 
 
 I know that [my app](http://www.wandlesoftware.com/products/cameragps) sells for £1.49 here in the UK. I also know that I get ninety-one pence from Apple for each sale.
 
-If we take that £0.91 and add back the 30% that Apple take we get £1.30. Then we add VAT, which in the UK is 20%, and we get… £1.56.
+If we take that £0.91 and add back the 30% that Apple take we get £1.30. Then we add VAT, which in the UK is 20%, and we get... £1.56.
 
 Oh.
 
 It turns out that downloads are billed from Luxembourg where the sales tax rate is 15%. Because both countries are in the EU there’s a reciprocal tax agreement which means we don’t have to add UK tax as well.
 
-If we do the same calculation as before but with a 15% tax rate we get… £1.49. Phew.
+If we do the same calculation as before but with a 15% tax rate we get... £1.49. Phew.
 
 So there you go. You *do* get 70% of the money that Apple gets for each sale.
 

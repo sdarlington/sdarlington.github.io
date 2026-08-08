@@ -35,7 +35,7 @@ Let’s start with the former.
 
 So, your interviewer asks you to implement a linked list on a whiteboard. Why? What are they hoping to find out about you?
 
-If the answer is… well, the answer, then I’m very firmly with the “you don’t need to know this stuff” crowd. People tend to want a specific answer when either they want a cookie cutter computer science graduate or they wouldn’t understand the answer.
+If the answer is... well, the answer, then I’m very firmly with the “you don’t need to know this stuff” crowd. People tend to want a specific answer when either they want a cookie cutter computer science graduate or they wouldn’t understand the answer.
 
 Alternatively they might be trying to see how you think; how you’d start with a simple solution and build up; how you’d test it. In these cases, the answer is less important than how you got there.
 

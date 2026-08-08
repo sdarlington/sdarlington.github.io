@@ -23,7 +23,7 @@ For a version [1.0](http://www.yummyapp.com/2008/09/yummy-10-now-available-from-
 
 Within a few days I had exceeded what I had expected to sell and received positive feedback on the iTunes store. But not long after that I also received my first bug report.
 
-This turned out to be an odd one. It crashed early on while starting up and downloading all the bookmarks for the first time. My first guess — incorrect as it turned out — was that it was running out of memory. It took some investigation with the help of a very kind end-user to discover that… Delicious allows technically invalid URLs. By that I mean both that they don’t follow web standards and, worse, that it’s not even possible to open them in Mobile Safari.
+This turned out to be an odd one. It crashed early on while starting up and downloading all the bookmarks for the first time. My first guess — incorrect as it turned out — was that it was running out of memory. It took some investigation with the help of a very kind end-user to discover that... Delicious allows technically invalid URLs. By that I mean both that they don’t follow web standards and, worse, that it’s not even possible to open them in Mobile Safari.
 
 I don’t feel so bad about not spotting that one during testing, although I should have put in more error handling to spot various “impossible” events and make sure that it didn’t crash. The reason I mention it is to give an idea of the kind of things that happen in “real life.”
 

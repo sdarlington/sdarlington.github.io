@@ -1,6 +1,6 @@
 ---
 id: 497
-title: 'Colle di val d&#8217;Elsa'
+title: 'Colle di val d''Elsa'
 date: '2008-06-19T06:45:04+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Going back to see places that you have already been always has the possibility of throwing up surprises. Today was no exception.'

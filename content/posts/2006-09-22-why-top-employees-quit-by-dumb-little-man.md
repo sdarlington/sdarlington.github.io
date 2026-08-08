@@ -1,6 +1,6 @@
 ---
 id: 240
-title: 'Why Top Employees Quit &#8211; by Dumb Little Man'
+title: 'Why Top Employees Quit -- by Dumb Little Man'
 date: '2006-09-22T13:21:07+01:00'
 author: 'Stephen Darlington'
 excerpt: 'Having recently moved jobs, it was interesting to read this article discussing the trends from 178 other leavers. I''m sure there are as many reasons for leaving as people, but the numbers reflect my reasons fairly closely.'
@@ -22,7 +22,7 @@ I left my first job mainly for money. My third wins the honour of collecting mos
 
 It was no surprise that they assumed that more people would leave for money. Most people incorrectly assumed that I left my last job for a pay raise too. The part that rang most true for me was “too challenged”:
 
-> “You cannot ask someone to complete 20 tasks and then give them inferior tools and personnel. … The employee will either leave, OR , become so unmotivated that they lose their star status and become a normal employee and thus under perform.”
+> “You cannot ask someone to complete 20 tasks and then give them inferior tools and personnel. ... The employee will either leave, OR , become so unmotivated that they lose their star status and become a normal employee and thus under perform.”
 
 I certainly felt my productivity drop as my frustration with the available tools increased. (Pet peeves included monitors that were not able to display one of the main screens of their main application and having to use a Citrix server to use Microsoft Office.) Ironically I did not feel particularly challeneged by the work — “death by boredom” — just my ability to get it done efficiently.
 

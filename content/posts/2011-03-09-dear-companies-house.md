@@ -49,7 +49,7 @@ It’s taken me months so far — I started in November last year — and we sti
 > 
 > And now, three weeks later, I get another letter telling me that you rejected it *again*. I won’t get into the details for this rejection — it’s not important — but suffice it to say you never mentioned this as a requirement until now.
 > 
-> The frustrating thing here is not that you rejected the filing. I’ve not done this before; I fully accept that I have made errors in the process. However…
+> The frustrating thing here is not that you rejected the filing. I’ve not done this before; I fully accept that I have made errors in the process. However...
 > 
 > - There’s clearly a process that you’re expecting me to follow. Why not tell me what it is?
 > - Why tell me about a single mistake in each message? Why not tell me all your requirements at the beginning? Your first message could easily have said I need x, y and z before we can finish

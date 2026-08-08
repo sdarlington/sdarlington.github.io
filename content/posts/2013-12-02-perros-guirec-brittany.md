@@ -44,7 +44,7 @@ Fortunately the 34, at least the part we did this time, was much easier that the
 
 But one of the great pleasures of travelling to areas like this and spending time in them — rather than darting from location to location as we have done on a number of other holidays — is that you can aimlessly wander around, stumbling across towns that you’d never *plan* to visit.
 
-Coming back from Lannion we found some stone circles and near to them where what I assumed to be some photographic dilapidated, abandoned farmhouses. It turns out I was only partly correct. They were actually being used and someone poked their head out just as I was about to push past the rusty gate…
+Coming back from Lannion we found some stone circles and near to them where what I assumed to be some photographic dilapidated, abandoned farmhouses. It turns out I was only partly correct. They were actually being used and someone poked their head out just as I was about to push past the rusty gate...
 
 [![Pink Granite walk between between Perros-Guirec and Ploumanac'h](https://i0.wp.com/farm8.staticflickr.com/7288/9250453434_374c67aaf0.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/9250453434/ "Pink Granite walk between between Perros-Guirec and Ploumanac'h by stephendarlington, on Flickr")
 

@@ -16,7 +16,7 @@ tags:
     - uk
 ---
 
-This last weekend we hosted our wedding reception. Actually, it’s probably our second or third depending on how you count it. But we’re not keeping track as we fully intend to celebrate for as long as we can get away with it…
+This last weekend we hosted our wedding reception. Actually, it’s probably our second or third depending on how you count it. But we’re not keeping track as we fully intend to celebrate for as long as we can get away with it...
 
 Rather than book a hall and get people to sit next to almost total strangers for a couple of hours, we decided to hire a boat and cruise down the Thames for a few hours. In the end thirty-two guests turned up in the rain to help us celebrate. We sailed west towards Westminster, then east as far as Greenwhich and back to Temple.
 

@@ -56,7 +56,7 @@ Once in Cockermouth we walked around in circles, as we tend to do when visiting 
 
 [![River, Elterwater](https://i0.wp.com/farm8.staticflickr.com/7072/7272355566_192d1b0a37.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/7272355566/ "River, Elterwater by stephendarlington, on Flickr")
 
-We had better luck with lunch. On our aimless walking earlier we had passed a number of pubs that looked worthy of further attention. Based more on the name than anything more scientific we ended up in [The Bitter End](http://www.bitterend.co.uk/), which turned out to be a good choice. You can’t go wrong with a pint and a pie…
+We had better luck with lunch. On our aimless walking earlier we had passed a number of pubs that looked worthy of further attention. Based more on the name than anything more scientific we ended up in [The Bitter End](http://www.bitterend.co.uk/), which turned out to be a good choice. You can’t go wrong with a pint and a pie...
 
 [![Walk near Ambleside](https://i0.wp.com/farm8.staticflickr.com/7236/7272355110_a4e7e709fd.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/7272355110/ "Walk near Ambleside by stephendarlington, on Flickr")
 

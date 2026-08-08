@@ -43,7 +43,7 @@ $
 
 The columns are Process, Status and Label. So we can see that Apple’s Install On Demand Agent is running but not what triggered it.
 
-There’s also a sub-command called ‘procinfo’. It’s not even “legacy” so it must be good… I certainly can’t complain about the volume of information, though I couldn’t claim to understand a good chunk of it.
+There’s also a sub-command called ‘procinfo’. It’s not even “legacy” so it must be good... I certainly can’t complain about the volume of information, though I couldn’t claim to understand a good chunk of it.
 
 Ah, but then I see ‘blame’ which the help tells me ‘Prints the reason a service is running.’ Ooh, yes please!
 
@@ -67,4 +67,4 @@ So, I don’t know. (If anyone could give me a sample command I’d be grateful!
 
 But, after all this messing around I *did* find something. The configuration for ‘launchd’ is scattered around the filesystem in directories like ‘~/Library/LaunchAgents’. I grep’d in that directory for “java” and found a single reference to it in an application that I installed ages ago and never used. The file is called “com.facebook.videochat.stephend.plist”. I deleted it and the other binaries related to it and then restarted.
 
-Clean so far…
+Clean so far...

@@ -46,7 +46,7 @@ As above but with a far nicer screen and is about four times quicker. It will pr
 
 [Apple iPad Air](http://www.amazon.co.uk/gp/product/B00G4DSS1A/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00G4DSS1A&linkCode=as2&tag=zx81orguk)![](http://ir-uk.amazon-adsystem.com/e/ir?t=zx81orguk&l=as2&o=2&a=B00G4DSS1A) £399
 
-As above but with a 10″ screen rather than 8″. I have an older versions of this, though the mini didn’t exist when I got mine…
+As above but with a 10″ screen rather than 8″. I have an older versions of this, though the mini didn’t exist when I got mine...
 
 (The prices above are “retail” prices. Some of the links go to the same product but for a lower price.)
 

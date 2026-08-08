@@ -34,6 +34,6 @@ And that’s where the problems start.
 
 If I forget to turn off WiFi — which I almost always do — then when the clone starts up, it immediately connects to WiFi and starts to back up to Time Machine. I panic and stop it as soon as I realise.
 
-But then I boot back to my main disk and… Time Machine decides it needs to do a *full* backup. Which. Takes. Forever. (Backblaze is also doing a huge backup, presumably for the same reason.)
+But then I boot back to my main disk and... Time Machine decides it needs to do a *full* backup. Which. Takes. Forever. (Backblaze is also doing a huge backup, presumably for the same reason.)
 
 What’s the answer to this? Is there a way to switch off WiFi on the clone automatically? Only start when the boot disk has a specific name? I don’t know! It’s hard to search for because I can’t think what the answer might be.

@@ -13,6 +13,6 @@ tags:
     - Links
 ---
 
-I’d like to pretend that I had a good reason for posting this, something other than blatant publicity for a friends website, but no. On the plus side, it is prettier than mine and she blogs far more frequently and eloquently than me…
+I’d like to pretend that I had a good reason for posting this, something other than blatant publicity for a friends website, but no. On the plus side, it is prettier than mine and she blogs far more frequently and eloquently than me...
 
 [The Dream Story](http://princemaximillian.blogspot.com/)

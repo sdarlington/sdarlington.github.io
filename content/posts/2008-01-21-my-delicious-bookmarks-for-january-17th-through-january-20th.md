@@ -26,6 +26,6 @@ tags:
     - typography
 ---
 
-- [ Are You Better Off than You Were 2,000 Years Ago?](http://nomorehornets.blogspot.com/2008/01/are-you-better-off-than-you-were-2000.html) – The next president of the United States of America? If only…
+- [ Are You Better Off than You Were 2,000 Years Ago?](http://nomorehornets.blogspot.com/2008/01/are-you-better-off-than-you-were-2000.html) – The next president of the United States of America? If only...
 - [Apple unveil iNvisible iBook](http://newsbiscuit.com/article/apple-unveil-invisible-ibook-279) – Even more Apple announcements this week. Kind of.
 - [How to Spot Arial](http://www.ms-studio.com/articlesarialsid.html) – I never realised that Arial and Helvetica were so different!

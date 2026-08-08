@@ -22,4 +22,4 @@ tags:
     - usa
 ---
 
-- [US Healthcare vs. the Rest of the World](http://www.businesspundit.com/us-healthcare-vs-the-rest-of-the-world/) – To the people who think that healthcare in the US isn't broken… or #ilovethenhs.
+- [US Healthcare vs. the Rest of the World](http://www.businesspundit.com/us-healthcare-vs-the-rest-of-the-world/) – To the people who think that healthcare in the US isn't broken... or #ilovethenhs.

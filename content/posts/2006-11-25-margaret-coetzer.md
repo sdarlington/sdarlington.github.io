@@ -20,6 +20,6 @@ draft: true
 
 The story behind this is that I found this classified ad on the Internet and on a whim decided to reply:
 
-> This is a bit weird, but my boyfriends’ 21st is in 3 weeks and Ive bought a nurse outfit to surprise him in…we thought it might also be a good idea if I could get some pics taken and put something together for good old memories’ sake…. No porn, just sexy, FHM kind of pics….
+> This is a bit weird, but my boyfriends’ 21st is in 3 weeks and Ive bought a nurse outfit to surprise him in...we thought it might also be a good idea if I could get some pics taken and put something together for good old memories’ sake.... No porn, just sexy, FHM kind of pics....
 
 As the only person to show evidence that I could take photographs I got the “gig.”

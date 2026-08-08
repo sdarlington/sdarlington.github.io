@@ -23,7 +23,7 @@ The problem is this. To get ADSL you need to have a BT phone line. Yet, except f
 
 Bingo! Bye-bye BT!
 
-Except… my folks don’t have broadband and would kill me if they had to call me on my mobile. So we needed some way to allow them to call us, especially when we didn’t have a computer switched on.
+Except... my folks don’t have broadband and would kill me if they had to call me on my mobile. So we needed some way to allow them to call us, especially when we didn’t have a computer switched on.
 
 I toyed with the idea of a [SIP phone](http://en.wikipedia.org/wiki/Session_Initiation_Protocol "Session Initiation Protocol") or a SIP adapter. This seemed a good solution as it’s a “standards compliant” VoIP system and, my thinking went, more likely to be future proof. I even got as far as ordering one on eBay but a dodgy seller put an end to that. Eventually I realised that I had never really had much success with SIP[^2] but had never had problems with [Skype](http://www.skype.com/). I decided to give the [Belkin WiFi phone](http://www.belkin.com/skype/howitworks/ "Belkin WiFi Phone for Skype") a try.
 

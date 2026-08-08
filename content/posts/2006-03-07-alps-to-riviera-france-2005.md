@@ -17,7 +17,7 @@ tags:
     - walking
 ---
 
-Last year I went on a walking holiday in France with two friends. We started in Nice, got the train to Sospel and then walked to the coast at Menton. Between them we saw some beautiful scenery, drank some lovely wine and ate fantastic food. I can’t share the alcohol or steak, but you can see the pictures…
+Last year I went on a walking holiday in France with two friends. We started in Nice, got the train to Sospel and then walked to the coast at Menton. Between them we saw some beautiful scenery, drank some lovely wine and ate fantastic food. I can’t share the alcohol or steak, but you can see the pictures...
 
 We started the week in Nice. I’d heard great things about the place but, on the whole, I wasn’t terribly impressed. I’ll be positive and say this is probably because they were digging the whole town up to install a new tram system, or because we didn’t spend very much time there. Anyway, this means that there are no decent pictures.
 

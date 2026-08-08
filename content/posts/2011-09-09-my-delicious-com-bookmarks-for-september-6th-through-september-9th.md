@@ -31,4 +31,4 @@ tags:
 ---
 
 - [Is Rick Perry a 21st-century Galileo?](http://www.guardian.co.uk/world/2011/sep/08/is-rick-perry-21st-century-galileo) – No.
-- [Jobs Will Follow a Strengthening of the Middle Class](http://www.nytimes.com/2011/09/04/opinion/sunday/jobs-will-follow-a-strengthening-of-the-middle-class.html?pagewanted=all) – …or why "trickle down" economics — where the rich get tax cuts and everyone else magically benefits — doesn't work.
+- [Jobs Will Follow a Strengthening of the Middle Class](http://www.nytimes.com/2011/09/04/opinion/sunday/jobs-will-follow-a-strengthening-of-the-middle-class.html?pagewanted=all) – ...or why "trickle down" economics — where the rich get tax cuts and everyone else magically benefits — doesn't work.

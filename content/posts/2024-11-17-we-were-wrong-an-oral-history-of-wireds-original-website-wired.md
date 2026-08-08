@@ -13,6 +13,6 @@ tags:
     - technology
 ---
 
-I remember alternately loving and hating HotWired. So clever and futuristic… yet it pushed the state-of-the-art to the point that it sometimes barely worked, even on reasonably decent hardware.
+I remember alternately loving and hating HotWired. So clever and futuristic... yet it pushed the state-of-the-art to the point that it sometimes barely worked, even on reasonably decent hardware.
 
 <u>https://www.wired.com/story/we-were-wrong-oral-history-hotwired/</u>

@@ -16,7 +16,7 @@ tags:
     - support
 ---
 
-Imagine the scene…
+Imagine the scene...
 
 Okay, that’s a bit dramatic.
 

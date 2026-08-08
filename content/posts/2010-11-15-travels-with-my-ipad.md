@@ -39,7 +39,7 @@ Like the reading side, the iPad worked well though with a few reservations and g
 
 In order to download images from a camera you need to purchase the iPad Camera Connector. In this you get two dongles, one accepts SD cards directly, the other had a USB socket. I needed the latter as my 50D uses CF cards. I would have preferred a direct connection which didn’t require the SLR to be powered on while the download was happening.
 
-I nearly forgot a USB cable when I was packing and then thought I’d misplaced the dongle a couple of times while on holiday. Small is good in some respects but not others…
+I nearly forgot a USB cable when I was packing and then thought I’d misplaced the dongle a couple of times while on holiday. Small is good in some respects but not others...
 
 When you plug in the dongle and the camera, the iPad automatically opens the Photos app. It then downloads previews of each picture and you’ll find a blue “Import” button on the toolbar. You can also download selected images easily too. All nice and easy; typically Apple “Just Works.”
 

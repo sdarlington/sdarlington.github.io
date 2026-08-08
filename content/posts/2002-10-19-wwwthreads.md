@@ -35,7 +35,7 @@ But why? Isn’t this supposed to be a finished program? I shouldn’t be gettin
 
 You could argue that it is a server side program, designed for knowledgeable people, and that I *did* manage to get it working in the end. However, all that’s needed is a little extra effort on the documentation and, maybe, a Makefile. Something like an Installation FAQ would be invaluable.
 
-**From a user…**
+**From a user...**
 
 Looking at the system from a web browser, things look much better.
 
@@ -47,11 +47,11 @@ Replying to, or adding, a new post is similar. Fill in a few details, click subm
 
 However, generally it is all well laid out, attractive and intuitive — there’s not much to write about.
 
-**From an administrator…**
+**From an administrator...**
 
 The administrative tools are good, and are web based just like the rest of the system. It allows the admin to change their password, add new discussion groups (‘Boards’), edit or delete posts, change details about the groups, archive a board, delete a board and edit users.
 
-Most of these options are obvious, the one that might not be is the ‘archive’ option. This allows you to, in the words of the author, ‘…move all of the current posts on a board to an archive.’ This is a really good idea, and is implemented well, but does not go as far as I’d like. Some way of selecting posts by date or author, or individual posts would be useful. As would a method a more intuitive method of deleting archives (it appears as another board at the moment).
+Most of these options are obvious, the one that might not be is the ‘archive’ option. This allows you to, in the words of the author, ‘...move all of the current posts on a board to an archive.’ This is a really good idea, and is implemented well, but does not go as far as I’d like. Some way of selecting posts by date or author, or individual posts would be useful. As would a method a more intuitive method of deleting archives (it appears as another board at the moment).
 
 All the tools are password protected, which allows remote administration — a useful feature.
 

@@ -1,6 +1,6 @@
 ---
 id: 4225
-title: 'The &#8216;D&#8217; in &#8216;DVCS&#8217;'
+title: 'The ''D'' in ''DVCS'''
 date: '2015-04-07T21:23:13+01:00'
 author: 'Stephen Darlington'
 excerpt: 'When GitHub is down, there''s no need to stop working...'
@@ -9,6 +9,11 @@ guid: 'http://www.zx81.org.uk/?p=4225'
 aliases: ['/computing/opinion/the-d-in-dvcs.html']
 categories:
     - Opinion
+tags:
+    - git
+    - software
+    - development
+    - process
 ---
 
 Last week, GitHub was the victim of a [days long denial of service attack](https://github.com/blog/1981-large-scale-ddos-attack-on-github-com) that meant that it wasn’t available reliably despite the hard work of their team.

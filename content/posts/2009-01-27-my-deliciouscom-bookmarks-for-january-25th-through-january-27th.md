@@ -28,5 +28,5 @@ tags:
 
 - [China 'Strikes Hard' in Tibet](http://yishilaoshanyang.typepad.com/reflections_in_a_chinese_/2009/01/china-strikes-hard-in-tibet.html) – Not good.
 - [Creativity and stretching the sweatshirt](http://sethgodin.typepad.com/seths_blog/2009/01/creativity-and-stretching-the-sweatshirt.html) – "For me, creativity is the stuff you do at the edges. But the edges are different for everyone, and the edges change over time."
-- [Red Dwarf voyages back to Earth](http://news.bbc.co.uk/1/hi/entertainment/7851989.stm) – I've been watching the reruns and, well, the episodes I've seen so far just haven't been as good as I remembered them to be. I'll probably still watch the new ones of course…
+- [Red Dwarf voyages back to Earth](http://news.bbc.co.uk/1/hi/entertainment/7851989.stm) – I've been watching the reruns and, well, the episodes I've seen so far just haven't been as good as I remembered them to be. I'll probably still watch the new ones of course...
 - [Banks now refusing to lend pens](http://newsbiscuit.com/article/banks-now-refusing-to-lend-pens-458) – Only funny because it's true. Ish.

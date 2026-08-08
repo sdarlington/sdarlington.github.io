@@ -26,7 +26,7 @@ Count me in with the unconvinced, though only because the current ones seem to b
 
 [Marco Arment says](http://www.marco.org/2013/12/29/smart-watches-and-face-computers):
 
-> Portability is critical to modern device usefulness, and there are only two classes that matter anymore: always with you, and not… Smartphones dominate always with you.
+> Portability is critical to modern device usefulness, and there are only two classes that matter anymore: always with you, and not... Smartphones dominate always with you.
 
 I think this gets to the heart of why the current range of devices — both those for sale and also those just announced at CES — just are not very compelling.
 

@@ -50,7 +50,7 @@ Even in July some of the nearby mountains still had snow on them. People had bee
 
 [![View from Tahoe Rim Trail](https://i0.wp.com/farm7.static.flickr.com/6133/5985283729_4fc5d9926f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5985283729/ "View from Tahoe Rim Trail by stephendarlington, on Flickr")
 
-On my first day wandering around Kings Beach I did think about walking into Nevada. I knew that it wasn’t *that* far away but the map wasn’t great. It was either just around the next corner, or five miles away; I just couldn’t tell. It was hot and, well, I was lazy…
+On my first day wandering around Kings Beach I did think about walking into Nevada. I knew that it wasn’t *that* far away but the map wasn’t great. It was either just around the next corner, or five miles away; I just couldn’t tell. It was hot and, well, I was lazy...
 
 So the next day I drove around the coast, through Elevation Village (no connection with U2 as far as I know), to some beauty spots right at the side of the lake.
 

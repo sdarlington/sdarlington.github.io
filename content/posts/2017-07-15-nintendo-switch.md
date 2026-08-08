@@ -63,7 +63,7 @@ The Switch also has an SD card slot but there’s no way to copy state over, jus
 
 As of yesterday, there’s a happy ending to my first few weeks with the device. Amazon got a new batch of Switches in stock sooner than they were expecting so, until I get around to returning the original unit, we currently have two machines.
 
-We spent a while last night, er, testing the new joycons with ARMS and I can confirm that they work as expected. This morning we combined the joycons from the new console with the working one from the old and had a three-player game of Mario Kart. This pushes me ever so closer to buying that second set of joycons…
+We spent a while last night, er, testing the new joycons with ARMS and I can confirm that they work as expected. This morning we combined the joycons from the new console with the working one from the old and had a three-player game of Mario Kart. This pushes me ever so closer to buying that second set of joycons...
 
 So despite the problems, we all still like it. That, I think, says a lot.
 

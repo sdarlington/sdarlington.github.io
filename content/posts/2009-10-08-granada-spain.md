@@ -31,7 +31,7 @@ Secondly, I hadn’t thought to print a map and the guide book that I’d brough
 										//-->
 				</script>By this point I was getting thirsty and hungry and so nipped into a promising looking cafe for a coffee and croissant. As luck would have it they also had free WiFi and I was able to find a map on my iPhone.
 
-It turns out that I wasn’t too far from the centre after all and it only took ten minutes to get to the Cathedral. This immediately seemed more like it, with crowds of tourists trying to get in to see… something.
+It turns out that I wasn’t too far from the centre after all and it only took ten minutes to get to the Cathedral. This immediately seemed more like it, with crowds of tourists trying to get in to see... something.
 
 After staying in Canillas de Albaida, a town of only seven hundred people, the crowds came as a bit of shock[^2] and I wasn’t quite prepared to fight my way to the front to get in or even find out what the queue was for. Instead I went around the Cathedral, noting that there ware various shopping streets fanning out and, generally, lots of activity for a Wednesday.
 

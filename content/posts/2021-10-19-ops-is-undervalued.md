@@ -53,7 +53,7 @@ But even in the IT organisation, the ops team frequently don’t get the attenti
 
 This lack of buy-in from the ops team is endemic. I see it in companies buying and using software. I see it in companies that make and sell software[^5].
 
-At this point, what I would like to be able to do is say, “And the solution to this terrible problem is…” Sadly there is no easy answer. Saying “You should listen to your ops team” is both obvious and unhelpful. Making tools *useful* for the ops team to get mindshare is a good way to get your software on a shortlist but maybe not enough to clinch that sale.
+At this point, what I would like to be able to do is say, “And the solution to this terrible problem is...” Sadly there is no easy answer. Saying “You should listen to your ops team” is both obvious and unhelpful. Making tools *useful* for the ops team to get mindshare is a good way to get your software on a shortlist but maybe not enough to clinch that sale.
 
 [^1]: I’m talking here about software used in a business of course, but the difference between this and personal use isn’t as great as you might initially imagine. You buy a game to solve the “problem” of boredom. Very few people buy software *because* it’s software. 
 
