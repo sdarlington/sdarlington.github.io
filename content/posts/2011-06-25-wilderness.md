@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Yosemite from Olmsted Point (B&W)](https://i0.wp.com/farm5.static.flickr.com/4141/4871719607_3e2c26ff1f.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4871719607/ "Yosemite from Olmsted Point (B&W) by stephendarlington, on Flickr")

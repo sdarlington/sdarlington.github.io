@@ -13,6 +13,7 @@ tags:
     - life
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 I should probably apologise in advance for the puns.

@@ -15,6 +15,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 [![Muhammad Ali Mosque, Cairo, Egypt](https://i0.wp.com/farm8.staticflickr.com/7094/7354982766_4a26190aa6.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/7354982766/ "Muhammad Ali Mosque, Cairo, Egypt by stephendarlington, on Flickr")

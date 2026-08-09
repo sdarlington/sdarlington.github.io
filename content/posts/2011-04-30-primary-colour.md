@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Symi coloured house](https://i0.wp.com/farm6.static.flickr.com/5263/5632203999_f856f98c85.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5632203999/ "Symi coloured house by stephendarlington, on Flickr")

@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 This weeks [PhotoFriday theme is “Futuristic.”](http://www.photofriday.com/archives/challenge/000670.php "PhotoFriday: Futuristic") Here is my entry.

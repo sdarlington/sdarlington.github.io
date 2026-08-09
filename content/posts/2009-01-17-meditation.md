@@ -18,6 +18,7 @@ tags:
     - religion
     - tibet
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1209" class="wp-caption aligncenter" id="attachment_1209" style="width: 333px">![Jokhang Temple, Lhasa, Tibet](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2003/01/tibet624.jpg?resize=333%2C500 "Jokhang Temple, Lhasa, Tibet")<figcaption class="wp-caption-text" id="caption-attachment-1209">Jokhang Temple, Lhasa, Tibet</figcaption></figure>

@@ -16,6 +16,7 @@ tags:
     - Photography
     - scandinavia
     - Travel
+draft: true
 ---
 
 I thought that this image was suitable for the “[Monochrome](http://www.photofriday.com/archives/challenge/000884.php)” theme for a number of reasons. It was taken on black and white film (Ilford XP2) and, even on colour film it would have been pretty monochromatic. It was taken in [Vigland Park, Oslo](/travel/norway.html).

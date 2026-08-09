@@ -15,6 +15,7 @@ tags:
     - Photography
     - Travel
     - usa
+draft: true
 ---
 
 [![Yacht on Lake Tahoe](https://i0.wp.com/farm7.staticflickr.com/6009/5985284733_e028384dd4.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5985284733/ "Yacht on Lake Tahoe by stephendarlington, on Flickr")

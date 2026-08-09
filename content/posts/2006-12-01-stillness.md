@@ -16,6 +16,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5195668416/player/" webkitallowfullscreen="" width="334"></iframe>

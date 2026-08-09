@@ -14,6 +14,7 @@ tags:
     - 'north america'
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1252" class="wp-caption aligncenter" id="attachment_1252" style="width: 500px">![Beach in Cuba not far from Trinidad, Cuba](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2008/03/img_0119.jpg?resize=500%2C333 "Beach in Cuba not far from Trinidad, Cuba")<figcaption class="wp-caption-text" id="caption-attachment-1252">Beach in Cuba not far from Trinidad, Cuba</figcaption></figure>

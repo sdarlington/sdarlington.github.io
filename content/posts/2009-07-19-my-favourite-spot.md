@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1579" class="wp-caption aligncenter" id="attachment_1579" style="width: 333px">![Cheers!](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/07/IMG_0418.jpg?resize=333%2C500 "Cheers!")<figcaption class="wp-caption-text" id="caption-attachment-1579">Cheers!</figcaption></figure>

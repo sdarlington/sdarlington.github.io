@@ -13,6 +13,7 @@ tags:
     - PhotoFriday
     - Photography
     - uk
+draft: true
 ---
 
 ![How I See Myself](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/06/img_3365.jpg)

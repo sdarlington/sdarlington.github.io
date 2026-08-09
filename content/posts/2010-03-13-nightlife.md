@@ -16,6 +16,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 When I think of “[Nightlife](http://www.photofriday.com/archives/challenge/000963.php),” this weeks PhotoFriday theme, I think of music and dancing. I have quite a few images of live music but perhaps the best I have that emphasises the “life” in “nightlife” is the above shot from our holiday in [Canillas de Albaida](/travel/canillas-de-albaida-spain.html), Spain.

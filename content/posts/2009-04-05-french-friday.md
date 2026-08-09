@@ -13,6 +13,7 @@ tags:
     - europe
     - Photography
     - Travel
+draft: true
 ---
 
 This weeks PhotoFriday theme is “[Grandmother](http://www.photofriday.com/archives/challenge/000864.php)” and, unfortunately, I don’t have a suitable image this time. But please vote for [my entry](/photography/photofriday/extreme-closeup.html) in last weeks challenge, “[Extreme Closeup](http://www.photofriday.com/linkviewer.php?id=862).” I’m entry number 180.

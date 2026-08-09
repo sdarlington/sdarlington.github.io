@@ -14,6 +14,7 @@ tags:
     - Photography
     - religion
     - vietnam
+draft: true
 ---
 
 [![Cao Dai ceremony at Tay Ninh, Vietnam](https://i0.wp.com/farm4.staticflickr.com/3798/10817504236_1ff84769fe.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/10817504236/ "Cao Dai ceremony at Tay Ninh, Vietnam by stephendarlington, on Flickr")

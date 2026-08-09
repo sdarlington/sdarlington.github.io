@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![People viewing sunrise from top of Mount Sinai, Egypt](https://i0.wp.com/farm6.staticflickr.com/5478/10817489046_31ba33ac04.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/10817489046/ "People viewing sunrise from top of Mount Sinai, Egypt by stephendarlington, on Flickr")

@@ -16,6 +16,7 @@ tags:
     - Photography
     - photoshop
     - Travel
+draft: true
 ---
 
 I nearly didn’t take part in this weeks PhotoFriday challenge, “[Photoshop Skills](http://www.photofriday.com/archives/challenge/001006.php),” as I’m not a big Photoshop user. I tend to tweak images, enhance the colours, maybe a little dodging and burning, but nothing that would show my Photoshop skills — the whole point of my edits are normally that you can’t see them!

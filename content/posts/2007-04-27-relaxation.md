@@ -17,6 +17,7 @@ tags:
     - Travel
     - uk
     - vietnam
+draft: true
 ---
 
 [![Sleeping Market trader, Hué, Vietnam](https://i0.wp.com/farm3.staticflickr.com/2851/10817462696_4dd2c6c807.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/10817462696/ "Sleeping Market trader, Hué, Vietnam by stephendarlington, on Flickr")

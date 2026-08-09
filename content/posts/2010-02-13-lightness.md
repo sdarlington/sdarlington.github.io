@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 I had a really hard time finding a suitable image for this weeks PhotoFriday theme, “[Lightness](http://www.photofriday.com/archives/challenge/000955.php).” I note that a few people have submitted sunsets or sunrises. Nice, but that’s *light* not light*ness*.

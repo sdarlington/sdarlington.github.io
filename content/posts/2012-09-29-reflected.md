@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - uk
+draft: true
 ---
 
 [![Reflection of my office](https://i0.wp.com/farm9.staticflickr.com/8312/7950806104_a0301af46b.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/7950806104/ "Reflection of my office by stephendarlington, on Flickr")

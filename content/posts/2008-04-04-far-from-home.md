@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [!["No Camels & Horses" sign, Dahab, Egypt](https://i0.wp.com/farm6.staticflickr.com/5516/10817487986_cab5f35cdd.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/10817487986/ ""No Camels & Horses" sign, Dahab, Egypt by stephendarlington, on Flickr")

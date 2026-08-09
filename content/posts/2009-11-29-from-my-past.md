@@ -16,6 +16,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 This weeks PhotoFriday theme is “[From My Past](http://www.photofriday.com/archives/challenge/000933.php).” I guess this image shows something from *all* of our pasts, except perhaps the glasses. I saw this in the Natural History Museum in Vienna and it amused me.

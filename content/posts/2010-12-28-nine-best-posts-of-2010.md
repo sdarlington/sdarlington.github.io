@@ -12,6 +12,7 @@ categories:
 tags:
     - history
     - zx81
+draft: true
 ---
 
 I didn’t think that I had blogged very much this year, but now that I look back over it seems that I’ve done quite well. There have only been a few PhotoFriday challenges that I’ve missed and I’ve managed a fair few travel and even the odd technical blog.

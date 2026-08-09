@@ -11,6 +11,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 B introduced me to [PhotoFriday](http://www.photofriday.com/). The idea is they post a theme and you reply with a photo. I have entered a couple of entries so far (in the “PhotoFriday” category of this blog). Please vote for me!

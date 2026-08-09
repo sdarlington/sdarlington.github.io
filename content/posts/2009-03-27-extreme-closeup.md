@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1294" class="wp-caption aligncenter" id="attachment_1294" style="width: 500px">![B's eye](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/03/beye.jpg?resize=500%2C333 "B's eye")<figcaption class="wp-caption-text" id="caption-attachment-1294">B's eye</figcaption></figure>

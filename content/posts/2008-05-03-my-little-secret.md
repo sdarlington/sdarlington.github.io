@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [My Little Secret](http://www.photofriday.com/archives/challenge/000769.php) is this, the best coffee shop in [Reykjavik, Iceland](/travel/iceland.html) — it was always half-empty even though they had great drinks and even better cakes.

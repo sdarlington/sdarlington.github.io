@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Rally of Corsica](https://i0.wp.com/farm3.staticflickr.com/2875/11995894005_b542878dfa.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/11995894005/ "Rally of Corsica by stephendarlington, on Flickr")

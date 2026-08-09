@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![The meeting of the North American and the European tectonic plates at Thingvellir, Iceland](https://i0.wp.com/farm5.staticflickr.com/4102/4872212378_96f139140f.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4872212378/ "The meeting of the North American and the European tectonic plates at Thingvellir, Iceland by stephendarlington, on Flickr")

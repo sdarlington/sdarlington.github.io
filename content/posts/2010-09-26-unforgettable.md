@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - usa
+draft: true
 ---
 
 People are still laying flowers and postcards near where John Lennon died nearly thirty years after his death, so I think this qualifies as being “[Unforgettable](http://www.photofriday.com/archives/challenge/001018.php),” which is this weeks PhotoFriday challenge.

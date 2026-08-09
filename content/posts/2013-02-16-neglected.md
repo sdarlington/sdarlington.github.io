@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Bike and old TVs](https://i0.wp.com/farm2.staticflickr.com/1161/5155955018_15f8165d0a.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/5155955018/ "Bike and old TVs by stephendarlington, on Flickr")

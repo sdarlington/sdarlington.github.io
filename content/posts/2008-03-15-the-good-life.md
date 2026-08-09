@@ -16,6 +16,7 @@ tags:
     - Photography
     - scandinavia
     - Travel
+draft: true
 ---
 
 “[The Good Life](http://www.photofriday.com/archives/challenge/000754.php)” is this weeks PhotoFriday theme but also conjures up an image of an idyllic, simpler life-style. I thought this pastoral scene, actually taken in [Oslo](/travel/norway.html)‘s Folk Museum in Bygdøy, fitted the bill quite nicely.

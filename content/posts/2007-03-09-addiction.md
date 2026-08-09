@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1260" class="wp-caption aligncenter" id="attachment_1260" style="width: 500px">![Finished cigars, Trinidad, Cuba](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2007/03/img_0117.jpg?resize=500%2C333 "Finished cigars, Trinidad, Cuba")<figcaption class="wp-caption-text" id="caption-attachment-1260">Finished cigars, Trinidad, Cuba</figcaption></figure>

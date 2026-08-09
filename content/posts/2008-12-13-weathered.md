@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Camel Handler, Wadi Rum, Jordan](https://i0.wp.com/farm4.staticflickr.com/3782/10817484206_b095e18f05.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/10817484206/ "Camel Handler, Wadi Rum, Jordan by stephendarlington, on Flickr")

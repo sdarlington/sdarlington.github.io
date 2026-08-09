@@ -14,6 +14,7 @@ tags:
     - life
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 [![Assholes who park across my driveway (part 349)](https://i0.wp.com/farm8.staticflickr.com/7210/7053765039_0241a122f9.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/7053765039/ "Assholes who park across my driveway (part 349) by stephendarlington, on Flickr")

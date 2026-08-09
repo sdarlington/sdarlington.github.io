@@ -16,6 +16,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![It's windy and wet at Geysir, Iceland copy](https://i0.wp.com/farm6.staticflickr.com/5148/5559504314_c6aa2df5ec.jpg?resize=500%2C339)](http://www.flickr.com/photos/stephendarlington/5559504314/ "It's windy and wet at Geysir, Iceland copy by stephendarlington, on Flickr")

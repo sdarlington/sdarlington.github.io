@@ -17,6 +17,7 @@ tags:
     - Photography
     - Travel
     - walking
+draft: true
 ---
 
 [![Walk from Sermano to Corte, Corsica](https://i0.wp.com/farm8.staticflickr.com/7319/11995409706_6b8da62f1c.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/11995409706/ "Walk from Sermano to Corte, Corsica by stephendarlington, on Flickr")

@@ -15,6 +15,7 @@ tags:
     - Travel
     - uk
 format: image
+draft: true
 ---
 
 [![The Long Walk, Windsor.](https://i0.wp.com/farm6.staticflickr.com/5624/22604077425_b2e4ec1c39.jpg?resize=375%2C500&ssl=1)](https://www.flickr.com/photos/stephendarlington/22604077425/in/dateposted-public/ "The Long Walk, Windsor.")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script>

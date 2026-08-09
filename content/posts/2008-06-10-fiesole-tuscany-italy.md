@@ -14,6 +14,7 @@ tags:
     - italy
     - PhotoFriday
     - Travel
+draft: true
 ---
 
 Initially I thought that I was going to be staying in [Fiesole](http://www.fiesole.com/) for [the entire trip](/travel/tuscany-italy.html). The description of the villa and some of the directions mentioned it explicitly so before flying out I made some effort to read up on the place. It turns out that it’s actually *older* than the now much larger city of Florence (Firenze). As such it has its own respectable church and some fairly extensive Etruscan ruins.

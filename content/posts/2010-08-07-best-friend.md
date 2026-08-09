@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 For this weeks PhotoFriday, “[Best Friend](http://www.photofriday.com/archives/challenge/001004.php),” most people seem to have gone with pictures of their slobbering dog or grinning, cutesy couples.

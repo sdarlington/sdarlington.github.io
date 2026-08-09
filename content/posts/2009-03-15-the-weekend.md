@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1140" class="wp-caption aligncenter" id="attachment_1140" style="width: 500px">![Leisurely Breakfast in Lille, France](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/03/img_2720.jpg?resize=500%2C333 "Leisurely Breakfast in Lille, France")<figcaption class="wp-caption-text" id="caption-attachment-1140">Leisurely Breakfast in Lille, France</figcaption></figure>

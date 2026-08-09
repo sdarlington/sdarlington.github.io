@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Oslo Opera House](https://i0.wp.com/farm9.staticflickr.com/8017/7574198084_dc3d6781d6.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/7574198084/ "Oslo Opera House by stephendarlington, on Flickr")

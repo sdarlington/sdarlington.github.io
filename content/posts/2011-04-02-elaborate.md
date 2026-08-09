@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Vienna Natural History Museum](https://i0.wp.com/farm3.static.flickr.com/2499/4143679063_09dd40e312.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4143679063/ "Vienna Natural History Museum by stephendarlington, on Flickr")

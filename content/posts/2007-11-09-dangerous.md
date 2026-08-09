@@ -18,6 +18,7 @@ tags:
     - Travel
     - vietnam
     - wildlife
+draft: true
 ---
 
 [![Snake](https://i0.wp.com/farm6.staticflickr.com/5533/10817614934_a776695684.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/10817614934/ "Snake by stephendarlington, on Flickr")

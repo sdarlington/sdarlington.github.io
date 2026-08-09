@@ -10,6 +10,7 @@ aliases: ['/photography/photofriday/reflections.html']
 categories:
     - PhotoFriday
 format: image
+draft: true
 ---
 
 <iframe allowfullscreen="" frameborder="0" height="427" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/7950806104/in/album-72157625249995247/player/" webkitallowfullscreen="" width="640"></iframe>

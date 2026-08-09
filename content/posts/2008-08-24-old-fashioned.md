@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1250" class="wp-caption aligncenter" id="attachment_1250" style="width: 500px">![An old American car, Trinidad, Cuba](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2008/08/img_0108.jpg?resize=500%2C333 "An old American car, Trinidad, Cuba")<figcaption class="wp-caption-text" id="caption-attachment-1250">An old American car, Trinidad, Cuba</figcaption></figure>

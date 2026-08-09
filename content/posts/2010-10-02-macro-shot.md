@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - technology
+draft: true
 ---
 
 [![Hard Disk Circuitry](https://i0.wp.com/farm5.staticflickr.com/4124/4957542440_f82f114496.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/4957542440/ "Hard Disk Circuitry by stephendarlington, on Flickr")

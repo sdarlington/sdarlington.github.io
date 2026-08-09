@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1254" class="wp-caption aligncenter" id="attachment_1254" style="width: 333px">![Coffee beans, Cuba](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2008/02/img_0213.jpg?resize=333%2C500 "Coffee beans, Cuba")<figcaption class="wp-caption-text" id="caption-attachment-1254">Coffee beans, Cuba</figcaption></figure>

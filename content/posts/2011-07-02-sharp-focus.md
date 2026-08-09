@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![View from the Eiffel Tower](https://i0.wp.com/farm5.static.flickr.com/4082/4872221584_ce688b1c3b.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/4872221584/ "View from the Eiffel Tower by stephendarlington, on Flickr")

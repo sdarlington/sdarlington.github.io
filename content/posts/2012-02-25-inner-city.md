@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![D??ín housing](https://i0.wp.com/farm8.staticflickr.com/7062/6782216502_93d6a8bb76.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6782216502/ "D??Ãn housing by stephendarlington, on Flickr")

@@ -14,6 +14,7 @@ tags:
     - life
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-963" class="wp-caption aligncenter" id="attachment_963" style="width: 500px">![Morning Routine](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/02/img_5662.jpg?resize=500%2C333 "Morning Routine")<figcaption class="wp-caption-text" id="caption-attachment-963">Morning Routine</figcaption></figure>

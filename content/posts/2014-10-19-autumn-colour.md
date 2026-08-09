@@ -10,6 +10,7 @@ aliases: ['/photography/photofriday/autumn-colour.html']
 categories:
     - PhotoFriday
 format: image
+draft: true
 ---
 
 <iframe allowfullscreen="" frameborder="0" height="500" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/stephendarlington/5093751393/player/" webkitallowfullscreen="" width="333"></iframe>

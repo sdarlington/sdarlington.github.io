@@ -17,6 +17,7 @@ tags:
     - Photography
     - scandinavia
     - Travel
+draft: true
 ---
 
 [![Statues in Vigeland park, Oslo, Norway.](https://i0.wp.com/farm5.staticflickr.com/4127/5195011457_8e5b313a9d.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/5195011457/ "Statues in Vigeland park, Oslo, Norway. by stephendarlington, on Flickr")

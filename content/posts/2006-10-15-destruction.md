@@ -15,6 +15,7 @@ tags:
     - Photography
     - Travel
     - vietnam
+draft: true
 ---
 
 [![American tank near Cu Chi Tunnels, Vietnam](https://i0.wp.com/farm4.staticflickr.com/3743/10817616714_08b658679a.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/10817616714/ "American tank near Cu Chi Tunnels, Vietnam by stephendarlington, on Flickr")

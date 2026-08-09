@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Steps](https://i0.wp.com/farm5.staticflickr.com/4040/4467357784_22ba7f5230.jpg?resize=375%2C500)](http://www.flickr.com/photos/stephendarlington/4467357784/ "Steps by stephendarlington, on Flickr")

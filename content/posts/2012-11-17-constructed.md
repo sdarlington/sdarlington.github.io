@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - uk
+draft: true
 ---
 
 [![Demolition of Colliers Wood Tower car park](https://i0.wp.com/farm5.staticflickr.com/4075/4871611663_91573c7b0f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/4871611663/ "Demolition of Colliers Wood Tower car park by stephendarlington, on Flickr")

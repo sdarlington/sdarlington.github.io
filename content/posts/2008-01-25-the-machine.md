@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1256" class="wp-caption aligncenter" id="attachment_1256" style="width: 500px">![Bulldozer used in the Battle of Santa Clara, Cuba](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2008/01/img_0262.jpg?resize=500%2C333 "Bulldozer used in the Battle of Santa Clara, Cuba")<figcaption class="wp-caption-text" id="caption-attachment-1256">Bulldozer used in the Battle of Santa Clara, Cuba</figcaption></figure>

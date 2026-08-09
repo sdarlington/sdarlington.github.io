@@ -13,6 +13,7 @@ tags:
     - PhotoFriday
     - Photography
     - uk
+draft: true
 ---
 
 [![Bright!](https://i0.wp.com/farm7.static.flickr.com/6075/6063130694_048199038a.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/6063130694/ "Bright! by stephendarlington, on Flickr")

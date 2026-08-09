@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 [![iPod (1G) compared with iPhone (1G)](https://i0.wp.com/farm8.staticflickr.com/7388/9332085785_6ff5efdcf2.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/9332085785/ "iPod (1G) compared with iPhone (1G) by stephendarlington, on Flickr")

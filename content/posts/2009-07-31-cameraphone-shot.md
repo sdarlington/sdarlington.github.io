@@ -14,6 +14,7 @@ tags:
     - london
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1600" class="wp-caption aligncenter" id="attachment_1600" style="width: 375px">![Swiss Re Building (Gherkin), London](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/07/IMG_0203.jpg?resize=375%2C500 "Swiss Re Building, London")<figcaption class="wp-caption-text" id="caption-attachment-1600">Swiss Re Building (Gherkin), London</figcaption></figure>

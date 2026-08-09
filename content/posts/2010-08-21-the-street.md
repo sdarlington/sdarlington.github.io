@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 This weeks PhotoFriday, “[The Street](http://www.photofriday.com/archives/challenge/001008.php),” was one where, unusually, I had quite a few options that I was happy with. In the end I figured that it had to be somewhere where pretty much all of life happens on the street. There were a few images taken in [Vietnam](/travel/vietnam-2005.html) that came close, but I like this one in [Havana, Cuba](/travel/cuba.html), because everyone was completely oblivious to my presence; life goes on even when there are nosey tourists with cameras.

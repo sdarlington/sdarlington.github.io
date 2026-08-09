@@ -15,6 +15,7 @@ tags:
     - Photography
     - Travel
     - vietnam
+draft: true
 ---
 
 [![Looking over Hoan Kiem Lake, Hanoi, Vietnam](https://i0.wp.com/farm4.staticflickr.com/3763/10817570864_d16b513163.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/10817570864/ "Looking over Hoan Kiem Lake, Hanoi, Vietnam by stephendarlington, on Flickr")

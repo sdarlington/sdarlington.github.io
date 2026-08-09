@@ -16,6 +16,7 @@ tags:
     - Photography
     - Travel
     - usa
+draft: true
 ---
 
 [![Empire State Building framed by the Manhattan Bridge, from Booklyn](https://i0.wp.com/farm5.staticflickr.com/4121/4872226058_435bbcd582.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/4872226058/ "Empire State Building framed by the Manhattan Bridge, from Booklyn by stephendarlington, on Flickr")

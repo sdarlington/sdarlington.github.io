@@ -12,6 +12,7 @@ categories:
 tags:
     - PhotoFriday
     - Photography
+draft: true
 ---
 
 [![Junior and the teething ring](https://i0.wp.com/farm8.staticflickr.com/7219/6953290578_0a2db88d3e.jpg?resize=500%2C333)](http://www.flickr.com/photos/juniordarling/6953290578/ "Junior and the teething ring by juniordarling, on Flickr")

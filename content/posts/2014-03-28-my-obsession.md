@@ -16,6 +16,7 @@ tags:
     - Photography
     - work
 format: image
+draft: true
 ---
 
 [![The Perils of Working From Home](https://i0.wp.com/farm5.staticflickr.com/4044/4254739500_257d7ed0d1.jpg?resize=400%2C500&ssl=1)](https://www.flickr.com/photos/stephendarlington/4254739500 "The Perils of Working From Home by Stephen Darlington, on Flickr")

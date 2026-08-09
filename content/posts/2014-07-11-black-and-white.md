@@ -13,6 +13,7 @@ tags:
     - PhotoFriday
     - Photography
 format: image
+draft: true
 ---
 
 [![Burnt building](https://i0.wp.com/farm4.staticflickr.com/3915/14346310207_eb85af04ab.jpg?resize=500%2C375&ssl=1)](https://www.flickr.com/photos/stephendarlington/14346310207 "Burnt building by Stephen Darlington, on Flickr")

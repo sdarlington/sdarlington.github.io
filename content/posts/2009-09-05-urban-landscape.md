@@ -14,6 +14,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 <figure aria-describedby="caption-attachment-1680" class="wp-caption aligncenter" id="attachment_1680" style="width: 500px">![Graffiti at the top of the Empire State Building, New York](https://i0.wp.com/www.zx81.org.uk/wp-content/uploads/2009/09/Graffiti-at-the-top-of-the-Empire-State-Building-New-York.jpg?resize=500%2C333 "Graffiti at the top of the Empire State Building, New York")<figcaption class="wp-caption-text" id="caption-attachment-1680">Graffiti at the top of the Empire State Building, New York</figcaption></figure>

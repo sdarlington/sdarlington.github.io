@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 This weeks PhotoFriday theme is “[Dead of Night](http://www.photofriday.com/archives/challenge/000724.php).” Here is my entry.

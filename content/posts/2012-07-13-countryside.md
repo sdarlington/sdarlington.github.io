@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Glen of Aherlow](https://i0.wp.com/farm7.staticflickr.com/6074/6109812536_2b00c2911d.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6109812536/ "Glen of Aherlow by stephendarlington, on Flickr")

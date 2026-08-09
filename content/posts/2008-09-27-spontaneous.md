@@ -15,6 +15,7 @@ tags:
     - PhotoFriday
     - Photography
     - Travel
+draft: true
 ---
 
 [![Boys in market, Aqaba, Jordan](https://i0.wp.com/farm8.staticflickr.com/7409/10817743843_1d40b6cb8f.jpg?resize=333%2C500)](http://www.flickr.com/photos/stephendarlington/10817743843/ "Boys in market, Aqaba, Jordan by stephendarlington, on Flickr")

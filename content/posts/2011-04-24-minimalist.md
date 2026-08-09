@@ -14,6 +14,7 @@ tags:
     - Photography
     - retro
     - uk
+draft: true
 ---
 
 [![Old typewriter](https://i0.wp.com/farm6.static.flickr.com/5057/5481870217_a72d7af541.jpg?resize=500%2C500)](http://www.flickr.com/photos/stephendarlington/5481870217/ "Old typewriter by stephendarlington, on Flickr")

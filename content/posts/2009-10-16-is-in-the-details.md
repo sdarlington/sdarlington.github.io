@@ -15,6 +15,7 @@ tags:
     - Photography
     - spain
     - Travel
+draft: true
 ---
 
 The obvious part of this weeks PhotoFriday theme, “[...Is In The Details](http://www.photofriday.com/archives/challenge/000921.php),” is *details*. It calls for something close-up, imperfections and all. But there’s a missing part, typically “the devil,” so I thought it was appropriate that the above picture is a close-up of some tiles on a [church in Spain](/travel/canillas-de-albaida-spain.html). Hopefully that means that no dæmons are present.

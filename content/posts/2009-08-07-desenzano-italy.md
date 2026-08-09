@@ -14,6 +14,7 @@ tags:
     - italy
     - Photography
     - Travel
+draft: true
 ---
 
 [![View over Sirmeone, Italy](https://i0.wp.com/farm7.static.flickr.com/6086/6039022610_6abbcc31b0.jpg?resize=500%2C333)](http://www.flickr.com/photos/stephendarlington/6039022610/ "View over Sirmeone, Italy by stephendarlington, on Flickr")
